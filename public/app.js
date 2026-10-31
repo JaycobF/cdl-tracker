@@ -1,5 +1,5 @@
 "use strict";
-/* CDL Season Tracker — reads data/*.json, which the scheduled updater keeps current. */
+/* Esports Tracker — reads data/*.json, which the scheduled updater keeps current. */
 
 let S, H;                       // schedule.json, history.json
 let auto = { matches: {}, extra: [], winners: {} }, ov = { matches: {}, winners: {} };
@@ -191,56 +191,201 @@ function renderTitles() {
     rows.map(([n, v]) => `<tr><td class="l"><span class="tn">${genCrest(n)}<span class="nm">${esc(n)}</span></span></td><td class="pts">${v.c}</td><td>${v.m}</td><td class="l hs"><span class="bars">${"<i></i>".repeat(v.c)}${'<i class="m"></i>'.repeat(v.m)}</span></td></tr>`).join("") + "</tbody>";
 }
 
-/* ---------- shell ---------- */
-const VIEWS = ["overview", "table", "matches", "history", "titles"];
-function route() {
-  const v = VIEWS.includes(location.hash.slice(1)) ? location.hash.slice(1) : "overview";
-  for (const s of document.querySelectorAll("[data-view]")) s.hidden = s.id !== "v-" + v;
-  for (const a of document.querySelectorAll(".tabs a")) { if (a.dataset.v === v) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current"); }
+/* ---------- other leagues (LoL, CS2, Dota 2) ---------- */
+const PALETTE = ["#2F6FD6", "#D2462F", "#2E9E6B", "#8A4FD8", "#C9861A", "#1F9AAE", "#C2337B", "#5A6B86", "#7D9A23", "#B5532A"];
+const hue = s => { let h = 0; for (const ch of String(s)) h = (h * 31 + ch.charCodeAt(0)) >>> 0; return PALETTE[h % PALETTE.length]; };
+const gAbbr = t => (t.short || initials(t.name) || t.name.slice(0, 3)).slice(0, 4).toUpperCase();
+const gCrest = t => `<span class="crest" style="background:${hue(t.name)}" aria-hidden="true">${esc(gAbbr(t))}</span>`;
+const gStore = {}; // league id -> store
+
+function gRow(m) {
+  const done = m.status === "completed", live = m.status === "live";
+  const has = (done || live) && m.sa != null && m.sb != null;
+  const aw = done && m.sa > m.sb, bw = done && m.sb > m.sa;
+  const nm = t => `<span class="nm"><span class="long">${esc(t.name)}</span><span class="short">${esc(t.name.length <= 13 || !t.short ? t.name : t.short)}</span></span>`;
+  const at = m.at ? new Date(m.at) : null;
+  const mid = has ? `<span class="sc">${m.sa} - ${m.sb}</span><span class="ftag${live ? " live" : ""}">${live ? "LIVE" : "FT"}</span>`
+    : live ? `<span class="tm" style="color:var(--loss)">LIVE</span>` : `<span class="tm">${at ? fmtTime(at) : "TBD"}</span>${m.bestOf ? `<span class="ftag">BO${m.bestOf}</span>` : ""}`;
+  return `<div class="m"><div class="mr"><span class="side a${bw ? " lost" : ""}">${nm(m.a)}${gCrest(m.a)}</span><span class="mid">${mid}</span><span class="side${aw ? " lost" : ""}">${gCrest(m.b)}${nm(m.b)}</span></div></div>`;
 }
+function gGroups(list, showEvent = true) {
+  let h = "", last = "";
+  for (const m of list) {
+    const d = new Date(m.at), k = dayKey(d) + (showEvent ? "|" + m.event : "");
+    if (k !== last) { h += `<div class="dh">${fmtDay(d)}<span>${esc(showEvent ? m.event : "")}</span></div>`; last = k; }
+    h += gRow(m);
+  }
+  return h;
+}
+function gEvents(list) {
+  const c = {};
+  for (const m of list) if (m.event) c[m.event] = (c[m.event] || 0) + 1;
+  return Object.entries(c).sort((a, b) => b[1] - a[1]).map(([e]) => e);
+}
+function fillEventSelect(sel, list, key) {
+  const evs = gEvents(list), saved = store.get(key) || "";
+  sel.innerHTML = `<option value="">All events</option>` + evs.map(e => `<option>${esc(e)}</option>`).join("");
+  sel.value = evs.includes(saved) ? saved : "";
+}
+function renderGeneric() {
+  const L = current, st = gStore[L.id];
+  const all = (st?.matches || []).filter(m => m.at);
+  const now = Date.now();
+  const live = all.filter(m => m.status === "live");
+  const upcoming = all.filter(m => m.status !== "completed" && m.status !== "live" && new Date(m.at).getTime() > now - 3 * 3600e3);
+  const done = all.filter(m => m.status === "completed").sort((a, b) => new Date(b.at) - new Date(a.at));
+
+  const today = upcoming.filter(m => dayKey(new Date(m.at)) === dayKey(new Date())).length;
+  $(".league .ct").hidden = !(live.length || today);
+  $("#cd").textContent = live.length || today;
+  $("#cdl").textContent = live.length ? "live now" : "matches today";
+  const evs = gEvents(all.filter(m => Math.abs(new Date(m.at) - now) < 7 * 864e5)).slice(0, 3);
+  $("#seasonline").textContent = evs.length ? evs.join(" · ") : "All events";
+
+  const u = st?.updated ? new Date(st.updated) : null;
+  $("#gUpd").textContent = !st ? "Waiting for first update" : u ? `Updated ${u.toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}` : "Scores update automatically";
+  $("#gDot").classList.toggle("on", !!u && now - u.getTime() < 12 * 3600e3);
+
+  const empty = msg => `<p class="empty">${msg}</p>`;
+  const firstRun = !st ? `Scores for ${esc(L.name)} appear after the next automatic update.` : "";
+  $("#gLiveCard").hidden = !live.length;
+  $("#gLive").innerHTML = gGroups(live);
+  $("#gNext").innerHTML = upcoming.length ? gGroups(upcoming.slice(0, 6)) : empty(firstRun || "No upcoming matches listed yet.");
+  $("#gLatest").innerHTML = done.length ? gGroups(done.slice(0, 8)) : empty(firstRun || "No results in the last three weeks.");
+
+  const evU = $("#gEvUp").value, evR = $("#gEvRes").value;
+  const ups = upcoming.filter(m => !evU || m.event === evU);
+  $("#gUp").innerHTML = ups.length ? `<div class="card">${gGroups(ups)}</div>` : `<div class="card">${empty(firstRun || "No upcoming matches for this filter.")}</div>`;
+  const res = done.filter(m => !evR || m.event === evR);
+  $("#gRes").innerHTML = res.length ? `<div class="card">${gGroups(res)}</div>` : `<div class="card">${empty(firstRun || "No results for this filter.")}</div>`;
+}
+async function loadGeneric(bust) {
+  try { gStore[current.id] = await getJSON(`leagues/${current.id}.json`, bust); }
+  catch (e) { if (!gStore[current.id]) gStore[current.id] = null; }
+  const all = gStore[current.id]?.matches || [];
+  fillEventSelect($("#gEvUp"), all.filter(m => m.status !== "completed"), `ev.${current.id}.up`);
+  fillEventSelect($("#gEvRes"), all.filter(m => m.status === "completed"), `ev.${current.id}.res`);
+  renderGeneric();
+}
+
+/* ---------- shell: leagues, tabs, routing ---------- */
+let LEAGUES = [], current = null, cdlReady = false;
+const TABS = { cdl: ["overview", "table", "matches", "history", "titles"], generic: ["overview", "matches", "results"] };
+const TAB_LABEL = { overview: "Overview", table: "Table", matches: "Matches", history: "History", titles: "Titles", results: "Results" };
+const kind = L => (L.type === "cdl" ? "cdl" : "generic");
+
+function parseHash() {
+  const [a, b] = location.hash.slice(1).split("/");
+  if (LEAGUES.some(l => l.id === a)) return { league: a, view: b };
+  if (TABS.cdl.includes(a)) return { league: "cdl", view: a }; // links from the CDL-only version
+  return { league: store.get("league") || "cdl", view: undefined };
+}
+function go(leagueId, view) {
+  const L = LEAGUES.find(l => l.id === leagueId) || LEAGUES[0];
+  const v = TABS[kind(L)].includes(view) ? view : "overview";
+  const h = `#${L.id}/${v}`;
+  if (location.hash !== h) location.hash = h; else route();
+}
+async function route() {
+  const { league, view } = parseHash();
+  const L = LEAGUES.find(l => l.id === league) || LEAGUES[0];
+  const tabs = TABS[kind(L)];
+  const v = tabs.includes(view) ? view : "overview";
+  const switched = current?.id !== L.id;
+  current = L; store.set("league", L.id);
+
+  $("#lgBadge").textContent = L.short.length > 4 ? L.short.replace(/\s.*/, "") : L.short;
+  $("#lgBadge").style.background = L.type === "cdl" ? "" : L.badge;
+  $("#lgBadge").style.color = L.type === "cdl" ? "" : "#fff";
+  $("#lgName").textContent = L.name;
+  $(".league .ct").hidden = false;
+  if (L.type !== "cdl") $("#seasonline").textContent = "All events";
+  document.title = `${L.short} · Esports Tracker`;
+  $("#tabs").innerHTML = tabs.map(t => `<a href="#${L.id}/${t}" ${t === v ? 'aria-current="page"' : ""}>${TAB_LABEL[t]}</a>`).join("");
+
+  const id = kind(L) === "cdl" ? "v-" + v : "v-g-" + v;
+  for (const s of document.querySelectorAll("[data-view]")) s.hidden = s.id !== id;
+  if (switched) window.scrollTo(0, 0);
+
+  if (kind(L) === "cdl") { await ensureCdl(); $("#seasonline").textContent = `${S.season} season · ${S.game}`; renderLive(); }
+  else if (switched || !(L.id in gStore)) await loadGeneric(true);
+  else renderGeneric();
+}
+
 function renderUpdated() {
   const u = auto.updated ? new Date(auto.updated) : null;
   $("#upd").textContent = u ? `Scores updated ${u.toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}` : "Scores update automatically";
   $("#dot").classList.toggle("on", !!u && Date.now() - u.getTime() < 6 * 3600e3);
 }
-function renderLive() { merge(); renderTop(); renderStandings(); renderNext(); renderRoad(); renderSchedule(); renderUpdated(); }
+function renderLive() { if (current?.type !== "cdl" || !cdlReady) return; merge(); renderTop(); renderStandings(); renderNext(); renderRoad(); renderSchedule(); renderUpdated(); }
+
+/* league sheet */
+function openSheet() {
+  $("#leagueList").innerHTML = LEAGUES.map(L => `<button class="lrow" data-league="${L.id}" aria-current="${L.id === current.id}">
+    <span class="lg" style="${L.type === "cdl" ? "" : `background:${L.badge};color:#fff`}">${esc(L.short.length > 4 ? L.short.replace(/\s.*/, "") : L.short)}</span>
+    <span><b>${esc(L.name)}</b><span class="sub">${esc(L.type === "cdl" ? "Full season: table, schedule, history" : "Live scores, schedule and results")}</span></span>
+    ${L.id === current.id ? '<span class="tick">✓</span>' : ""}</button>`).join("");
+  $("#sheetBg").hidden = false; $("#sheet").hidden = false;
+  $("#leagueBtn").setAttribute("aria-expanded", "true");
+  $("#sheet").querySelector(".lrow[aria-current=true]")?.focus();
+}
+function closeSheet() { $("#sheetBg").hidden = true; $("#sheet").hidden = true; $("#leagueBtn").setAttribute("aria-expanded", "false"); $("#leagueBtn").focus(); }
 
 document.addEventListener("click", e => {
+  const g = e.target.closest("[data-goto]");
+  if (g) { e.preventDefault(); go(current.id, g.dataset.goto); return; }
   const t = e.target.closest("button"); if (!t) return;
-  if (t.dataset.evf) { evFilter = t.dataset.evf; renderSchedule(); }
+  if (t.id === "leagueBtn") openSheet();
+  else if (t.id === "sheetClose") closeSheet();
+  else if (t.dataset.league) { closeSheet(); go(t.dataset.league, "overview"); }
+  else if (t.dataset.evf) { evFilter = t.dataset.evf; renderSchedule(); }
   else if (t.dataset.y) { histYear = +t.dataset.y; store.set("cdl.y", histYear); renderHistory(); }
 });
+$("#sheetBg").addEventListener("click", closeSheet);
+document.addEventListener("keydown", e => { if (e.key === "Escape" && !$("#sheet").hidden) closeSheet(); });
+for (const [sel, k] of [["#gEvUp", "up"], ["#gEvRes", "res"]]) $(sel).addEventListener("change", e => { store.set(`ev.${current.id}.${k}`, e.target.value); renderGeneric(); });
 window.addEventListener("hashchange", route);
 window.addEventListener("online", () => { $("#offline").hidden = true; refresh(); });
 window.addEventListener("offline", () => { $("#offline").hidden = false; });
 
 async function refresh() {
+  if (!current) return;
+  if (current.type !== "cdl") return loadGeneric(true);
   try {
     const [a, o] = await Promise.all([getJSON("results.json", true), getJSON("overrides.json", true).catch(() => ov)]);
     auto = a; ov = o; renderLive();
   } catch (e) { if (!navigator.onLine) $("#offline").hidden = false; }
 }
 
-(async function boot() {
-  try {
+let cdlLoading = null;
+function ensureCdl() {
+  if (cdlReady) return Promise.resolve();
+  return cdlLoading ||= (async () => {
     [S, H] = await Promise.all([getJSON("schedule.json", true), getJSON("history.json")]);
-  } catch (e) {
-    document.querySelector("main").insertAdjacentHTML("afterbegin", `<p class="offline">Couldn't load the season data. Check your connection and reload.</p>`);
-    return;
-  }
-  TEAMS = S.teams;
-  CODES = Object.keys(TEAMS).sort((a, b) => TEAMS[a].name.localeCompare(TEAMS[b].name));
-  MATCHES = S.matches.map(m => ({ ...m, at: new Date(m.at) })).sort((a, b) => a.at - b.at);
-  $("#seasonline").textContent = `${S.season} season · ${S.game}`;
-  $("#teamf").innerHTML = `<option value="">All teams</option>` + CODES.map(c => `<option value="${c}">${esc(TEAMS[c].name)}</option>`).join("");
-  const savedT = store.get("cdl.t"); if (savedT && TEAMS[savedT]) $("#teamf").value = savedT;
-  const savedY = +store.get("cdl.y"); if (H.seasons.some(s => s.y === savedY)) histYear = savedY;
-  $("#teamf").addEventListener("change", () => { store.set("cdl.t", $("#teamf").value); renderSchedule(); });
-  $("#statef").addEventListener("change", renderSchedule);
-  $("#tzn").textContent = tz ? `Times in your time zone (${tz}).` : "Times in your local time zone.";
+    TEAMS = S.teams;
+    CODES = Object.keys(TEAMS).sort((a, b) => TEAMS[a].name.localeCompare(TEAMS[b].name));
+    MATCHES = S.matches.map(m => ({ ...m, at: new Date(m.at) })).sort((a, b) => a.at - b.at);
+    $("#teamf").innerHTML = `<option value="">All teams</option>` + CODES.map(c => `<option value="${c}">${esc(TEAMS[c].name)}</option>`).join("");
+    const savedT = store.get("cdl.t"); if (savedT && TEAMS[savedT]) $("#teamf").value = savedT;
+    const savedY = +store.get("cdl.y"); if (H.seasons.some(s => s.y === savedY)) histYear = savedY;
+    $("#teamf").addEventListener("change", () => { store.set("cdl.t", $("#teamf").value); renderSchedule(); });
+    $("#statef").addEventListener("change", renderSchedule);
+    renderHistory(); renderTitles();
+    cdlReady = true;
+    try { const [a, o] = await Promise.all([getJSON("results.json", true), getJSON("overrides.json", true).catch(() => ov)]); auto = a; ov = o; } catch (e) {}
+    if (current?.type === "cdl") $("#seasonline").textContent = `${S.season} season · ${S.game}`;
+  })();
+}
+
+(async function boot() {
+  try { LEAGUES = (await getJSON("leagues.json", true)).leagues; }
+  catch (e) { LEAGUES = [{ id: "cdl", name: "Call of Duty League", short: "CDL", game: "Call of Duty", type: "cdl" }]; }
+  const tzText = tz ? `Times in your time zone (${tz}).` : "Times in your local time zone.";
+  $("#tzn").textContent = tzText;
+  for (const el of document.querySelectorAll(".gtz")) el.textContent = tzText;
   $("#offline").hidden = navigator.onLine !== false;
-  route(); renderHistory(); renderTitles(); renderLive();
-  await refresh();
+  try { await route(); }
+  catch (e) { document.querySelector("main").insertAdjacentHTML("afterbegin", `<p class="offline">Couldn't load the league data. Check your connection and reload.</p>`); }
   // Keep scores fresh while the app is open.
   setInterval(() => { if (document.visibilityState === "visible") refresh(); }, 120e3);
   document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") refresh(); });

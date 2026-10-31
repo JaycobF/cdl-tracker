@@ -13,17 +13,17 @@ const num = v => (v === undefined || v === null || v === "" || isNaN(+v) ? null 
 
 function side(t, fallbackScore) {
   if (t == null) return null;
-  if (typeof t === "string") return { name: t, code: teamCode(t), score: num(fallbackScore) };
+  if (typeof t === "string") return { name: t, short: "", code: teamCode(t), score: num(fallbackScore) };
   const name = pick(t, "name", "team_name", "teamName", "full_name", "fullName", "title", "team.name", "opponent.name");
   const short = pick(t, "acronym", "abbreviation", "abbr", "short_name", "shortName", "tag", "code", "slug", "team.acronym", "team.slug", "opponent.acronym");
-  const score = num(pick(t, "score", "series_score", "seriesScore", "maps_won", "mapsWon", "wins", "result.score")) ?? num(fallbackScore);
-  return { name: name ?? short ?? "", code: teamCode(name, short), score };
+  const score = num(pick(t, "score", "series_score", "seriesScore", "maps_won", "mapsWon", "wins", "result.score", "result.gameWins", "result.game_wins", "gameWins")) ?? num(fallbackScore);
+  return { name: String(name ?? short ?? ""), short: short ? String(short) : "", code: teamCode(name, short), score };
 }
 
 export function listFrom(payload) {
   if (Array.isArray(payload)) return payload;
   if (!payload || typeof payload !== "object") return [];
-  for (const k of ["data", "matches", "results", "items", "schedule"]) {
+  for (const k of ["data", "matches", "results", "items", "schedule", "events"]) {
     const v = payload[k];
     if (Array.isArray(v)) return v;
     if (v && typeof v === "object") { const inner = listFrom(v); if (inner.length) return inner; }
@@ -58,15 +58,17 @@ export function normalizeMatch(m) {
   const winnerRaw = pick(m, "winner", "winner_name", "winnerName", "winner.name", "winning_team", "winningTeam");
   let status = "unknown";
   if (/(complete|finish|final|ended|done|closed|over|result)/.test(statusRaw)) status = "completed";
+  else if (/(upcoming|scheduled|not.?started|unstarted|pending|tbd)/.test(statusRaw)) status = "upcoming";
   else if (/(live|running|progress|ongoing|started)/.test(statusRaw)) status = "live";
-  else if (/(upcoming|scheduled|not_started|pending|tbd)/.test(statusRaw)) status = "upcoming";
   else if (winnerRaw) status = "completed";
-  const event = pick(m, "tournament.name", "tournament_name", "tournamentName", "event.name", "event_name", "eventName", "league.name", "stage", "tournament", "event") ;
+  const event = pick(m, "league.name", "tournament.name", "tournament_name", "tournamentName", "event.name", "event_name", "eventName", "league_name", "leagueName", "serie.full_name", "stage", "tournament", "event", "league");
+  const bestOf = num(pick(m, "best_of", "bestOf", "bo", "number_of_games", "numberOfGames", "strategy.count", "match.strategy.count"));
   return {
     id: String(pick(m, "id", "match_id", "matchId", "slug") ?? ""),
     a, b, at, status,
     winner: winnerRaw && typeof winnerRaw === "object" ? teamCode(winnerRaw.name, winnerRaw.acronym, winnerRaw.slug) : teamCode(winnerRaw),
-    event: typeof event === "string" ? event : ""
+    event: typeof event === "string" ? event : "",
+    bestOf
   };
 }
 

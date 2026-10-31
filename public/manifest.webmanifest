@@ -1,7 +1,7 @@
 {
-  "name": "CDL Season Tracker",
-  "short_name": "CDL Tracker",
-  "description": "Fan-made Call of Duty League tracker: standings, results and history.",
+  "name": "Esports Tracker",
+  "short_name": "Esports",
+  "description": "Fan-made esports tracker: CDL, League of Legends, CS2 and Dota 2.",
   "start_url": "./#overview",
   "scope": "./",
   "display": "standalone",

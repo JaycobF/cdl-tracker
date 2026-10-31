@@ -1,0 +1,5 @@
+{"success":true,"data":{"events":[
+ {"id":"lol-1","startTime":"2027-01-17T08:00:00Z","state":"unstarted","league":{"name":"LCK"},"match":{"strategy":{"count":3}},"teams":[{"name":"T1","code":"T1"},{"name":"Gen.G","code":"GEN"}],"strategy":{"count":3}},
+ {"id":"lol-2","startTime":"2027-01-17T10:00:00Z","state":"unstarted","league":{"name":"LCK"},"teams":[{"name":"Hanwha Life Esports","code":"HLE"},{"name":"Dplus KIA","code":"DK"}]},
+ {"id":"lol-3","startTime":"2027-01-17T17:00:00Z","state":"unstarted","league":{"name":"LEC"},"teams":[{"name":"G2 Esports","code":"G2"},{"name":"Fnatic","code":"FNC"}]}
+]}}

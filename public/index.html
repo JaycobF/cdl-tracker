@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>CDL Season Tracker</title>
-<meta name="description" content="Fan-made tracker for the Call of Duty League: live standings, results and every season since 2020.">
+<title>Esports Tracker</title>
+<meta name="description" content="Fan-made esports tracker: Call of Duty League, League of Legends, CS2 and Dota 2 scores, schedules and standings.">
 <meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1B1C1F" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="CDL Tracker">
+<meta name="apple-mobile-web-app-title" content="Esports Tracker">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
@@ -22,19 +22,24 @@
 <header class="head">
   <div class="wrap">
     <div class="league">
-      <div class="lg" aria-hidden="true">CDL</div>
-      <div><h1>Call of Duty League</h1><p id="seasonline">2027 season · Modern Warfare 4</p></div>
+      <button class="lpick" id="leagueBtn" aria-haspopup="dialog" aria-controls="sheet" aria-label="Switch league">
+        <span class="lg" id="lgBadge" aria-hidden="true">CDL</span>
+        <span class="lt"><span class="h1" id="lgName">Call of Duty League</span><span class="lsub" id="seasonline">2027 season · Modern Warfare 4</span></span>
+        <span class="chev" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      </button>
       <div class="ct"><b id="cd">–</b><span id="cdl">days to kickoff</span></div>
     </div>
   </div>
 </header>
-<nav class="tabs" aria-label="Sections"><div class="wrap">
-  <a href="#overview" data-v="overview">Overview</a>
-  <a href="#table" data-v="table">Table</a>
-  <a href="#matches" data-v="matches">Matches</a>
-  <a href="#history" data-v="history">History</a>
-  <a href="#titles" data-v="titles">Titles</a>
-</div></nav>
+<nav class="tabs" aria-label="Sections"><div class="wrap" id="tabs"></div></nav>
+
+<div class="sheet-bg" id="sheetBg" hidden></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle" hidden>
+  <div class="grab" aria-hidden="true"></div>
+  <div class="ch"><h2 id="sheetTitle">Leagues</h2><button class="link" id="sheetClose">Done</button></div>
+  <div id="leagueList"></div>
+  <p class="note">Scores update automatically. Change leagues any time; the app remembers your last one.</p>
+</div>
 
 <div class="wrap"><main>
   <p class="offline" id="offline" hidden>You're offline. Showing the last scores this phone saved.</p>
@@ -106,7 +111,29 @@
     </div>
   </section>
 
-  <footer>A fan project, not affiliated with Activision or the Call of Duty League. Scores update automatically from Cito API a few minutes after each series. History compiled from Wikipedia season pages, Dexerto, Insider Gaming and Hotspawn.</footer>
+  <section id="v-g-overview" data-view hidden>
+    <div class="cols">
+      <div class="stack">
+        <div class="card" id="gLiveCard" hidden><div class="ch"><h2><span class="livedot"></span>Live now</h2></div><div id="gLive"></div></div>
+        <div class="card"><div class="ch"><h2>Next up</h2><span class="updated"><i id="gDot"></i><span id="gUpd">Loading…</span></span></div><div id="gNext"></div>
+          <div class="ch" style="padding-top:6px"><a class="link" data-goto="matches" href="#">All upcoming</a><span></span></div></div>
+      </div>
+      <div class="card"><div class="ch"><h2>Latest results</h2><a class="link" data-goto="results" href="#">All results</a></div><div id="gLatest"></div></div>
+    </div>
+  </section>
+
+  <section id="v-g-matches" data-view hidden>
+    <div class="filters"><select id="gEvUp" aria-label="Filter by event"></select></div>
+    <p class="sub gtz" style="margin:0 4px 10px"></p>
+    <div id="gUp" class="stack"></div>
+  </section>
+
+  <section id="v-g-results" data-view hidden>
+    <div class="filters"><select id="gEvRes" aria-label="Filter by event"></select></div>
+    <div id="gRes" class="stack"></div>
+  </section>
+
+  <footer>A fan project, not affiliated with Activision, Riot Games, Valve or any league. Scores update automatically from Cito API. CDL history compiled from Wikipedia season pages, Dexerto, Insider Gaming and Hotspawn.</footer>
 </main></div>
 <script src="app.js"></script>
 </body>

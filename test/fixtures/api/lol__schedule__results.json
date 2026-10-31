@@ -1,0 +1,4 @@
+{"success":true,"data":{"events":[
+ {"id":"lol-9","startTime":"2027-01-16T08:00:00Z","state":"completed","league":{"name":"LCK"},"teams":[{"name":"KT Rolster","code":"KT","result":{"gameWins":2}},{"name":"BNK FearX","code":"BFX","result":{"gameWins":1}}]},
+ {"id":"lol-1","startTime":"2027-01-17T08:00:00Z","state":"completed","league":{"name":"LCK"},"teams":[{"name":"Gen.G","code":"GEN","result":{"gameWins":2}},{"name":"T1","code":"T1","result":{"gameWins":1}}]}
+]}}

@@ -1,0 +1,4 @@
+{"success":true,"data":[
+ {"id":4990,"date":"2027-01-16T19:00:00Z","event":{"name":"BLAST Bounty"},"team1":{"name":"FaZe Clan","shortName":"FAZE","score":2},"team2":{"name":"MOUZ","shortName":"MOUZ","score":0},"bestOf":3,"status":"finished"},
+ {"id":4991,"date":"2027-01-16T21:30:00Z","event":{"name":"BLAST Bounty"},"team1":{"name":"Team Spirit","score":1},"team2":{"name":"G2 Esports","score":1},"status":"live"}
+]}

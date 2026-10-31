@@ -1,6 +1,6 @@
 // Offline support: app files come from cache, scores always try the network first.
-const VERSION = "cdl-v1";
-const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icons/icon.svg", "data/schedule.json", "data/history.json"];
+const VERSION = "esports-v2";
+const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icons/icon.svg", "data/schedule.json", "data/history.json", "data/leagues.json"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

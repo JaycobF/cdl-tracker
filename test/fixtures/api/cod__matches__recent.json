@@ -1,0 +1,7 @@
+{"success":true,"data":[
+ {"id":"bp-match-900001","status":"completed","start_time":"2027-01-15T20:04:00Z","tournament":{"name":"Call of Duty League 2027 - Major 1 Qualifiers"},"team_a":{"name":"FaZe Vegas","acronym":"FAZE","score":3},"team_b":{"name":"Paris Gentle Mates","acronym":"GM","score":1}},
+ {"id":"bp-match-900002","status":"completed","start_time":"2027-01-15T21:33:00Z","team_a":{"name":"Miami Heretics","score":3},"team_b":{"name":"Cloud9 New York","score":2}},
+ {"id":"bp-match-900003","status":"live","start_time":"2027-01-15T23:00:00Z","team_a":{"name":"Boston M80","score":1},"team_b":{"name":"G2 Minnesota","score":1},"current_map":3},
+ {"id":"bp-match-900004","status":"completed","start_time":"2027-01-10T22:00:00Z","team_a":{"name":"OpTic Texas","score":3},"team_b":{"name":"Huntsmen","score":0}},
+ {"id":"bp-match-800001","status":"completed","start_time":"2026-08-20T20:00:00Z","team_a":{"name":"OpTic Texas","score":3},"team_b":{"name":"FaZe Vegas","score":2}}
+],"meta":{}}

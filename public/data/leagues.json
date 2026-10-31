@@ -1,0 +1,32 @@
+{
+ "_help": "Leagues shown in the app and how often each one checks for new scores. 'plan' picks the check intervals: use \"free\" on Cito's free key, \"starter\" on a paid plan. 'monthlyCallLimit' stops checks before the plan's monthly allowance runs out.",
+ "plan": "free",
+ "monthlyCallLimit": 480,
+ "leagues": [
+  {
+   "id": "cdl", "name": "Call of Duty League", "short": "CDL", "game": "Call of Duty",
+   "type": "cdl", "badge": "#14161A"
+  },
+  {
+   "id": "lol", "name": "League of Legends", "short": "LoL", "game": "League of Legends",
+   "type": "generic", "badge": "#0A6E8C",
+   "api": { "upcoming": ["/lol/schedule/upcoming", "/lol/schedule/week"], "recent": ["/lol/schedule/results", "/lol/matches/past"] },
+   "checkEveryMinutes": { "free": 480, "starter": 30 },
+   "upcomingEveryHours": { "free": 24, "starter": 6 }
+  },
+  {
+   "id": "cs2", "name": "Counter-Strike 2", "short": "CS2", "game": "Counter-Strike 2",
+   "type": "generic", "badge": "#C27C0E",
+   "api": { "upcoming": ["/cs2/matches/upcoming"], "recent": ["/cs2/matches/recent"] },
+   "checkEveryMinutes": { "free": 480, "starter": 30 },
+   "upcomingEveryHours": { "free": 24, "starter": 6 }
+  },
+  {
+   "id": "dota2", "name": "Dota 2", "short": "Dota 2", "game": "Dota 2",
+   "type": "generic", "badge": "#B3261E",
+   "api": { "upcoming": ["/dota2/matches/upcoming"], "recent": ["/dota2/matches/recent"] },
+   "checkEveryMinutes": { "free": 480, "starter": 30 },
+   "upcomingEveryHours": { "free": 24, "starter": 6 }
+  }
+ ]
+}

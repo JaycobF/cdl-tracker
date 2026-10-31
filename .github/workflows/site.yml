@@ -11,13 +11,9 @@ on:
         type: boolean
         default: false
   schedule:
-    # Times are UTC. CDL online matches run Fri–Sun evenings US time (about 19:00–03:00 UTC).
-    - cron: "*/15 19-23 * * 5,6,0"
-    - cron: "*/15 0-4 * * 6,0,1"
-    # Daytime checks for European LAN events and anything that ran late.
-    - cron: "7 9-18 * * 5,6,0"
-    # Daily safety net for postponed matches.
-    - cron: "37 12 * * 1-4"
+    # Every 15 minutes. The updater itself decides whether any league is due,
+    # so most runs end without calling the score API.
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
@@ -49,8 +45,9 @@ jobs:
         run: |
           git config user.name "cdl-score-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/results.json
+          git add public/data
           git commit -m "Update scores $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin main
           git push
 
   deploy:
