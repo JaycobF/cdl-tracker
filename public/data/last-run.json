@@ -3,17 +3,17 @@
  "leagues": {
   "cdl": {
    "ok": false,
-   "error": "No source path answered (Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value.).",
+   "error": "No source path answered (Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value.).",
    "requests": [
     {
      "path": "/cod/matches/recent?limit=50",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     },
     {
      "path": "/cod/matches?limit=50",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     }
    ]
   },
@@ -23,22 +23,22 @@
     {
      "path": "/lol/schedule/results",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     },
     {
      "path": "/lol/matches/past",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     },
     {
      "path": "/lol/schedule/upcoming",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     },
     {
      "path": "/lol/schedule/week",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     }
    ]
   },
@@ -48,12 +48,12 @@
     {
      "path": "/cs2/matches/recent",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     },
     {
      "path": "/cs2/matches/upcoming",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     }
    ]
   },
@@ -63,12 +63,12 @@
     {
      "path": "/dota2/matches/recent",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     },
     {
      "path": "/dota2/matches/upcoming",
      "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
     }
    ]
   }

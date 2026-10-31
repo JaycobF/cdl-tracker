@@ -12,7 +12,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { listFrom, normalizeMatch } from "./lib/normalize.mjs";
 import { applyResults, dueMatches, activeEvent } from "./lib/apply.mjs";
-import { fetchRecentMatches, fetchFirst, callCount, report } from "./lib/source.mjs";
+import { fetchRecentMatches, fetchFirst, callCount, report, redact } from "./lib/source.mjs";
 import { emptyStore, plan, mergeInto } from "./lib/generic.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -92,7 +92,7 @@ async function runGeneric(league) {
       changed += n;
     } catch (e) {
       if (e.fatal) throw e;
-      failures++; console.error(`  ${kind}: ${e.message}`);
+      failures++; console.error(`  ${kind}: ${redact(e.message)}`);
     }
   }
   if (changed) store.updated = now.toISOString();
@@ -110,9 +110,10 @@ for (const league of config.leagues) {
     outcome[league.id] = { ok: true };
   } catch (e) {
     // One league failing doesn't stop the others, unless the key itself was refused.
-    console.error(`  ${league.id}: ${e.message}`);
+    const msg = redact(e.message);
+    console.error(`  ${league.id}: ${msg}`);
     failures++;
-    outcome[league.id] = { ok: false, error: e.message };
+    outcome[league.id] = { ok: false, error: msg };
     if (e.fatal) break;
   } finally {
     if (outcome[league.id]) outcome[league.id].requests = report.slice(start);
@@ -123,7 +124,7 @@ const used = callCount();
 if (used && !opt("--fixture") && !process.env.FIXTURE_DIR) write("usage.json", { month, calls: usedBefore + used, limit: config.monthlyCallLimit, updated: now.toISOString() });
 console.log(`\nAPI calls this run: ${used}. This month: ${usedBefore + used} of ${config.monthlyCallLimit}.`);
 
-if (report.length && !process.env.FIXTURE_DIR && !opt("--fixture")) write("last-run.json", { at: now.toISOString(), leagues: outcome });
+if (report.length && !process.env.FIXTURE_DIR && !opt("--fixture")) write("last-run.json", JSON.parse(redact(JSON.stringify({ at: now.toISOString(), leagues: outcome }))));
 
 if (dry) { console.log(`Dry run: ${pending.size} file(s) not written.`); setOutput("changed", "false"); }
 else {

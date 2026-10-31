@@ -10,6 +10,22 @@ export class SourceError extends Error {
   constructor(message, { fatal = false } = {}) { super(message); this.fatal = fatal; }
 }
 
+/** Accepts the key alone, or a pasted example command / header that contains it. */
+export function cleanKey(raw) {
+  const s = String(raw || "").trim();
+  if (!s) return "";
+  const m = s.match(/cito_[A-Za-z0-9_-]{8,}/) || s.match(/x-api-key\s*:\s*["']?([^"'\s]+)/i);
+  if (m) return m[1] || m[0];
+  return /\s/.test(s) ? "" : s;
+}
+
+/** Removes anything key-like from text before it is logged or saved. */
+export function redact(text, key = process.env.CITO_API_KEY) {
+  let t = String(text ?? "");
+  for (const k of [key, cleanKey(key)]) if (k && k.length > 6) t = t.split(k).join("[key hidden]");
+  return t.replace(/cito_[A-Za-z0-9_-]{8,}/g, "[key hidden]").replace(/(x-api-key\s*:\s*)[^\s"']+/gi, "$1[key hidden]");
+}
+
 let calls = 0;
 export const callCount = () => calls;
 
@@ -34,7 +50,9 @@ async function getOne(p, { apiKey, fetchImpl = fetch }) {
     calls++;
     return { ok: true, body: JSON.parse(fs.readFileSync(file, "utf8")) };
   }
-  if (!apiKey) throw new SourceError("CITO_API_KEY is not set. Add it as a repository secret (see README).", { fatal: true });
+  if (!apiKey) throw new SourceError(process.env.CITO_API_KEY
+    ? "CITO_API_KEY doesn't look like an API key. Paste only the key itself into the secret (see README)."
+    : "CITO_API_KEY is not set. Add it as a repository secret (see README).", { fatal: true });
   calls++;
   const res = await fetchImpl(BASE + p, { headers: { "x-api-key": apiKey, accept: "application/json", "user-agent": "esports-tracker (fan project)" } });
   if (res.status === 401 || res.status === 403) throw new SourceError(`Source refused the API key (HTTP ${res.status}). Check the CITO_API_KEY secret.`, { fatal: true });
@@ -56,14 +74,15 @@ export async function fetchFirst(paths, opts = {}) {
   for (const raw of paths) {
     const p = raw.trim();
     try {
-      const r = await getOne(p, { apiKey: process.env.CITO_API_KEY, ...opts });
+      const r = await getOne(p, { apiKey: cleanKey(process.env.CITO_API_KEY), ...opts });
+      if (r.detail) r.detail = redact(r.detail);
       if (r.ok) { log(`  ${p}: OK`); report.push({ path: p, ok: true, shape: describe(r.body) }); return r.body; }
       last = `HTTP ${r.status}`; log(`  ${p}: HTTP ${r.status}${r.detail ? ` (${r.detail})` : ""}, trying next`);
       report.push({ path: p, ok: false, status: r.status, detail: r.detail || "" });
     } catch (e) {
-      if (e.fatal) throw e;
-      last = e.message; log(`  ${p}: ${e.message}`);
-      report.push({ path: p, ok: false, error: e.message });
+      if (e.fatal) { report.push({ path: p, ok: false, error: e.message }); throw e; }
+      last = redact(e.message); log(`  ${p}: ${last}`);
+      report.push({ path: p, ok: false, error: last });
     }
   }
   throw new SourceError(`No source path answered (${last}).`);

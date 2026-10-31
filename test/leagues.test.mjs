@@ -136,3 +136,16 @@ test("status words: 'unstarted' and 'not_started' are upcoming, not live", async
   assert.equal(st("running"), "live");
   assert.equal(st("finished"), "completed");
 });
+
+test("API key: a pasted example command still yields the key, and keys never reach logs or files", async () => {
+  const { cleanKey, redact } = await import("../scripts/lib/source.mjs");
+  const k = "cito_" + "a1b2c3d4e5f6".repeat(4);
+  assert.equal(cleanKey(k), k);
+  assert.equal(cleanKey(`  ${k}\n`), k);
+  assert.equal(cleanKey(`curl "https://api.citoapi.com/api/v1/cod/matches?limit=5" \\\n  -H "x-api-key: ${k}"`), k);
+  assert.equal(cleanKey(`x-api-key: other-key-123456`), "other-key-123456");
+  assert.equal(cleanKey("two words"), "");
+  const msg = redact(`Headers.append: "curl ... -H \\"x-api-key: ${k}\\"" is invalid`, `curl -H "x-api-key: ${k}"`);
+  assert.ok(!msg.includes(k), msg);
+  assert.ok(!redact(`x-api-key: secretvalue99`).includes("secretvalue99"));
+});
