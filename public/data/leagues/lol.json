@@ -1,19 +1,21 @@
 {
  "id": "lol",
- "updated": "2026-10-31T20:42:00.920Z",
- "upcomingFetched": "2026-10-31T20:42:00.920Z",
- "recentFetched": "2026-10-31T20:42:00.920Z",
+ "updated": "2026-10-31T20:43:37.402Z",
+ "upcomingFetched": "2026-10-31T20:43:37.402Z",
+ "recentFetched": "2026-10-31T20:43:37.402Z",
  "matches": [
   {
    "id": "lol-match-116952475624364075",
    "at": "2026-10-11T13:00:00.000Z",
    "a": {
     "name": "Saigon MVKE Academy",
-    "short": "MVKA"
+    "short": "MVKA",
+    "logo": "https://static.lolesports.com/teams/1771230115237_Orange_Black_Logo.png"
    },
    "b": {
     "name": "Saigon Warrior",
-    "short": "SGW"
+    "short": "SGW",
+    "logo": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
    },
    "sa": 3,
    "sb": 0,
@@ -26,11 +28,13 @@
    "at": "2026-10-12T06:00:00.000Z",
    "a": {
     "name": "kt Rolster",
-    "short": "KT"
+    "short": "KT",
+    "logo": "https://static.lolesports.com/teams/kt_darkbackground.png"
    },
    "b": {
     "name": "Team Vitality",
-    "short": "VIT"
+    "short": "VIT",
+    "logo": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
    },
    "sa": 3,
    "sb": 2,
@@ -43,11 +47,13 @@
    "at": "2026-10-12T09:00:00.000Z",
    "a": {
     "name": "BNK FEARX",
-    "short": "BFX"
+    "short": "BFX",
+    "logo": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
    },
    "b": {
     "name": "Beijing JDG Esports",
-    "short": "JDG"
+    "short": "JDG",
+    "logo": "https://static.lolesports.com/teams/1627457924722_29.png"
    },
    "sa": 3,
    "sb": 2,
@@ -60,11 +66,13 @@
    "at": "2026-10-12T21:00:00.000Z",
    "a": {
     "name": "KaBuM! Eports",
-    "short": "KBM"
+    "short": "KBM",
+    "logo": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
    },
    "b": {
     "name": "MIBR.LOS",
-    "short": "ML"
+    "short": "ML",
+    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
    },
    "sa": 1,
    "sb": 3,
@@ -77,11 +85,13 @@
    "at": "2026-10-12T23:00:00.000Z",
    "a": {
     "name": "Disguised",
-    "short": "DSG"
+    "short": "DSG",
+    "logo": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
    },
    "b": {
     "name": "Maryville University",
-    "short": "MU"
+    "short": "MU",
+    "logo": "https://static.lolesports.com/teams/1650398622565_200x200_MU_Logo-ThomasLaMarca.png"
    },
    "sa": 3,
    "sb": 0,
@@ -94,11 +104,13 @@
    "at": "2026-10-13T06:00:00.000Z",
    "a": {
     "name": "Xi'an Team WE",
-    "short": "WE"
+    "short": "WE",
+    "logo": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
    },
    "b": {
     "name": "FlyQuest",
-    "short": "FLY"
+    "short": "FLY",
+    "logo": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
    },
    "sa": 3,
    "sb": 2,
@@ -111,11 +123,13 @@
    "at": "2026-10-13T09:00:00.000Z",
    "a": {
     "name": "HANJIN BRION",
-    "short": "BRO"
+    "short": "BRO",
+    "logo": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
    },
    "b": {
     "name": "LGD GAMING",
-    "short": "LGD"
+    "short": "LGD",
+    "logo": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
    },
    "sa": 3,
    "sb": 1,
@@ -128,11 +142,13 @@
    "at": "2026-10-13T16:00:00.000Z",
    "a": {
     "name": "Galions",
-    "short": "GL"
+    "short": "GL",
+    "logo": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
    },
    "b": {
     "name": "Movistar KOI Fénix",
-    "short": "MKF"
+    "short": "MKF",
+    "logo": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
    },
    "sa": 3,
    "sb": 0,
@@ -145,11 +161,13 @@
    "at": "2026-10-14T09:00:00.000Z",
    "a": {
     "name": "kt Rolster",
-    "short": "KT"
+    "short": "KT",
+    "logo": "https://static.lolesports.com/teams/kt_darkbackground.png"
    },
    "b": {
     "name": "BNK FEARX",
-    "short": "BFX"
+    "short": "BFX",
+    "logo": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
    },
    "sa": 1,
    "sb": 3,
@@ -162,11 +180,13 @@
    "at": "2026-10-14T19:00:00.000Z",
    "a": {
     "name": "Anubis Gaming",
-    "short": "ANB"
+    "short": "ANB",
+    "logo": "https://static.lolesports.com/teams/1738571697908_logo.png"
    },
    "b": {
     "name": "Solary",
-    "short": "SLY"
+    "short": "SLY",
+    "logo": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
    },
    "sa": 1,
    "sb": 3,
@@ -179,11 +199,13 @@
    "at": "2026-10-15T09:00:00.000Z",
    "a": {
     "name": "HANJIN BRION",
-    "short": "BRO"
+    "short": "BRO",
+    "logo": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
    },
    "b": {
     "name": "Xi'an Team WE",
-    "short": "WE"
+    "short": "WE",
+    "logo": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
    },
    "sa": 2,
    "sb": 3,
@@ -196,11 +218,13 @@
    "at": "2026-10-15T18:00:00.000Z",
    "a": {
     "name": "Cloud9 Kia",
-    "short": "C9"
+    "short": "C9",
+    "logo": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
    },
    "b": {
     "name": "Karmine Corp",
-    "short": "KC"
+    "short": "KC",
+    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
    "sa": 2,
    "sb": 3,
@@ -213,11 +237,13 @@
    "at": "2026-10-15T23:00:00.000Z",
    "a": {
     "name": "FURIA",
-    "short": "FUR"
+    "short": "FUR",
+    "logo": "https://static.lolesports.com/teams/FURIA---black.png"
    },
    "b": {
     "name": "MVK Esports",
-    "short": "MVK"
+    "short": "MVK",
+    "logo": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
    },
    "sa": 0,
    "sb": 3,
@@ -230,11 +256,13 @@
    "at": "2026-10-16T18:00:00.000Z",
    "a": {
     "name": "Karmine Corp",
-    "short": "KC"
+    "short": "KC",
+    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
    "b": {
     "name": "MVK Esports",
-    "short": "MVK"
+    "short": "MVK",
+    "logo": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
    },
    "sa": 3,
    "sb": 0,
@@ -247,11 +275,13 @@
    "at": "2026-10-16T21:00:00.000Z",
    "a": {
     "name": "Cloud9 Kia",
-    "short": "C9"
+    "short": "C9",
+    "logo": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
    },
    "b": {
     "name": "FURIA",
-    "short": "FUR"
+    "short": "FUR",
+    "logo": "https://static.lolesports.com/teams/FURIA---black.png"
    },
    "sa": 1,
    "sb": 3,
@@ -264,11 +294,13 @@
    "at": "2026-10-17T09:30:00.000Z",
    "a": {
     "name": "Xi'an Team WE",
-    "short": "WE"
+    "short": "WE",
+    "logo": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
    },
    "b": {
     "name": "BNK FEARX",
-    "short": "BFX"
+    "short": "BFX",
+    "logo": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
    },
    "sa": 1,
    "sb": 3,
@@ -281,11 +313,13 @@
    "at": "2026-10-17T18:00:00.000Z",
    "a": {
     "name": "MVK Esports",
-    "short": "MVK"
+    "short": "MVK",
+    "logo": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
    },
    "b": {
     "name": "FURIA",
-    "short": "FUR"
+    "short": "FUR",
+    "logo": "https://static.lolesports.com/teams/FURIA---black.png"
    },
    "sa": 3,
    "sb": 1,
@@ -298,11 +332,13 @@
    "at": "2026-10-18T18:00:00.000Z",
    "a": {
     "name": "Karmine Corp",
-    "short": "KC"
+    "short": "KC",
+    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
    "b": {
     "name": "MVK Esports",
-    "short": "MVK"
+    "short": "MVK",
+    "logo": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
    },
    "sa": 3,
    "sb": 0,
@@ -315,11 +351,13 @@
    "at": "2026-10-22T12:00:00.000Z",
    "a": {
     "name": "Galions",
-    "short": "GL"
+    "short": "GL",
+    "logo": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
    },
    "b": {
     "name": "Solary",
-    "short": "SLY"
+    "short": "SLY",
+    "logo": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
    },
    "sa": 3,
    "sb": 2,
@@ -332,11 +370,13 @@
    "at": "2026-10-23T17:00:00.000Z",
    "a": {
     "name": "Gen.G Esports",
-    "short": "GEN"
+    "short": "GEN",
+    "logo": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
    },
    "b": {
     "name": "Invictus Gaming",
-    "short": "IG"
+    "short": "IG",
+    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
    },
    "sa": 1,
    "sb": 0,
@@ -349,11 +389,13 @@
    "at": "2026-10-23T18:00:00.000Z",
    "a": {
     "name": "Hanwha Life Esports",
-    "short": "HLE"
+    "short": "HLE",
+    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
    },
    "b": {
     "name": "TOP ESPORTS",
-    "short": "TES"
+    "short": "TES",
+    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
    },
    "sa": 1,
    "sb": 0,
@@ -366,11 +408,13 @@
    "at": "2026-10-23T19:00:00.000Z",
    "a": {
     "name": "BILIBILI GAMING",
-    "short": "BLG"
+    "short": "BLG",
+    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
    },
    "b": {
     "name": "Movistar KOI",
-    "short": "MKOI"
+    "short": "MKOI",
+    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
    },
    "sa": 0,
    "sb": 1,
@@ -383,11 +427,13 @@
    "at": "2026-10-23T20:00:00.000Z",
    "a": {
     "name": "Anyone's Legend",
-    "short": "AL"
+    "short": "AL",
+    "logo": "https://static.lolesports.com/teams/1641199582689_.png"
    },
    "b": {
     "name": "Karmine Corp",
-    "short": "KC"
+    "short": "KC",
+    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
    "sa": 0,
    "sb": 1,
@@ -400,11 +446,13 @@
    "at": "2026-10-23T21:00:00.000Z",
    "a": {
     "name": "G2 Esports",
-    "short": "G2"
+    "short": "G2",
+    "logo": "https://static.lolesports.com/teams/G2-FullonDark.png"
    },
    "b": {
     "name": "Dplus KIA",
-    "short": "DK"
+    "short": "DK",
+    "logo": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
    },
    "sa": 0,
    "sb": 1,
@@ -417,11 +465,13 @@
    "at": "2026-10-23T22:00:00.000Z",
    "a": {
     "name": "Team Liquid Alienware",
-    "short": "TLAW"
+    "short": "TLAW",
+    "logo": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
    },
    "b": {
     "name": "CTBC Flying Oyster",
-    "short": "CFO"
+    "short": "CFO",
+    "logo": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
    },
    "sa": 0,
    "sb": 1,
@@ -434,11 +484,13 @@
    "at": "2026-10-23T23:00:00.000Z",
    "a": {
     "name": "MIBR.LOS",
-    "short": "ML"
+    "short": "ML",
+    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
    },
    "b": {
     "name": "T1",
-    "short": "T1"
+    "short": "T1",
+    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
    },
    "sa": 0,
    "sb": 1,
@@ -451,11 +503,13 @@
    "at": "2026-10-24T00:00:00.000Z",
    "a": {
     "name": "Team Secret Whales",
-    "short": "TSW"
+    "short": "TSW",
+    "logo": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
    },
    "b": {
     "name": "LYON",
-    "short": "LYON"
+    "short": "LYON",
+    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
    },
    "sa": 0,
    "sb": 1,
@@ -468,11 +522,13 @@
    "at": "2026-10-24T17:00:00.000Z",
    "a": {
     "name": "Anyone's Legend",
-    "short": "AL"
+    "short": "AL",
+    "logo": "https://static.lolesports.com/teams/1641199582689_.png"
    },
    "b": {
     "name": "TOP ESPORTS",
-    "short": "TES"
+    "short": "TES",
+    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
    },
    "sa": 0,
    "sb": 1,
@@ -485,11 +541,13 @@
    "at": "2026-10-24T18:00:00.000Z",
    "a": {
     "name": "CTBC Flying Oyster",
-    "short": "CFO"
+    "short": "CFO",
+    "logo": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
    },
    "b": {
     "name": "Movistar KOI",
-    "short": "MKOI"
+    "short": "MKOI",
+    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
    },
    "sa": 0,
    "sb": 1,
@@ -502,11 +560,13 @@
    "at": "2026-10-24T19:00:00.000Z",
    "a": {
     "name": "G2 Esports",
-    "short": "G2"
+    "short": "G2",
+    "logo": "https://static.lolesports.com/teams/G2-FullonDark.png"
    },
    "b": {
     "name": "MIBR.LOS",
-    "short": "ML"
+    "short": "ML",
+    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
    },
    "sa": 1,
    "sb": 0,
@@ -519,11 +579,13 @@
    "at": "2026-10-24T20:00:00.000Z",
    "a": {
     "name": "LYON",
-    "short": "LYON"
+    "short": "LYON",
+    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
    },
    "b": {
     "name": "Karmine Corp",
-    "short": "KC"
+    "short": "KC",
+    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
    "sa": 1,
    "sb": 0,
@@ -536,11 +598,13 @@
    "at": "2026-10-24T21:00:00.000Z",
    "a": {
     "name": "Team Secret Whales",
-    "short": "TSW"
+    "short": "TSW",
+    "logo": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
    },
    "b": {
     "name": "Invictus Gaming",
-    "short": "IG"
+    "short": "IG",
+    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
    },
    "sa": 0,
    "sb": 1,
@@ -553,11 +617,13 @@
    "at": "2026-10-24T22:00:00.000Z",
    "a": {
     "name": "Gen.G Esports",
-    "short": "GEN"
+    "short": "GEN",
+    "logo": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
    },
    "b": {
     "name": "Hanwha Life Esports",
-    "short": "HLE"
+    "short": "HLE",
+    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
    },
    "sa": 1,
    "sb": 0,
@@ -570,11 +636,13 @@
    "at": "2026-10-24T23:00:00.000Z",
    "a": {
     "name": "T1",
-    "short": "T1"
+    "short": "T1",
+    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
    },
    "b": {
     "name": "Dplus KIA",
-    "short": "DK"
+    "short": "DK",
+    "logo": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
    },
    "sa": 0,
    "sb": 1,
@@ -587,11 +655,13 @@
    "at": "2026-10-25T00:30:00.000Z",
    "a": {
     "name": "Team Liquid Alienware",
-    "short": "TLAW"
+    "short": "TLAW",
+    "logo": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
    },
    "b": {
     "name": "BILIBILI GAMING",
-    "short": "BLG"
+    "short": "BLG",
+    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
    },
    "sa": 0,
    "sb": 1,
@@ -604,11 +674,13 @@
    "at": "2026-10-25T17:00:00.000Z",
    "a": {
     "name": "Hanwha Life Esports",
-    "short": "HLE"
+    "short": "HLE",
+    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
    },
    "b": {
     "name": "Invictus Gaming",
-    "short": "IG"
+    "short": "IG",
+    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
    },
    "sa": 0,
    "sb": 1,
@@ -621,11 +693,13 @@
    "at": "2026-10-25T18:00:00.000Z",
    "a": {
     "name": "TOP ESPORTS",
-    "short": "TES"
+    "short": "TES",
+    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
    },
    "b": {
     "name": "G2 Esports",
-    "short": "G2"
+    "short": "G2",
+    "logo": "https://static.lolesports.com/teams/G2-FullonDark.png"
    },
    "sa": 1,
    "sb": 0,
@@ -638,11 +712,13 @@
    "at": "2026-10-25T19:00:00.000Z",
    "a": {
     "name": "Movistar KOI",
-    "short": "MKOI"
+    "short": "MKOI",
+    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
    },
    "b": {
     "name": "Dplus KIA",
-    "short": "DK"
+    "short": "DK",
+    "logo": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
    },
    "sa": 0,
    "sb": 2,
@@ -655,11 +731,13 @@
    "at": "2026-10-25T21:00:00.000Z",
    "a": {
     "name": "Gen.G Esports",
-    "short": "GEN"
+    "short": "GEN",
+    "logo": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
    },
    "b": {
     "name": "LYON",
-    "short": "LYON"
+    "short": "LYON",
+    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
    },
    "sa": 2,
    "sb": 1,
@@ -672,11 +750,13 @@
    "at": "2026-10-26T17:00:00.000Z",
    "a": {
     "name": "CTBC Flying Oyster",
-    "short": "CFO"
+    "short": "CFO",
+    "logo": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
    },
    "b": {
     "name": "T1",
-    "short": "T1"
+    "short": "T1",
+    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
    },
    "sa": 0,
    "sb": 1,
@@ -689,11 +769,13 @@
    "at": "2026-10-26T18:00:00.000Z",
    "a": {
     "name": "BILIBILI GAMING",
-    "short": "BLG"
+    "short": "BLG",
+    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
    },
    "b": {
     "name": "Karmine Corp",
-    "short": "KC"
+    "short": "KC",
+    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
    "sa": 1,
    "sb": 0,
@@ -706,11 +788,13 @@
    "at": "2026-10-26T19:00:00.000Z",
    "a": {
     "name": "MIBR.LOS",
-    "short": "ML"
+    "short": "ML",
+    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
    },
    "b": {
     "name": "Team Secret Whales",
-    "short": "TSW"
+    "short": "TSW",
+    "logo": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
    },
    "sa": 2,
    "sb": 0,
@@ -723,11 +807,13 @@
    "at": "2026-10-26T21:00:00.000Z",
    "a": {
     "name": "Team Liquid Alienware",
-    "short": "TLAW"
+    "short": "TLAW",
+    "logo": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
    },
    "b": {
     "name": "Anyone's Legend",
-    "short": "AL"
+    "short": "AL",
+    "logo": "https://static.lolesports.com/teams/1641199582689_.png"
    },
    "sa": 2,
    "sb": 0,
@@ -740,11 +826,13 @@
    "at": "2026-10-28T20:00:00.000Z",
    "a": {
     "name": "Movistar KOI",
-    "short": "MKOI"
+    "short": "MKOI",
+    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
    },
    "b": {
     "name": "T1",
-    "short": "T1"
+    "short": "T1",
+    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
    },
    "sa": 0,
    "sb": 2,
@@ -757,11 +845,13 @@
    "at": "2026-10-28T22:00:00.000Z",
    "a": {
     "name": "LYON",
-    "short": "LYON"
+    "short": "LYON",
+    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
    },
    "b": {
     "name": "Invictus Gaming",
-    "short": "IG"
+    "short": "IG",
+    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
    },
    "sa": 1,
    "sb": 2,
@@ -774,11 +864,13 @@
    "at": "2026-10-29T20:00:00.000Z",
    "a": {
     "name": "CTBC Flying Oyster",
-    "short": "CFO"
+    "short": "CFO",
+    "logo": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
    },
    "b": {
     "name": "Karmine Corp",
-    "short": "KC"
+    "short": "KC",
+    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
    "sa": 0,
    "sb": 2,
@@ -791,11 +883,13 @@
    "at": "2026-10-29T23:00:00.000Z",
    "a": {
     "name": "BILIBILI GAMING",
-    "short": "BLG"
+    "short": "BLG",
+    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
    },
    "b": {
     "name": "TOP ESPORTS",
-    "short": "TES"
+    "short": "TES",
+    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
    },
    "sa": 1,
    "sb": 2,
@@ -808,11 +902,13 @@
    "at": "2026-10-30T20:00:00.000Z",
    "a": {
     "name": "Team Liquid Alienware",
-    "short": "TLAW"
+    "short": "TLAW",
+    "logo": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
    },
    "b": {
     "name": "MIBR.LOS",
-    "short": "ML"
+    "short": "ML",
+    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
    },
    "sa": 1,
    "sb": 2,
@@ -825,11 +921,13 @@
    "at": "2026-10-30T23:00:00.000Z",
    "a": {
     "name": "G2 Esports",
-    "short": "G2"
+    "short": "G2",
+    "logo": "https://static.lolesports.com/teams/G2-FullonDark.png"
    },
    "b": {
     "name": "Hanwha Life Esports",
-    "short": "HLE"
+    "short": "HLE",
+    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
    },
    "sa": 0,
    "sb": 2,
@@ -842,11 +940,13 @@
    "at": "2026-10-31T17:00:00.000Z",
    "a": {
     "name": "Movistar KOI",
-    "short": "MKOI"
+    "short": "MKOI",
+    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
    },
    "b": {
     "name": "Karmine Corp",
-    "short": "KC"
+    "short": "KC",
+    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
    "sa": 0,
    "sb": 2,
@@ -859,11 +959,13 @@
    "at": "2026-10-31T23:00:00.000Z",
    "a": {
     "name": "Hanwha Life Esports",
-    "short": "HLE"
+    "short": "HLE",
+    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
    },
    "b": {
     "name": "BILIBILI GAMING",
-    "short": "BLG"
+    "short": "BLG",
+    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
    },
    "sa": null,
    "sb": null,
@@ -876,11 +978,13 @@
    "at": "2026-11-10T05:00:00.000Z",
    "a": {
     "name": "FENNEL",
-    "short": "FL"
+    "short": "FL",
+    "logo": "https://static.lolesports.com/teams/1673413831349_fl.png"
    },
    "b": {
     "name": "Nothin'Here",
-    "short": "NTH"
+    "short": "NTH",
+    "logo": "https://static.lolesports.com/teams/1792576868179_NTH-LogoColoredwithTeamName.png"
    },
    "sa": null,
    "sb": null,
@@ -893,11 +997,13 @@
    "at": "2026-11-10T09:00:00.000Z",
    "a": {
     "name": "Saigon Warrior",
-    "short": "SGW"
+    "short": "SGW",
+    "logo": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
    },
    "b": {
     "name": "Team Gromp",
-    "short": "TGM"
+    "short": "TGM",
+    "logo": "https://static.lolesports.com/teams/1791284516294_TeamGromp.png"
    },
    "sa": null,
    "sb": null,
@@ -910,11 +1016,13 @@
    "at": "2026-11-11T09:00:00.000Z",
    "a": {
     "name": "Ground Zero Gaming",
-    "short": "GZ"
+    "short": "GZ",
+    "logo": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
    },
    "b": {
     "name": "Frank Esports",
-    "short": "FAK"
+    "short": "FAK",
+    "logo": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
    },
    "sa": null,
    "sb": null,
