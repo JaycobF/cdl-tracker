@@ -1,7 +1,909 @@
 {
  "id": "dota2",
- "updated": "2026-10-31T20:26:12.478Z",
- "upcomingFetched": "2026-10-31T20:26:12.478Z",
- "recentFetched": "2026-10-31T20:26:12.478Z",
- "matches": []
+ "updated": "2026-10-31T20:35:08.317Z",
+ "upcomingFetched": "2026-10-31T20:35:08.317Z",
+ "recentFetched": "2026-10-31T20:35:08.317Z",
+ "matches": [
+  {
+   "id": "663128",
+   "at": "2026-10-24T12:00:00.000Z",
+   "a": {
+    "name": "Team Synapse",
+    "short": "Synapse"
+   },
+   "b": {
+    "name": "Zero Tenacity",
+    "short": "Z10"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663190",
+   "at": "2026-10-24T14:30:00.000Z",
+   "a": {
+    "name": "BetBoom Team",
+    "short": "BetBoom"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663124",
+   "at": "2026-10-24T16:00:00.000Z",
+   "a": {
+    "name": "Dawn Bulls",
+    "short": "DB"
+   },
+   "b": {
+    "name": "Yellow Submarine",
+    "short": "YeS"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663185",
+   "at": "2026-10-24T17:00:00.000Z",
+   "a": {
+    "name": "Astra Invicta",
+    "short": "AI"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663119",
+   "at": "2026-10-24T18:00:00.000Z",
+   "a": {
+    "name": "CyberHero",
+    "short": "CyberHero"
+   },
+   "b": {
+    "name": "TheBot$",
+    "short": "TheBot$"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 1
+  },
+  {
+   "id": "663181",
+   "at": "2026-10-25T09:00:00.000Z",
+   "a": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "b": {
+    "name": "Team Liquid",
+    "short": "Liquid"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663116",
+   "at": "2026-10-25T10:00:00.000Z",
+   "a": {
+    "name": "salamit",
+    "short": "salamit"
+   },
+   "b": {
+    "name": "Team Lynx",
+    "short": "Lynx"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 1
+  },
+  {
+   "id": "663107",
+   "at": "2026-10-25T13:00:00.000Z",
+   "a": {
+    "name": "Inner Circle x Insanity",
+    "short": "INC"
+   },
+   "b": {
+    "name": "Nemiga Gaming",
+    "short": "Nemiga"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663177",
+   "at": "2026-10-25T13:10:00.000Z",
+   "a": {
+    "name": "1W Team",
+    "short": "1Win"
+   },
+   "b": {
+    "name": "Team Yandex",
+    "short": "TY"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663187",
+   "at": "2026-10-25T15:30:00.000Z",
+   "a": {
+    "name": "Astra Invicta",
+    "short": "AI"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663121",
+   "at": "2026-10-25T16:00:00.000Z",
+   "a": {
+    "name": "CyberHero",
+    "short": "CyberHero"
+   },
+   "b": {
+    "name": "Zero Tenacity",
+    "short": "Z10"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663189",
+   "at": "2026-10-25T18:00:00.000Z",
+   "a": {
+    "name": "BetBoom Team",
+    "short": "BetBoom"
+   },
+   "b": {
+    "name": "PARIVISION",
+    "short": "PARI"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663146",
+   "at": "2026-10-26T04:00:00.000Z",
+   "a": {
+    "name": "Cloud Dawning",
+    "short": "CD"
+   },
+   "b": {
+    "name": "Direborn Esports",
+    "short": "Direborn"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663155",
+   "at": "2026-10-26T07:00:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn"
+   },
+   "b": {
+    "name": "Team Kinetix",
+    "short": "Kinetix"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663178",
+   "at": "2026-10-26T09:00:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL"
+   },
+   "b": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663173",
+   "at": "2026-10-26T10:00:00.000Z",
+   "a": {
+    "name": "Royal Bear",
+    "short": "Royal Bear"
+   },
+   "b": {
+    "name": "Yangon Galacticos",
+    "short": "YG"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663183",
+   "at": "2026-10-26T13:00:00.000Z",
+   "a": {
+    "name": "Team Liquid",
+    "short": "Liquid"
+   },
+   "b": {
+    "name": "Team Yandex",
+    "short": "TY"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663193",
+   "at": "2026-10-26T16:30:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663188",
+   "at": "2026-10-26T20:00:00.000Z",
+   "a": {
+    "name": "BetBoom Team",
+    "short": "BetBoom"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663151",
+   "at": "2026-10-27T04:00:00.000Z",
+   "a": {
+    "name": "Cloud Dawning",
+    "short": "CD"
+   },
+   "b": {
+    "name": "Royal Bear",
+    "short": "Royal Bear"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663164",
+   "at": "2026-10-27T10:00:00.000Z",
+   "a": {
+    "name": "Resp Gaming",
+    "short": "Resp"
+   },
+   "b": {
+    "name": "Team Kinetix",
+    "short": "Kinetix"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663310",
+   "at": "2026-10-27T13:00:00.000Z",
+   "a": {
+    "name": "Astra Invicta",
+    "short": "AI"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 1
+  },
+  {
+   "id": "663312",
+   "at": "2026-10-27T14:30:00.000Z",
+   "a": {
+    "name": "BetBoom Team",
+    "short": "BetBoom"
+   },
+   "b": {
+    "name": "Astra Invicta",
+    "short": "AI"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 1
+  },
+  {
+   "id": "663311",
+   "at": "2026-10-27T16:00:00.000Z",
+   "a": {
+    "name": "BetBoom Team",
+    "short": "BetBoom"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 1
+  },
+  {
+   "id": "663148",
+   "at": "2026-10-28T04:00:00.000Z",
+   "a": {
+    "name": "Cloud Dawning",
+    "short": "CD"
+   },
+   "b": {
+    "name": "Resp Gaming",
+    "short": "Resp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663158",
+   "at": "2026-10-28T07:00:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn"
+   },
+   "b": {
+    "name": "Yangon Galacticos",
+    "short": "YG"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663322",
+   "at": "2026-10-28T09:00:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI"
+   },
+   "b": {
+    "name": "Team Liquid",
+    "short": "Liquid"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663169",
+   "at": "2026-10-28T10:00:00.000Z",
+   "a": {
+    "name": "Team Kinetix",
+    "short": "Kinetix"
+   },
+   "b": {
+    "name": "Royal Bear",
+    "short": "Royal Bear"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663323",
+   "at": "2026-10-28T13:20:00.000Z",
+   "a": {
+    "name": "Team Yandex",
+    "short": "TY"
+   },
+   "b": {
+    "name": "Astra Invicta",
+    "short": "AI"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663324",
+   "at": "2026-10-28T17:00:00.000Z",
+   "a": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "b": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663325",
+   "at": "2026-10-28T20:00:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663147",
+   "at": "2026-10-29T04:00:00.000Z",
+   "a": {
+    "name": "Cloud Dawning",
+    "short": "CD"
+   },
+   "b": {
+    "name": "Zenith",
+    "short": "Zenith"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663166",
+   "at": "2026-10-29T07:00:00.000Z",
+   "a": {
+    "name": "Resp Gaming",
+    "short": "Resp"
+   },
+   "b": {
+    "name": "Royal Bear",
+    "short": "Royal Bear"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663329",
+   "at": "2026-10-29T09:00:00.000Z",
+   "a": {
+    "name": "Team Liquid",
+    "short": "Liquid"
+   },
+   "b": {
+    "name": "Astra Invicta",
+    "short": "AI"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663156",
+   "at": "2026-10-29T10:00:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn"
+   },
+   "b": {
+    "name": "Team Nemesis Academy",
+    "short": "NMSS.Ac"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663330",
+   "at": "2026-10-29T12:00:00.000Z",
+   "a": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663326",
+   "at": "2026-10-29T15:00:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI"
+   },
+   "b": {
+    "name": "Team Yandex",
+    "short": "TY"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663327",
+   "at": "2026-10-29T19:00:00.000Z",
+   "a": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "b": {
+    "name": "GamerLegion",
+    "short": "GL"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663163",
+   "at": "2026-10-30T04:00:00.000Z",
+   "a": {
+    "name": "Zenith",
+    "short": "Zenith"
+   },
+   "b": {
+    "name": "Yangon Galacticos",
+    "short": "YG"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663154",
+   "at": "2026-10-30T08:30:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn"
+   },
+   "b": {
+    "name": "Resp Gaming",
+    "short": "Resp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663332",
+   "at": "2026-10-30T10:00:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663171",
+   "at": "2026-10-30T10:45:46.000Z",
+   "a": {
+    "name": "Team Nemesis Academy",
+    "short": "NMSS.Ac"
+   },
+   "b": {
+    "name": "Royal Bear",
+    "short": "Royal Bear"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663331",
+   "at": "2026-10-30T13:50:00.000Z",
+   "a": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "b": {
+    "name": "Team Liquid",
+    "short": "Liquid"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663333",
+   "at": "2026-10-30T17:00:00.000Z",
+   "a": {
+    "name": "Team Liquid",
+    "short": "Liquid"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663157",
+   "at": "2026-10-31T04:00:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn"
+   },
+   "b": {
+    "name": "Royal Bear",
+    "short": "Royal Bear"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663159",
+   "at": "2026-10-31T07:00:00.000Z",
+   "a": {
+    "name": "Zenith",
+    "short": "Zenith"
+   },
+   "b": {
+    "name": "Resp Gaming",
+    "short": "Resp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663149",
+   "at": "2026-10-31T10:00:00.000Z",
+   "a": {
+    "name": "Cloud Dawning",
+    "short": "CD"
+   },
+   "b": {
+    "name": "Team Kinetix",
+    "short": "Kinetix"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663328",
+   "at": "2026-10-31T13:00:00.000Z",
+   "a": {
+    "name": "Team Yandex",
+    "short": "TY"
+   },
+   "b": {
+    "name": "GamerLegion",
+    "short": "GL"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663334",
+   "at": "2026-10-31T17:00:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PARI Universe",
+   "bestOf": 3
+  },
+  {
+   "id": "663162",
+   "at": "2026-11-01T10:00:00.000Z",
+   "a": {
+    "name": "Zenith",
+    "short": "Zenith"
+   },
+   "b": {
+    "name": "Royal Bear",
+    "short": "Royal Bear"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663335",
+   "at": "2026-11-01T13:00:00.000Z",
+   "a": {
+    "name": "Team Yandex",
+    "short": "TY"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "PARI Universe",
+   "bestOf": 5
+  },
+  {
+   "id": "663160",
+   "at": "2026-11-02T04:00:00.000Z",
+   "a": {
+    "name": "Zenith",
+    "short": "Zenith"
+   },
+   "b": {
+    "name": "Team Kinetix",
+    "short": "Kinetix"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663153",
+   "at": "2026-11-02T07:00:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn"
+   },
+   "b": {
+    "name": "Zenith",
+    "short": "Zenith"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  }
+ ]
 }

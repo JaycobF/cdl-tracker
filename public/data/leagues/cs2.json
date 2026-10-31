@@ -1,7 +1,1249 @@
 {
  "id": "cs2",
- "updated": "2026-10-31T20:26:12.478Z",
- "upcomingFetched": "2026-10-31T20:26:12.478Z",
- "recentFetched": "2026-10-31T20:26:12.478Z",
- "matches": []
+ "updated": "2026-10-31T20:35:08.317Z",
+ "upcomingFetched": "2026-10-31T20:35:08.317Z",
+ "recentFetched": "2026-10-31T20:35:08.317Z",
+ "matches": [
+  {
+   "id": "cs2-match-2399718",
+   "at": "2026-10-30T16:00:00.000Z",
+   "a": {
+    "name": "fnatic",
+    "short": "FNATIC"
+   },
+   "b": {
+    "name": "Eternal Fire",
+    "short": "EF"
+   },
+   "sa": 2,
+   "sb": 3,
+   "status": "completed",
+   "event": "Stake Ranked Episode 5",
+   "bestOf": 5
+  },
+  {
+   "id": "cs2-match-2399953",
+   "at": "2026-10-30T16:20:00.000Z",
+   "a": {
+    "name": "Low Cortisol BR",
+    "short": "LCB"
+   },
+   "b": {
+    "name": "ALKA",
+    "short": "ALKA"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Gamers Club Masters VII",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399936",
+   "at": "2026-10-30T16:30:00.000Z",
+   "a": {
+    "name": "BC.Game",
+    "short": "BCGAME"
+   },
+   "b": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2399935",
+   "at": "2026-10-30T16:30:00.000Z",
+   "a": {
+    "name": "Metizport",
+    "short": "METIZPOR"
+   },
+   "b": {
+    "name": "SNITKO",
+    "short": "SNITKO"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2399525",
+   "at": "2026-10-30T18:00:00.000Z",
+   "a": {
+    "name": "Phantom",
+    "short": "PHANTOM"
+   },
+   "b": {
+    "name": "Lavked",
+    "short": "LAVKED"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400031",
+   "at": "2026-10-30T18:00:00.000Z",
+   "a": {
+    "name": "Spirit Academy",
+    "short": "SA"
+   },
+   "b": {
+    "name": "Falcons Force",
+    "short": "FF"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399938",
+   "at": "2026-10-30T18:15:00.000Z",
+   "a": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "b": {
+    "name": "SNITKO",
+    "short": "SNITKO"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399937",
+   "at": "2026-10-30T18:15:00.000Z",
+   "a": {
+    "name": "BC.Game",
+    "short": "BCGAME"
+   },
+   "b": {
+    "name": "Metizport",
+    "short": "METIZPOR"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399974",
+   "at": "2026-10-30T18:30:00.000Z",
+   "a": {
+    "name": "Wildcard",
+    "short": "WILDCARD"
+   },
+   "b": {
+    "name": "Hacha",
+    "short": "HACHA"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400025",
+   "at": "2026-10-30T19:00:00.000Z",
+   "a": {
+    "name": "Nuclear TigeRES",
+    "short": "NT"
+   },
+   "b": {
+    "name": "PRIVATE",
+    "short": "PRIVATE"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CIS Esports League CyberClash Season 2 Finals",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399954",
+   "at": "2026-10-30T19:10:00.000Z",
+   "a": {
+    "name": "Imperial",
+    "short": "IMPERIAL"
+   },
+   "b": {
+    "name": "paiN",
+    "short": "PAIN"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Gamers Club Masters VII",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399975",
+   "at": "2026-10-30T19:10:00.000Z",
+   "a": {
+    "name": "BESTIA",
+    "short": "BESTIA"
+   },
+   "b": {
+    "name": "BTH",
+    "short": "BTH"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399939",
+   "at": "2026-10-30T21:20:00.000Z",
+   "a": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "b": {
+    "name": "BC.Game",
+    "short": "BCGAME"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399976",
+   "at": "2026-10-30T21:25:00.000Z",
+   "a": {
+    "name": "Wildcard",
+    "short": "WILDCARD"
+   },
+   "b": {
+    "name": "BESTIA",
+    "short": "BESTIA"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399977",
+   "at": "2026-10-30T21:25:00.000Z",
+   "a": {
+    "name": "Hacha",
+    "short": "HACHA"
+   },
+   "b": {
+    "name": "BTH",
+    "short": "BTH"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399955",
+   "at": "2026-10-30T22:00:00.000Z",
+   "a": {
+    "name": "DENDELE",
+    "short": "DENDELE"
+   },
+   "b": {
+    "name": "Turma do Pagode",
+    "short": "TDP"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Gamers Club Masters VII",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399940",
+   "at": "2026-10-31T00:35:19.000Z",
+   "a": {
+    "name": "Natus Vincere",
+    "short": "NV"
+   },
+   "b": {
+    "name": "WBT Academy",
+    "short": "WA"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399941",
+   "at": "2026-10-31T00:35:30.000Z",
+   "a": {
+    "name": "Metizport",
+    "short": "METIZPOR"
+   },
+   "b": {
+    "name": "TYLOO",
+    "short": "TYLOO"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399902",
+   "at": "2026-10-31T03:00:00.000Z",
+   "a": {
+    "name": "Abyssal",
+    "short": "ABYSSAL"
+   },
+   "b": {
+    "name": "NEXVOID",
+    "short": "NEXVOID"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "DFRAG Invitational 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399903",
+   "at": "2026-10-31T06:00:00.000Z",
+   "a": {
+    "name": "Alter Ego",
+    "short": "ALTEREGO"
+   },
+   "b": {
+    "name": "NEXVOID",
+    "short": "NEXVOID"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "DFRAG Invitational 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399758",
+   "at": "2026-10-31T08:00:00.000Z",
+   "a": {
+    "name": "Vitality",
+    "short": "VITALITY"
+   },
+   "b": {
+    "name": "MOUZ",
+    "short": "MOUZ"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PGL Masters Bucharest 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400016",
+   "at": "2026-10-31T09:00:00.000Z",
+   "a": {
+    "name": "PsychoFace",
+    "short": "PSYCHOFA"
+   },
+   "b": {
+    "name": "DONSTU",
+    "short": "DONSTU"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399437",
+   "at": "2026-10-31T09:00:00.000Z",
+   "a": {
+    "name": "HOTU",
+    "short": "HOTU"
+   },
+   "b": {
+    "name": "The Huns",
+    "short": "THEHUNS"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "GLuck Moscow Cyber Games 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399526",
+   "at": "2026-10-31T09:00:00.000Z",
+   "a": {
+    "name": "Spirit Academy",
+    "short": "SA"
+   },
+   "b": {
+    "name": "Phantom",
+    "short": "PHANTOM"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400032",
+   "at": "2026-10-31T10:00:00.000Z",
+   "a": {
+    "name": "Optibet",
+    "short": "OPTIBET"
+   },
+   "b": {
+    "name": "Fraternity",
+    "short": "FRATERNI"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "GOEXANIMO Battle of Baltics 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399759",
+   "at": "2026-10-31T11:00:00.000Z",
+   "a": {
+    "name": "Nemiga",
+    "short": "NEMIGA"
+   },
+   "b": {
+    "name": "FURIA",
+    "short": "FURIA"
+   },
+   "sa": 2,
+   "sb": 3,
+   "status": "completed",
+   "event": "PGL Masters Bucharest 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "cs2-match-2400017",
+   "at": "2026-10-31T12:00:00.000Z",
+   "a": {
+    "name": "Saint Sinners",
+    "short": "SS"
+   },
+   "b": {
+    "name": "Misa",
+    "short": "MISA"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399527",
+   "at": "2026-10-31T12:00:00.000Z",
+   "a": {
+    "name": "Betclic",
+    "short": "BETCLIC"
+   },
+   "b": {
+    "name": "9INE",
+    "short": "9INE"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400026",
+   "at": "2026-10-31T12:25:00.000Z",
+   "a": {
+    "name": "PCIFIC",
+    "short": "PCIFIC"
+   },
+   "b": {
+    "name": "Nuclear TigeRES",
+    "short": "NT"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CIS Esports League CyberClash Season 2 Finals",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399956",
+   "at": "2026-10-31T13:00:00.000Z",
+   "a": {
+    "name": "NAOCOPULAS",
+    "short": "NAOCOPUL"
+   },
+   "b": {
+    "name": "paiN",
+    "short": "PAIN"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Gamers Club Masters VII",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400035",
+   "at": "2026-10-31T13:00:00.000Z",
+   "a": {
+    "name": "The Last Resort",
+    "short": "TLR"
+   },
+   "b": {
+    "name": "The Pigs",
+    "short": "THEPIGS"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPIC49",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399979",
+   "at": "2026-10-31T13:00:00.000Z",
+   "a": {
+    "name": "Galorys",
+    "short": "GALORYS"
+   },
+   "b": {
+    "name": "Procyon",
+    "short": "PROCYON"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399978",
+   "at": "2026-10-31T13:00:00.000Z",
+   "a": {
+    "name": "BARCA",
+    "short": "BARCA"
+   },
+   "b": {
+    "name": "Bounty Hunters",
+    "short": "BH"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399438",
+   "at": "2026-10-31T13:00:00.000Z",
+   "a": {
+    "name": "1win",
+    "short": "1WIN"
+   },
+   "b": {
+    "name": "5star",
+    "short": "5STAR"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "GLuck Moscow Cyber Games 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400036",
+   "at": "2026-10-31T13:35:00.000Z",
+   "a": {
+    "name": "Ryvex",
+    "short": "RYVEX"
+   },
+   "b": {
+    "name": "Privateer",
+    "short": "PRIVATEE"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPIC49",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400033",
+   "at": "2026-10-31T14:00:00.000Z",
+   "a": {
+    "name": "Esprots",
+    "short": "ESPROTS"
+   },
+   "b": {
+    "name": "Galaxy",
+    "short": "GALAXY"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "GOEXANIMO Battle of Baltics 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399942",
+   "at": "2026-10-31T14:30:00.000Z",
+   "a": {
+    "name": "JiJieHao",
+    "short": "JIJIEHAO"
+   },
+   "b": {
+    "name": "BASEMENT BOYS",
+    "short": "BB"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399528",
+   "at": "2026-10-31T15:00:00.000Z",
+   "a": {
+    "name": "FOKUS",
+    "short": "FOKUS"
+   },
+   "b": {
+    "name": "BAKS",
+    "short": "BAKS"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400018",
+   "at": "2026-10-31T15:10:00.000Z",
+   "a": {
+    "name": "LFO 10",
+    "short": "LFO10"
+   },
+   "b": {
+    "name": "Fortress",
+    "short": "FORTRESS"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399957",
+   "at": "2026-10-31T16:00:00.000Z",
+   "a": {
+    "name": "Low Cortisol BR",
+    "short": "LCB"
+   },
+   "b": {
+    "name": "Turma do Pagode",
+    "short": "TDP"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Gamers Club Masters VII",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399980",
+   "at": "2026-10-31T16:15:00.000Z",
+   "a": {
+    "name": "ShindeN",
+    "short": "SHINDEN"
+   },
+   "b": {
+    "name": "Isurus",
+    "short": "ISURUS"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400049",
+   "at": "2026-10-31T16:20:00.000Z",
+   "a": {
+    "name": "Phantom Academy",
+    "short": "PA"
+   },
+   "b": {
+    "name": "uwuza",
+    "short": "UWUZA"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "BaseStack League Season 1",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400047",
+   "at": "2026-10-31T16:30:00.000Z",
+   "a": {
+    "name": "prodigy RU",
+    "short": "PR"
+   },
+   "b": {
+    "name": "Monte",
+    "short": "MONTE"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Contenders Europe Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400027",
+   "at": "2026-10-31T16:35:00.000Z",
+   "a": {
+    "name": "Omega",
+    "short": "OMEGA"
+   },
+   "b": {
+    "name": "PRIVATE",
+    "short": "PRIVATE"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CIS Esports League CyberClash Season 2 Finals",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400034",
+   "at": "2026-10-31T16:40:00.000Z",
+   "a": {
+    "name": "Optibet",
+    "short": "OPTIBET"
+   },
+   "b": {
+    "name": "Galaxy",
+    "short": "GALAXY"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "GOEXANIMO Battle of Baltics 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399981",
+   "at": "2026-10-31T16:40:00.000Z",
+   "a": {
+    "name": "Hacha",
+    "short": "HACHA"
+   },
+   "b": {
+    "name": "Wildcard",
+    "short": "WILDCARD"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400039",
+   "at": "2026-10-31T17:00:00.000Z",
+   "a": {
+    "name": "The Pigs",
+    "short": "THEPIGS"
+   },
+   "b": {
+    "name": "29AvgAge",
+    "short": "29AVGAGE"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPIC49",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400038",
+   "at": "2026-10-31T17:30:00.000Z",
+   "a": {
+    "name": "Privateer",
+    "short": "PRIVATEE"
+   },
+   "b": {
+    "name": "CTRL",
+    "short": "CTRL"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPIC49",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400037",
+   "at": "2026-10-31T17:30:00.000Z",
+   "a": {
+    "name": "The Last Resort",
+    "short": "TLR"
+   },
+   "b": {
+    "name": "Ryvex",
+    "short": "RYVEX"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPIC49",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399943",
+   "at": "2026-10-31T17:45:00.000Z",
+   "a": {
+    "name": "Iberian Soul",
+    "short": "IS"
+   },
+   "b": {
+    "name": "OG",
+    "short": "OG"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400040",
+   "at": "2026-10-31T21:00:00.000Z",
+   "a": {
+    "name": "CTRL",
+    "short": "CTRL"
+   },
+   "b": {
+    "name": "The Pigs",
+    "short": "THEPIGS"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPIC49",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400043",
+   "at": "2026-10-31T21:30:00.000Z",
+   "a": {
+    "name": "LAG",
+    "short": "LAG"
+   },
+   "b": {
+    "name": "Sutti's Money Crew",
+    "short": "SMC"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NSTLGA Texas Open 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399985",
+   "at": "2026-10-31T22:15:00.000Z",
+   "a": {
+    "name": "NRG",
+    "short": "NRG"
+   },
+   "b": {
+    "name": "Wildcard",
+    "short": "WILDCARD"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399984",
+   "at": "2026-10-31T22:15:00.000Z",
+   "a": {
+    "name": "100 Thieves",
+    "short": "1T"
+   },
+   "b": {
+    "name": "Isurus",
+    "short": "ISURUS"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399959",
+   "at": "2026-10-31T23:30:00.000Z",
+   "a": {
+    "name": "Imperial",
+    "short": "IMPERIAL"
+   },
+   "b": {
+    "name": "Low Cortisol BR",
+    "short": "LCB"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Gamers Club Masters VII",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400044",
+   "at": "2026-11-01T01:00:00.000Z",
+   "a": {
+    "name": "NuTorious",
+    "short": "NUTORIOU"
+   },
+   "b": {
+    "name": "Holly Molly",
+    "short": "HM"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NSTLGA Texas Open 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399901",
+   "at": "2026-11-01T03:00:00.000Z",
+   "a": {
+    "name": "FlyQuest",
+    "short": "FLYQUEST"
+   },
+   "b": {
+    "name": "Alter Ego",
+    "short": "ALTEREGO"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DFRAG Invitational 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "cs2-match-2399439",
+   "at": "2026-11-01T09:00:00.000Z",
+   "a": {
+    "name": "The Huns",
+    "short": "THEHUNS"
+   },
+   "b": {
+    "name": "5star",
+    "short": "5STAR"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "GLuck Moscow Cyber Games 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399944",
+   "at": "2026-11-01T10:00:00.000Z",
+   "a": {
+    "name": "Metizport",
+    "short": "METIZPOR"
+   },
+   "b": {
+    "name": "JiJieHao",
+    "short": "JIJIEHAO"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399530",
+   "at": "2026-11-01T11:00:00.000Z",
+   "a": {
+    "name": "Betclic",
+    "short": "BETCLIC"
+   },
+   "b": {
+    "name": "Phantom",
+    "short": "PHANTOM"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399440",
+   "at": "2026-11-01T13:00:00.000Z",
+   "a": {
+    "name": "HOTU",
+    "short": "HOTU"
+   },
+   "b": {
+    "name": "1win",
+    "short": "1WIN"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "GLuck Moscow Cyber Games 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399856",
+   "at": "2026-11-02T02:00:00.000Z",
+   "a": {
+    "name": "HEROIC",
+    "short": "HEROIC"
+   },
+   "b": {
+    "name": "B8",
+    "short": "B8"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399855",
+   "at": "2026-11-02T02:00:00.000Z",
+   "a": {
+    "name": "Legacy",
+    "short": "LEGACY"
+   },
+   "b": {
+    "name": "The MongolZ",
+    "short": "TM"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399862",
+   "at": "2026-11-02T04:30:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARIVISI"
+   },
+   "b": {
+    "name": "G2",
+    "short": "G2"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399861",
+   "at": "2026-11-02T04:30:00.000Z",
+   "a": {
+    "name": "Aurora",
+    "short": "AURORA"
+   },
+   "b": {
+    "name": "Liquid",
+    "short": "LIQUID"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399860",
+   "at": "2026-11-02T07:00:00.000Z",
+   "a": {
+    "name": "9z",
+    "short": "9Z"
+   },
+   "b": {
+    "name": "BETBOOM",
+    "short": "BETBOOM"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399857",
+   "at": "2026-11-02T07:00:00.000Z",
+   "a": {
+    "name": "FURIA",
+    "short": "FURIA"
+   },
+   "b": {
+    "name": "FaZe",
+    "short": "FAZE"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399858",
+   "at": "2026-11-02T09:30:00.000Z",
+   "a": {
+    "name": "Natus Vincere",
+    "short": "NV"
+   },
+   "b": {
+    "name": "Falcons",
+    "short": "FALCONS"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399859",
+   "at": "2026-11-02T09:30:00.000Z",
+   "a": {
+    "name": "MOUZ",
+    "short": "MOUZ"
+   },
+   "b": {
+    "name": "TYLOO",
+    "short": "TYLOO"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399851",
+   "at": "2026-11-11T02:00:00.000Z",
+   "a": {
+    "name": "Legacy",
+    "short": "LEGACY"
+   },
+   "b": {
+    "name": "FURIA",
+    "short": "FURIA"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST Rivals 2026 Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399852",
+   "at": "2026-11-11T04:30:00.000Z",
+   "a": {
+    "name": "Vitality",
+    "short": "VITALITY"
+   },
+   "b": {
+    "name": "Falcons",
+    "short": "FALCONS"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST Rivals 2026 Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399853",
+   "at": "2026-11-11T07:00:00.000Z",
+   "a": {
+    "name": "Spirit",
+    "short": "SPIRIT"
+   },
+   "b": {
+    "name": "FUT",
+    "short": "FUT"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST Rivals 2026 Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399854",
+   "at": "2026-11-11T09:30:00.000Z",
+   "a": {
+    "name": "MOUZ",
+    "short": "MOUZ"
+   },
+   "b": {
+    "name": "G2",
+    "short": "G2"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST Rivals 2026 Season 2",
+   "bestOf": 3
+  }
+ ]
 }

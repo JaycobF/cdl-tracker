@@ -1,5 +1,5 @@
 {
- "at": "2026-10-31T20:26:12.478Z",
+ "at": "2026-10-31T20:35:08.317Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -239,8 +239,6 @@
         "countryName",
         "countryCode",
         "worldRanking",
-        "alternateLogoUrl",
-        "darkUiLogoUrl",
         "vrsRanking"
        ],
        "maps": [
