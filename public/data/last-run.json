@@ -1,19 +1,18 @@
 {
- "at": "2026-10-31T20:24:11.162Z",
+ "at": "2026-10-31T20:26:12.478Z",
  "leagues": {
   "cdl": {
-   "ok": false,
-   "error": "No source path answered (Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value.).",
+   "ok": true,
    "requests": [
     {
      "path": "/cod/matches/recent?limit=50",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
-    },
-    {
-     "path": "/cod/matches?limit=50",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
+     "ok": true,
+     "shape": {
+      "top": "success,count,total,pagination,data,meta",
+      "count": 0,
+      "firstKeys": [],
+      "nested": {}
+     }
     }
    ]
   },
@@ -22,23 +21,136 @@
    "requests": [
     {
      "path": "/lol/schedule/results",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
-    },
-    {
-     "path": "/lol/matches/past",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
+     "ok": true,
+     "shape": {
+      "top": "success,count,total,hasMore,filters,data",
+      "count": 50,
+      "firstKeys": [
+       "matchId",
+       "esportsApiId",
+       "tournamentId",
+       "tournament",
+       "blockName",
+       "round",
+       "state",
+       "strategy",
+       "startTime",
+       "endTime",
+       "winnerSlug",
+       "teams",
+       "gameCount"
+      ],
+      "nested": {
+       "tournament": [
+        "tournamentId",
+        "name",
+        "slug",
+        "league"
+       ],
+       "teams": [
+        "[array]",
+        "slug",
+        "name",
+        "shortName",
+        "logoUrl",
+        "score",
+        "outcome"
+       ]
+      }
+     }
     },
     {
      "path": "/lol/schedule/upcoming",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
-    },
-    {
-     "path": "/lol/schedule/week",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
+     "ok": true,
+     "shape": {
+      "top": "success,status,count,data,meta,oddsTrial",
+      "count": 4,
+      "firstKeys": [
+       "matchId",
+       "tournamentId",
+       "tournamentEsportsApiId",
+       "tournamentName",
+       "leagueId",
+       "leagueEsportsApiId",
+       "leagueName",
+       "leagueSlug",
+       "blockName",
+       "round",
+       "team1",
+       "team2",
+       "winnerSlug",
+       "strategy",
+       "startTime",
+       "endTime",
+       "state",
+       "source",
+       "metadataWarning",
+       "metadataWarnings",
+       "odds",
+       "h2hOdds",
+       "oddsAvailable"
+      ],
+      "nested": {
+       "team1": [
+        "slug",
+        "name",
+        "code",
+        "logoUrl",
+        "score"
+       ],
+       "team2": [
+        "slug",
+        "name",
+        "code",
+        "logoUrl",
+        "score"
+       ],
+       "metadataWarnings": [
+        "[array]"
+       ],
+       "odds": [
+        "[array]",
+        "oddsKey",
+        "matchId",
+        "provider",
+        "market",
+        "marketLabel",
+        "gameNumber",
+        "team1Slug",
+        "team2Slug",
+        "line",
+        "team1Odds",
+        "team2Odds",
+        "team1ImpliedProb",
+        "team2ImpliedProb",
+        "marketStatus",
+        "priceSource",
+        "closingLine",
+        "liquidityUsd",
+        "volumeUsd",
+        "volume24hUsd",
+        "bestBid",
+        "bestAsk",
+        "spread",
+        "capturedAt",
+        "firstSeenAt"
+       ],
+       "h2hOdds": [
+        "team1Slug",
+        "team2Slug",
+        "team1Odds",
+        "team2Odds",
+        "team1ImpliedProb",
+        "team2ImpliedProb",
+        "marketStatus",
+        "liquidityUsd",
+        "volumeUsd",
+        "spread",
+        "provider",
+        "capturedAt"
+       ]
+      }
+     }
     }
    ]
   },
@@ -47,13 +159,278 @@
    "requests": [
     {
      "path": "/cs2/matches/recent",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
+     "ok": true,
+     "shape": {
+      "top": "success,data,meta",
+      "count": 50,
+      "firstKeys": [
+       "entityType",
+       "id",
+       "eventId",
+       "eventName",
+       "eventSlug",
+       "stageName",
+       "startsAt",
+       "endsAt",
+       "bestOf",
+       "status",
+       "team1Id",
+       "team2Id",
+       "team1Name",
+       "team2Name",
+       "team1Score",
+       "team2Score",
+       "winnerTeamId",
+       "vetoOrder",
+       "lastSyncedAt",
+       "lastVerified",
+       "confidence",
+       "event",
+       "team1",
+       "team2",
+       "maps"
+      ],
+      "nested": {
+       "vetoOrder": [
+        "[array]",
+        "map",
+        "raw",
+        "order",
+        "action",
+        "teamId",
+        "teamName",
+        "mapName",
+        "mapNumber"
+       ],
+       "event": [
+        "id",
+        "name",
+        "slug",
+        "imageUrl",
+        "prizePool",
+        "currency",
+        "tier",
+        "prestigeScore",
+        "status",
+        "region",
+        "startsAt",
+        "endsAt",
+        "eventId",
+        "logoUrl",
+        "bannerImageUrl"
+       ],
+       "team1": [
+        "id",
+        "name",
+        "slug",
+        "teamTag",
+        "logoUrl",
+        "countryName",
+        "countryCode",
+        "worldRanking",
+        "vrsRanking"
+       ],
+       "team2": [
+        "id",
+        "name",
+        "slug",
+        "teamTag",
+        "logoUrl",
+        "countryName",
+        "countryCode",
+        "worldRanking",
+        "alternateLogoUrl",
+        "darkUiLogoUrl",
+        "vrsRanking"
+       ],
+       "maps": [
+        "[array]",
+        "id",
+        "matchId",
+        "mapNumber",
+        "mapName",
+        "status",
+        "team1Score",
+        "team2Score",
+        "team1Halves",
+        "team2Halves",
+        "winnerTeamId",
+        "durationRounds",
+        "lastSyncedAt",
+        "mapImageUrl",
+        "pickTeamId",
+        "objectiveStats",
+        "mapNameCanonical",
+        "imageUrl",
+        "coverImageUrl",
+        "resultType",
+        "resultStatus",
+        "isForfeit",
+        "statsEligible",
+        "unavailableReason",
+        "dataAvailability"
+       ],
+       "availableSubresources": [
+        "[array]"
+       ],
+       "unavailableSubresources": [
+        "[array]"
+       ],
+       "unavailableFields": [],
+       "dataAvailability": [
+        "playerStats"
+       ]
+      }
+     }
     },
     {
      "path": "/cs2/matches/upcoming",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
+     "ok": true,
+     "shape": {
+      "top": "success,data,meta,oddsTrial",
+      "count": 27,
+      "firstKeys": [
+       "entityType",
+       "id",
+       "eventId",
+       "eventName",
+       "eventSlug",
+       "stageName",
+       "startsAt",
+       "endsAt",
+       "bestOf",
+       "status",
+       "team1Id",
+       "team2Id",
+       "team1Name",
+       "team2Name",
+       "team1Score",
+       "team2Score",
+       "winnerTeamId",
+       "liveState",
+       "vetoOrder",
+       "streamLinks",
+       "vodLinks",
+       "lastSyncedAt",
+       "lastVerified",
+       "confidence",
+       "event"
+      ],
+      "nested": {
+       "liveState": [
+        "status",
+        "team1Score",
+        "team2Score",
+        "winnerTeamId"
+       ],
+       "vetoOrder": [
+        "[array]"
+       ],
+       "vodLinks": [
+        "[array]"
+       ],
+       "event": [
+        "id",
+        "name",
+        "slug",
+        "imageUrl",
+        "prizePool",
+        "currency",
+        "location",
+        "format",
+        "teamCount",
+        "standings",
+        "startsAt",
+        "endsAt",
+        "status",
+        "tier",
+        "prestigeScore",
+        "region",
+        "isLan",
+        "confirmedStatus",
+        "streamLinks",
+        "vodLinks",
+        "lastSyncedAt",
+        "lastVerified",
+        "confidence",
+        "eventId",
+        "logoUrl"
+       ],
+       "team1": [
+        "id",
+        "name",
+        "slug",
+        "teamTag",
+        "logoUrl",
+        "countryName",
+        "countryCode",
+        "region",
+        "worldRanking",
+        "lastSyncedAt",
+        "lastVerified",
+        "confidence",
+        "vrsRanking",
+        "alternateLogoUrl",
+        "darkUiLogoUrl"
+       ],
+       "team2": [
+        "id",
+        "name",
+        "slug",
+        "teamTag",
+        "logoUrl",
+        "countryName",
+        "countryCode",
+        "region",
+        "worldRanking",
+        "lastSyncedAt",
+        "lastVerified",
+        "confidence",
+        "vrsRanking"
+       ],
+       "maps": [
+        "[array]",
+        "id",
+        "matchId",
+        "mapNumber",
+        "mapName",
+        "status",
+        "team1Score",
+        "team2Score",
+        "team1Halves",
+        "team2Halves",
+        "winnerTeamId",
+        "durationRounds",
+        "lastSyncedAt",
+        "playerStats",
+        "bombEvents",
+        "bombStats",
+        "weaponAggregates",
+        "mapImageUrl",
+        "pickTeamId",
+        "objectiveStats",
+        "mapNameCanonical",
+        "imageUrl",
+        "coverImageUrl",
+        "resultType",
+        "resultStatus",
+        "isForfeit"
+       ],
+       "availableSubresources": [
+        "[array]"
+       ],
+       "unavailableSubresources": [
+        "[array]"
+       ],
+       "unavailableFields": [],
+       "dataAvailability": [
+        "playerStats"
+       ],
+       "odds": [
+        "[array]"
+       ]
+      }
+     }
     }
    ]
   },
@@ -62,13 +439,222 @@
    "requests": [
     {
      "path": "/dota2/matches/recent",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
+     "ok": true,
+     "shape": {
+      "top": "success,data,meta",
+      "count": 49,
+      "firstKeys": [
+       "id",
+       "tournamentId",
+       "tournamentName",
+       "tournamentSlug",
+       "stageName",
+       "roundName",
+       "groupName",
+       "matchNumber",
+       "startsAt",
+       "bestOf",
+       "status",
+       "team1Id",
+       "team2Id",
+       "team1Name",
+       "team2Name",
+       "team1Score",
+       "team2Score",
+       "winnerTeamId",
+       "matchResult",
+       "gridId",
+       "raw",
+       "lastSyncedAt",
+       "tournament",
+       "team1",
+       "team2"
+      ],
+      "nested": {
+       "raw": [
+        "gameId",
+        "gridId",
+        "childId",
+        "matchId",
+        "roundId",
+        "streams",
+        "gameMode",
+        "gameName",
+        "opponents",
+        "roundName",
+        "venueName",
+        "matchGames",
+        "startingAt",
+        "matchNumber",
+        "matchResult",
+        "matchStatus",
+        "parentImage",
+        "gamesPerMatch",
+        "isPlayerBased",
+        "canEditMatches",
+        "startTournament",
+        "parentUrlSafeName",
+        "parentTournamentId",
+        "childTournamentName",
+        "childTournamentType"
+       ],
+       "tournament": [
+        "id",
+        "name",
+        "slug",
+        "imageUrl",
+        "prizePool",
+        "currency",
+        "startsAt",
+        "endsAt",
+        "status",
+        "raw",
+        "lastSyncedAt"
+       ],
+       "team1": [
+        "id",
+        "name",
+        "tag",
+        "slug",
+        "imageUrl",
+        "countryName",
+        "countryCode",
+        "worldRanking",
+        "raw",
+        "lastSyncedAt"
+       ],
+       "team2": [
+        "id",
+        "name",
+        "tag",
+        "slug",
+        "imageUrl",
+        "countryName",
+        "countryCode",
+        "worldRanking",
+        "raw",
+        "lastSyncedAt"
+       ],
+       "games": [
+        "[array]",
+        "id",
+        "matchId",
+        "gameNumber",
+        "openDotaMatchId",
+        "result",
+        "duration",
+        "radiantTeamId",
+        "direTeamId",
+        "winnerTeamId",
+        "raw",
+        "lastSyncedAt"
+       ]
+      }
+     }
     },
     {
      "path": "/dota2/matches/upcoming",
-     "ok": false,
-     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: [key hidden]\"\" is an invalid header value."
+     "ok": true,
+     "shape": {
+      "top": "success,data,meta",
+      "count": 4,
+      "firstKeys": [
+       "id",
+       "tournamentId",
+       "tournamentName",
+       "tournamentSlug",
+       "stageName",
+       "roundName",
+       "groupName",
+       "matchNumber",
+       "startsAt",
+       "bestOf",
+       "status",
+       "team1Id",
+       "team2Id",
+       "team1Name",
+       "team2Name",
+       "team1Score",
+       "team2Score",
+       "winnerTeamId",
+       "matchResult",
+       "gridId",
+       "raw",
+       "lastSyncedAt",
+       "tournament",
+       "team1",
+       "team2"
+      ],
+      "nested": {
+       "raw": [
+        "gameId",
+        "gridId",
+        "childId",
+        "matchId",
+        "roundId",
+        "streams",
+        "gameMode",
+        "gameName",
+        "opponents",
+        "roundName",
+        "venueName",
+        "matchGames",
+        "startingAt",
+        "matchNumber",
+        "matchResult",
+        "matchStatus",
+        "parentImage",
+        "gamesPerMatch",
+        "isPlayerBased",
+        "canEditMatches",
+        "startTournament",
+        "parentUrlSafeName",
+        "parentTournamentId",
+        "childTournamentName",
+        "childTournamentType"
+       ],
+       "tournament": [
+        "id",
+        "name",
+        "slug",
+        "imageUrl",
+        "prizePool",
+        "currency",
+        "startsAt",
+        "endsAt",
+        "status",
+        "raw",
+        "lastSyncedAt"
+       ],
+       "team1": [
+        "id",
+        "name",
+        "tag",
+        "slug",
+        "imageUrl",
+        "countryName",
+        "countryCode",
+        "worldRanking",
+        "raw",
+        "lastSyncedAt"
+       ],
+       "team2": [
+        "id",
+        "name",
+        "tag",
+        "slug",
+        "imageUrl",
+        "countryName",
+        "countryCode",
+        "worldRanking",
+        "raw",
+        "lastSyncedAt"
+       ],
+       "games": [
+        "[array]"
+       ]
+      }
+     }
     }
    ]
   }

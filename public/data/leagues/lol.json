@@ -1,7 +1,926 @@
 {
  "id": "lol",
- "updated": null,
- "upcomingFetched": null,
- "recentFetched": null,
- "matches": []
+ "updated": "2026-10-31T20:26:12.478Z",
+ "upcomingFetched": "2026-10-31T20:26:12.478Z",
+ "recentFetched": "2026-10-31T20:26:12.478Z",
+ "matches": [
+  {
+   "id": "lol-match-116952475624364075",
+   "at": "2026-10-11T13:00:00.000Z",
+   "a": {
+    "name": "Saigon MVKE Academy",
+    "short": "MVKA"
+   },
+   "b": {
+    "name": "Saigon Warrior",
+    "short": "SGW"
+   },
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
+   "event": "Season Finals 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117133830110912099",
+   "at": "2026-10-12T06:00:00.000Z",
+   "a": {
+    "name": "kt Rolster",
+    "short": "KT"
+   },
+   "b": {
+    "name": "Team Vitality",
+    "short": "VIT"
+   },
+   "sa": 3,
+   "sb": 2,
+   "status": "completed",
+   "event": "demacia cup 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117133830110912093",
+   "at": "2026-10-12T09:00:00.000Z",
+   "a": {
+    "name": "BNK FEARX",
+    "short": "BFX"
+   },
+   "b": {
+    "name": "Beijing JDG Esports",
+    "short": "JDG"
+   },
+   "sa": 3,
+   "sb": 2,
+   "status": "completed",
+   "event": "demacia cup 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117275453885353242",
+   "at": "2026-10-12T21:00:00.000Z",
+   "a": {
+    "name": "KaBuM! Eports",
+    "short": "KBM"
+   },
+   "b": {
+    "name": "MIBR.LOS",
+    "short": "ML"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "cblol promotion 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117322971012796412",
+   "at": "2026-10-12T23:00:00.000Z",
+   "a": {
+    "name": "Disguised",
+    "short": "DSG"
+   },
+   "b": {
+    "name": "Maryville University",
+    "short": "MU"
+   },
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
+   "event": "lcs promotion 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117133830110912105",
+   "at": "2026-10-13T06:00:00.000Z",
+   "a": {
+    "name": "Xi'an Team WE",
+    "short": "WE"
+   },
+   "b": {
+    "name": "FlyQuest",
+    "short": "FLY"
+   },
+   "sa": 3,
+   "sb": 2,
+   "status": "completed",
+   "event": "demacia cup 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117133830110912111",
+   "at": "2026-10-13T09:00:00.000Z",
+   "a": {
+    "name": "HANJIN BRION",
+    "short": "BRO"
+   },
+   "b": {
+    "name": "LGD GAMING",
+    "short": "LGD"
+   },
+   "sa": 3,
+   "sb": 1,
+   "status": "completed",
+   "event": "demacia cup 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117173205319911435",
+   "at": "2026-10-13T16:00:00.000Z",
+   "a": {
+    "name": "Galions",
+    "short": "GL"
+   },
+   "b": {
+    "name": "Movistar KOI Fénix",
+    "short": "MKF"
+   },
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
+   "event": "Summer 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117133830110912117",
+   "at": "2026-10-14T09:00:00.000Z",
+   "a": {
+    "name": "kt Rolster",
+    "short": "KT"
+   },
+   "b": {
+    "name": "BNK FEARX",
+    "short": "BFX"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "demacia cup 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117173205319911429",
+   "at": "2026-10-14T19:00:00.000Z",
+   "a": {
+    "name": "Anubis Gaming",
+    "short": "ANB"
+   },
+   "b": {
+    "name": "Solary",
+    "short": "SLY"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "Summer 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117133830110912123",
+   "at": "2026-10-15T09:00:00.000Z",
+   "a": {
+    "name": "HANJIN BRION",
+    "short": "BRO"
+   },
+   "b": {
+    "name": "Xi'an Team WE",
+    "short": "WE"
+   },
+   "sa": 2,
+   "sb": 3,
+   "status": "completed",
+   "event": "demacia cup 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660588583171786",
+   "at": "2026-10-15T18:00:00.000Z",
+   "a": {
+    "name": "Cloud9 Kia",
+    "short": "C9"
+   },
+   "b": {
+    "name": "Karmine Corp",
+    "short": "KC"
+   },
+   "sa": 2,
+   "sb": 3,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660588583040710",
+   "at": "2026-10-15T23:00:00.000Z",
+   "a": {
+    "name": "FURIA",
+    "short": "FUR"
+   },
+   "b": {
+    "name": "MVK Esports",
+    "short": "MVK"
+   },
+   "sa": 0,
+   "sb": 3,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660588583171790",
+   "at": "2026-10-16T18:00:00.000Z",
+   "a": {
+    "name": "Karmine Corp",
+    "short": "KC"
+   },
+   "b": {
+    "name": "MVK Esports",
+    "short": "MVK"
+   },
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660588583171794",
+   "at": "2026-10-16T21:00:00.000Z",
+   "a": {
+    "name": "Cloud9 Kia",
+    "short": "C9"
+   },
+   "b": {
+    "name": "FURIA",
+    "short": "FUR"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117133830110912129",
+   "at": "2026-10-17T09:30:00.000Z",
+   "a": {
+    "name": "Xi'an Team WE",
+    "short": "WE"
+   },
+   "b": {
+    "name": "BNK FEARX",
+    "short": "BFX"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "demacia cup 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660588583171798",
+   "at": "2026-10-17T18:00:00.000Z",
+   "a": {
+    "name": "MVK Esports",
+    "short": "MVK"
+   },
+   "b": {
+    "name": "FURIA",
+    "short": "FUR"
+   },
+   "sa": 3,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-116299649498303884",
+   "at": "2026-10-18T18:00:00.000Z",
+   "a": {
+    "name": "Karmine Corp",
+    "short": "KC"
+   },
+   "b": {
+    "name": "MVK Esports",
+    "short": "MVK"
+   },
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117173205319911441",
+   "at": "2026-10-22T12:00:00.000Z",
+   "a": {
+    "name": "Galions",
+    "short": "GL"
+   },
+   "b": {
+    "name": "Solary",
+    "short": "SLY"
+   },
+   "sa": 3,
+   "sb": 2,
+   "status": "completed",
+   "event": "Summer 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095005",
+   "at": "2026-10-23T17:00:00.000Z",
+   "a": {
+    "name": "Gen.G Esports",
+    "short": "GEN"
+   },
+   "b": {
+    "name": "Invictus Gaming",
+    "short": "IG"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095013",
+   "at": "2026-10-23T18:00:00.000Z",
+   "a": {
+    "name": "Hanwha Life Esports",
+    "short": "HLE"
+   },
+   "b": {
+    "name": "TOP ESPORTS",
+    "short": "TES"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095019",
+   "at": "2026-10-23T19:00:00.000Z",
+   "a": {
+    "name": "BILIBILI GAMING",
+    "short": "BLG"
+   },
+   "b": {
+    "name": "Movistar KOI",
+    "short": "MKOI"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095009",
+   "at": "2026-10-23T20:00:00.000Z",
+   "a": {
+    "name": "Anyone's Legend",
+    "short": "AL"
+   },
+   "b": {
+    "name": "Karmine Corp",
+    "short": "KC"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095011",
+   "at": "2026-10-23T21:00:00.000Z",
+   "a": {
+    "name": "G2 Esports",
+    "short": "G2"
+   },
+   "b": {
+    "name": "Dplus KIA",
+    "short": "DK"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095007",
+   "at": "2026-10-23T22:00:00.000Z",
+   "a": {
+    "name": "Team Liquid Alienware",
+    "short": "TLAW"
+   },
+   "b": {
+    "name": "CTBC Flying Oyster",
+    "short": "CFO"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095015",
+   "at": "2026-10-23T23:00:00.000Z",
+   "a": {
+    "name": "MIBR.LOS",
+    "short": "ML"
+   },
+   "b": {
+    "name": "T1",
+    "short": "T1"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095017",
+   "at": "2026-10-24T00:00:00.000Z",
+   "a": {
+    "name": "Team Secret Whales",
+    "short": "TSW"
+   },
+   "b": {
+    "name": "LYON",
+    "short": "LYON"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095029",
+   "at": "2026-10-24T17:00:00.000Z",
+   "a": {
+    "name": "Anyone's Legend",
+    "short": "AL"
+   },
+   "b": {
+    "name": "TOP ESPORTS",
+    "short": "TES"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095021",
+   "at": "2026-10-24T18:00:00.000Z",
+   "a": {
+    "name": "CTBC Flying Oyster",
+    "short": "CFO"
+   },
+   "b": {
+    "name": "Movistar KOI",
+    "short": "MKOI"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095031",
+   "at": "2026-10-24T19:00:00.000Z",
+   "a": {
+    "name": "G2 Esports",
+    "short": "G2"
+   },
+   "b": {
+    "name": "MIBR.LOS",
+    "short": "ML"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095023",
+   "at": "2026-10-24T20:00:00.000Z",
+   "a": {
+    "name": "LYON",
+    "short": "LYON"
+   },
+   "b": {
+    "name": "Karmine Corp",
+    "short": "KC"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095033",
+   "at": "2026-10-24T21:00:00.000Z",
+   "a": {
+    "name": "Team Secret Whales",
+    "short": "TSW"
+   },
+   "b": {
+    "name": "Invictus Gaming",
+    "short": "IG"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095025",
+   "at": "2026-10-24T22:00:00.000Z",
+   "a": {
+    "name": "Gen.G Esports",
+    "short": "GEN"
+   },
+   "b": {
+    "name": "Hanwha Life Esports",
+    "short": "HLE"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095027",
+   "at": "2026-10-24T23:00:00.000Z",
+   "a": {
+    "name": "T1",
+    "short": "T1"
+   },
+   "b": {
+    "name": "Dplus KIA",
+    "short": "DK"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095035",
+   "at": "2026-10-25T00:30:00.000Z",
+   "a": {
+    "name": "Team Liquid Alienware",
+    "short": "TLAW"
+   },
+   "b": {
+    "name": "BILIBILI GAMING",
+    "short": "BLG"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095045",
+   "at": "2026-10-25T17:00:00.000Z",
+   "a": {
+    "name": "Hanwha Life Esports",
+    "short": "HLE"
+   },
+   "b": {
+    "name": "Invictus Gaming",
+    "short": "IG"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095047",
+   "at": "2026-10-25T18:00:00.000Z",
+   "a": {
+    "name": "TOP ESPORTS",
+    "short": "TES"
+   },
+   "b": {
+    "name": "G2 Esports",
+    "short": "G2"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095037",
+   "at": "2026-10-25T19:00:00.000Z",
+   "a": {
+    "name": "Movistar KOI",
+    "short": "MKOI"
+   },
+   "b": {
+    "name": "Dplus KIA",
+    "short": "DK"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095041",
+   "at": "2026-10-25T21:00:00.000Z",
+   "a": {
+    "name": "Gen.G Esports",
+    "short": "GEN"
+   },
+   "b": {
+    "name": "LYON",
+    "short": "LYON"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095049",
+   "at": "2026-10-26T17:00:00.000Z",
+   "a": {
+    "name": "CTBC Flying Oyster",
+    "short": "CFO"
+   },
+   "b": {
+    "name": "T1",
+    "short": "T1"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095051",
+   "at": "2026-10-26T18:00:00.000Z",
+   "a": {
+    "name": "BILIBILI GAMING",
+    "short": "BLG"
+   },
+   "b": {
+    "name": "Karmine Corp",
+    "short": "KC"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095053",
+   "at": "2026-10-26T19:00:00.000Z",
+   "a": {
+    "name": "MIBR.LOS",
+    "short": "ML"
+   },
+   "b": {
+    "name": "Team Secret Whales",
+    "short": "TSW"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095057",
+   "at": "2026-10-26T21:00:00.000Z",
+   "a": {
+    "name": "Team Liquid Alienware",
+    "short": "TLAW"
+   },
+   "b": {
+    "name": "Anyone's Legend",
+    "short": "AL"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095061",
+   "at": "2026-10-28T20:00:00.000Z",
+   "a": {
+    "name": "Movistar KOI",
+    "short": "MKOI"
+   },
+   "b": {
+    "name": "T1",
+    "short": "T1"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095065",
+   "at": "2026-10-28T22:00:00.000Z",
+   "a": {
+    "name": "LYON",
+    "short": "LYON"
+   },
+   "b": {
+    "name": "Invictus Gaming",
+    "short": "IG"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095073",
+   "at": "2026-10-29T20:00:00.000Z",
+   "a": {
+    "name": "CTBC Flying Oyster",
+    "short": "CFO"
+   },
+   "b": {
+    "name": "Karmine Corp",
+    "short": "KC"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095069",
+   "at": "2026-10-29T23:00:00.000Z",
+   "a": {
+    "name": "BILIBILI GAMING",
+    "short": "BLG"
+   },
+   "b": {
+    "name": "TOP ESPORTS",
+    "short": "TES"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095077",
+   "at": "2026-10-30T20:00:00.000Z",
+   "a": {
+    "name": "Team Liquid Alienware",
+    "short": "TLAW"
+   },
+   "b": {
+    "name": "MIBR.LOS",
+    "short": "ML"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095081",
+   "at": "2026-10-30T23:00:00.000Z",
+   "a": {
+    "name": "G2 Esports",
+    "short": "G2"
+   },
+   "b": {
+    "name": "Hanwha Life Esports",
+    "short": "HLE"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095085",
+   "at": "2026-10-31T17:00:00.000Z",
+   "a": {
+    "name": "Movistar KOI",
+    "short": "MKOI"
+   },
+   "b": {
+    "name": "Karmine Corp",
+    "short": "KC"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-115660540726095093",
+   "at": "2026-10-31T23:00:00.000Z",
+   "a": {
+    "name": "Hanwha Life Esports",
+    "short": "HLE"
+   },
+   "b": {
+    "name": "BILIBILI GAMING",
+    "short": "BLG"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Worlds 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117393592614464336",
+   "at": "2026-11-10T05:00:00.000Z",
+   "a": {
+    "name": "FENNEL",
+    "short": "FL"
+   },
+   "b": {
+    "name": "Nothin'Here",
+    "short": "NTH"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "lcp promotion 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117393592614464342",
+   "at": "2026-11-10T09:00:00.000Z",
+   "a": {
+    "name": "Saigon Warrior",
+    "short": "SGW"
+   },
+   "b": {
+    "name": "Team Gromp",
+    "short": "TGM"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "lcp promotion 2026",
+   "bestOf": null
+  },
+  {
+   "id": "lol-match-117393592614464348",
+   "at": "2026-11-11T09:00:00.000Z",
+   "a": {
+    "name": "Ground Zero Gaming",
+    "short": "GZ"
+   },
+   "b": {
+    "name": "Frank Esports",
+    "short": "FAK"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "lcp promotion 2026",
+   "bestOf": null
+  }
+ ]
 }
