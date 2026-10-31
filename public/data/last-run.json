@@ -1,0 +1,76 @@
+{
+ "at": "2026-10-31T20:24:11.162Z",
+ "leagues": {
+  "cdl": {
+   "ok": false,
+   "error": "No source path answered (Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value.).",
+   "requests": [
+    {
+     "path": "/cod/matches/recent?limit=50",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    },
+    {
+     "path": "/cod/matches?limit=50",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    }
+   ]
+  },
+  "lol": {
+   "ok": true,
+   "requests": [
+    {
+     "path": "/lol/schedule/results",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    },
+    {
+     "path": "/lol/matches/past",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    },
+    {
+     "path": "/lol/schedule/upcoming",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    },
+    {
+     "path": "/lol/schedule/week",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    }
+   ]
+  },
+  "cs2": {
+   "ok": true,
+   "requests": [
+    {
+     "path": "/cs2/matches/recent",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    },
+    {
+     "path": "/cs2/matches/upcoming",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    }
+   ]
+  },
+  "dota2": {
+   "ok": true,
+   "requests": [
+    {
+     "path": "/dota2/matches/recent",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    },
+    {
+     "path": "/dota2/matches/upcoming",
+     "ok": false,
+     "error": "Headers.append: \"curl \"https://api.citoapi.com/api/v1/cod/matches?limit=5\" \\\n  -H \"x-api-key: cito_30bedad95b7bd1158668296c302681d371b1ea5c7f7b6bad8120835f6dcf7a60\"\" is an invalid header value."
+    }
+   ]
+  }
+ }
+}
