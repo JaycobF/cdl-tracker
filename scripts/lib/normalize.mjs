@@ -66,7 +66,7 @@ export function normalizeMatch(m) {
   else if (/(live|running|progress|ongoing|started)/.test(statusRaw)) status = "live";
   else if (winnerRaw) status = "completed";
   const event = pick(m, "league.name", "tournament.name", "tournament_name", "tournamentName", "event.name", "event_name", "eventName", "league_name", "leagueName", "serie.full_name", "stage", "tournament", "event", "league");
-  const boRaw = pick(m, "best_of", "bestOf", "bo", "number_of_games", "numberOfGames", "gameCount", "strategy.count", "match.strategy.count", "strategy");
+  const boRaw = pick(m, "best_of", "bestOf", "bo", "number_of_games", "numberOfGames", "strategy.count", "match.strategy.count", "strategy");
   const bestOf = typeof boRaw === "string" ? num((boRaw.match(/\d+/) || [])[0]) : num(boRaw);
   return {
     id: String(pick(m, "id", "match_id", "matchId", "slug") ?? ""),
