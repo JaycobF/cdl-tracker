@@ -9,6 +9,12 @@ const pick = (o, ...keys) => {
   }
   return undefined;
 };
+// Logo links are kept only as https (http and protocol-relative links are upgraded).
+const secureUrl = u => {
+  if (typeof u !== "string") return "";
+  const v = u.trim().replace(/^\/\//, "https://").replace(/^http:\/\//i, "https://");
+  return /^https:\/\/[^\s"'<>]+$/.test(v) ? v : "";
+};
 const num = v => (v === undefined || v === null || v === "" || isNaN(+v) ? null : +v);
 
 function side(t, fallbackScore) {
@@ -18,7 +24,7 @@ function side(t, fallbackScore) {
   const short = pick(t, "acronym", "abbreviation", "abbr", "short_name", "shortName", "teamTag", "tag", "code", "slug", "team.acronym", "team.slug", "opponent.acronym");
   const score = num(pick(t, "score", "series_score", "seriesScore", "maps_won", "mapsWon", "wins", "result.score", "result.gameWins", "result.game_wins", "gameWins")) ?? num(fallbackScore);
   const logo = pick(t, "logoUrl", "logo_url", "logo", "image_url", "imageUrl", "team.logoUrl", "team.logo");
-  return { name: String(name ?? short ?? ""), short: short ? String(short) : "", code: teamCode(name, short), score, logo: typeof logo === "string" && /^https:\/\//.test(logo) ? logo : "" };
+  return { name: String(name ?? short ?? ""), short: short ? String(short) : "", code: teamCode(name, short), score, logo: secureUrl(logo) };
 }
 
 export function listFrom(payload) {

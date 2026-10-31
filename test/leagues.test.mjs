@@ -171,3 +171,10 @@ test("team logos from the source are kept, only as https links", () => {
   mergeInto(bad, { data: [{ id: 1, startsAt: "2026-10-31T10:00:00Z", status: "finished", team1: { name: "A", logoUrl: "javascript:alert(1)", score: 2 }, team2: { name: "B", score: 0 } }] }, "completed", new Date("2026-10-31T20:00:00Z"));
   assert.equal(bad.matches[0].a.logo, undefined);
 });
+
+test("http and protocol-relative logo links are upgraded to https", async () => {
+  const { normalizeMatch } = await import("../scripts/lib/normalize.mjs");
+  const n = normalizeMatch({ teams: [{ name: "T1", logoUrl: "http://static.lolesports.com/teams/t1.png" }, { name: "GEN", logoUrl: "//cdn.example.com/gen.png" }] });
+  assert.equal(n.a.logo, "https://static.lolesports.com/teams/t1.png");
+  assert.equal(n.b.logo, "https://cdn.example.com/gen.png");
+});
