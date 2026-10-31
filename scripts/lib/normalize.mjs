@@ -17,7 +17,8 @@ function side(t, fallbackScore) {
   const name = pick(t, "name", "team_name", "teamName", "full_name", "fullName", "title", "team.name", "opponent.name");
   const short = pick(t, "acronym", "abbreviation", "abbr", "short_name", "shortName", "teamTag", "tag", "code", "slug", "team.acronym", "team.slug", "opponent.acronym");
   const score = num(pick(t, "score", "series_score", "seriesScore", "maps_won", "mapsWon", "wins", "result.score", "result.gameWins", "result.game_wins", "gameWins")) ?? num(fallbackScore);
-  return { name: String(name ?? short ?? ""), short: short ? String(short) : "", code: teamCode(name, short), score };
+  const logo = pick(t, "logoUrl", "logo_url", "logo", "image_url", "imageUrl", "team.logoUrl", "team.logo");
+  return { name: String(name ?? short ?? ""), short: short ? String(short) : "", code: teamCode(name, short), score, logo: typeof logo === "string" && /^https:\/\//.test(logo) ? logo : "" };
 }
 
 export function listFrom(payload) {

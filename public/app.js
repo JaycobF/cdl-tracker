@@ -12,7 +12,13 @@ const fmtTime = d => d.toLocaleTimeString([], { hour: "numeric", minute: "2-digi
 const dayKey = d => d.toLocaleDateString("en-CA");
 const fmtDay = d => d.toLocaleDateString([], { weekday: "long", month: "short", day: "numeric" });
 const tz = (() => { try { return Intl.DateTimeFormat().resolvedOptions().timeZone; } catch (e) { return ""; } })();
-const crest = c => TEAMS[c] ? `<span class="crest" style="background:${TEAMS[c].color}" aria-hidden="true">${c}</span>` : `<span class="crest gen" aria-hidden="true">?</span>`;
+const crest = c => `<span class="crest" aria-hidden="true">${esc(TEAMS[c] ? c : "?")}</span>`;
+/* Score markup from the design system: winner's number on the highlight chip, loser muted, en dash. */
+function scoreHTML(sa, sb, final) {
+  const cls = (x, y) => (final && x > y ? "w" : final && x < y ? "l" : "");
+  return `<span class="sc"><span class="${cls(sa, sb)}">${sa}</span><span class="dash">–</span><span class="${cls(sb, sa)}">${sb}</span></span>`;
+}
+const badge = (kind, text) => `<span class="badge ${kind}">${esc(text)}</span>`;
 const initials = n => n.split(" ").filter(w => /^[A-Z0-9]/.test(w)).map(w => w[0]).join("").slice(0, 3);
 const genCrest = n => `<span class="crest gen" aria-hidden="true">${esc(initials(n))}</span>`;
 const short = c => TEAMS[c]?.short || c;
@@ -46,16 +52,17 @@ function computeStandings() {
   return Object.values(t).sort((x, y) => y.p - x.p || (y.mw - y.ml) - (x.mw - x.ml) || y.mw - x.mw || TEAMS[x.c].name.localeCompare(TEAMS[y.c].name));
 }
 const formHTML = f => { const l = f.slice(-5); return `<span class="form">${'<span class="fm N"></span>'.repeat(5 - l.length)}${l.map(x => `<span class="fm ${x}">${x}</span>`).join("")}</span>`; };
-const diff = r => { const d = r.mw - r.ml; return `${d > 0 ? "+" : ""}${d}`; };
+const signed = d => (d > 0 ? `+${d}` : d < 0 ? `−${-d}` : "0");
+const diff = r => signed(r.mw - r.ml);
 
 function renderStandings() {
   const rows = computeStandings();
   const played = MATCHES.filter(m => results[m.id]).length;
   $("#st-note").textContent = played ? `${played} of ${MATCHES.length} series played` : "Season starts Dec 4";
   $("#standings").innerHTML = `<thead><tr><th>#</th><th class="l">Team</th><th>PL</th><th>W</th><th>L</th><th class="hs">Maps</th><th>+/-</th><th>PTS</th><th class="hs l">Form</th></tr></thead><tbody>` +
-    rows.map((r, i) => `<tr><td class="pos ${i < 8 ? "z" : ""}">${i + 1}</td><td class="l"><span class="tn">${crest(r.c)}<span class="nm">${esc(TEAMS[r.c].name)}</span></span></td><td>${r.w + r.l}</td><td>${r.w}</td><td>${r.l}</td><td class="hs">${r.mw}–${r.ml}</td><td>${diff(r)}</td><td class="pts">${r.p}</td><td class="hs l">${formHTML(r.form)}</td></tr>`).join("") + "</tbody>";
+    rows.map((r, i) => `<tr class="${i === 7 ? "cut" : ""}"><td class="pos ${i < 8 ? "z" : ""}">${i + 1}</td><td class="l"><span class="tn">${crest(r.c)}<span class="nm">${esc(TEAMS[r.c].name)}</span></span></td><td>${r.w + r.l}</td><td>${r.w}</td><td>${r.l}</td><td class="hs">${r.mw}–${r.ml}</td><td>${diff(r)}</td><td class="pts">${r.p}</td><td class="hs l">${formHTML(r.form)}</td></tr>`).join("") + "</tbody>";
   $("#mini").innerHTML = `<thead><tr><th>#</th><th class="l">Team</th><th>PL</th><th>+/-</th><th>PTS</th></tr></thead><tbody>` +
-    rows.map((r, i) => `<tr><td class="pos ${i < 8 ? "z" : ""}">${i + 1}</td><td class="l"><span class="tn">${crest(r.c)}<span class="nm">${esc(short(r.c))}</span></span></td><td>${r.w + r.l}</td><td>${diff(r)}</td><td class="pts">${r.p}</td></tr>`).join("") + "</tbody>";
+    rows.map((r, i) => `<tr class="${i === 7 ? "cut" : ""}"><td class="pos ${i < 8 ? "z" : ""}">${i + 1}</td><td class="l"><span class="tn">${crest(r.c)}<span class="nm">${esc(short(r.c))}</span></span></td><td>${r.w + r.l}</td><td>${diff(r)}</td><td class="pts">${r.p}</td></tr>`).join("") + "</tbody>";
 }
 
 /* ---------- top, next event, road ---------- */
@@ -86,11 +93,11 @@ function rowHTML(a, b, r, at, tag) {
   const nm = c => `<span class="nm"><span class="long">${esc(TEAMS[c]?.name || c)}</span><span class="short">${esc(short(c))}</span></span>`;
   return `<div class="m"><div class="mr">
     <span class="side a${bw ? " lost" : ""}">${nm(a)}${crest(a)}</span>
-    <span class="mid">${r ? `<span class="sc">${r.sa} - ${r.sb}</span><span class="ftag">${tag || "FT"}</span>` : `<span class="tm">${at ? fmtTime(at) : "TBD"}</span>`}</span>
+    <span class="mid">${r ? `${scoreHTML(r.sa, r.sb, true)}${badge("final", tag || "Final")}` : `<span class="tm">${at ? fmtTime(at) : "TBD"}</span>`}</span>
     <span class="side${aw ? " lost" : ""}">${crest(b)}${nm(b)}</span>
   </div></div>`;
 }
-const matchHTML = m => rowHTML(m.a, m.b, results[m.id], m.at, results[m.id]?.src === "manual" ? "FT · edited" : "FT");
+const matchHTML = m => rowHTML(m.a, m.b, results[m.id], m.at, results[m.id]?.src === "manual" ? "Final · edited" : "Final");
 function dayGroups(list, label) {
   let h = "", last = "";
   for (const m of list) {
@@ -166,7 +173,7 @@ function renderHistory() {
   $("#seasons").innerHTML = H.seasons.map(s => `<button class="pill ${s.y === histYear ? "on" : ""}" data-y="${s.y}">${s.y}</button>`).join("");
   const s = H.seasons.find(x => x.y === histYear);
   const evRows = s.events.map(e => `<div class="er"><span class="k">${esc(e[0])}</span><span class="w">${esc(e[1])}</span><span class="s">${e[3] ? `<span class="sc">${esc(e[3].replace("–", " - "))}</span>` : `<span class="sub">vs</span>`}</span><span class="l2">${esc(e[2] || "Runner-up n/a")}</span>${(e[4] || e[5]) ? `<span class="x">${esc([e[4], e[5] ? "MVP " + e[5] : ""].filter(Boolean).join(" · "))}</span>` : ""}</div>`).join("");
-  const stRows = s.st.map((r, i) => { const d = r[4] - r[5]; return `<tr><td class="pos ${(i < 8 || s.y === 2020) ? "z" : ""}">${i + 1}</td><td class="l"><span class="tn">${genCrest(r[0])}<span class="nm">${esc(r[0])}</span>${r[0] === s.champ ? ` <span style="color:var(--gold)" title="Champion">★</span>` : ""}</span></td><td>${r[2] + r[3]}</td><td>${r[2]}</td><td>${r[3]}</td><td class="hs">${r[4]}–${r[5]}</td><td>${d > 0 ? "+" : ""}${d}</td><td class="pts">${r[1]}</td></tr>`; }).join("");
+  const stRows = s.st.map((r, i) => { const d = r[4] - r[5]; return `<tr class="${i === 7 && s.y !== 2020 ? "cut" : ""}"><td class="pos ${(i < 8 || s.y === 2020) ? "z" : ""}">${i + 1}</td><td class="l"><span class="tn">${genCrest(r[0])}<span class="nm">${esc(r[0])}</span>${r[0] === s.champ ? ` <span style="color:var(--gold)" title="Champion">★</span>` : ""}</span></td><td>${r[2] + r[3]}</td><td>${r[2]}</td><td>${r[3]}</td><td class="hs">${r[4]}–${r[5]}</td><td>${signed(d)}</td><td class="pts">${r[1]}</td></tr>`; }).join("");
   $("#hist").innerHTML = `
     <div class="card">
       <div class="ch"><h2>${s.y} · ${esc(s.game)}</h2><span class="sub">${esc(s.dates)}</span></div>
@@ -192,10 +199,17 @@ function renderTitles() {
 }
 
 /* ---------- other leagues (LoL, CS2, Dota 2) ---------- */
-const PALETTE = ["#2F6FD6", "#D2462F", "#2E9E6B", "#8A4FD8", "#C9861A", "#1F9AAE", "#C2337B", "#5A6B86", "#7D9A23", "#B5532A"];
-const hue = s => { let h = 0; for (const ch of String(s)) h = (h * 31 + ch.charCodeAt(0)) >>> 0; return PALETTE[h % PALETTE.length]; };
 const gAbbr = t => (t.short || initials(t.name) || t.name.slice(0, 3)).slice(0, 4).toUpperCase();
-const gCrest = t => `<span class="crest" style="background:${hue(t.name)}" aria-hidden="true">${esc(gAbbr(t))}</span>`;
+// TeamLogo: the team's own mark on a plate when the source sends one, else its tag. Never recolored.
+const safeUrl = u => (/^https:\/\/[^\s"'<>]+$/.test(u || "") ? u : "");
+const gCrest = t => safeUrl(t.logo)
+  ? `<span class="crest logo" aria-hidden="true" data-tag="${esc(gAbbr(t))}"><img src="${esc(safeUrl(t.logo))}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>`
+  : `<span class="crest" aria-hidden="true">${esc(gAbbr(t))}</span>`;
+// A logo that fails to load falls back to the tag.
+document.addEventListener("error", e => {
+  const img = e.target; if (!(img instanceof HTMLImageElement) || !img.parentElement?.classList.contains("logo")) return;
+  const box = img.parentElement; box.classList.remove("logo"); box.textContent = box.dataset.tag || "";
+}, true);
 const gStore = {}; // league id -> store
 
 function gRow(m) {
@@ -204,8 +218,8 @@ function gRow(m) {
   const aw = done && m.sa > m.sb, bw = done && m.sb > m.sa;
   const nm = t => `<span class="nm"><span class="long">${esc(t.name)}</span><span class="short">${esc(t.name.length <= 13 || !t.short ? t.name : t.short)}</span></span>`;
   const at = m.at ? new Date(m.at) : null;
-  const mid = has ? `<span class="sc">${m.sa} - ${m.sb}</span><span class="ftag${live ? " live" : ""}">${live ? "LIVE" : "FT"}</span>`
-    : live ? `<span class="tm" style="color:var(--loss)">LIVE</span>` : `<span class="tm">${at ? fmtTime(at) : "TBD"}</span>${m.bestOf ? `<span class="ftag">BO${m.bestOf}</span>` : ""}`;
+  const mid = has ? `${scoreHTML(m.sa, m.sb, done)}${live ? badge("live", "Live") : badge("final", "Final")}`
+    : live ? badge("live", "Live") : `<span class="tm">${at ? fmtTime(at) : "TBD"}</span>${m.bestOf ? badge("upcoming", `Bo${m.bestOf}`) : ""}`;
   return `<div class="m"><div class="mr"><span class="side a${bw ? " lost" : ""}">${nm(m.a)}${gCrest(m.a)}</span><span class="mid">${mid}</span><span class="side${aw ? " lost" : ""}">${gCrest(m.b)}${nm(m.b)}</span></div></div>`;
 }
 function gGroups(list, showEvent = true) {

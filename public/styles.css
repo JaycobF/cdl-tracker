@@ -1,18 +1,28 @@
-/* Layout: football-app style — league header, pill tab bar, stacked rounded cards, compact rows with crests, scores centered */
+/* Esports Scores & Standings design system: tokens from its tokens.json, light and dark.
+   Layout: league header, pill tab bar, hairline-divided rows on raised surfaces, scores centered. */
 :root{
-  --bg:#F0F1F4; --card:#FFFFFF; --row:#F7F8FA; --ink:#14161A; --muted:#6C717C; --line:#E8EAEE;
-  --accent:#009B5E; --accent-soft:#E2F5EC; --accent-ink:#FFFFFF;
-  --win:#00A060; --loss:#E5484D; --zone:#00A060; --gold:#C98A12;
-  --f:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif;
+  /* design system tokens */
+  --surface:#f4f6fb; --surface-raised:#ffffff; --line:#c9d1e6; --logo-plate:#ffffff;
+  --ink:#0b1530; --ink-muted:#4a5578; --brand:#1d3fd6; --on-brand:#ffffff; --brand-soft:#e3e9ff;
+  --live:#ff5a1f; --highlight:#ffd43b; --on-accent:#0b1530;
+  --font-serif:"Playfair Display",Georgia,"Times New Roman",serif;
+  --font-sans:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --space-1:4px; --space-2:8px; --space-4:16px; --space-6:24px;
+  --radius-sm:4px; --radius-md:8px; --radius-pill:999px;
+  /* app aliases onto the system */
+  --bg:var(--surface); --card:var(--surface-raised); --row:var(--surface); --muted:var(--ink-muted);
+  --accent:var(--brand); --accent-soft:var(--brand-soft); --accent-ink:var(--on-brand);
+  --win:var(--brand); --loss:var(--live); --zone:var(--brand); --gold:var(--highlight);
+  --f:var(--font-sans);
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#0E0F11; --card:#1B1C1F; --row:#232428; --ink:#F1F2F4; --muted:#9097A3; --line:#2C2E33;
-  --accent:#1FCB82; --accent-soft:#163327; --accent-ink:#06150E;
-  --win:#1FCB82; --loss:#FF6369; --zone:#1FCB82; --gold:#F0B73A; color-scheme:dark}}
+  --surface:#070d1f; --surface-raised:#111a36; --line:#2a3866; --logo-plate:#e6ebf7;
+  --ink:#eef2ff; --ink-muted:#a3aecb; --brand:#7d97ff; --on-brand:#070d1f; --brand-soft:#1a2858;
+  --live:#ff7a45; --highlight:#ffd43b; --on-accent:#070d1f; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --bg:#0E0F11; --card:#1B1C1F; --row:#232428; --ink:#F1F2F4; --muted:#9097A3; --line:#2C2E33;
-  --accent:#1FCB82; --accent-soft:#163327; --accent-ink:#06150E;
-  --win:#1FCB82; --loss:#FF6369; --zone:#1FCB82; --gold:#F0B73A; color-scheme:dark}
+  --surface:#070d1f; --surface-raised:#111a36; --line:#2a3866; --logo-plate:#e6ebf7;
+  --ink:#eef2ff; --ink-muted:#a3aecb; --brand:#7d97ff; --on-brand:#070d1f; --brand-soft:#1a2858;
+  --live:#ff7a45; --highlight:#ffd43b; --on-accent:#070d1f; color-scheme:dark}
 
 *{box-sizing:border-box}
 html,body{background:var(--bg)}
@@ -204,3 +214,89 @@ img{max-width:100%}
 .livedot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--loss);margin-right:8px;vertical-align:2px}
 .ftag.live{color:var(--loss)}
 .empty{padding:4px 16px 18px;color:var(--muted);font-size:14px}
+
+
+/* ===== Design system components, applied to the app ===== */
+h1,h2,h3,.lt .h1,.hero h3{font-family:var(--font-serif)}
+.ch h2{font-family:var(--font-serif);font-size:20px;font-weight:700;letter-spacing:0}
+.card{border-radius:var(--radius-md);border:1px solid var(--line)}
+.sheet{box-shadow:none;border:1px solid var(--line);border-bottom:0}
+@media (min-width:700px){.sheet{border-bottom:1px solid var(--line)}}
+
+/* label style: column heads, day heads, eyebrows */
+th,.dh,.sub.lbl,.facts .k,.er .k{font-size:12px;line-height:16px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-muted)}
+.dh{background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line);color:var(--ink-muted)}
+.dh span{font-weight:700;color:var(--ink-muted);text-transform:none;letter-spacing:0}
+.dh + .m{border-top:0}
+
+/* league mark: brand fill, serif, like TeamHeader's mark */
+.lg{background:var(--brand)!important;color:var(--on-brand)!important;border-radius:var(--radius-md);font-family:var(--font-serif);font-weight:900;letter-spacing:-.01em}
+.lpick .chev{background:var(--brand-soft);color:var(--brand)}
+.ct b{color:var(--brand);font-family:var(--font-sans);font-weight:800}
+.head{border-bottom:4px solid var(--brand)}
+
+/* tabs and filters as FilterChips */
+.tabs a{border:1px solid transparent;border-radius:var(--radius-pill);color:var(--ink-muted)}
+.tabs a[aria-current="page"]{background:var(--brand);color:var(--on-brand);border-color:var(--brand)}
+.tabs a:hover:not([aria-current]){background:var(--brand-soft);color:var(--brand)}
+.pill{height:32px;padding:0 14px;display:inline-flex;align-items:center;border:1px solid var(--ink-muted);background:var(--surface-raised);color:var(--ink);font-size:14px;font-weight:600;border-radius:var(--radius-pill)}
+.pill:hover{border-color:var(--ink)}
+.pill.on{background:var(--brand);border-color:var(--brand);color:var(--on-brand)}
+select{border:1px solid var(--ink-muted);border-radius:var(--radius-pill);height:32px;padding:0 12px;background:var(--surface-raised);color:var(--ink)}
+.link{color:var(--brand)!important}
+
+/* TeamLogo: the team's mark on a plate, or its tag on brand-soft */
+.crest{border-radius:var(--radius-sm)!important;width:28px;height:28px;background:var(--brand-soft)!important;color:var(--brand)!important;border:0!important;font-size:9px;font-weight:800;letter-spacing:.02em;line-height:1;overflow:hidden;font-family:var(--font-sans)}
+.crest.logo{background:var(--logo-plate)!important;border:1px solid var(--line)!important;box-sizing:border-box}
+.crest.logo img{width:100%;height:100%;object-fit:contain;padding:12%;box-sizing:border-box;display:block}
+td .crest{width:20px;height:20px;font-size:7px}
+
+/* match rows: score is the hero; winner gets the highlight chip, loser drops to ink-muted */
+.mr{padding:12px 16px}
+.side{font-weight:600;font-size:15px}
+.side.lost{color:var(--ink-muted);font-weight:400}
+.sc{background:none;padding:0;min-width:0;font-size:24px;line-height:28px;font-weight:800;letter-spacing:0;color:var(--ink);font-variant-numeric:tabular-nums;display:inline-flex;align-items:center;gap:4px}
+.sc .w{background:var(--highlight);color:var(--on-accent);border-radius:var(--radius-sm);padding:0 6px}
+.sc .l{color:var(--ink-muted)}
+.sc .dash{color:var(--ink-muted);font-weight:600}
+.mid{display:flex;flex-direction:column;align-items:center;gap:4px}
+.tm{font-weight:700;font-size:15px;color:var(--ink)}
+
+/* StatusBadge */
+.badge{display:inline-flex;align-items:center;gap:var(--space-1);height:20px;padding:0 var(--space-2);border-radius:var(--radius-pill);font-size:11px;line-height:16px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
+.badge.live{background:var(--live);color:var(--on-accent)}
+.badge.live::before{content:"";width:6px;height:6px;border-radius:var(--radius-pill);background:var(--on-accent);animation:es-pulse 1.4s ease-in-out infinite}
+.badge.final{color:var(--ink-muted);box-shadow:inset 0 0 0 1px var(--ink-muted)}
+.badge.upcoming{background:var(--brand-soft);color:var(--brand)}
+@keyframes es-pulse{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.badge.live::before{animation:none}}
+.livedot{background:var(--live)}
+.ftag{display:none}
+
+/* StandingsTable */
+td.pos.z::before{display:none}
+td.pos,td.pos.z{color:var(--ink-muted);font-weight:700}
+tr.cut td{border-bottom:2px solid var(--brand)}
+td.pts{font-weight:800;color:var(--ink)}
+.legend i{background:var(--brand);height:2px;width:14px;border-radius:0;vertical-align:3px}
+.fm{border-radius:var(--radius-sm);font-weight:800}
+.fm.W{background:var(--brand);color:var(--on-brand)}
+.fm.L{background:transparent;color:var(--ink-muted);box-shadow:inset 0 0 0 1px var(--ink-muted)}
+.fm.N{background:transparent;border:1px dashed var(--line)}
+
+/* road to Champs, history, titles */
+.ev.next .dot{border-color:var(--brand);background:var(--brand);box-shadow:0 0 0 4px var(--brand-soft)}
+.lan{background:var(--brand-soft);color:var(--brand);border-radius:var(--radius-pill)}
+.hero .yr{background:var(--highlight);color:var(--on-accent);border-radius:var(--radius-md);font-family:var(--font-sans)}
+.hero .sub{color:var(--ink-muted)!important}
+.ne .big{background:var(--brand-soft);color:var(--brand);border-radius:var(--radius-md)}
+.tl .y{color:var(--brand);font-family:var(--font-serif);font-weight:900}
+.bars i{background:var(--highlight);box-shadow:inset 0 0 0 1px var(--on-accent)}
+.bars i.m{background:var(--ink-muted);box-shadow:none}
+.lrow .lg{border-radius:var(--radius-md)}
+.lrow[aria-current="true"]{background:var(--brand-soft)}
+.lrow .tick{color:var(--brand)}
+.updated i.on{background:var(--brand)}
+.offline{background:var(--brand-soft);border-radius:var(--radius-md)}
+.tba{border-radius:var(--radius-md)}
+@media (max-width:440px){th,td{padding-left:4px;padding-right:4px}th:first-child,td.pos{padding-left:12px}td:last-child,th:last-child{padding-right:12px}}

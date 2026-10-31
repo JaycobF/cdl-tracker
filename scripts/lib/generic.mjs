@@ -29,8 +29,8 @@ function toRow(n, fallbackStatus) {
   return {
     id: n.id || "",
     at: n.at ? n.at.toISOString() : null,
-    a: { name: n.a.name, short: n.a.short || "" },
-    b: { name: n.b.name, short: n.b.short || "" },
+    a: { name: n.a.name, short: n.a.short || "", ...(n.a.logo ? { logo: n.a.logo } : {}) },
+    b: { name: n.b.name, short: n.b.short || "", ...(n.b.logo ? { logo: n.b.logo } : {}) },
     sa: n.a.score, sb: n.b.score,
     status, event: n.event || "", bestOf: n.bestOf ?? null
   };

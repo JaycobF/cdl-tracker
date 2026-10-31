@@ -161,3 +161,13 @@ test("real response shapes: CS2, Dota 2 and LoL upcoming", async () => {
   const [l] = s("lol-upcoming.json", "upcoming");
   assert.deepEqual([l.a.short, l.bestOf, l.status], ["FL", 5, "upcoming"]);
 });
+
+test("team logos from the source are kept, only as https links", () => {
+  const st = emptyStore("cs2");
+  mergeInto(st, JSON.parse(fs.readFileSync(path.join(root, "test/fixtures/real/cs2-recent.json"), "utf8")), "completed", new Date("2026-10-31T20:00:00Z"));
+  assert.equal(st.matches[0].a.logo, "https://img.example.com/spirit.png");
+  assert.equal(st.matches[0].b.logo, undefined);
+  const bad = emptyStore("x");
+  mergeInto(bad, { data: [{ id: 1, startsAt: "2026-10-31T10:00:00Z", status: "finished", team1: { name: "A", logoUrl: "javascript:alert(1)", score: 2 }, team2: { name: "B", score: 0 } }] }, "completed", new Date("2026-10-31T20:00:00Z"));
+  assert.equal(bad.matches[0].a.logo, undefined);
+});

@@ -1,5 +1,5 @@
 // Offline support: app files come from cache, scores always try the network first.
-const VERSION = "esports-v2";
+const VERSION = "esports-v3";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icons/icon.svg", "data/schedule.json", "data/history.json", "data/leagues.json"];
 
 self.addEventListener("install", e => {
