@@ -15,7 +15,7 @@ function side(t, fallbackScore) {
   if (t == null) return null;
   if (typeof t === "string") return { name: t, short: "", code: teamCode(t), score: num(fallbackScore) };
   const name = pick(t, "name", "team_name", "teamName", "full_name", "fullName", "title", "team.name", "opponent.name");
-  const short = pick(t, "acronym", "abbreviation", "abbr", "short_name", "shortName", "tag", "code", "slug", "team.acronym", "team.slug", "opponent.acronym");
+  const short = pick(t, "acronym", "abbreviation", "abbr", "short_name", "shortName", "teamTag", "tag", "code", "slug", "team.acronym", "team.slug", "opponent.acronym");
   const score = num(pick(t, "score", "series_score", "seriesScore", "maps_won", "mapsWon", "wins", "result.score", "result.gameWins", "result.game_wins", "gameWins")) ?? num(fallbackScore);
   return { name: String(name ?? short ?? ""), short: short ? String(short) : "", code: teamCode(name, short), score };
 }
@@ -40,15 +40,19 @@ export function normalizeMatch(m) {
     b = side(teams[1], Array.isArray(sc) ? sc[1] : undefined);
   } else {
     a = side(pick(m, "team_a", "teamA", "team1", "home", "home_team", "homeTeam", "team_1"),
-             pick(m, "team_a_score", "teamAScore", "score_a", "scoreA", "team1_score", "home_score", "homeScore", "score.team_a", "score.home", "score1"));
+             pick(m, "team_a_score", "teamAScore", "score_a", "scoreA", "team1_score", "team1Score", "home_score", "homeScore", "score.team_a", "score.home", "score1", "liveState.team1Score"));
     b = side(pick(m, "team_b", "teamB", "team2", "away", "away_team", "awayTeam", "team_2"),
-             pick(m, "team_b_score", "teamBScore", "score_b", "scoreB", "team2_score", "away_score", "awayScore", "score.team_b", "score.away", "score2"));
+             pick(m, "team_b_score", "teamBScore", "score_b", "scoreB", "team2_score", "team2Score", "away_score", "awayScore", "score.team_b", "score.away", "score2", "liveState.team2Score"));
+    // Some sources put team names beside the team objects rather than inside them.
+    const n1 = pick(m, "team1Name", "team1_name", "teamAName", "home_name"), n2 = pick(m, "team2Name", "team2_name", "teamBName", "away_name");
+    if (n1) a = a && a.name ? a : { ...(a || { score: null, short: "" }), name: String(n1), code: teamCode(n1, a?.short) };
+    if (n2) b = b && b.name ? b : { ...(b || { score: null, short: "" }), name: String(n2), code: teamCode(n2, b?.short) };
   }
   if ((a?.score == null || b?.score == null) && typeof m.score === "string") {
     const mm = m.score.match(/(\d+)\s*[-–:]\s*(\d+)/);
     if (mm && a && b) { a.score = +mm[1]; b.score = +mm[2]; }
   }
-  const atRaw = pick(m, "start_time", "startTime", "scheduled_at", "scheduledAt", "begin_at", "beginAt", "start_at", "startAt", "date", "datetime", "time", "match_date", "matchDate", "timestamp");
+  const atRaw = pick(m, "start_time", "startTime", "startsAt", "starts_at", "startingAt", "starting_at", "scheduled_at", "scheduledAt", "begin_at", "beginAt", "start_at", "startAt", "date", "datetime", "time", "match_date", "matchDate", "timestamp");
   let at = null;
   if (atRaw !== undefined) {
     const d = typeof atRaw === "number" ? new Date(atRaw < 1e12 ? atRaw * 1000 : atRaw) : new Date(atRaw);
@@ -62,7 +66,8 @@ export function normalizeMatch(m) {
   else if (/(live|running|progress|ongoing|started)/.test(statusRaw)) status = "live";
   else if (winnerRaw) status = "completed";
   const event = pick(m, "league.name", "tournament.name", "tournament_name", "tournamentName", "event.name", "event_name", "eventName", "league_name", "leagueName", "serie.full_name", "stage", "tournament", "event", "league");
-  const bestOf = num(pick(m, "best_of", "bestOf", "bo", "number_of_games", "numberOfGames", "strategy.count", "match.strategy.count"));
+  const boRaw = pick(m, "best_of", "bestOf", "bo", "number_of_games", "numberOfGames", "gameCount", "strategy.count", "match.strategy.count", "strategy");
+  const bestOf = typeof boRaw === "string" ? num((boRaw.match(/\d+/) || [])[0]) : num(boRaw);
   return {
     id: String(pick(m, "id", "match_id", "matchId", "slug") ?? ""),
     a, b, at, status,

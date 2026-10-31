@@ -149,3 +149,15 @@ test("API key: a pasted example command still yields the key, and keys never rea
   assert.ok(!msg.includes(k), msg);
   assert.ok(!redact(`x-api-key: secretvalue99`).includes("secretvalue99"));
 });
+
+test("real response shapes: CS2, Dota 2 and LoL upcoming", async () => {
+  const s = (f, kind) => { const st = emptyStore("x"); mergeInto(st, JSON.parse(fs.readFileSync(path.join(root, "test/fixtures/real", f), "utf8")), kind, new Date("2026-10-31T20:00:00Z")); return st.matches; };
+  const [cs] = s("cs2-recent.json", "completed");
+  assert.deepEqual([cs.a.name, cs.a.short, cs.sa, cs.sb, cs.b.name, cs.status, cs.event, cs.bestOf], ["Team Spirit", "SPIRIT", 2, 1, "The MongolZ", "completed", "IEM Chengdu 2026", 3]);
+  const [up] = s("cs2-upcoming.json", "upcoming");
+  assert.deepEqual([up.status, up.sa, up.at], ["upcoming", null, "2026-11-01T09:00:00.000Z"]);
+  const [d] = s("dota-recent.json", "completed");
+  assert.deepEqual([d.a.name, d.sa, d.sb, d.b.name, d.status], ["Team Falcons", 2, 0, "Tundra Esports", "completed"], "names beside empty team objects");
+  const [l] = s("lol-upcoming.json", "upcoming");
+  assert.deepEqual([l.a.short, l.bestOf, l.status], ["FL", 5, "upcoming"]);
+});

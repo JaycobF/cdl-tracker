@@ -1,0 +1,1 @@
+{"success":true,"status":"ok","count":1,"data":[{"matchId":"l-1","tournamentName":"LCP Promotion","leagueName":"LCP","team1":{"slug":"fl","name":"FENNEL","code":"FL","score":0},"team2":{"slug":"nh","name":"Nothin'Here","code":"NH","score":0},"strategy":{"type":"bestOf","count":5},"startTime":"2026-11-10T05:00:00Z","state":"unstarted"}],"meta":{}}
