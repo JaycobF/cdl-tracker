@@ -1,19 +1,21 @@
 {
  "id": "cs2",
- "updated": "2026-10-31T20:35:08.317Z",
- "upcomingFetched": "2026-10-31T20:35:08.317Z",
- "recentFetched": "2026-10-31T20:35:08.317Z",
+ "updated": "2026-10-31T20:42:00.920Z",
+ "upcomingFetched": "2026-10-31T20:42:00.920Z",
+ "recentFetched": "2026-10-31T20:42:00.920Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
    "at": "2026-10-30T16:00:00.000Z",
    "a": {
     "name": "fnatic",
-    "short": "FNATIC"
+    "short": "FNATIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e26b4bd4a6b227b915b37099294d35a4.svg"
    },
    "b": {
     "name": "Eternal Fire",
-    "short": "EF"
+    "short": "EF",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/17ab3f7067c6945bccdc46f1066d6fc8.webp"
    },
    "sa": 2,
    "sb": 3,
@@ -26,11 +28,13 @@
    "at": "2026-10-30T16:20:00.000Z",
    "a": {
     "name": "Low Cortisol BR",
-    "short": "LCB"
+    "short": "LCB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4e0d0ff2c45c6f233a65c363713eaadd.webp"
    },
    "b": {
     "name": "ALKA",
-    "short": "ALKA"
+    "short": "ALKA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4a8cae4bb78f1e552133a396f44eea7e.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -43,11 +47,13 @@
    "at": "2026-10-30T16:30:00.000Z",
    "a": {
     "name": "BC.Game",
-    "short": "BCGAME"
+    "short": "BCGAME",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a9eb72be6e13fbda838dd2b838128d24.webp"
    },
    "b": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e2005cf4ec6c3250b77053216ba352a9.webp"
    },
    "sa": 1,
    "sb": 0,
@@ -60,11 +66,13 @@
    "at": "2026-10-30T16:30:00.000Z",
    "a": {
     "name": "Metizport",
-    "short": "METIZPOR"
+    "short": "METIZPOR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c527b95aba223c97cf19d9f1024cf8d.webp"
    },
    "b": {
     "name": "SNITKO",
-    "short": "SNITKO"
+    "short": "SNITKO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/caeb6aeb44a8f363e92d7db88c5e0b2e.webp"
    },
    "sa": 1,
    "sb": 0,
@@ -77,11 +85,13 @@
    "at": "2026-10-30T18:00:00.000Z",
    "a": {
     "name": "Phantom",
-    "short": "PHANTOM"
+    "short": "PHANTOM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
    },
    "b": {
     "name": "Lavked",
-    "short": "LAVKED"
+    "short": "LAVKED",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e387ee6d6360ca5ed4cd39e6a8813748.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -94,11 +104,13 @@
    "at": "2026-10-30T18:00:00.000Z",
    "a": {
     "name": "Spirit Academy",
-    "short": "SA"
+    "short": "SA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
    },
    "b": {
     "name": "Falcons Force",
-    "short": "FF"
+    "short": "FF",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/89ddbcd4dbb598649edee5aaa728bdf3.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -111,11 +123,13 @@
    "at": "2026-10-30T18:15:00.000Z",
    "a": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e2005cf4ec6c3250b77053216ba352a9.webp"
    },
    "b": {
     "name": "SNITKO",
-    "short": "SNITKO"
+    "short": "SNITKO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/caeb6aeb44a8f363e92d7db88c5e0b2e.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -128,11 +142,13 @@
    "at": "2026-10-30T18:15:00.000Z",
    "a": {
     "name": "BC.Game",
-    "short": "BCGAME"
+    "short": "BCGAME",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a9eb72be6e13fbda838dd2b838128d24.webp"
    },
    "b": {
     "name": "Metizport",
-    "short": "METIZPOR"
+    "short": "METIZPOR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c527b95aba223c97cf19d9f1024cf8d.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -145,11 +161,13 @@
    "at": "2026-10-30T18:30:00.000Z",
    "a": {
     "name": "Wildcard",
-    "short": "WILDCARD"
+    "short": "WILDCARD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6d9eff23dfc13758c78071dc87b6993f.webp"
    },
    "b": {
     "name": "Hacha",
-    "short": "HACHA"
+    "short": "HACHA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3a60a7a5232ea7b0714f818734930248.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -162,11 +180,13 @@
    "at": "2026-10-30T19:00:00.000Z",
    "a": {
     "name": "Nuclear TigeRES",
-    "short": "NT"
+    "short": "NT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2c776ce246629823be711ca0572b57d1.webp"
    },
    "b": {
     "name": "PRIVATE",
-    "short": "PRIVATE"
+    "short": "PRIVATE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ac614f3c8c83bedc0e23ff7a02efdcf8.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -179,11 +199,13 @@
    "at": "2026-10-30T19:10:00.000Z",
    "a": {
     "name": "Imperial",
-    "short": "IMPERIAL"
+    "short": "IMPERIAL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4a65cc35c2815c9414b42f3c7a0558a4.webp"
    },
    "b": {
     "name": "paiN",
-    "short": "PAIN"
+    "short": "PAIN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/536b1fd4a83fbd5eb935e2d08bc51ab6.svg"
    },
    "sa": 2,
    "sb": 0,
@@ -196,11 +218,13 @@
    "at": "2026-10-30T19:10:00.000Z",
    "a": {
     "name": "BESTIA",
-    "short": "BESTIA"
+    "short": "BESTIA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8f39c7d36daa0eab00a753a0540bf017.webp"
    },
    "b": {
     "name": "BTH",
-    "short": "BTH"
+    "short": "BTH",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c6880f80e487fbc97025061568256466.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -213,11 +237,13 @@
    "at": "2026-10-30T21:20:00.000Z",
    "a": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e2005cf4ec6c3250b77053216ba352a9.webp"
    },
    "b": {
     "name": "BC.Game",
-    "short": "BCGAME"
+    "short": "BCGAME",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a9eb72be6e13fbda838dd2b838128d24.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -230,11 +256,13 @@
    "at": "2026-10-30T21:25:00.000Z",
    "a": {
     "name": "Wildcard",
-    "short": "WILDCARD"
+    "short": "WILDCARD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6d9eff23dfc13758c78071dc87b6993f.webp"
    },
    "b": {
     "name": "BESTIA",
-    "short": "BESTIA"
+    "short": "BESTIA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8f39c7d36daa0eab00a753a0540bf017.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -247,11 +275,13 @@
    "at": "2026-10-30T21:25:00.000Z",
    "a": {
     "name": "Hacha",
-    "short": "HACHA"
+    "short": "HACHA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3a60a7a5232ea7b0714f818734930248.webp"
    },
    "b": {
     "name": "BTH",
-    "short": "BTH"
+    "short": "BTH",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c6880f80e487fbc97025061568256466.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -264,11 +294,13 @@
    "at": "2026-10-30T22:00:00.000Z",
    "a": {
     "name": "DENDELE",
-    "short": "DENDELE"
+    "short": "DENDELE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bad5e89e721718cfa951229ec3f33b28.webp"
    },
    "b": {
     "name": "Turma do Pagode",
-    "short": "TDP"
+    "short": "TDP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4e0d0ff2c45c6f233a65c363713eaadd.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -281,11 +313,13 @@
    "at": "2026-10-31T00:35:19.000Z",
    "a": {
     "name": "Natus Vincere",
-    "short": "NV"
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/33aea6490b84e8284318ac8d52d9b8f3.svg"
    },
    "b": {
     "name": "WBT Academy",
-    "short": "WA"
+    "short": "WA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3ff85accdb1cac2434452a8ef1247fff.webp"
    },
    "sa": 0,
    "sb": 1,
@@ -298,11 +332,13 @@
    "at": "2026-10-31T00:35:30.000Z",
    "a": {
     "name": "Metizport",
-    "short": "METIZPOR"
+    "short": "METIZPOR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c527b95aba223c97cf19d9f1024cf8d.webp"
    },
    "b": {
     "name": "TYLOO",
-    "short": "TYLOO"
+    "short": "TYLOO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/992d90188ac05d285d7a556d8f11dad9.svg"
    },
    "sa": 1,
    "sb": 0,
@@ -315,11 +351,13 @@
    "at": "2026-10-31T03:00:00.000Z",
    "a": {
     "name": "Abyssal",
-    "short": "ABYSSAL"
+    "short": "ABYSSAL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2b31b4e6edd633cd6980661c45f8737f.webp"
    },
    "b": {
     "name": "NEXVOID",
-    "short": "NEXVOID"
+    "short": "NEXVOID",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/24995b59c34f5f42125c01c4e7209489.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -332,11 +370,13 @@
    "at": "2026-10-31T06:00:00.000Z",
    "a": {
     "name": "Alter Ego",
-    "short": "ALTEREGO"
+    "short": "ALTEREGO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cfe4fa591513d63fd93baf5eae3be22f.webp"
    },
    "b": {
     "name": "NEXVOID",
-    "short": "NEXVOID"
+    "short": "NEXVOID",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/24995b59c34f5f42125c01c4e7209489.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -349,11 +389,13 @@
    "at": "2026-10-31T08:00:00.000Z",
    "a": {
     "name": "Vitality",
-    "short": "VITALITY"
+    "short": "VITALITY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0cd34febd1ad61ff888f21b55756003b.webp"
    },
    "b": {
     "name": "MOUZ",
-    "short": "MOUZ"
+    "short": "MOUZ",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0ad08abfc7542d74ca19505208967289.svg"
    },
    "sa": 0,
    "sb": 2,
@@ -366,11 +408,13 @@
    "at": "2026-10-31T09:00:00.000Z",
    "a": {
     "name": "PsychoFace",
-    "short": "PSYCHOFA"
+    "short": "PSYCHOFA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6bcb0239cbb7e937227fc8136b7ac497.webp"
    },
    "b": {
     "name": "DONSTU",
-    "short": "DONSTU"
+    "short": "DONSTU",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e002e8bc84e75281763e57434e538681.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -383,11 +427,13 @@
    "at": "2026-10-31T09:00:00.000Z",
    "a": {
     "name": "HOTU",
-    "short": "HOTU"
+    "short": "HOTU",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b6b4159840f3b94b63e4444784757457.webp"
    },
    "b": {
     "name": "The Huns",
-    "short": "THEHUNS"
+    "short": "THEHUNS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8954971a1f3a891eb45d79672d89f271.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -400,11 +446,13 @@
    "at": "2026-10-31T09:00:00.000Z",
    "a": {
     "name": "Spirit Academy",
-    "short": "SA"
+    "short": "SA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
    },
    "b": {
     "name": "Phantom",
-    "short": "PHANTOM"
+    "short": "PHANTOM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -417,11 +465,13 @@
    "at": "2026-10-31T10:00:00.000Z",
    "a": {
     "name": "Optibet",
-    "short": "OPTIBET"
+    "short": "OPTIBET",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bff3ca9a3c7d7d420333a971e2b46771.webp"
    },
    "b": {
     "name": "Fraternity",
-    "short": "FRATERNI"
+    "short": "FRATERNI",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fb25e8522ac0f858c255dfba2167ddf4.png"
    },
    "sa": 2,
    "sb": 1,
@@ -434,11 +484,13 @@
    "at": "2026-10-31T11:00:00.000Z",
    "a": {
     "name": "Nemiga",
-    "short": "NEMIGA"
+    "short": "NEMIGA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/f2950ddfe847711229d534feda9e6c0a.webp"
    },
    "b": {
     "name": "FURIA",
-    "short": "FURIA"
+    "short": "FURIA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ae2903ad6662885facbfedf1183a1b22.svg"
    },
    "sa": 2,
    "sb": 3,
@@ -451,11 +503,13 @@
    "at": "2026-10-31T12:00:00.000Z",
    "a": {
     "name": "Saint Sinners",
-    "short": "SS"
+    "short": "SS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/273deb5091f8a13afc8d08db7b980885.webp"
    },
    "b": {
     "name": "Misa",
-    "short": "MISA"
+    "short": "MISA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/495962ac4c21f892e3747ac9610d2e40.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -468,11 +522,13 @@
    "at": "2026-10-31T12:00:00.000Z",
    "a": {
     "name": "Betclic",
-    "short": "BETCLIC"
+    "short": "BETCLIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a4e43fabcc4df7cd7d4887b42ce39ed6.webp"
    },
    "b": {
     "name": "9INE",
-    "short": "9INE"
+    "short": "9INE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e04b28048be2fb82e0df66cd09639b3.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -485,11 +541,13 @@
    "at": "2026-10-31T12:25:00.000Z",
    "a": {
     "name": "PCIFIC",
-    "short": "PCIFIC"
+    "short": "PCIFIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b3f3833685bd2a41662497cac394378c.webp"
    },
    "b": {
     "name": "Nuclear TigeRES",
-    "short": "NT"
+    "short": "NT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2c776ce246629823be711ca0572b57d1.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -502,11 +560,13 @@
    "at": "2026-10-31T13:00:00.000Z",
    "a": {
     "name": "NAOCOPULAS",
-    "short": "NAOCOPUL"
+    "short": "NAOCOPUL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6beb5165380c179564d24076134fce80.webp"
    },
    "b": {
     "name": "paiN",
-    "short": "PAIN"
+    "short": "PAIN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/536b1fd4a83fbd5eb935e2d08bc51ab6.svg"
    },
    "sa": 2,
    "sb": 0,
@@ -519,7 +579,8 @@
    "at": "2026-10-31T13:00:00.000Z",
    "a": {
     "name": "The Last Resort",
-    "short": "TLR"
+    "short": "TLR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
    },
    "b": {
     "name": "The Pigs",
@@ -536,11 +597,13 @@
    "at": "2026-10-31T13:00:00.000Z",
    "a": {
     "name": "Galorys",
-    "short": "GALORYS"
+    "short": "GALORYS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a2dbb6ca8fee7a54ef1cba2aa56d12e8.webp"
    },
    "b": {
     "name": "Procyon",
-    "short": "PROCYON"
+    "short": "PROCYON",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cb1dc839ffc649c235e380aab45d7e14.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -553,11 +616,13 @@
    "at": "2026-10-31T13:00:00.000Z",
    "a": {
     "name": "BARCA",
-    "short": "BARCA"
+    "short": "BARCA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11e444891831e259d504d911743a8f8c.webp"
    },
    "b": {
     "name": "Bounty Hunters",
-    "short": "BH"
+    "short": "BH",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/25cbc31b2846835235834f5f18204a90.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -570,11 +635,13 @@
    "at": "2026-10-31T13:00:00.000Z",
    "a": {
     "name": "1win",
-    "short": "1WIN"
+    "short": "1WIN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5a8e0752159152d1245780a37b1d37d5.webp"
    },
    "b": {
     "name": "5star",
-    "short": "5STAR"
+    "short": "5STAR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6771fb41728308e386d1c51a2d7e3f7e.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -587,11 +654,13 @@
    "at": "2026-10-31T13:35:00.000Z",
    "a": {
     "name": "Ryvex",
-    "short": "RYVEX"
+    "short": "RYVEX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/48d31ccc5802480b61ed3992675cf87e.webp"
    },
    "b": {
     "name": "Privateer",
-    "short": "PRIVATEE"
+    "short": "PRIVATEE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0e3519ab6c0419a3c89ff9f0cc9e6567.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -604,11 +673,13 @@
    "at": "2026-10-31T14:00:00.000Z",
    "a": {
     "name": "Esprots",
-    "short": "ESPROTS"
+    "short": "ESPROTS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/13f552c6b4bac009b0d75635bae399d5.webp"
    },
    "b": {
     "name": "Galaxy",
-    "short": "GALAXY"
+    "short": "GALAXY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a5c7ddb7e166fbb7de1568e2d8083d85.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -621,11 +692,13 @@
    "at": "2026-10-31T14:30:00.000Z",
    "a": {
     "name": "JiJieHao",
-    "short": "JIJIEHAO"
+    "short": "JIJIEHAO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/83c527ed60178d79200eac175bdd78c5.webp"
    },
    "b": {
     "name": "BASEMENT BOYS",
-    "short": "BB"
+    "short": "BB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c28a65f0d6eeae8848724bcb4152dda7.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -638,11 +711,13 @@
    "at": "2026-10-31T15:00:00.000Z",
    "a": {
     "name": "FOKUS",
-    "short": "FOKUS"
+    "short": "FOKUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cdc3bf675531434e0ddc8ae210d55159.webp"
    },
    "b": {
     "name": "BAKS",
-    "short": "BAKS"
+    "short": "BAKS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -655,11 +730,13 @@
    "at": "2026-10-31T15:10:00.000Z",
    "a": {
     "name": "LFO 10",
-    "short": "LFO10"
+    "short": "LFO10",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/84172f12778537d24816544a4d843f96.webp"
    },
    "b": {
     "name": "Fortress",
-    "short": "FORTRESS"
+    "short": "FORTRESS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/84172f12778537d24816544a4d843f96.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -672,11 +749,13 @@
    "at": "2026-10-31T16:00:00.000Z",
    "a": {
     "name": "Low Cortisol BR",
-    "short": "LCB"
+    "short": "LCB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4e0d0ff2c45c6f233a65c363713eaadd.webp"
    },
    "b": {
     "name": "Turma do Pagode",
-    "short": "TDP"
+    "short": "TDP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4e0d0ff2c45c6f233a65c363713eaadd.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -689,11 +768,13 @@
    "at": "2026-10-31T16:15:00.000Z",
    "a": {
     "name": "ShindeN",
-    "short": "SHINDEN"
+    "short": "SHINDEN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5aecf8211fe6e34bd1c4863d1c2665ba.webp"
    },
    "b": {
     "name": "Isurus",
-    "short": "ISURUS"
+    "short": "ISURUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a7a05b89511ef5c0a495d96a3596e252.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -706,7 +787,8 @@
    "at": "2026-10-31T16:20:00.000Z",
    "a": {
     "name": "Phantom Academy",
-    "short": "PA"
+    "short": "PA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/f3b52fb54d0d9582e1178ab8f6de225e.webp"
    },
    "b": {
     "name": "uwuza",
@@ -727,7 +809,8 @@
    },
    "b": {
     "name": "Monte",
-    "short": "MONTE"
+    "short": "MONTE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a7858375d653bdb254307194510282d8.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -740,11 +823,13 @@
    "at": "2026-10-31T16:35:00.000Z",
    "a": {
     "name": "Omega",
-    "short": "OMEGA"
+    "short": "OMEGA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8ecd840a3456c0125fd1c31c8b652f29.webp"
    },
    "b": {
     "name": "PRIVATE",
-    "short": "PRIVATE"
+    "short": "PRIVATE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ac614f3c8c83bedc0e23ff7a02efdcf8.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -757,11 +842,13 @@
    "at": "2026-10-31T16:40:00.000Z",
    "a": {
     "name": "Optibet",
-    "short": "OPTIBET"
+    "short": "OPTIBET",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bff3ca9a3c7d7d420333a971e2b46771.webp"
    },
    "b": {
     "name": "Galaxy",
-    "short": "GALAXY"
+    "short": "GALAXY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a5c7ddb7e166fbb7de1568e2d8083d85.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -774,11 +861,13 @@
    "at": "2026-10-31T16:40:00.000Z",
    "a": {
     "name": "Hacha",
-    "short": "HACHA"
+    "short": "HACHA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3a60a7a5232ea7b0714f818734930248.webp"
    },
    "b": {
     "name": "Wildcard",
-    "short": "WILDCARD"
+    "short": "WILDCARD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6d9eff23dfc13758c78071dc87b6993f.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -808,11 +897,13 @@
    "at": "2026-10-31T17:30:00.000Z",
    "a": {
     "name": "Privateer",
-    "short": "PRIVATEE"
+    "short": "PRIVATEE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0e3519ab6c0419a3c89ff9f0cc9e6567.webp"
    },
    "b": {
     "name": "CTRL",
-    "short": "CTRL"
+    "short": "CTRL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ceada618166d5ecc8acba8f58423b4c2.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -825,11 +916,13 @@
    "at": "2026-10-31T17:30:00.000Z",
    "a": {
     "name": "The Last Resort",
-    "short": "TLR"
+    "short": "TLR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
    },
    "b": {
     "name": "Ryvex",
-    "short": "RYVEX"
+    "short": "RYVEX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/48d31ccc5802480b61ed3992675cf87e.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -842,11 +935,13 @@
    "at": "2026-10-31T17:45:00.000Z",
    "a": {
     "name": "Iberian Soul",
-    "short": "IS"
+    "short": "IS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9b03ad5b4e02174e9c9349a1734673d8.webp"
    },
    "b": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e2005cf4ec6c3250b77053216ba352a9.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -859,7 +954,8 @@
    "at": "2026-10-31T21:00:00.000Z",
    "a": {
     "name": "CTRL",
-    "short": "CTRL"
+    "short": "CTRL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ceada618166d5ecc8acba8f58423b4c2.webp"
    },
    "b": {
     "name": "The Pigs",
@@ -876,7 +972,8 @@
    "at": "2026-10-31T21:30:00.000Z",
    "a": {
     "name": "LAG",
-    "short": "LAG"
+    "short": "LAG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/1767d57fdef82006ac8f736a0f56ffee.webp"
    },
    "b": {
     "name": "Sutti's Money Crew",
@@ -893,11 +990,13 @@
    "at": "2026-10-31T22:15:00.000Z",
    "a": {
     "name": "NRG",
-    "short": "NRG"
+    "short": "NRG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c0fa6b4a3bd075612366ca76f9abc321.webp"
    },
    "b": {
     "name": "Wildcard",
-    "short": "WILDCARD"
+    "short": "WILDCARD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6d9eff23dfc13758c78071dc87b6993f.webp"
    },
    "sa": null,
    "sb": null,
@@ -910,11 +1009,13 @@
    "at": "2026-10-31T22:15:00.000Z",
    "a": {
     "name": "100 Thieves",
-    "short": "1T"
+    "short": "1T",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ac59058bd7afa346763eda6e57e98413.webp"
    },
    "b": {
     "name": "Isurus",
-    "short": "ISURUS"
+    "short": "ISURUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a7a05b89511ef5c0a495d96a3596e252.webp"
    },
    "sa": null,
    "sb": null,
@@ -927,11 +1028,13 @@
    "at": "2026-10-31T23:30:00.000Z",
    "a": {
     "name": "Imperial",
-    "short": "IMPERIAL"
+    "short": "IMPERIAL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4a65cc35c2815c9414b42f3c7a0558a4.webp"
    },
    "b": {
     "name": "Low Cortisol BR",
-    "short": "LCB"
+    "short": "LCB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4e0d0ff2c45c6f233a65c363713eaadd.webp"
    },
    "sa": null,
    "sb": null,
@@ -944,7 +1047,8 @@
    "at": "2026-11-01T01:00:00.000Z",
    "a": {
     "name": "NuTorious",
-    "short": "NUTORIOU"
+    "short": "NUTORIOU",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/48dd2f8ef732dde7b96b54573b8153c5.webp"
    },
    "b": {
     "name": "Holly Molly",
@@ -961,11 +1065,13 @@
    "at": "2026-11-01T03:00:00.000Z",
    "a": {
     "name": "FlyQuest",
-    "short": "FLYQUEST"
+    "short": "FLYQUEST",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/1a57938f5339bba6362144e7068c8f57.webp"
    },
    "b": {
     "name": "Alter Ego",
-    "short": "ALTEREGO"
+    "short": "ALTEREGO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cfe4fa591513d63fd93baf5eae3be22f.webp"
    },
    "sa": null,
    "sb": null,
@@ -978,11 +1084,13 @@
    "at": "2026-11-01T09:00:00.000Z",
    "a": {
     "name": "The Huns",
-    "short": "THEHUNS"
+    "short": "THEHUNS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8954971a1f3a891eb45d79672d89f271.webp"
    },
    "b": {
     "name": "5star",
-    "short": "5STAR"
+    "short": "5STAR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6771fb41728308e386d1c51a2d7e3f7e.webp"
    },
    "sa": null,
    "sb": null,
@@ -995,11 +1103,13 @@
    "at": "2026-11-01T10:00:00.000Z",
    "a": {
     "name": "Metizport",
-    "short": "METIZPOR"
+    "short": "METIZPOR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c527b95aba223c97cf19d9f1024cf8d.webp"
    },
    "b": {
     "name": "JiJieHao",
-    "short": "JIJIEHAO"
+    "short": "JIJIEHAO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/83c527ed60178d79200eac175bdd78c5.webp"
    },
    "sa": null,
    "sb": null,
@@ -1012,11 +1122,13 @@
    "at": "2026-11-01T11:00:00.000Z",
    "a": {
     "name": "Betclic",
-    "short": "BETCLIC"
+    "short": "BETCLIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a4e43fabcc4df7cd7d4887b42ce39ed6.webp"
    },
    "b": {
     "name": "Phantom",
-    "short": "PHANTOM"
+    "short": "PHANTOM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
    },
    "sa": null,
    "sb": null,
@@ -1029,11 +1141,13 @@
    "at": "2026-11-01T13:00:00.000Z",
    "a": {
     "name": "HOTU",
-    "short": "HOTU"
+    "short": "HOTU",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b6b4159840f3b94b63e4444784757457.webp"
    },
    "b": {
     "name": "1win",
-    "short": "1WIN"
+    "short": "1WIN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5a8e0752159152d1245780a37b1d37d5.webp"
    },
    "sa": null,
    "sb": null,
@@ -1046,11 +1160,13 @@
    "at": "2026-11-02T02:00:00.000Z",
    "a": {
     "name": "HEROIC",
-    "short": "HEROIC"
+    "short": "HEROIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2d728849e3d044d6c19326d483af7a79.webp"
    },
    "b": {
     "name": "B8",
-    "short": "B8"
+    "short": "B8",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3653c35c86f009aab7a0eb112e9ebc9c.webp"
    },
    "sa": null,
    "sb": null,
@@ -1063,11 +1179,13 @@
    "at": "2026-11-02T02:00:00.000Z",
    "a": {
     "name": "Legacy",
-    "short": "LEGACY"
+    "short": "LEGACY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b2dd3b4f042fdde6c47649ace7587673.webp"
    },
    "b": {
     "name": "The MongolZ",
-    "short": "TM"
+    "short": "TM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/12260e205ef33f134efcc543c301a00f.webp"
    },
    "sa": null,
    "sb": null,
@@ -1080,11 +1198,13 @@
    "at": "2026-11-02T04:30:00.000Z",
    "a": {
     "name": "PARIVISION",
-    "short": "PARIVISI"
+    "short": "PARIVISI",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6bcb0239cbb7e937227fc8136b7ac497.webp"
    },
    "b": {
     "name": "G2",
-    "short": "G2"
+    "short": "G2",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a335876e8d2132ad55dfccca0d970a1f.webp"
    },
    "sa": null,
    "sb": null,
@@ -1097,11 +1217,13 @@
    "at": "2026-11-02T04:30:00.000Z",
    "a": {
     "name": "Aurora",
-    "short": "AURORA"
+    "short": "AURORA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0cf72686d65237eb4fe4365d8070d068.webp"
    },
    "b": {
     "name": "Liquid",
-    "short": "LIQUID"
+    "short": "LIQUID",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fb6cfc41f51c973c934894481eafa229.svg"
    },
    "sa": null,
    "sb": null,
@@ -1114,11 +1236,13 @@
    "at": "2026-11-02T07:00:00.000Z",
    "a": {
     "name": "9z",
-    "short": "9Z"
+    "short": "9Z",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5e7ff1502914b664f0b3268f46a86f92.webp"
    },
    "b": {
     "name": "BETBOOM",
-    "short": "BETBOOM"
+    "short": "BETBOOM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e18a57cf1f31f12ce32b9665fa7943c.webp"
    },
    "sa": null,
    "sb": null,
@@ -1131,11 +1255,13 @@
    "at": "2026-11-02T07:00:00.000Z",
    "a": {
     "name": "FURIA",
-    "short": "FURIA"
+    "short": "FURIA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ae2903ad6662885facbfedf1183a1b22.svg"
    },
    "b": {
     "name": "FaZe",
-    "short": "FAZE"
+    "short": "FAZE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b9b1714c98b7f5ba2f329d35548eba3f.webp"
    },
    "sa": null,
    "sb": null,
@@ -1148,11 +1274,13 @@
    "at": "2026-11-02T09:30:00.000Z",
    "a": {
     "name": "Natus Vincere",
-    "short": "NV"
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/33aea6490b84e8284318ac8d52d9b8f3.svg"
    },
    "b": {
     "name": "Falcons",
-    "short": "FALCONS"
+    "short": "FALCONS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4c8ec6825eb47a8cdd03650e31e74831.webp"
    },
    "sa": null,
    "sb": null,
@@ -1165,11 +1293,13 @@
    "at": "2026-11-02T09:30:00.000Z",
    "a": {
     "name": "MOUZ",
-    "short": "MOUZ"
+    "short": "MOUZ",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0ad08abfc7542d74ca19505208967289.svg"
    },
    "b": {
     "name": "TYLOO",
-    "short": "TYLOO"
+    "short": "TYLOO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/992d90188ac05d285d7a556d8f11dad9.svg"
    },
    "sa": null,
    "sb": null,
@@ -1182,11 +1312,13 @@
    "at": "2026-11-11T02:00:00.000Z",
    "a": {
     "name": "Legacy",
-    "short": "LEGACY"
+    "short": "LEGACY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b2dd3b4f042fdde6c47649ace7587673.webp"
    },
    "b": {
     "name": "FURIA",
-    "short": "FURIA"
+    "short": "FURIA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ae2903ad6662885facbfedf1183a1b22.svg"
    },
    "sa": null,
    "sb": null,
@@ -1199,11 +1331,13 @@
    "at": "2026-11-11T04:30:00.000Z",
    "a": {
     "name": "Vitality",
-    "short": "VITALITY"
+    "short": "VITALITY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0cd34febd1ad61ff888f21b55756003b.webp"
    },
    "b": {
     "name": "Falcons",
-    "short": "FALCONS"
+    "short": "FALCONS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4c8ec6825eb47a8cdd03650e31e74831.webp"
    },
    "sa": null,
    "sb": null,
@@ -1216,11 +1350,13 @@
    "at": "2026-11-11T07:00:00.000Z",
    "a": {
     "name": "Spirit",
-    "short": "SPIRIT"
+    "short": "SPIRIT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/608894028d96779c209b2fb4c03da37c.webp"
    },
    "b": {
     "name": "FUT",
-    "short": "FUT"
+    "short": "FUT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a6016f8ded98a136c27e2df8ceb3a2e6.webp"
    },
    "sa": null,
    "sb": null,
@@ -1233,11 +1369,13 @@
    "at": "2026-11-11T09:30:00.000Z",
    "a": {
     "name": "MOUZ",
-    "short": "MOUZ"
+    "short": "MOUZ",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0ad08abfc7542d74ca19505208967289.svg"
    },
    "b": {
     "name": "G2",
-    "short": "G2"
+    "short": "G2",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a335876e8d2132ad55dfccca0d970a1f.webp"
    },
    "sa": null,
    "sb": null,

@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-10-31T20:35:08.317Z",
- "upcomingFetched": "2026-10-31T20:35:08.317Z",
- "recentFetched": "2026-10-31T20:35:08.317Z",
+ "updated": "2026-10-31T20:42:00.920Z",
+ "upcomingFetched": "2026-10-31T20:42:00.920Z",
+ "recentFetched": "2026-10-31T20:42:00.920Z",
  "matches": [
   {
    "id": "lol-match-116952475624364075",
@@ -19,7 +19,7 @@
    "sb": 0,
    "status": "completed",
    "event": "Season Finals 2026",
-   "bestOf": 3
+   "bestOf": 5
   },
   {
    "id": "lol-match-117133830110912099",
@@ -70,7 +70,7 @@
    "sb": 3,
    "status": "completed",
    "event": "cblol promotion 2026",
-   "bestOf": 4
+   "bestOf": 5
   },
   {
    "id": "lol-match-117322971012796412",
@@ -87,7 +87,7 @@
    "sb": 0,
    "status": "completed",
    "event": "lcs promotion 2026",
-   "bestOf": 3
+   "bestOf": 5
   },
   {
    "id": "lol-match-117133830110912105",
@@ -121,7 +121,7 @@
    "sb": 1,
    "status": "completed",
    "event": "demacia cup 2026",
-   "bestOf": 4
+   "bestOf": 5
   },
   {
    "id": "lol-match-117173205319911435",
@@ -138,7 +138,7 @@
    "sb": 0,
    "status": "completed",
    "event": "Summer 2026",
-   "bestOf": 3
+   "bestOf": 5
   },
   {
    "id": "lol-match-117133830110912117",
@@ -155,7 +155,7 @@
    "sb": 3,
    "status": "completed",
    "event": "demacia cup 2026",
-   "bestOf": 4
+   "bestOf": 5
   },
   {
    "id": "lol-match-117173205319911429",
@@ -172,7 +172,7 @@
    "sb": 3,
    "status": "completed",
    "event": "Summer 2026",
-   "bestOf": 4
+   "bestOf": 5
   },
   {
    "id": "lol-match-117133830110912123",
@@ -223,7 +223,7 @@
    "sb": 3,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 3
+   "bestOf": 5
   },
   {
    "id": "lol-match-115660588583171790",
@@ -240,7 +240,7 @@
    "sb": 0,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 3
+   "bestOf": 5
   },
   {
    "id": "lol-match-115660588583171794",
@@ -257,7 +257,7 @@
    "sb": 3,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 4
+   "bestOf": 5
   },
   {
    "id": "lol-match-117133830110912129",
@@ -274,7 +274,7 @@
    "sb": 3,
    "status": "completed",
    "event": "demacia cup 2026",
-   "bestOf": 4
+   "bestOf": 5
   },
   {
    "id": "lol-match-115660588583171798",
@@ -291,7 +291,7 @@
    "sb": 1,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 4
+   "bestOf": 5
   },
   {
    "id": "lol-match-116299649498303884",
@@ -308,7 +308,7 @@
    "sb": 0,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 3
+   "bestOf": 5
   },
   {
    "id": "lol-match-117173205319911441",
@@ -648,7 +648,7 @@
    "sb": 2,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 2
+   "bestOf": 3
   },
   {
    "id": "lol-match-115660540726095041",
@@ -716,7 +716,7 @@
    "sb": 0,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 2
+   "bestOf": 3
   },
   {
    "id": "lol-match-115660540726095057",
@@ -733,7 +733,7 @@
    "sb": 0,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 2
+   "bestOf": 3
   },
   {
    "id": "lol-match-115660540726095061",
@@ -750,7 +750,7 @@
    "sb": 2,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 2
+   "bestOf": 3
   },
   {
    "id": "lol-match-115660540726095065",
@@ -784,7 +784,7 @@
    "sb": 2,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 2
+   "bestOf": 3
   },
   {
    "id": "lol-match-115660540726095069",
@@ -835,7 +835,7 @@
    "sb": 2,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 2
+   "bestOf": 3
   },
   {
    "id": "lol-match-115660540726095085",
@@ -852,7 +852,7 @@
    "sb": 2,
    "status": "completed",
    "event": "Worlds 2026",
-   "bestOf": 2
+   "bestOf": 3
   },
   {
    "id": "lol-match-115660540726095093",

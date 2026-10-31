@@ -1,19 +1,21 @@
 {
  "id": "dota2",
- "updated": "2026-10-31T20:35:08.317Z",
- "upcomingFetched": "2026-10-31T20:35:08.317Z",
- "recentFetched": "2026-10-31T20:35:08.317Z",
+ "updated": "2026-10-31T20:42:00.920Z",
+ "upcomingFetched": "2026-10-31T20:42:00.920Z",
+ "recentFetched": "2026-10-31T20:42:00.920Z",
  "matches": [
   {
    "id": "663128",
    "at": "2026-10-24T12:00:00.000Z",
    "a": {
     "name": "Team Synapse",
-    "short": "Synapse"
+    "short": "Synapse",
+    "logo": "https://static.gosugamers.net/e5/40/8c/f63a240b4ecb4a77e9bd402925cdfe34735014b5844a0895c758b4c8fc.webp"
    },
    "b": {
     "name": "Zero Tenacity",
-    "short": "Z10"
+    "short": "Z10",
+    "logo": "https://static.gosugamers.net/42/2b/03/f51666c5fe8f5575ae17fc11f374f1f5ba2c577b2ebb098f2466e54fd9.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -26,11 +28,13 @@
    "at": "2026-10-24T14:30:00.000Z",
    "a": {
     "name": "BetBoom Team",
-    "short": "BetBoom"
+    "short": "BetBoom",
+    "logo": "https://static.gosugamers.net/dc/e7/aa/220f66d7ef6da7c8b7411c395ea3f34215497aefc94f8236cf3fc891df.webp"
    },
    "b": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -43,11 +47,13 @@
    "at": "2026-10-24T16:00:00.000Z",
    "a": {
     "name": "Dawn Bulls",
-    "short": "DB"
+    "short": "DB",
+    "logo": "https://static.gosugamers.net/05/0b/6b/5193c285e107c3e001d9fe6ad872d054207dec001f09efbe9d02578af8.webp"
    },
    "b": {
     "name": "Yellow Submarine",
-    "short": "YeS"
+    "short": "YeS",
+    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
    },
    "sa": 0,
    "sb": 2,
@@ -60,11 +66,13 @@
    "at": "2026-10-24T17:00:00.000Z",
    "a": {
     "name": "Astra Invicta",
-    "short": "AI"
+    "short": "AI",
+    "logo": "https://static.gosugamers.net/61/a4/f4/82bd3e290b60beb976dfcce65ed3daab63a3990f651d26e37de1374a2e.webp"
    },
    "b": {
     "name": "LEGION",
-    "short": "LEGION"
+    "short": "LEGION",
+    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -77,11 +85,13 @@
    "at": "2026-10-24T18:00:00.000Z",
    "a": {
     "name": "CyberHero",
-    "short": "CyberHero"
+    "short": "CyberHero",
+    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
    },
    "b": {
     "name": "TheBot$",
-    "short": "TheBot$"
+    "short": "TheBot$",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": 1,
    "sb": 0,
@@ -94,11 +104,13 @@
    "at": "2026-10-25T09:00:00.000Z",
    "a": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
    },
    "b": {
     "name": "Team Liquid",
-    "short": "Liquid"
+    "short": "Liquid",
+    "logo": "https://static.gosugamers.net/9d/94/de/794d72411471289e5778c49398b213e4be829b53683bd077fc05d28996.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -111,11 +123,13 @@
    "at": "2026-10-25T10:00:00.000Z",
    "a": {
     "name": "salamit",
-    "short": "salamit"
+    "short": "salamit",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "b": {
     "name": "Team Lynx",
-    "short": "Lynx"
+    "short": "Lynx",
+    "logo": "https://static.gosugamers.net/84/0e/6e/887282f0004dda4dd33583e520e84746ba9bf955b1b9d41c737c04b58b.webp"
    },
    "sa": 0,
    "sb": 1,
@@ -128,11 +142,13 @@
    "at": "2026-10-25T13:00:00.000Z",
    "a": {
     "name": "Inner Circle x Insanity",
-    "short": "INC"
+    "short": "INC",
+    "logo": "https://static.gosugamers.net/ff/9c/08/bffa50eb884a7e547ebbcb26a858cfb6e04622fcb6e4a2ad823ab53008.webp"
    },
    "b": {
     "name": "Nemiga Gaming",
-    "short": "Nemiga"
+    "short": "Nemiga",
+    "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
    },
    "sa": 0,
    "sb": 2,
@@ -145,11 +161,13 @@
    "at": "2026-10-25T13:10:00.000Z",
    "a": {
     "name": "1W Team",
-    "short": "1Win"
+    "short": "1Win",
+    "logo": "https://static.gosugamers.net/d5/52/ee/9946c5e4aeb6aa83e835cfe546f455ef708966164601a5aa483fd49f72.webp"
    },
    "b": {
     "name": "Team Yandex",
-    "short": "TY"
+    "short": "TY",
+    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -162,11 +180,13 @@
    "at": "2026-10-25T15:30:00.000Z",
    "a": {
     "name": "Astra Invicta",
-    "short": "AI"
+    "short": "AI",
+    "logo": "https://static.gosugamers.net/61/a4/f4/82bd3e290b60beb976dfcce65ed3daab63a3990f651d26e37de1374a2e.webp"
    },
    "b": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -179,11 +199,13 @@
    "at": "2026-10-25T16:00:00.000Z",
    "a": {
     "name": "CyberHero",
-    "short": "CyberHero"
+    "short": "CyberHero",
+    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
    },
    "b": {
     "name": "Zero Tenacity",
-    "short": "Z10"
+    "short": "Z10",
+    "logo": "https://static.gosugamers.net/42/2b/03/f51666c5fe8f5575ae17fc11f374f1f5ba2c577b2ebb098f2466e54fd9.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -196,11 +218,13 @@
    "at": "2026-10-25T18:00:00.000Z",
    "a": {
     "name": "BetBoom Team",
-    "short": "BetBoom"
+    "short": "BetBoom",
+    "logo": "https://static.gosugamers.net/dc/e7/aa/220f66d7ef6da7c8b7411c395ea3f34215497aefc94f8236cf3fc891df.webp"
    },
    "b": {
     "name": "PARIVISION",
-    "short": "PARI"
+    "short": "PARI",
+    "logo": "https://static.gosugamers.net/a2/51/96/bf34ccba3ee39dd32a5b149d8b19f63829c236578d89133efa96954d6b.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -213,11 +237,13 @@
    "at": "2026-10-26T04:00:00.000Z",
    "a": {
     "name": "Cloud Dawning",
-    "short": "CD"
+    "short": "CD",
+    "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
    },
    "b": {
     "name": "Direborn Esports",
-    "short": "Direborn"
+    "short": "Direborn",
+    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -230,11 +256,13 @@
    "at": "2026-10-26T07:00:00.000Z",
    "a": {
     "name": "Direborn Esports",
-    "short": "Direborn"
+    "short": "Direborn",
+    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
    },
    "b": {
     "name": "Team Kinetix",
-    "short": "Kinetix"
+    "short": "Kinetix",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -247,11 +275,13 @@
    "at": "2026-10-26T09:00:00.000Z",
    "a": {
     "name": "GamerLegion",
-    "short": "GL"
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
    },
    "b": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -264,11 +294,13 @@
    "at": "2026-10-26T10:00:00.000Z",
    "a": {
     "name": "Royal Bear",
-    "short": "Royal Bear"
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
    "b": {
     "name": "Yangon Galacticos",
-    "short": "YG"
+    "short": "YG",
+    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -281,11 +313,13 @@
    "at": "2026-10-26T13:00:00.000Z",
    "a": {
     "name": "Team Liquid",
-    "short": "Liquid"
+    "short": "Liquid",
+    "logo": "https://static.gosugamers.net/9d/94/de/794d72411471289e5778c49398b213e4be829b53683bd077fc05d28996.webp"
    },
    "b": {
     "name": "Team Yandex",
-    "short": "TY"
+    "short": "TY",
+    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -298,11 +332,13 @@
    "at": "2026-10-26T16:30:00.000Z",
    "a": {
     "name": "PARIVISION",
-    "short": "PARI"
+    "short": "PARI",
+    "logo": "https://static.gosugamers.net/a2/51/96/bf34ccba3ee39dd32a5b149d8b19f63829c236578d89133efa96954d6b.webp"
    },
    "b": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -315,11 +351,13 @@
    "at": "2026-10-26T20:00:00.000Z",
    "a": {
     "name": "BetBoom Team",
-    "short": "BetBoom"
+    "short": "BetBoom",
+    "logo": "https://static.gosugamers.net/dc/e7/aa/220f66d7ef6da7c8b7411c395ea3f34215497aefc94f8236cf3fc891df.webp"
    },
    "b": {
     "name": "LEGION",
-    "short": "LEGION"
+    "short": "LEGION",
+    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -332,11 +370,13 @@
    "at": "2026-10-27T04:00:00.000Z",
    "a": {
     "name": "Cloud Dawning",
-    "short": "CD"
+    "short": "CD",
+    "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
    },
    "b": {
     "name": "Royal Bear",
-    "short": "Royal Bear"
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -349,11 +389,13 @@
    "at": "2026-10-27T10:00:00.000Z",
    "a": {
     "name": "Resp Gaming",
-    "short": "Resp"
+    "short": "Resp",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "b": {
     "name": "Team Kinetix",
-    "short": "Kinetix"
+    "short": "Kinetix",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -366,11 +408,13 @@
    "at": "2026-10-27T13:00:00.000Z",
    "a": {
     "name": "Astra Invicta",
-    "short": "AI"
+    "short": "AI",
+    "logo": "https://static.gosugamers.net/61/a4/f4/82bd3e290b60beb976dfcce65ed3daab63a3990f651d26e37de1374a2e.webp"
    },
    "b": {
     "name": "LEGION",
-    "short": "LEGION"
+    "short": "LEGION",
+    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
    },
    "sa": 0,
    "sb": 1,
@@ -383,11 +427,13 @@
    "at": "2026-10-27T14:30:00.000Z",
    "a": {
     "name": "BetBoom Team",
-    "short": "BetBoom"
+    "short": "BetBoom",
+    "logo": "https://static.gosugamers.net/dc/e7/aa/220f66d7ef6da7c8b7411c395ea3f34215497aefc94f8236cf3fc891df.webp"
    },
    "b": {
     "name": "Astra Invicta",
-    "short": "AI"
+    "short": "AI",
+    "logo": "https://static.gosugamers.net/61/a4/f4/82bd3e290b60beb976dfcce65ed3daab63a3990f651d26e37de1374a2e.webp"
    },
    "sa": 0,
    "sb": 1,
@@ -400,11 +446,13 @@
    "at": "2026-10-27T16:00:00.000Z",
    "a": {
     "name": "BetBoom Team",
-    "short": "BetBoom"
+    "short": "BetBoom",
+    "logo": "https://static.gosugamers.net/dc/e7/aa/220f66d7ef6da7c8b7411c395ea3f34215497aefc94f8236cf3fc891df.webp"
    },
    "b": {
     "name": "LEGION",
-    "short": "LEGION"
+    "short": "LEGION",
+    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
    },
    "sa": 0,
    "sb": 1,
@@ -417,11 +465,13 @@
    "at": "2026-10-28T04:00:00.000Z",
    "a": {
     "name": "Cloud Dawning",
-    "short": "CD"
+    "short": "CD",
+    "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
    },
    "b": {
     "name": "Resp Gaming",
-    "short": "Resp"
+    "short": "Resp",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -434,11 +484,13 @@
    "at": "2026-10-28T07:00:00.000Z",
    "a": {
     "name": "Direborn Esports",
-    "short": "Direborn"
+    "short": "Direborn",
+    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
    },
    "b": {
     "name": "Yangon Galacticos",
-    "short": "YG"
+    "short": "YG",
+    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -451,11 +503,13 @@
    "at": "2026-10-28T09:00:00.000Z",
    "a": {
     "name": "PARIVISION",
-    "short": "PARI"
+    "short": "PARI",
+    "logo": "https://static.gosugamers.net/a2/51/96/bf34ccba3ee39dd32a5b149d8b19f63829c236578d89133efa96954d6b.webp"
    },
    "b": {
     "name": "Team Liquid",
-    "short": "Liquid"
+    "short": "Liquid",
+    "logo": "https://static.gosugamers.net/9d/94/de/794d72411471289e5778c49398b213e4be829b53683bd077fc05d28996.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -468,11 +522,13 @@
    "at": "2026-10-28T10:00:00.000Z",
    "a": {
     "name": "Team Kinetix",
-    "short": "Kinetix"
+    "short": "Kinetix",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "b": {
     "name": "Royal Bear",
-    "short": "Royal Bear"
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -485,11 +541,13 @@
    "at": "2026-10-28T13:20:00.000Z",
    "a": {
     "name": "Team Yandex",
-    "short": "TY"
+    "short": "TY",
+    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
    },
    "b": {
     "name": "Astra Invicta",
-    "short": "AI"
+    "short": "AI",
+    "logo": "https://static.gosugamers.net/61/a4/f4/82bd3e290b60beb976dfcce65ed3daab63a3990f651d26e37de1374a2e.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -502,11 +560,13 @@
    "at": "2026-10-28T17:00:00.000Z",
    "a": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "b": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -519,11 +579,13 @@
    "at": "2026-10-28T20:00:00.000Z",
    "a": {
     "name": "GamerLegion",
-    "short": "GL"
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
    },
    "b": {
     "name": "LEGION",
-    "short": "LEGION"
+    "short": "LEGION",
+    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -536,11 +598,13 @@
    "at": "2026-10-29T04:00:00.000Z",
    "a": {
     "name": "Cloud Dawning",
-    "short": "CD"
+    "short": "CD",
+    "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
    },
    "b": {
     "name": "Zenith",
-    "short": "Zenith"
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -553,11 +617,13 @@
    "at": "2026-10-29T07:00:00.000Z",
    "a": {
     "name": "Resp Gaming",
-    "short": "Resp"
+    "short": "Resp",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "b": {
     "name": "Royal Bear",
-    "short": "Royal Bear"
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -570,11 +636,13 @@
    "at": "2026-10-29T09:00:00.000Z",
    "a": {
     "name": "Team Liquid",
-    "short": "Liquid"
+    "short": "Liquid",
+    "logo": "https://static.gosugamers.net/9d/94/de/794d72411471289e5778c49398b213e4be829b53683bd077fc05d28996.webp"
    },
    "b": {
     "name": "Astra Invicta",
-    "short": "AI"
+    "short": "AI",
+    "logo": "https://static.gosugamers.net/61/a4/f4/82bd3e290b60beb976dfcce65ed3daab63a3990f651d26e37de1374a2e.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -587,11 +655,13 @@
    "at": "2026-10-29T10:00:00.000Z",
    "a": {
     "name": "Direborn Esports",
-    "short": "Direborn"
+    "short": "Direborn",
+    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
    },
    "b": {
     "name": "Team Nemesis Academy",
-    "short": "NMSS.Ac"
+    "short": "NMSS.Ac",
+    "logo": "https://static.gosugamers.net/2e/34/8b/fc07c9ae5bec91ccef87094934a4d7d7dbbe47bc37531ab14ff5064e04.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -604,11 +674,13 @@
    "at": "2026-10-29T12:00:00.000Z",
    "a": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "b": {
     "name": "LEGION",
-    "short": "LEGION"
+    "short": "LEGION",
+    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -621,11 +693,13 @@
    "at": "2026-10-29T15:00:00.000Z",
    "a": {
     "name": "PARIVISION",
-    "short": "PARI"
+    "short": "PARI",
+    "logo": "https://static.gosugamers.net/a2/51/96/bf34ccba3ee39dd32a5b149d8b19f63829c236578d89133efa96954d6b.webp"
    },
    "b": {
     "name": "Team Yandex",
-    "short": "TY"
+    "short": "TY",
+    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -638,11 +712,13 @@
    "at": "2026-10-29T19:00:00.000Z",
    "a": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
    },
    "b": {
     "name": "GamerLegion",
-    "short": "GL"
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -655,11 +731,13 @@
    "at": "2026-10-30T04:00:00.000Z",
    "a": {
     "name": "Zenith",
-    "short": "Zenith"
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "b": {
     "name": "Yangon Galacticos",
-    "short": "YG"
+    "short": "YG",
+    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -672,11 +750,13 @@
    "at": "2026-10-30T08:30:00.000Z",
    "a": {
     "name": "Direborn Esports",
-    "short": "Direborn"
+    "short": "Direborn",
+    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
    },
    "b": {
     "name": "Resp Gaming",
-    "short": "Resp"
+    "short": "Resp",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -689,11 +769,13 @@
    "at": "2026-10-30T10:00:00.000Z",
    "a": {
     "name": "PARIVISION",
-    "short": "PARI"
+    "short": "PARI",
+    "logo": "https://static.gosugamers.net/a2/51/96/bf34ccba3ee39dd32a5b149d8b19f63829c236578d89133efa96954d6b.webp"
    },
    "b": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -706,11 +788,13 @@
    "at": "2026-10-30T10:45:46.000Z",
    "a": {
     "name": "Team Nemesis Academy",
-    "short": "NMSS.Ac"
+    "short": "NMSS.Ac",
+    "logo": "https://static.gosugamers.net/2e/34/8b/fc07c9ae5bec91ccef87094934a4d7d7dbbe47bc37531ab14ff5064e04.webp"
    },
    "b": {
     "name": "Royal Bear",
-    "short": "Royal Bear"
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -723,11 +807,13 @@
    "at": "2026-10-30T13:50:00.000Z",
    "a": {
     "name": "OG",
-    "short": "OG"
+    "short": "OG",
+    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
    },
    "b": {
     "name": "Team Liquid",
-    "short": "Liquid"
+    "short": "Liquid",
+    "logo": "https://static.gosugamers.net/9d/94/de/794d72411471289e5778c49398b213e4be829b53683bd077fc05d28996.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -740,11 +826,13 @@
    "at": "2026-10-30T17:00:00.000Z",
    "a": {
     "name": "Team Liquid",
-    "short": "Liquid"
+    "short": "Liquid",
+    "logo": "https://static.gosugamers.net/9d/94/de/794d72411471289e5778c49398b213e4be829b53683bd077fc05d28996.webp"
    },
    "b": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -757,11 +845,13 @@
    "at": "2026-10-31T04:00:00.000Z",
    "a": {
     "name": "Direborn Esports",
-    "short": "Direborn"
+    "short": "Direborn",
+    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
    },
    "b": {
     "name": "Royal Bear",
-    "short": "Royal Bear"
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -774,11 +864,13 @@
    "at": "2026-10-31T07:00:00.000Z",
    "a": {
     "name": "Zenith",
-    "short": "Zenith"
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "b": {
     "name": "Resp Gaming",
-    "short": "Resp"
+    "short": "Resp",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -791,11 +883,13 @@
    "at": "2026-10-31T10:00:00.000Z",
    "a": {
     "name": "Cloud Dawning",
-    "short": "CD"
+    "short": "CD",
+    "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
    },
    "b": {
     "name": "Team Kinetix",
-    "short": "Kinetix"
+    "short": "Kinetix",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -808,11 +902,13 @@
    "at": "2026-10-31T13:00:00.000Z",
    "a": {
     "name": "Team Yandex",
-    "short": "TY"
+    "short": "TY",
+    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
    },
    "b": {
     "name": "GamerLegion",
-    "short": "GL"
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -825,11 +921,13 @@
    "at": "2026-10-31T17:00:00.000Z",
    "a": {
     "name": "GamerLegion",
-    "short": "GL"
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
    },
    "b": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -842,11 +940,13 @@
    "at": "2026-11-01T10:00:00.000Z",
    "a": {
     "name": "Zenith",
-    "short": "Zenith"
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "b": {
     "name": "Royal Bear",
-    "short": "Royal Bear"
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
    "sa": null,
    "sb": null,
@@ -859,11 +959,13 @@
    "at": "2026-11-01T13:00:00.000Z",
    "a": {
     "name": "Team Yandex",
-    "short": "TY"
+    "short": "TY",
+    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
    },
    "b": {
     "name": "Team Spirit",
-    "short": "TSpirit"
+    "short": "TSpirit",
+    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
    "sa": null,
    "sb": null,
@@ -876,11 +978,13 @@
    "at": "2026-11-02T04:00:00.000Z",
    "a": {
     "name": "Zenith",
-    "short": "Zenith"
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "b": {
     "name": "Team Kinetix",
-    "short": "Kinetix"
+    "short": "Kinetix",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": null,
    "sb": null,
@@ -893,11 +997,13 @@
    "at": "2026-11-02T07:00:00.000Z",
    "a": {
     "name": "Direborn Esports",
-    "short": "Direborn"
+    "short": "Direborn",
+    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
    },
    "b": {
     "name": "Zenith",
-    "short": "Zenith"
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
    "sa": null,
    "sb": null,
