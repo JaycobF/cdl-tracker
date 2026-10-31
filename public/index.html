@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CDL Season Tracker</title>
+<meta name="description" content="Fan-made tracker for the Call of Duty League: live standings, results and every season since 2020.">
+<meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1B1C1F" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="CDL Tracker">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="head">
+  <div class="wrap">
+    <div class="league">
+      <div class="lg" aria-hidden="true">CDL</div>
+      <div><h1>Call of Duty League</h1><p id="seasonline">2027 season · Modern Warfare 4</p></div>
+      <div class="ct"><b id="cd">–</b><span id="cdl">days to kickoff</span></div>
+    </div>
+  </div>
+</header>
+<nav class="tabs" aria-label="Sections"><div class="wrap">
+  <a href="#overview" data-v="overview">Overview</a>
+  <a href="#table" data-v="table">Table</a>
+  <a href="#matches" data-v="matches">Matches</a>
+  <a href="#history" data-v="history">History</a>
+  <a href="#titles" data-v="titles">Titles</a>
+</div></nav>
+
+<div class="wrap"><main>
+  <p class="offline" id="offline" hidden>You're offline. Showing the last scores this phone saved.</p>
+
+  <section id="v-overview" data-view>
+    <div class="cols">
+      <div class="stack">
+        <div class="card">
+          <div class="ch"><h2>Next up</h2><span class="updated"><i id="dot"></i><span id="upd">Loading…</span></span></div>
+          <div id="nextEvent"></div>
+          <div id="next"></div>
+          <div class="ch" style="padding-top:6px"><a class="link" href="#matches">All matches</a><span></span></div>
+        </div>
+        <div class="card" id="latestCard" hidden>
+          <div class="ch"><h2>Latest results</h2></div>
+          <div id="latest"></div>
+        </div>
+        <div class="card">
+          <div class="ch"><h2>Road to Champs</h2></div>
+          <div id="road"></div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="ch"><h2>Table</h2><a class="link" href="#table">Full table</a></div>
+        <div class="tw"><table id="mini"></table></div>
+        <div class="legend"><span><i></i>Champs qualification (top 8)</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="v-table" data-view hidden>
+    <div class="card">
+      <div class="ch"><h2>2027 standings</h2><span class="sub" id="st-note"></span></div>
+      <div class="tw"><table id="standings"></table></div>
+      <div class="legend"><span><i></i>Champs qualification (top 8)</span><span>Form: last 5 series, newest on the right</span><span>Points: 10 per qualifier win. Major placement points not yet announced.</span></div>
+    </div>
+  </section>
+
+  <section id="v-matches" data-view hidden>
+    <div class="filters">
+      <div class="rounds" id="evf"></div>
+      <select id="teamf" aria-label="Filter by team"></select>
+      <select id="statef" aria-label="Show">
+        <option value="all">All</option><option value="up">Upcoming</option><option value="res">Results</option>
+      </select>
+    </div>
+    <p class="sub" id="tzn" style="margin:0 4px 10px"></p>
+    <div id="sched" class="stack"></div>
+  </section>
+
+  <section id="v-history" data-view hidden>
+    <div class="stack">
+      <div class="card">
+        <div class="ch"><h2>Past seasons</h2><span class="sub">Since 2020</span></div>
+        <div class="seasons" id="seasons"></div>
+      </div>
+      <div id="hist" class="stack"></div>
+    </div>
+  </section>
+
+  <section id="v-titles" data-view hidden>
+    <div class="cols">
+      <div class="card"><div class="ch"><h2>World Champions</h2></div><div id="tl"></div></div>
+      <div class="card">
+        <div class="ch"><h2>Trophy cabinet</h2><span class="sub">2020–2026</span></div>
+        <div class="tw"><table id="tally"></table></div>
+        <p class="note" style="padding-top:12px;border-top:1px solid var(--line)">Counted by franchise: Dallas Empire titles sit with OpTic Texas, Atlanta FaZe titles with FaZe Vegas. 2020 Home Series and Pro-Am/Kickoff events aren't counted as Majors.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>A fan project, not affiliated with Activision or the Call of Duty League. Scores update automatically from Cito API a few minutes after each series. History compiled from Wikipedia season pages, Dexerto, Insider Gaming and Hotspawn.</footer>
+</main></div>
+<script src="app.js"></script>
+</body>
+</html>

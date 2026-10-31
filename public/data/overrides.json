@@ -1,0 +1,5 @@
+{
+ "_help": "Manual corrections. They always win over automatic results. Match ids are in schedule.json. Example: \"m1-01\": {\"sa\": 3, \"sb\": 1} means the first team listed won 3-1. Winners use team codes, e.g. \"m1\": \"TX\".",
+ "matches": {},
+ "winners": {}
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cdl-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fan-made Call of Duty League season tracker with automatic score updates.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node scripts/update-scores.mjs",
+    "update:force": "node scripts/update-scores.mjs --force",
+    "check-source": "node scripts/check-source.mjs",
+    "test": "node --test test/*.test.mjs",
+    "start": "python3 -m http.server 8080 --directory public"
+  }
+}

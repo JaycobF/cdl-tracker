@@ -1,0 +1,1080 @@
+{
+ "lineage": {
+  "Dallas Empire": "OpTic Texas",
+  "Atlanta FaZe": "FaZe Vegas"
+ },
+ "seasons": [
+  {
+   "y": 2026,
+   "game": "Black Ops 7",
+   "dates": "Dec 5, 2025 – Jul 19, 2026",
+   "champ": "FaZe Vegas",
+   "runner": "OpTic Texas",
+   "score": "5–2",
+   "where": "Michelob Ultra Arena, Las Vegas",
+   "roster": "Simp, Drazah, Abuzah, 04",
+   "fmvp": "Simp",
+   "smvp": "Scrap",
+   "evLabel": "Majors",
+   "events": [
+    [
+     "Major I",
+     "Paris Gentle Mates",
+     "OpTic Texas",
+     "4–3",
+     "Dallas"
+    ],
+    [
+     "Major II",
+     "FaZe Vegas",
+     "OpTic Texas",
+     "4–1",
+     "DreamHack Birmingham"
+    ],
+    [
+     "Major III",
+     "Los Angeles Thieves",
+     "OpTic Texas",
+     "4–3",
+     "Atlanta (Pro-Am)"
+    ],
+    [
+     "Major IV",
+     "OpTic Texas",
+     "Los Angeles Thieves",
+     "4–3",
+     "Paris"
+    ]
+   ],
+   "st": [
+    [
+     "OpTic Texas",
+     575,
+     40,
+     12,
+     139,
+     70
+    ],
+    [
+     "Los Angeles Thieves",
+     500,
+     38,
+     15,
+     134,
+     79
+    ],
+    [
+     "FaZe Vegas",
+     440,
+     33,
+     21,
+     120,
+     93
+    ],
+    [
+     "Paris Gentle Mates",
+     380,
+     29,
+     23,
+     109,
+     101
+    ],
+    [
+     "Toronto KOI",
+     290,
+     26,
+     23,
+     98,
+     85
+    ],
+    [
+     "G2 Minnesota",
+     250,
+     21,
+     26,
+     89,
+     94
+    ],
+    [
+     "Riyadh Falcons",
+     240,
+     24,
+     20,
+     88,
+     82
+    ],
+    [
+     "Miami Heretics",
+     235,
+     22,
+     23,
+     88,
+     86
+    ],
+    [
+     "Carolina Royal Ravens",
+     150,
+     16,
+     22,
+     65,
+     85
+    ],
+    [
+     "Boston Breach",
+     115,
+     12,
+     25,
+     58,
+     92
+    ],
+    [
+     "Vancouver Surge",
+     95,
+     10,
+     27,
+     44,
+     91
+    ],
+    [
+     "Cloud9 New York",
+     30,
+     4,
+     31,
+     38,
+     97
+    ]
+   ]
+  },
+  {
+   "y": 2025,
+   "game": "Black Ops 6",
+   "dates": "Dec 6, 2024 – Jun 29, 2025",
+   "champ": "OpTic Texas",
+   "runner": "Vancouver Surge",
+   "score": "5–3",
+   "where": "Kitchener Memorial Auditorium, Ontario",
+   "roster": "Shotzzy, Dashy, Huke, Mercules",
+   "fmvp": "Mercules",
+   "smvp": "Scrap",
+   "evLabel": "Majors",
+   "events": [
+    [
+     "Major I",
+     "Atlanta FaZe",
+     "Los Angeles Thieves",
+     "4–3",
+     "Madrid",
+     "Simp"
+    ],
+    [
+     "Major II",
+     "Atlanta FaZe",
+     "Vancouver Surge",
+     "4–0",
+     "Allen, TX",
+     "Cellium"
+    ],
+    [
+     "Major III",
+     "Los Angeles Thieves",
+     "Vancouver Surge",
+     "4–0",
+     "Boca Raton, FL",
+     "Scrap"
+    ],
+    [
+     "Major IV",
+     "Los Angeles Thieves",
+     "Atlanta FaZe",
+     "4–2",
+     "DreamHack Dallas",
+     "Scrap"
+    ]
+   ],
+   "st": [
+    [
+     "Los Angeles Thieves",
+     540,
+     37,
+     11,
+     131,
+     55
+    ],
+    [
+     "Atlanta FaZe",
+     505,
+     34,
+     11,
+     119,
+     64
+    ],
+    [
+     "Toronto Ultra",
+     370,
+     30,
+     16,
+     101,
+     77
+    ],
+    [
+     "Vancouver Surge",
+     330,
+     25,
+     18,
+     94,
+     84
+    ],
+    [
+     "Miami Heretics",
+     295,
+     20,
+     20,
+     82,
+     83
+    ],
+    [
+     "Carolina Royal Ravens",
+     220,
+     20,
+     20,
+     75,
+     78
+    ],
+    [
+     "OpTic Texas",
+     220,
+     20,
+     21,
+     76,
+     80
+    ],
+    [
+     "Boston Breach",
+     200,
+     16,
+     19,
+     66,
+     76
+    ],
+    [
+     "Minnesota ROKKR",
+     165,
+     15,
+     24,
+     72,
+     93
+    ],
+    [
+     "Cloud9 New York",
+     125,
+     12,
+     24,
+     57,
+     80
+    ],
+    [
+     "Los Angeles Guerrillas M8",
+     55,
+     6,
+     26,
+     42,
+     82
+    ],
+    [
+     "Vegas Falcons",
+     35,
+     2,
+     28,
+     26,
+     89
+    ]
+   ]
+  },
+  {
+   "y": 2024,
+   "game": "Modern Warfare III",
+   "dates": "Dec 8, 2023 – Jul 21, 2024",
+   "champ": "OpTic Texas",
+   "runner": "New York Subliners",
+   "score": "5–1",
+   "where": "Credit Union of Texas Events Center, Allen, TX",
+   "roster": "Shotzzy, Pred, Kenny, Dashy",
+   "fmvp": "Shotzzy",
+   "smvp": "Simp",
+   "evLabel": "Majors",
+   "events": [
+    [
+     "Major I",
+     "Toronto Ultra",
+     "Atlanta FaZe",
+     "4–1",
+     "Boston",
+     "CleanX"
+    ],
+    [
+     "Major II",
+     "Atlanta FaZe",
+     "OpTic Texas",
+     "4–1",
+     "Miami",
+     "Simp"
+    ],
+    [
+     "Major III",
+     "OpTic Texas",
+     "Toronto Ultra",
+     "4–0",
+     "Toronto",
+     "Shotzzy"
+    ],
+    [
+     "Major IV",
+     "New York Subliners",
+     "Atlanta FaZe",
+     "4–2",
+     "Burbank, CA",
+     "HyDra"
+    ]
+   ],
+   "st": [
+    [
+     "Atlanta FaZe",
+     560,
+     37,
+     8,
+     126,
+     52
+    ],
+    [
+     "Toronto Ultra",
+     495,
+     35,
+     10,
+     112,
+     56
+    ],
+    [
+     "OpTic Texas",
+     415,
+     29,
+     16,
+     109,
+     78
+    ],
+    [
+     "New York Subliners",
+     395,
+     30,
+     16,
+     108,
+     76
+    ],
+    [
+     "Seattle Surge",
+     200,
+     16,
+     24,
+     70,
+     90
+    ],
+    [
+     "Los Angeles Guerrillas",
+     200,
+     14,
+     26,
+     57,
+     91
+    ],
+    [
+     "Los Angeles Thieves",
+     195,
+     17,
+     20,
+     69,
+     84
+    ],
+    [
+     "Miami Heretics",
+     185,
+     17,
+     22,
+     69,
+     82
+    ],
+    [
+     "Vegas Legion",
+     165,
+     15,
+     22,
+     65,
+     79
+    ],
+    [
+     "Carolina Royal Ravens",
+     150,
+     13,
+     24,
+     65,
+     88
+    ],
+    [
+     "Minnesota ROKKR",
+     140,
+     11,
+     25,
+     56,
+     90
+    ],
+    [
+     "Boston Breach",
+     60,
+     6,
+     27,
+     47,
+     87
+    ]
+   ]
+  },
+  {
+   "y": 2023,
+   "game": "Modern Warfare II",
+   "dates": "Dec 2, 2022 – Jun 18, 2023",
+   "champ": "New York Subliners",
+   "runner": "Toronto Ultra",
+   "score": "5–0",
+   "where": "Las Vegas",
+   "roster": "HyDra, KiSMET, Skyz, Priestahh",
+   "fmvp": "KiSMET",
+   "smvp": "HyDra",
+   "evLabel": "Majors",
+   "events": [
+    [
+     "Major I",
+     "New York Subliners",
+     "",
+     "",
+     "Raleigh, NC"
+    ],
+    [
+     "Major II",
+     "Atlanta FaZe",
+     "",
+     "",
+     "Boston"
+    ],
+    [
+     "Major III",
+     "Toronto Ultra",
+     "",
+     "",
+     "Arlington, TX"
+    ],
+    [
+     "Major IV",
+     "Los Angeles Thieves",
+     "",
+     "",
+     "Columbus, OH"
+    ],
+    [
+     "Major V",
+     "New York Subliners",
+     "",
+     "",
+     "Toronto"
+    ]
+   ],
+   "st": [
+    [
+     "Atlanta FaZe",
+     385,
+     31,
+     16,
+     112,
+     81
+    ],
+    [
+     "OpTic Texas",
+     320,
+     30,
+     15,
+     101,
+     76
+    ],
+    [
+     "New York Subliners",
+     320,
+     31,
+     17,
+     112,
+     77
+    ],
+    [
+     "Toronto Ultra",
+     305,
+     27,
+     17,
+     105,
+     73
+    ],
+    [
+     "Los Angeles Thieves",
+     285,
+     27,
+     19,
+     103,
+     75
+    ],
+    [
+     "Minnesota ROKKR",
+     220,
+     19,
+     23,
+     76,
+     86
+    ],
+    [
+     "Boston Breach",
+     190,
+     18,
+     20,
+     80,
+     75
+    ],
+    [
+     "Seattle Surge",
+     190,
+     18,
+     21,
+     75,
+     80
+    ],
+    [
+     "Las Vegas Legion",
+     170,
+     18,
+     21,
+     73,
+     89
+    ],
+    [
+     "Florida Mutineers",
+     130,
+     13,
+     24,
+     54,
+     89
+    ],
+    [
+     "Los Angeles Guerrillas",
+     80,
+     9,
+     25,
+     51,
+     86
+    ],
+    [
+     "London Royal Ravens",
+     70,
+     7,
+     24,
+     40,
+     81
+    ]
+   ]
+  },
+  {
+   "y": 2022,
+   "game": "Vanguard",
+   "dates": "Jan 21 – Aug 7, 2022",
+   "champ": "Los Angeles Thieves",
+   "runner": "Atlanta FaZe",
+   "score": "5–2",
+   "where": "Galen Center, Los Angeles",
+   "roster": "Envoy, Octane, Kenny, Drazah",
+   "fmvp": "Kenny",
+   "smvp": "Cellium",
+   "evLabel": "Majors",
+   "events": [
+    [
+     "Major I",
+     "OpTic Texas",
+     "Atlanta FaZe",
+     "5–2",
+     "OpTic Texas host"
+    ],
+    [
+     "Major II",
+     "Los Angeles Guerrillas",
+     "Atlanta FaZe",
+     "5–2",
+     "Minnesota ROKKR host"
+    ],
+    [
+     "Pro-Am Classic",
+     "New York Subliners",
+     "Los Angeles Thieves",
+     "",
+     ""
+    ],
+    [
+     "Major III",
+     "Seattle Surge",
+     "Atlanta FaZe",
+     "",
+     "Toronto Ultra host"
+    ],
+    [
+     "Major IV",
+     "Los Angeles Thieves",
+     "New York Subliners",
+     "",
+     "New York Subliners host"
+    ]
+   ],
+   "st": [
+    [
+     "Atlanta FaZe",
+     330,
+     28,
+     13,
+     102,
+     70
+    ],
+    [
+     "OpTic Texas",
+     265,
+     24,
+     12,
+     90,
+     55
+    ],
+    [
+     "Los Angeles Thieves",
+     200,
+     17,
+     17,
+     71,
+     66
+    ],
+    [
+     "London Royal Ravens",
+     190,
+     17,
+     14,
+     63,
+     62
+    ],
+    [
+     "Seattle Surge",
+     185,
+     15,
+     15,
+     65,
+     62
+    ],
+    [
+     "Boston Breach",
+     180,
+     16,
+     16,
+     63,
+     68
+    ],
+    [
+     "Toronto Ultra",
+     180,
+     16,
+     18,
+     70,
+     72
+    ],
+    [
+     "New York Subliners",
+     160,
+     14,
+     14,
+     56,
+     56
+    ],
+    [
+     "Florida Mutineers",
+     160,
+     13,
+     18,
+     54,
+     67
+    ],
+    [
+     "Los Angeles Guerrillas",
+     155,
+     15,
+     17,
+     59,
+     72
+    ],
+    [
+     "Minnesota ROKKR",
+     140,
+     14,
+     14,
+     57,
+     58
+    ],
+    [
+     "Paris Legion",
+     20,
+     2,
+     23,
+     31,
+     73
+    ]
+   ]
+  },
+  {
+   "y": 2021,
+   "game": "Black Ops Cold War",
+   "dates": "Jan 23 – Aug 22, 2021",
+   "champ": "Atlanta FaZe",
+   "runner": "Toronto Ultra",
+   "score": "5–3",
+   "where": "Los Angeles",
+   "roster": "Simp, aBeZy, Arcitys, Cellium",
+   "fmvp": "aBeZy",
+   "smvp": "Simp",
+   "evLabel": "Stage Majors",
+   "events": [
+    [
+     "Stage 1",
+     "Atlanta FaZe",
+     "Dallas Empire",
+     "",
+     ""
+    ],
+    [
+     "Stage 2",
+     "Toronto Ultra",
+     "Atlanta FaZe",
+     "5–3",
+     ""
+    ],
+    [
+     "Stage 3",
+     "Atlanta FaZe",
+     "New York Subliners",
+     "5–2",
+     ""
+    ],
+    [
+     "Stage 4",
+     "Atlanta FaZe",
+     "Dallas Empire",
+     "5–4",
+     "Dallas, first LAN since 2020"
+    ],
+    [
+     "Stage 5",
+     "Minnesota ROKKR",
+     "Toronto Ultra",
+     "5–4",
+     "Came back from 0–4"
+    ]
+   ],
+   "st": [
+    [
+     "Atlanta FaZe",
+     525,
+     34,
+     7,
+     122,
+     53
+    ],
+    [
+     "Toronto Ultra",
+     415,
+     29,
+     17,
+     113,
+     79
+    ],
+    [
+     "Dallas Empire",
+     400,
+     26,
+     18,
+     99,
+     84
+    ],
+    [
+     "OpTic Chicago",
+     360,
+     26,
+     18,
+     97,
+     74
+    ],
+    [
+     "New York Subliners",
+     340,
+     24,
+     17,
+     85,
+     81
+    ],
+    [
+     "Minnesota ROKKR",
+     305,
+     20,
+     17,
+     75,
+     73
+    ],
+    [
+     "Los Angeles Thieves",
+     240,
+     18,
+     21,
+     74,
+     83
+    ],
+    [
+     "Florida Mutineers",
+     210,
+     17,
+     19,
+     69,
+     70
+    ],
+    [
+     "Seattle Surge",
+     120,
+     11,
+     25,
+     56,
+     85
+    ],
+    [
+     "London Royal Ravens",
+     110,
+     9,
+     23,
+     45,
+     79
+    ],
+    [
+     "Los Angeles Guerrillas",
+     100,
+     8,
+     26,
+     44,
+     87
+    ],
+    [
+     "Paris Legion",
+     100,
+     8,
+     22,
+     42,
+     73
+    ]
+   ]
+  },
+  {
+   "y": 2020,
+   "game": "Modern Warfare",
+   "dates": "Jan 24 – Aug 30, 2020",
+   "champ": "Dallas Empire",
+   "runner": "Atlanta FaZe",
+   "score": "5–1",
+   "where": "Online",
+   "roster": "Crimsix, Clayster, Shotzzy, Huke, iLLeY",
+   "fmvp": "Crimsix",
+   "smvp": "Shotzzy",
+   "evLabel": "Home Series",
+   "events": [
+    [
+     "London",
+     "Chicago Huntsmen",
+     "Dallas Empire",
+     "3–0",
+     ""
+    ],
+    [
+     "Atlanta",
+     "Atlanta FaZe",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Los Angeles",
+     "Dallas Empire",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dallas",
+     "Florida Mutineers",
+     "Minnesota ROKKR",
+     "",
+     "Online from here on"
+    ],
+    [
+     "Chicago",
+     "Dallas Empire",
+     "Atlanta FaZe",
+     "",
+     ""
+    ],
+    [
+     "Florida",
+     "Atlanta FaZe",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Seattle",
+     "Chicago Huntsmen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Minnesota",
+     "Florida Mutineers",
+     "Atlanta FaZe",
+     "",
+     ""
+    ],
+    [
+     "Paris",
+     "Florida Mutineers",
+     "Atlanta FaZe",
+     "",
+     "Sweep"
+    ],
+    [
+     "New York",
+     "New York Subliners",
+     "Chicago Huntsmen",
+     "",
+     "Sweep"
+    ],
+    [
+     "London II",
+     "Dallas Empire",
+     "Paris Legion",
+     "",
+     ""
+    ],
+    [
+     "Toronto",
+     "Toronto Ultra",
+     "Atlanta FaZe",
+     "",
+     ""
+    ]
+   ],
+   "st": [
+    [
+     "Atlanta FaZe",
+     280,
+     26,
+     7,
+     86,
+     46
+    ],
+    [
+     "Dallas Empire",
+     260,
+     23,
+     12,
+     80,
+     55
+    ],
+    [
+     "Florida Mutineers",
+     230,
+     20,
+     11,
+     69,
+     61
+    ],
+    [
+     "Chicago Huntsmen",
+     230,
+     21,
+     9,
+     75,
+     44
+    ],
+    [
+     "New York Subliners",
+     140,
+     13,
+     17,
+     57,
+     60
+    ],
+    [
+     "London Royal Ravens",
+     120,
+     12,
+     14,
+     50,
+     58
+    ],
+    [
+     "Toronto Ultra",
+     120,
+     11,
+     13,
+     49,
+     55
+    ],
+    [
+     "Minnesota ROKKR",
+     120,
+     12,
+     16,
+     50,
+     62
+    ],
+    [
+     "OpTic Gaming Los Angeles",
+     100,
+     10,
+     17,
+     49,
+     58
+    ],
+    [
+     "Paris Legion",
+     100,
+     10,
+     16,
+     44,
+     57
+    ],
+    [
+     "Seattle Surge",
+     50,
+     5,
+     16,
+     32,
+     53
+    ],
+    [
+     "Los Angeles Guerrillas",
+     50,
+     5,
+     17,
+     30,
+     53
+    ]
+   ]
+  }
+ ]
+}

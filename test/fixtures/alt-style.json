@@ -1,0 +1,4 @@
+{"matches":[
+ {"match_id":77,"timestamp":1800227100,"teams":[{"team_name":"Texas OpTic","tag":"OPTX"},{"team_name":"Los Angeles Thieves","tag":"LAT"}],"scores":[2,3],"winner":{"name":"Los Angeles Thieves"}},
+ {"match_id":78,"date":"2027-02-14T20:30:00Z","event":"CDL Major I","teams":[{"name":"Toronto KOI"},{"name":"Riyadh Falcons"}],"score":"4-2","status":"finished"}
+]}

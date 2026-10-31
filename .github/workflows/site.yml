@@ -1,0 +1,72 @@
+# Updates scores on a schedule and publishes the app to GitHub Pages.
+name: Update scores and publish
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Check for results even if no match is due"
+        type: boolean
+        default: false
+  schedule:
+    # Times are UTC. CDL online matches run Fri–Sun evenings US time (about 19:00–03:00 UTC).
+    - cron: "*/15 19-23 * * 5,6,0"
+    - cron: "*/15 0-4 * * 6,0,1"
+    # Daytime checks for European LAN events and anything that ran late.
+    - cron: "7 9-18 * * 5,6,0"
+    # Daily safety net for postponed matches.
+    - cron: "37 12 * * 1-4"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.scores.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch new results
+        id: scores
+        if: github.event_name != 'push'
+        env:
+          CITO_API_KEY: ${{ secrets.CITO_API_KEY }}
+        run: node scripts/update-scores.mjs ${{ inputs.force && '--force' || '' }}
+      - name: Save results
+        if: steps.scores.outputs.changed == 'true'
+        run: |
+          git config user.name "cdl-score-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/results.json
+          git commit -m "Update scores $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
+
+  deploy:
+    needs: update
+    if: github.event_name == 'push' || needs.update.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4
