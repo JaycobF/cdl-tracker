@@ -12,7 +12,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { listFrom, normalizeMatch } from "./lib/normalize.mjs";
 import { applyResults, dueMatches, activeEvent } from "./lib/apply.mjs";
-import { fetchRecentMatches, fetchFirst, callCount } from "./lib/source.mjs";
+import { fetchRecentMatches, fetchFirst, callCount, report } from "./lib/source.mjs";
 import { emptyStore, plan, mergeInto } from "./lib/generic.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -100,20 +100,30 @@ async function runGeneric(league) {
 }
 
 // ---------- run ----------
-try {
-  for (const league of config.leagues) {
-    if (only && league.id !== only) continue;
+const outcome = {};
+for (const league of config.leagues) {
+  if (only && league.id !== only) continue;
+  const start = report.length;
+  try {
     if (league.type === "cdl") await runCdl();
     else if (league.api) await runGeneric(league);
+    outcome[league.id] = { ok: true };
+  } catch (e) {
+    // One league failing doesn't stop the others, unless the key itself was refused.
+    console.error(`  ${league.id}: ${e.message}`);
+    failures++;
+    outcome[league.id] = { ok: false, error: e.message };
+    if (e.fatal) break;
+  } finally {
+    if (outcome[league.id]) outcome[league.id].requests = report.slice(start);
   }
-} catch (e) {
-  console.error(`\nStopped: ${e.message}`);
-  failures++;
 }
 
 const used = callCount();
 if (used && !opt("--fixture") && !process.env.FIXTURE_DIR) write("usage.json", { month, calls: usedBefore + used, limit: config.monthlyCallLimit, updated: now.toISOString() });
 console.log(`\nAPI calls this run: ${used}. This month: ${usedBefore + used} of ${config.monthlyCallLimit}.`);
+
+if (report.length && !process.env.FIXTURE_DIR && !opt("--fixture")) write("last-run.json", { at: now.toISOString(), leagues: outcome });
 
 if (dry) { console.log(`Dry run: ${pending.size} file(s) not written.`); setOutput("changed", "false"); }
 else {

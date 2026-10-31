@@ -13,6 +13,20 @@ export class SourceError extends Error {
 let calls = 0;
 export const callCount = () => calls;
 
+// A record of every request this run, saved to last-run.json so problems can be diagnosed without the Actions log.
+export const report = [];
+function describe(body) {
+  const top = Array.isArray(body) ? "array" : Object.keys(body || {}).slice(0, 12).join(",");
+  let list = body;
+  for (const k of ["data", "matches", "results", "items", "schedule", "events"]) if (list && !Array.isArray(list) && list[k] !== undefined) list = list[k];
+  if (list && !Array.isArray(list) && typeof list === "object") for (const k of ["data", "matches", "results", "items", "schedule", "events"]) if (Array.isArray(list[k])) list = list[k];
+  const first = Array.isArray(list) && list.length ? list[0] : null;
+  const keys = o => (o && typeof o === "object" ? Object.keys(o).slice(0, 25) : []);
+  const nested = {};
+  if (first) for (const [k, v] of Object.entries(first)) if (v && typeof v === "object") nested[k] = Array.isArray(v) ? ["[array]", ...keys(v[0])] : keys(v);
+  return { top, count: Array.isArray(list) ? list.length : null, firstKeys: keys(first), nested };
+}
+
 async function getOne(p, { apiKey, fetchImpl = fetch }) {
   if (process.env.FIXTURE_DIR) {
     const file = path.join(process.env.FIXTURE_DIR, p.split("?")[0].replace(/^\//, "").replace(/\//g, "__") + ".json");
@@ -25,8 +39,14 @@ async function getOne(p, { apiKey, fetchImpl = fetch }) {
   const res = await fetchImpl(BASE + p, { headers: { "x-api-key": apiKey, accept: "application/json", "user-agent": "esports-tracker (fan project)" } });
   if (res.status === 401 || res.status === 403) throw new SourceError(`Source refused the API key (HTTP ${res.status}). Check the CITO_API_KEY secret.`, { fatal: true });
   if (res.status === 429) throw new SourceError("Source rate limit reached (HTTP 429). The next scheduled run will try again.", { fatal: true });
-  if (!res.ok) return { ok: false, status: res.status };
-  return { ok: true, body: await res.json() };
+  if (!res.ok) {
+    let detail = "";
+    try { detail = (await res.text()).replace(/\s+/g, " ").slice(0, 200); } catch {}
+    return { ok: false, status: res.status, detail };
+  }
+  const text = await res.text();
+  try { return { ok: true, body: JSON.parse(text) }; }
+  catch { return { ok: false, status: res.status, detail: `not JSON: ${text.replace(/\s+/g, " ").slice(0, 120)}` }; }
 }
 
 /** Tries each path in turn and returns the first successful JSON body. */
@@ -37,11 +57,13 @@ export async function fetchFirst(paths, opts = {}) {
     const p = raw.trim();
     try {
       const r = await getOne(p, { apiKey: process.env.CITO_API_KEY, ...opts });
-      if (r.ok) { log(`  ${p}: OK`); return r.body; }
-      last = `HTTP ${r.status}`; log(`  ${p}: HTTP ${r.status}, trying next`);
+      if (r.ok) { log(`  ${p}: OK`); report.push({ path: p, ok: true, shape: describe(r.body) }); return r.body; }
+      last = `HTTP ${r.status}`; log(`  ${p}: HTTP ${r.status}${r.detail ? ` (${r.detail})` : ""}, trying next`);
+      report.push({ path: p, ok: false, status: r.status, detail: r.detail || "" });
     } catch (e) {
       if (e.fatal) throw e;
       last = e.message; log(`  ${p}: ${e.message}`);
+      report.push({ path: p, ok: false, error: e.message });
     }
   }
   throw new SourceError(`No source path answered (${last}).`);
