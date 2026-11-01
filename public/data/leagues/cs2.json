@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-01T09:45:41.455Z",
- "upcomingFetched": "2026-10-31T20:43:37.402Z",
- "recentFetched": "2026-11-01T09:45:41.455Z",
+ "updated": "2026-11-01T20:51:03.699Z",
+ "upcomingFetched": "2026-11-01T20:51:03.699Z",
+ "recentFetched": "2026-11-01T20:51:03.699Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -636,7 +636,7 @@
    "a": {
     "name": "1win",
     "short": "1WIN",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5a8e0752159152d1245780a37b1d37d5.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/7442be8961c6da2ddc8010fc1a571e3c.webp"
    },
    "b": {
     "name": "5star",
@@ -673,8 +673,7 @@
    "at": "2026-10-31T14:00:00.000Z",
    "a": {
     "name": "Esprots",
-    "short": "ESPROTS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/13f552c6b4bac009b0d75635bae399d5.webp"
+    "short": "ESPROTS"
    },
    "b": {
     "name": "Galaxy",
@@ -693,7 +692,7 @@
    "a": {
     "name": "JiJieHao",
     "short": "JIJIEHAO",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/83c527ed60178d79200eac175bdd78c5.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cdbb87f36f4a5acdffc1216ca357db9d.webp"
    },
    "b": {
     "name": "BASEMENT BOYS",
@@ -730,8 +729,7 @@
    "at": "2026-10-31T15:10:00.000Z",
    "a": {
     "name": "LFO 10",
-    "short": "LFO10",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/baac37174e0843a370d81b63c515e368.webp"
+    "short": "LFO10"
    },
    "b": {
     "name": "Fortress",
@@ -749,8 +747,7 @@
    "at": "2026-10-31T16:00:00.000Z",
    "a": {
     "name": "Low Cortisol BR",
-    "short": "LCB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6beb5165380c179564d24076134fce80.webp"
+    "short": "LCB"
    },
    "b": {
     "name": "Turma do Pagode",
@@ -974,7 +971,7 @@
    "a": {
     "name": "Azuolas",
     "short": "AZUOLAS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/baac37174e0843a370d81b63c515e368.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/163840ebae568e93c8b05f95e0963bb2.webp"
    },
    "b": {
     "name": "Illyrians",
@@ -1015,8 +1012,7 @@
    },
    "b": {
     "name": "TTG",
-    "short": "TTG",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/d6b4cfc3e1ed0bc78a7388f0d24e93ca.webp"
+    "short": "TTG"
    },
    "sa": 2,
    "sb": 1,
@@ -1049,7 +1045,7 @@
    "a": {
     "name": "DENDELE",
     "short": "DENDELE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bad5e89e721718cfa951229ec3f33b28.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bdd130b51327ab22bcd342bca67e4608.webp"
    },
    "b": {
     "name": "NAOCOPULAS",
@@ -1086,7 +1082,7 @@
    "a": {
     "name": "NRG",
     "short": "NRG",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c0fa6b4a3bd075612366ca76f9abc321.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fee5b96979216649505ed0de34416d2a.webp"
    },
    "b": {
     "name": "Wildcard",
@@ -1142,12 +1138,11 @@
    "a": {
     "name": "Imperial",
     "short": "IMPERIAL",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4a65cc35c2815c9414b42f3c7a0558a4.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/372c2b7b27fb014cec67ab7edcc79248.webp"
    },
    "b": {
     "name": "Low Cortisol BR",
-    "short": "LCB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6beb5165380c179564d24076134fce80.webp"
+    "short": "LCB"
    },
    "sa": 2,
    "sb": 1,
@@ -1205,15 +1200,50 @@
     "short": "5STAR",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6771fb41728308e386d1c51a2d7e3f7e.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "GLuck Moscow Cyber Games 2026",
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400041",
+   "at": "2026-11-01T09:00:00.000Z",
+   "a": {
+    "name": "Ryvex",
+    "short": "RYVEX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/48d31ccc5802480b61ed3992675cf87e.webp"
+   },
+   "b": {
+    "name": "The Pigs",
+    "short": "THEPIGS"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPIC49",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400050",
+   "at": "2026-11-01T09:00:00.000Z",
+   "a": {
+    "name": "PsychoFace",
+    "short": "PSYCHOFA"
+   },
+   "b": {
+    "name": "Saint Sinners",
+    "short": "SS"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2399944",
-   "at": "2026-11-01T10:00:00.000Z",
+   "at": "2026-11-01T10:15:00.000Z",
    "a": {
     "name": "Metizport",
     "short": "METIZPOR",
@@ -1222,11 +1252,11 @@
    "b": {
     "name": "JiJieHao",
     "short": "JIJIEHAO",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/83c527ed60178d79200eac175bdd78c5.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cdbb87f36f4a5acdffc1216ca357db9d.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "HyperX Retake Season 13",
    "bestOf": 3
   },
@@ -1243,10 +1273,29 @@
     "short": "PHANTOM",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400051",
+   "at": "2026-11-01T12:00:00.000Z",
+   "a": {
+    "name": "Fortress",
+    "short": "FORTRESS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/84172f12778537d24816544a4d843f96.webp"
+   },
+   "b": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/77f73f917d409954af323f6c60dc3538.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
    "bestOf": 3
   },
   {
@@ -1260,13 +1309,254 @@
    "b": {
     "name": "1win",
     "short": "1WIN",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5a8e0752159152d1245780a37b1d37d5.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/7442be8961c6da2ddc8010fc1a571e3c.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "GLuck Moscow Cyber Games 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399986",
+   "at": "2026-11-01T14:00:00.000Z",
+   "a": {
+    "name": "BESTIA",
+    "short": "BESTIA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8f39c7d36daa0eab00a753a0540bf017.webp"
+   },
+   "b": {
+    "name": "100 Thieves",
+    "short": "1T",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ac59058bd7afa346763eda6e57e98413.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399945",
+   "at": "2026-11-01T14:05:00.000Z",
+   "a": {
+    "name": "WBT Academy",
+    "short": "WA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3ff85accdb1cac2434452a8ef1247fff.webp"
+   },
+   "b": {
+    "name": "Iberian Soul",
+    "short": "IS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9b03ad5b4e02174e9c9349a1734673d8.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399531",
+   "at": "2026-11-01T14:30:00.000Z",
+   "a": {
+    "name": "FOKUS",
+    "short": "FOKUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cdc3bf675531434e0ddc8ae210d55159.webp"
+   },
+   "b": {
+    "name": "Acend",
+    "short": "ACEND",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9ec61dca5d15b07e7d228a1ce3542f3c.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400052",
+   "at": "2026-11-01T15:00:00.000Z",
+   "a": {
+    "name": "DONSTU",
+    "short": "DONSTU",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e002e8bc84e75281763e57434e538681.webp"
+   },
+   "b": {
+    "name": "Misa",
+    "short": "MISA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/495962ac4c21f892e3747ac9610d2e40.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399960",
+   "at": "2026-11-01T15:00:00.000Z",
+   "a": {
+    "name": "NAOCOPULAS",
+    "short": "NAOCOPUL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6beb5165380c179564d24076134fce80.webp"
+   },
+   "b": {
+    "name": "Low Cortisol BR",
+    "short": "LCB"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Gamers Club Masters VII",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400042",
+   "at": "2026-11-01T15:25:00.000Z",
+   "a": {
+    "name": "The Last Resort",
+    "short": "TLR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
+   },
+   "b": {
+    "name": "Ryvex",
+    "short": "RYVEX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/48d31ccc5802480b61ed3992675cf87e.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPIC49",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400054",
+   "at": "2026-11-01T16:30:00.000Z",
+   "a": {
+    "name": "prodigy RU",
+    "short": "PR"
+   },
+   "b": {
+    "name": "Ducks",
+    "short": "DUCKS"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Contenders Europe Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399987",
+   "at": "2026-11-01T16:35:00.000Z",
+   "a": {
+    "name": "BARCA",
+    "short": "BARCA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11e444891831e259d504d911743a8f8c.webp"
+   },
+   "b": {
+    "name": "Wildcard",
+    "short": "WILDCARD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6d9eff23dfc13758c78071dc87b6993f.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399946",
+   "at": "2026-11-01T16:55:00.000Z",
+   "a": {
+    "name": "JiJieHao",
+    "short": "JIJIEHAO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cdbb87f36f4a5acdffc1216ca357db9d.webp"
+   },
+   "b": {
+    "name": "Iberian Soul",
+    "short": "IS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9b03ad5b4e02174e9c9349a1734673d8.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "HyperX Retake Season 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400045",
+   "at": "2026-11-01T17:00:00.000Z",
+   "a": {
+    "name": "Sutti's Money Crew",
+    "short": "SMC"
+   },
+   "b": {
+    "name": "Holly Molly",
+    "short": "HM"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "NSTLGA Texas Open 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400053",
+   "at": "2026-11-01T18:00:00.000Z",
+   "a": {
+    "name": "LFO 10",
+    "short": "LFO10"
+   },
+   "b": {
+    "name": "Azuolas",
+    "short": "AZUOLAS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/163840ebae568e93c8b05f95e0963bb2.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399532",
+   "at": "2026-11-01T18:00:00.000Z",
+   "a": {
+    "name": "Betclic",
+    "short": "BETCLIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a4e43fabcc4df7cd7d4887b42ce39ed6.webp"
+   },
+   "b": {
+    "name": "FOKUS",
+    "short": "FOKUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cdc3bf675531434e0ddc8ae210d55159.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400046",
+   "at": "2026-11-01T21:00:00.000Z",
+   "a": {
+    "name": "LAG",
+    "short": "LAG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/1767d57fdef82006ac8f736a0f56ffee.webp"
+   },
+   "b": {
+    "name": "NuTorious",
+    "short": "NUTORIOU",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/48dd2f8ef732dde7b96b54573b8153c5.webp"
    },
    "sa": null,
    "sb": null,
    "status": "upcoming",
-   "event": "GLuck Moscow Cyber Games 2026",
-   "bestOf": 3
+   "event": "NSTLGA Washington Open 2026",
+   "bestOf": 5
   },
   {
    "id": "cs2-match-2399856",
@@ -1274,7 +1564,7 @@
    "a": {
     "name": "HEROIC",
     "short": "HEROIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2d728849e3d044d6c19326d483af7a79.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e52f99078fa1bcfb51f557a572c8618a.webp"
    },
    "b": {
     "name": "B8",
@@ -1293,12 +1583,12 @@
    "a": {
     "name": "Legacy",
     "short": "LEGACY",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b2dd3b4f042fdde6c47649ace7587673.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e72fb54a4e09a5c6e4564710cea5913.webp"
    },
    "b": {
     "name": "The MongolZ",
     "short": "TM",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/12260e205ef33f134efcc543c301a00f.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6d7f3daef614277d88b67fc23d6d926b.webp"
    },
    "sa": null,
    "sb": null,
@@ -1312,12 +1602,12 @@
    "a": {
     "name": "PARIVISION",
     "short": "PARIVISI",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6bcb0239cbb7e937227fc8136b7ac497.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ac4c24d8fa96deb6ce8fc6a38c1245e5.webp"
    },
    "b": {
     "name": "G2",
     "short": "G2",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a335876e8d2132ad55dfccca0d970a1f.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a602501b47997540e5b51a5b49895204.webp"
    },
    "sa": null,
    "sb": null,
@@ -1331,7 +1621,7 @@
    "a": {
     "name": "Aurora",
     "short": "AURORA",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0cf72686d65237eb4fe4365d8070d068.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3a93403cb145304a3bef0105c002d8b8.webp"
    },
    "b": {
     "name": "Liquid",
@@ -1350,12 +1640,12 @@
    "a": {
     "name": "9z",
     "short": "9Z",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5e7ff1502914b664f0b3268f46a86f92.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/712c4fbfdc57ac09631f5920c7a7c0c1.webp"
    },
    "b": {
     "name": "BETBOOM",
     "short": "BETBOOM",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e18a57cf1f31f12ce32b9665fa7943c.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a91d19576e1c705c518bc30bd6aacdbc.webp"
    },
    "sa": null,
    "sb": null,
@@ -1393,7 +1683,7 @@
    "b": {
     "name": "Falcons",
     "short": "FALCONS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4c8ec6825eb47a8cdd03650e31e74831.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9e65d7e8195170eaf8992f54dea0f112.webp"
    },
    "sa": null,
    "sb": null,
@@ -1421,12 +1711,124 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400057",
+   "at": "2026-11-02T12:00:00.000Z",
+   "a": {
+    "name": "Leo",
+    "short": "LEO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/312cae5c3c4adaa761a8d80b3f01522b.webp"
+   },
+   "b": {
+    "name": "Saint Sinners",
+    "short": "SS"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400059",
+   "at": "2026-11-02T18:00:00.000Z",
+   "a": {
+    "name": "ex-ENCE",
+    "short": "EXENCE"
+   },
+   "b": {
+    "name": "SINQU",
+    "short": "SINQU",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b29fbd9d5d3eb1b9be402ba8ce2d9190.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400060",
+   "at": "2026-11-05T09:00:00.000Z",
+   "a": {
+    "name": "BAKS",
+    "short": "BAKS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
+   },
+   "b": {
+    "name": "Honvéd",
+    "short": "HONVD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/aa079aaad7f38434928fd888f79899ce.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400061",
+   "at": "2026-11-05T12:00:00.000Z",
+   "a": {
+    "name": "Fire Flux",
+    "short": "FIREFLUX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/20617f618e2b1a9f03903105a2038868.webp"
+   },
+   "b": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/77f73f917d409954af323f6c60dc3538.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400062",
+   "at": "2026-11-05T15:00:00.000Z",
+   "a": {
+    "name": "BASEMENT BOYS",
+    "short": "BB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c28a65f0d6eeae8848724bcb4152dda7.webp"
+   },
+   "b": {
+    "name": "Misa",
+    "short": "MISA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/495962ac4c21f892e3747ac9610d2e40.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400063",
+   "at": "2026-11-05T18:00:00.000Z",
+   "a": {
+    "name": "Johnny Speeds",
+    "short": "JS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3292b1312fad6ec7183dfa3b98d19013.webp"
+   },
+   "b": {
+    "name": "Drama",
+    "short": "DRAMA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/203c4b047f6aee72e81cd24eb162648c.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2399851",
    "at": "2026-11-11T02:00:00.000Z",
    "a": {
     "name": "Legacy",
     "short": "LEGACY",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b2dd3b4f042fdde6c47649ace7587673.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e72fb54a4e09a5c6e4564710cea5913.webp"
    },
    "b": {
     "name": "FURIA",
@@ -1450,7 +1852,7 @@
    "b": {
     "name": "Falcons",
     "short": "FALCONS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4c8ec6825eb47a8cdd03650e31e74831.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9e65d7e8195170eaf8992f54dea0f112.webp"
    },
    "sa": null,
    "sb": null,
@@ -1469,7 +1871,7 @@
    "b": {
     "name": "FUT",
     "short": "FUT",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a6016f8ded98a136c27e2df8ceb3a2e6.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/773f8fa25a1a0a34537961b2632572b9.webp"
    },
    "sa": null,
    "sb": null,
@@ -1488,7 +1890,7 @@
    "b": {
     "name": "G2",
     "short": "G2",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a335876e8d2132ad55dfccca0d970a1f.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a602501b47997540e5b51a5b49895204.webp"
    },
    "sa": null,
    "sb": null,
