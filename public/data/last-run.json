@@ -1,5 +1,5 @@
 {
- "at": "2026-11-01T09:45:41.455Z",
+ "at": "2026-11-01T16:38:55.908Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -7,67 +7,31 @@
   },
   "lol": {
    "ok": true,
-   "requests": [
-    {
-     "path": "/lol/schedule/results",
-     "ok": true,
-     "shape": {
-      "top": "success,count,total,hasMore,filters,data",
-      "count": 50,
-      "firstKeys": [
-       "matchId",
-       "esportsApiId",
-       "tournamentId",
-       "tournament",
-       "blockName",
-       "round",
-       "state",
-       "strategy",
-       "startTime",
-       "endTime",
-       "winnerSlug",
-       "teams",
-       "gameCount"
-      ],
-      "nested": {
-       "tournament": [
-        "tournamentId",
-        "name",
-        "slug",
-        "league"
-       ],
-       "teams": [
-        "[array]",
-        "slug",
-        "name",
-        "shortName",
-        "logoUrl",
-        "score",
-        "outcome"
-       ]
-      }
-     }
-    }
-   ]
+   "requests": []
   },
   "cs2": {
    "ok": true,
+   "requests": []
+  },
+  "dota2": {
+   "ok": true,
    "requests": [
     {
-     "path": "/cs2/matches/recent",
+     "path": "/dota2/matches/recent",
      "ok": true,
      "shape": {
       "top": "success,data,meta",
-      "count": 50,
+      "count": 49,
       "firstKeys": [
-       "entityType",
        "id",
-       "eventId",
-       "eventName",
-       "eventSlug",
+       "tournamentId",
+       "tournamentName",
+       "tournamentSlug",
        "stageName",
+       "roundName",
+       "groupName",
+       "matchNumber",
        "startsAt",
-       "endsAt",
        "bestOf",
        "status",
        "team1Id",
@@ -77,111 +41,97 @@
        "team1Score",
        "team2Score",
        "winnerTeamId",
-       "vetoOrder",
+       "matchResult",
+       "gridId",
+       "raw",
        "lastSyncedAt",
-       "lastVerified",
-       "confidence",
-       "event",
+       "tournament",
        "team1",
-       "team2",
-       "maps"
+       "team2"
       ],
       "nested": {
-       "vetoOrder": [
-        "[array]",
-        "map",
-        "raw",
-        "order",
-        "action",
-        "teamId",
-        "teamName",
-        "mapName",
-        "mapNumber"
+       "raw": [
+        "gameId",
+        "gridId",
+        "childId",
+        "matchId",
+        "roundId",
+        "streams",
+        "gameMode",
+        "gameName",
+        "opponents",
+        "roundName",
+        "venueName",
+        "matchGames",
+        "startingAt",
+        "matchNumber",
+        "matchResult",
+        "matchStatus",
+        "parentImage",
+        "gamesPerMatch",
+        "isPlayerBased",
+        "canEditMatches",
+        "startTournament",
+        "parentUrlSafeName",
+        "parentTournamentId",
+        "childTournamentName",
+        "childTournamentType"
        ],
-       "event": [
+       "tournament": [
         "id",
         "name",
         "slug",
         "imageUrl",
         "prizePool",
         "currency",
-        "tier",
-        "prestigeScore",
-        "status",
-        "region",
         "startsAt",
         "endsAt",
-        "eventId",
-        "logoUrl",
-        "bannerImageUrl"
+        "status",
+        "raw",
+        "lastSyncedAt"
        ],
        "team1": [
         "id",
         "name",
+        "tag",
         "slug",
-        "teamTag",
-        "logoUrl",
+        "imageUrl",
         "countryName",
         "countryCode",
         "worldRanking",
-        "vrsRanking"
+        "raw",
+        "lastSyncedAt"
        ],
        "team2": [
         "id",
         "name",
+        "tag",
         "slug",
-        "teamTag",
-        "logoUrl",
+        "imageUrl",
         "countryName",
         "countryCode",
         "worldRanking",
-        "vrsRanking"
+        "raw",
+        "lastSyncedAt"
        ],
-       "maps": [
+       "games": [
         "[array]",
         "id",
         "matchId",
-        "mapNumber",
-        "mapName",
-        "status",
-        "team1Score",
-        "team2Score",
-        "team1Halves",
-        "team2Halves",
+        "gameNumber",
+        "openDotaMatchId",
+        "result",
+        "duration",
+        "radiantTeamId",
+        "direTeamId",
         "winnerTeamId",
-        "durationRounds",
-        "lastSyncedAt",
-        "mapImageUrl",
-        "pickTeamId",
-        "objectiveStats",
-        "mapNameCanonical",
-        "imageUrl",
-        "coverImageUrl",
-        "resultType",
-        "resultStatus",
-        "isForfeit",
-        "statsEligible",
-        "unavailableReason",
-        "dataAvailability"
-       ],
-       "availableSubresources": [
-        "[array]"
-       ],
-       "unavailableSubresources": [
-        "[array]"
-       ],
-       "unavailableFields": [],
-       "dataAvailability": [
-        "playerStats"
+        "raw",
+        "lastSyncedAt"
        ]
       }
      }
     }
    ]
-  },
-  "dota2": {
-   "ok": true,
-   "requests": []
   }
  }
 }

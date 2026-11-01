@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-10-31T20:42:00.920Z",
+ "updated": "2026-11-01T16:38:55.908Z",
  "upcomingFetched": "2026-10-31T20:43:37.402Z",
- "recentFetched": "2026-10-31T20:43:37.402Z",
+ "recentFetched": "2026-11-01T16:38:55.908Z",
  "matches": [
   {
    "id": "663128",
@@ -948,9 +948,9 @@
     "short": "Royal Bear",
     "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
    "bestOf": 3
   },
