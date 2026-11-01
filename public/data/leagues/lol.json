@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-10-31T20:43:37.402Z",
+ "updated": "2026-11-01T09:45:41.455Z",
  "upcomingFetched": "2026-10-31T20:43:37.402Z",
- "recentFetched": "2026-10-31T20:43:37.402Z",
+ "recentFetched": "2026-11-01T09:45:41.455Z",
  "matches": [
   {
    "id": "lol-match-116952475624364075",
@@ -955,8 +955,27 @@
    "bestOf": 3
   },
   {
+   "id": "lol-match-115660540726095089",
+   "at": "2026-10-31T19:00:00.000Z",
+   "a": {
+    "name": "MIBR.LOS",
+    "short": "ML",
+    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
+   },
+   "b": {
+    "name": "LYON",
+    "short": "LYON",
+    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "Worlds 2026",
+   "bestOf": 3
+  },
+  {
    "id": "lol-match-115660540726095093",
-   "at": "2026-10-31T23:00:00.000Z",
+   "at": "2026-10-31T22:00:00.000Z",
    "a": {
     "name": "Hanwha Life Esports",
     "short": "HLE",
@@ -967,9 +986,9 @@
     "short": "BLG",
     "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Worlds 2026",
    "bestOf": 3
   },

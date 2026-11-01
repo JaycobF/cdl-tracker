@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-10-31T20:42:00.920Z",
+ "updated": "2026-11-01T09:45:41.455Z",
  "upcomingFetched": "2026-10-31T20:43:37.402Z",
- "recentFetched": "2026-10-31T20:43:37.402Z",
+ "recentFetched": "2026-11-01T09:45:41.455Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -414,7 +414,7 @@
    "b": {
     "name": "DONSTU",
     "short": "DONSTU",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e002e8bc84e75281763e57434e538681.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4bca32fa2e991e86fb6e37e74cd0e8f3.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -731,7 +731,7 @@
    "a": {
     "name": "LFO 10",
     "short": "LFO10",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/84172f12778537d24816544a4d843f96.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/baac37174e0843a370d81b63c515e368.webp"
    },
    "b": {
     "name": "Fortress",
@@ -750,7 +750,7 @@
    "a": {
     "name": "Low Cortisol BR",
     "short": "LCB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4e0d0ff2c45c6f233a65c363713eaadd.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6beb5165380c179564d24076134fce80.webp"
    },
    "b": {
     "name": "Turma do Pagode",
@@ -950,6 +950,119 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2399529",
+   "at": "2026-10-31T18:00:00.000Z",
+   "a": {
+    "name": "Acend",
+    "short": "ACEND",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9ec61dca5d15b07e7d228a1ce3542f3c.webp"
+   },
+   "b": {
+    "name": "Butterfly",
+    "short": "BUTTERFL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6f19b59cdda5d481498a361b3857b0cc.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400019",
+   "at": "2026-10-31T18:00:00.000Z",
+   "a": {
+    "name": "Azuolas",
+    "short": "AZUOLAS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/baac37174e0843a370d81b63c515e368.webp"
+   },
+   "b": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/77f73f917d409954af323f6c60dc3538.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399983",
+   "at": "2026-10-31T19:00:00.000Z",
+   "a": {
+    "name": "Fluxo",
+    "short": "FLUXO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5d7fc18b307689b6e48733014eec8d67.webp"
+   },
+   "b": {
+    "name": "BARCA",
+    "short": "BARCA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11e444891831e259d504d911743a8f8c.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400048",
+   "at": "2026-10-31T19:15:00.000Z",
+   "a": {
+    "name": "Ducks",
+    "short": "DUCKS"
+   },
+   "b": {
+    "name": "TTG",
+    "short": "TTG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/d6b4cfc3e1ed0bc78a7388f0d24e93ca.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Contenders Europe Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399982",
+   "at": "2026-10-31T19:45:00.000Z",
+   "a": {
+    "name": "BESTIA",
+    "short": "BESTIA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8f39c7d36daa0eab00a753a0540bf017.webp"
+   },
+   "b": {
+    "name": "Procyon",
+    "short": "PROCYON",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cb1dc839ffc649c235e380aab45d7e14.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "FiRe Last Chance 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2399958",
+   "at": "2026-10-31T20:00:00.000Z",
+   "a": {
+    "name": "DENDELE",
+    "short": "DENDELE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bad5e89e721718cfa951229ec3f33b28.webp"
+   },
+   "b": {
+    "name": "NAOCOPULAS",
+    "short": "NAOCOPUL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6beb5165380c179564d24076134fce80.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Gamers Club Masters VII",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400040",
    "at": "2026-10-31T21:00:00.000Z",
    "a": {
@@ -961,28 +1074,10 @@
     "name": "The Pigs",
     "short": "THEPIGS"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "EPIC49",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400043",
-   "at": "2026-10-31T21:30:00.000Z",
-   "a": {
-    "name": "LAG",
-    "short": "LAG",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/1767d57fdef82006ac8f736a0f56ffee.webp"
-   },
-   "b": {
-    "name": "Sutti's Money Crew",
-    "short": "SMC"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "NSTLGA Texas Open 2026",
    "bestOf": 3
   },
   {
@@ -998,15 +1093,33 @@
     "short": "WILDCARD",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6d9eff23dfc13758c78071dc87b6993f.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "FiRe Last Chance 2026",
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400043",
+   "at": "2026-10-31T22:30:00.000Z",
+   "a": {
+    "name": "LAG",
+    "short": "LAG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/1767d57fdef82006ac8f736a0f56ffee.webp"
+   },
+   "b": {
+    "name": "Sutti's Money Crew",
+    "short": "SMC"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "NSTLGA Texas Open 2026",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2399984",
-   "at": "2026-10-31T22:15:00.000Z",
+   "at": "2026-10-31T22:30:00.000Z",
    "a": {
     "name": "100 Thieves",
     "short": "1T",
@@ -1017,15 +1130,15 @@
     "short": "ISURUS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a7a05b89511ef5c0a495d96a3596e252.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "FiRe Last Chance 2026",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2399959",
-   "at": "2026-10-31T23:30:00.000Z",
+   "at": "2026-10-31T23:00:00.000Z",
    "a": {
     "name": "Imperial",
     "short": "IMPERIAL",
@@ -1034,17 +1147,17 @@
    "b": {
     "name": "Low Cortisol BR",
     "short": "LCB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4e0d0ff2c45c6f233a65c363713eaadd.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6beb5165380c179564d24076134fce80.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "Gamers Club Masters VII",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400044",
-   "at": "2026-11-01T01:00:00.000Z",
+   "at": "2026-11-01T01:40:00.000Z",
    "a": {
     "name": "NuTorious",
     "short": "NUTORIOU",
@@ -1054,9 +1167,9 @@
     "name": "Holly Molly",
     "short": "HM"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "NSTLGA Texas Open 2026",
    "bestOf": 3
   },
@@ -1073,9 +1186,9 @@
     "short": "ALTEREGO",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cfe4fa591513d63fd93baf5eae3be22f.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
    "event": "DFRAG Invitational 2026",
    "bestOf": 5
   },
