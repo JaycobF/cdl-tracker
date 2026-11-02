@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-02T06:38:55.802Z",
+ "updated": "2026-11-02T16:35:16.109Z",
  "upcomingFetched": "2026-11-01T20:51:03.699Z",
- "recentFetched": "2026-11-02T06:38:55.802Z",
+ "recentFetched": "2026-11-02T16:35:16.109Z",
  "matches": [
   {
    "id": "663128",
@@ -1005,10 +1005,67 @@
     "short": "Zenith",
     "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663132",
+   "at": "2026-11-02T10:00:00.000Z",
+   "a": {
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
+   },
+   "b": {
+    "name": "Huligani",
+    "short": "Huligani",
+    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663133",
+   "at": "2026-11-02T13:00:00.000Z",
+   "a": {
+    "name": "OG",
+    "short": "OG",
+    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
+   },
+   "b": {
+    "name": "Yellow Submarine",
+    "short": "YeS",
+    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663134",
+   "at": "2026-11-02T16:00:00.000Z",
+   "a": {
+    "name": "Natus Vincere",
+    "short": "Na`Vi",
+    "logo": "https://static.gosugamers.net/15/3e/20/56db16d486a23a1d59729eb4cc094dcb58852bf16cc8e2074c886ec720.png"
+   },
+   "b": {
+    "name": "Nemiga Gaming",
+    "short": "Nemiga",
+    "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+   },
    "sa": null,
    "sb": null,
    "status": "upcoming",
-   "event": "EPL World Series: Southeast Asia Season 19",
+   "event": "EPL Masters III",
    "bestOf": 3
   }
  ]
