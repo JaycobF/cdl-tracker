@@ -1,85 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-01T20:51:03.699Z",
- "upcomingFetched": "2026-11-01T20:51:03.699Z",
+ "updated": "2026-11-02T23:41:56.507Z",
+ "upcomingFetched": "2026-11-02T23:41:56.507Z",
  "recentFetched": "2026-11-01T09:45:41.455Z",
  "matches": [
-  {
-   "id": "lol-match-117133830110912099",
-   "at": "2026-10-12T06:00:00.000Z",
-   "a": {
-    "name": "kt Rolster",
-    "short": "KT",
-    "logo": "https://static.lolesports.com/teams/kt_darkbackground.png"
-   },
-   "b": {
-    "name": "Team Vitality",
-    "short": "VIT",
-    "logo": "https://static.lolesports.com/teams/1675865863968_Vitality_FullColor.png"
-   },
-   "sa": 3,
-   "sb": 2,
-   "status": "completed",
-   "event": "demacia cup 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-117133830110912093",
-   "at": "2026-10-12T09:00:00.000Z",
-   "a": {
-    "name": "BNK FEARX",
-    "short": "BFX",
-    "logo": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-   },
-   "b": {
-    "name": "Beijing JDG Esports",
-    "short": "JDG",
-    "logo": "https://static.lolesports.com/teams/1627457924722_29.png"
-   },
-   "sa": 3,
-   "sb": 2,
-   "status": "completed",
-   "event": "demacia cup 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-117275453885353242",
-   "at": "2026-10-12T21:00:00.000Z",
-   "a": {
-    "name": "KaBuM! Eports",
-    "short": "KBM",
-    "logo": "https://static.lolesports.com/teams/1774199720854_kbm_c_w.png"
-   },
-   "b": {
-    "name": "MIBR.LOS",
-    "short": "ML",
-    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
-   },
-   "sa": 1,
-   "sb": 3,
-   "status": "completed",
-   "event": "cblol promotion 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-117322971012796412",
-   "at": "2026-10-12T23:00:00.000Z",
-   "a": {
-    "name": "Disguised",
-    "short": "DSG",
-    "logo": "https://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
-   },
-   "b": {
-    "name": "Maryville University",
-    "short": "MU",
-    "logo": "https://static.lolesports.com/teams/1650398622565_200x200_MU_Logo-ThomasLaMarca.png"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "lcs promotion 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-117133830110912105",
    "at": "2026-10-13T06:00:00.000Z",
