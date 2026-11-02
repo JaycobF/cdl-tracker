@@ -1,5 +1,5 @@
 {
- "at": "2026-11-01T20:51:03.699Z",
+ "at": "2026-11-02T06:38:55.802Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -7,101 +7,7 @@
   },
   "lol": {
    "ok": true,
-   "requests": [
-    {
-     "path": "/lol/schedule/upcoming",
-     "ok": true,
-     "shape": {
-      "top": "success,status,count,data,meta,oddsTrial",
-      "count": 7,
-      "firstKeys": [
-       "matchId",
-       "tournamentId",
-       "tournamentEsportsApiId",
-       "tournamentName",
-       "leagueId",
-       "leagueEsportsApiId",
-       "leagueName",
-       "leagueSlug",
-       "blockName",
-       "round",
-       "team1",
-       "team2",
-       "winnerSlug",
-       "strategy",
-       "startTime",
-       "endTime",
-       "state",
-       "source",
-       "metadataWarning",
-       "metadataWarnings",
-       "odds",
-       "h2hOdds",
-       "oddsAvailable"
-      ],
-      "nested": {
-       "team1": [
-        "slug",
-        "name",
-        "code",
-        "logoUrl",
-        "score"
-       ],
-       "team2": [
-        "slug",
-        "name",
-        "code",
-        "logoUrl",
-        "score"
-       ],
-       "metadataWarnings": [
-        "[array]"
-       ],
-       "odds": [
-        "[array]",
-        "oddsKey",
-        "matchId",
-        "provider",
-        "market",
-        "marketLabel",
-        "gameNumber",
-        "team1Slug",
-        "team2Slug",
-        "line",
-        "team1Odds",
-        "team2Odds",
-        "team1ImpliedProb",
-        "team2ImpliedProb",
-        "marketStatus",
-        "priceSource",
-        "closingLine",
-        "liquidityUsd",
-        "volumeUsd",
-        "volume24hUsd",
-        "bestBid",
-        "bestAsk",
-        "spread",
-        "capturedAt",
-        "firstSeenAt"
-       ],
-       "h2hOdds": [
-        "team1Slug",
-        "team2Slug",
-        "team1Odds",
-        "team2Odds",
-        "team1ImpliedProb",
-        "team2ImpliedProb",
-        "marketStatus",
-        "liquidityUsd",
-        "volumeUsd",
-        "spread",
-        "provider",
-        "capturedAt"
-       ]
-      }
-     }
-    }
-   ]
+   "requests": []
   },
   "cs2": {
    "ok": true,
@@ -231,188 +137,6 @@
        ]
       }
      }
-    },
-    {
-     "path": "/cs2/matches/upcoming",
-     "ok": true,
-     "shape": {
-      "top": "success,data,meta,oddsTrial",
-      "count": 19,
-      "firstKeys": [
-       "entityType",
-       "id",
-       "eventId",
-       "eventName",
-       "eventSlug",
-       "stageName",
-       "startsAt",
-       "endsAt",
-       "bestOf",
-       "status",
-       "team1Id",
-       "team2Id",
-       "team1Name",
-       "team2Name",
-       "team1Score",
-       "team2Score",
-       "winnerTeamId",
-       "liveState",
-       "vetoOrder",
-       "streamLinks",
-       "vodLinks",
-       "lastSyncedAt",
-       "lastVerified",
-       "confidence",
-       "event"
-      ],
-      "nested": {
-       "liveState": [
-        "status",
-        "team1Score",
-        "team2Score",
-        "winnerTeamId"
-       ],
-       "vetoOrder": [
-        "[array]"
-       ],
-       "vodLinks": [
-        "[array]"
-       ],
-       "event": [
-        "id",
-        "name",
-        "slug",
-        "imageUrl",
-        "prizePool",
-        "currency",
-        "location",
-        "format",
-        "teamCount",
-        "standings",
-        "startsAt",
-        "endsAt",
-        "status",
-        "tier",
-        "prestigeScore",
-        "region",
-        "isLan",
-        "confirmedStatus",
-        "streamLinks",
-        "vodLinks",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
-        "eventId",
-        "logoUrl"
-       ],
-       "team1": [
-        "id",
-        "name",
-        "slug",
-        "teamTag",
-        "logoUrl",
-        "countryName",
-        "countryCode",
-        "region",
-        "worldRanking",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
-        "vrsRanking",
-        "alternateLogoUrl",
-        "darkUiLogoUrl",
-        "logoIsPlaceholder"
-       ],
-       "team2": [
-        "id",
-        "name",
-        "slug",
-        "teamTag",
-        "logoUrl",
-        "countryName",
-        "countryCode",
-        "region",
-        "worldRanking",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
-        "vrsRanking",
-        "alternateLogoUrl",
-        "darkUiLogoUrl",
-        "logoIsPlaceholder"
-       ],
-       "maps": [
-        "[array]",
-        "id",
-        "matchId",
-        "mapNumber",
-        "mapName",
-        "status",
-        "team1Score",
-        "team2Score",
-        "team1Halves",
-        "team2Halves",
-        "winnerTeamId",
-        "durationRounds",
-        "lastSyncedAt",
-        "playerStats",
-        "bombEvents",
-        "bombStats",
-        "weaponAggregates",
-        "mapImageUrl",
-        "pickTeamId",
-        "objectiveStats",
-        "mapNameCanonical",
-        "imageUrl",
-        "coverImageUrl",
-        "resultType",
-        "resultStatus",
-        "isForfeit"
-       ],
-       "availableSubresources": [
-        "[array]"
-       ],
-       "unavailableSubresources": [
-        "[array]"
-       ],
-       "unavailableFields": [],
-       "dataAvailability": [
-        "playerStats"
-       ],
-       "odds": [
-        "[array]",
-        "oddsKey",
-        "matchId",
-        "provider",
-        "market",
-        "team1Odds",
-        "team2Odds",
-        "drawOdds",
-        "team1ImpliedProb",
-        "team2ImpliedProb",
-        "liquidityUsd",
-        "volumeUsd",
-        "volume24hUsd",
-        "bestBid",
-        "bestAsk",
-        "spread",
-        "marketStatus",
-        "capturedAt"
-       ],
-       "h2hOdds": [
-        "team1Odds",
-        "team2Odds",
-        "team1ImpliedProb",
-        "team2ImpliedProb",
-        "marketStatus",
-        "liquidityUsd",
-        "volumeUsd",
-        "spread",
-        "provider",
-        "capturedAt"
-       ]
-      }
-     }
     }
    ]
   },
@@ -420,11 +144,11 @@
    "ok": true,
    "requests": [
     {
-     "path": "/dota2/matches/upcoming",
+     "path": "/dota2/matches/recent",
      "ok": true,
      "shape": {
       "top": "success,data,meta",
-      "count": 2,
+      "count": 49,
       "firstKeys": [
        "id",
        "tournamentId",

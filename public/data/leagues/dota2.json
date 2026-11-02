@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-01T16:38:55.908Z",
+ "updated": "2026-11-02T06:38:55.802Z",
  "upcomingFetched": "2026-11-01T20:51:03.699Z",
- "recentFetched": "2026-11-01T16:38:55.908Z",
+ "recentFetched": "2026-11-02T06:38:55.802Z",
  "matches": [
   {
    "id": "663128",
@@ -967,9 +967,9 @@
     "short": "TSpirit",
     "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 3,
+   "status": "completed",
    "event": "PARI Universe",
    "bestOf": 5
   },
@@ -986,9 +986,9 @@
     "short": "Kinetix",
     "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
    "bestOf": 3
   },
