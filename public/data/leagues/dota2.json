@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-03T04:04:12.900Z",
+ "updated": "2026-11-03T19:25:37.453Z",
  "upcomingFetched": "2026-11-02T23:41:56.507Z",
- "recentFetched": "2026-11-03T04:04:12.900Z",
+ "recentFetched": "2026-11-03T19:25:37.453Z",
  "matches": [
   {
    "id": "663128",
@@ -1100,9 +1100,9 @@
     "short": "Zenith",
     "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
    "bestOf": 3
   },
@@ -1119,9 +1119,9 @@
     "short": "YG",
     "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
    "bestOf": 3
   },
@@ -1138,15 +1138,15 @@
     "short": "OG",
     "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "EPL Masters III",
    "bestOf": 3
   },
   {
    "id": "663140",
-   "at": "2026-11-03T13:00:00.000Z",
+   "at": "2026-11-03T13:40:00.000Z",
    "a": {
     "name": "Nemiga Gaming",
     "short": "Nemiga",
@@ -1157,15 +1157,15 @@
     "short": "CyberHero",
     "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "EPL Masters III",
    "bestOf": 3
   },
   {
    "id": "663136",
-   "at": "2026-11-03T16:00:00.000Z",
+   "at": "2026-11-03T17:50:00.000Z",
    "a": {
     "name": "Huligani",
     "short": "Huligani",
