@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-02T23:41:56.507Z",
+ "updated": "2026-11-03T04:04:12.900Z",
  "upcomingFetched": "2026-11-02T23:41:56.507Z",
- "recentFetched": "2026-11-02T16:35:16.109Z",
+ "recentFetched": "2026-11-03T04:04:12.900Z",
  "matches": [
   {
    "id": "663128",
@@ -1062,9 +1062,28 @@
     "short": "Nemiga",
     "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663135",
+   "at": "2026-11-02T19:00:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
+   },
+   "b": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL Masters III",
    "bestOf": 3
   },

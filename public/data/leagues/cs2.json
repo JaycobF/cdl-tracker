@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-02T23:41:56.507Z",
+ "updated": "2026-11-03T04:04:12.900Z",
  "upcomingFetched": "2026-11-02T23:41:56.507Z",
- "recentFetched": "2026-11-02T16:35:16.109Z",
+ "recentFetched": "2026-11-03T04:04:12.900Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -1141,8 +1141,9 @@
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/372c2b7b27fb014cec67ab7edcc79248.webp"
    },
    "b": {
-    "name": "Low Cortisol BR",
-    "short": "LCB"
+    "name": "Low Cortisol",
+    "short": "LC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2d37607d6c216b1dd088d831173cb4bb.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -1402,8 +1403,9 @@
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/df2ebc04e6d809501a31f85a2b9e4abe.webp"
    },
    "b": {
-    "name": "Low Cortisol BR",
-    "short": "LCB"
+    "name": "Low Cortisol",
+    "short": "LC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2d37607d6c216b1dd088d831173cb4bb.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -1583,7 +1585,7 @@
    "a": {
     "name": "Monte",
     "short": "MONTE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a7858375d653bdb254307194510282d8.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49bcb3a4a727cffb4c21a733aa435bad.webp"
    },
    "b": {
     "name": "prodigy RU",
@@ -1880,8 +1882,45 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400066",
+   "at": "2026-11-02T15:00:00.000Z",
+   "a": {
+    "name": "Misa",
+    "short": "MISA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e06f680181a200d70c0510016d888a51.webp"
+   },
+   "b": {
+    "name": "PsychoFace",
+    "short": "PSYCHOFA"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400058",
+   "at": "2026-11-02T15:00:00.000Z",
+   "a": {
+    "name": "Spirit Academy",
+    "short": "SA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
+   },
+   "b": {
+    "name": "Noir Verse",
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c4720cf4f05b7548a12dd8f73bae6a6.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400059",
-   "at": "2026-11-02T18:00:00.000Z",
+   "at": "2026-11-02T18:10:00.000Z",
    "a": {
     "name": "ex-ENCE",
     "short": "EXENCE"
@@ -1889,12 +1928,30 @@
    "b": {
     "name": "SINQU",
     "short": "SINQU",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b29fbd9d5d3eb1b9be402ba8ce2d9190.webp"
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9819dc4c561d9084a5eba60a23b47997.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400067",
+   "at": "2026-11-02T18:15:00.000Z",
+   "a": {
+    "name": "LFO 10",
+    "short": "LFO10"
+   },
+   "b": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
    "bestOf": 3
   },
   {
@@ -1929,9 +1986,9 @@
     "short": "PARIVISI",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ac4c24d8fa96deb6ce8fc6a38c1245e5.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "IEM Beijing 2026",
    "bestOf": 3
   },
