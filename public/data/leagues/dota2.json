@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-04T00:08:17.732Z",
+ "updated": "2026-11-04T06:26:20.646Z",
  "upcomingFetched": "2026-11-04T00:08:17.732Z",
- "recentFetched": "2026-11-03T19:25:37.453Z",
+ "recentFetched": "2026-11-04T06:26:20.646Z",
  "matches": [
   {
    "id": "663128",
@@ -1176,15 +1176,15 @@
     "short": "YeS",
     "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "EPL Masters III",
    "bestOf": 3
   },
   {
    "id": "663137",
-   "at": "2026-11-03T19:00:00.000Z",
+   "at": "2026-11-03T21:00:00.000Z",
    "a": {
     "name": "Natus Vincere",
     "short": "Na`Vi",
@@ -1195,9 +1195,9 @@
     "short": "GL",
     "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL Masters III",
    "bestOf": 3
   },
