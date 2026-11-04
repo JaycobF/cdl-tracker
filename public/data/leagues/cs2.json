@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-04T06:26:20.646Z",
+ "updated": "2026-11-04T14:48:14.127Z",
  "upcomingFetched": "2026-11-04T00:08:17.732Z",
- "recentFetched": "2026-11-04T06:26:20.646Z",
+ "recentFetched": "2026-11-04T14:48:14.127Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -2666,7 +2666,7 @@
   },
   {
    "id": "cs2-match-2400001",
-   "at": "2026-11-04T04:30:00.000Z",
+   "at": "2026-11-04T04:35:00.000Z",
    "a": {
     "name": "Natus Vincere",
     "short": "NV",
@@ -2677,9 +2677,9 @@
     "short": "B8",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3653c35c86f009aab7a0eb112e9ebc9c.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "IEM Beijing 2026",
    "bestOf": 3
   },
@@ -2715,10 +2715,66 @@
     "short": "MOUZ",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0ad08abfc7542d74ca19505208967289.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400002",
+   "at": "2026-11-04T07:00:00.000Z",
+   "a": {
+    "name": "Liquid",
+    "short": "LIQUID",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fb6cfc41f51c973c934894481eafa229.svg"
+   },
+   "b": {
+    "name": "BETBOOM",
+    "short": "BETBOOM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a91d19576e1c705c518bc30bd6aacdbc.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400120",
+   "at": "2026-11-04T08:45:07.000Z",
+   "a": {
+    "name": "BAKS",
+    "short": "BAKS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
+   },
+   "b": {
+    "name": "Gothic",
+    "short": "GOTHIC"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400288",
+   "at": "2026-11-04T08:50:03.000Z",
+   "a": {
+    "name": "6yuBoJlbl",
+    "short": "6YUBOJLB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49f2b6b03c3f8e8f538a2a1302270e4d.png"
+   },
+   "b": {
+    "name": "PCIFIC",
+    "short": "PCIFIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "European Pro League Series 10",
    "bestOf": 3
   },
   {
@@ -2734,9 +2790,9 @@
     "short": "SA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -2752,28 +2808,10 @@
     "name": "Bebop",
     "short": "BEBOP"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400120",
-   "at": "2026-11-04T09:00:00.000Z",
-   "a": {
-    "name": "BAKS",
-    "short": "BAKS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
-   },
-   "b": {
-    "name": "Gothic",
-    "short": "GOTHIC"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {
@@ -2789,28 +2827,47 @@
     "short": "FURIA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ae2903ad6662885facbfedf1183a1b22.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "IEM Beijing 2026",
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400288",
-   "at": "2026-11-04T11:30:00.000Z",
+   "id": "cs2-match-2400004",
+   "at": "2026-11-04T10:20:00.000Z",
    "a": {
-    "name": "6yuBoJlbl",
-    "short": "6YUBOJLB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49f2b6b03c3f8e8f538a2a1302270e4d.png"
+    "name": "Natus Vincere",
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/33aea6490b84e8284318ac8d52d9b8f3.svg"
    },
    "b": {
-    "name": "PCIFIC",
-    "short": "PCIFIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
+    "name": "Falcons",
+    "short": "FALCONS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9e65d7e8195170eaf8992f54dea0f112.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400287",
+   "at": "2026-11-04T11:30:00.000Z",
+   "a": {
+    "name": "Azuolas",
+    "short": "AZUOLAS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/163840ebae568e93c8b05f95e0963bb2.webp"
+   },
+   "b": {
+    "name": "benched gods",
+    "short": "BG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/7a96408b0c01cee9fc592ed91c69611c.webp"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
    "event": "European Pro League Series 10",
    "bestOf": 3
   },
@@ -2825,9 +2882,9 @@
     "name": "PsychoFace",
     "short": "PSYCHOFA"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
@@ -2863,9 +2920,9 @@
     "short": "HONVD",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46f7483ece4afa0e5f46782cbc29b57b.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -2881,9 +2938,9 @@
     "short": "DAMAJUAN",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0cfbe73549de528cb9c3a4a742a26be7.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },

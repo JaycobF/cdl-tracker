@@ -1,28 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-04T00:08:17.732Z",
+ "updated": "2026-11-04T14:48:14.127Z",
  "upcomingFetched": "2026-11-04T00:08:17.732Z",
- "recentFetched": "2026-11-04T00:08:17.732Z",
+ "recentFetched": "2026-11-04T14:48:14.127Z",
  "matches": [
-  {
-   "id": "lol-match-117133830110912117",
-   "at": "2026-10-14T09:00:00.000Z",
-   "a": {
-    "name": "kt Rolster",
-    "short": "KT",
-    "logo": "https://static.lolesports.com/teams/kt_darkbackground.png"
-   },
-   "b": {
-    "name": "BNK FEARX",
-    "short": "BFX",
-    "logo": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-   },
-   "sa": 1,
-   "sb": 3,
-   "status": "completed",
-   "event": "demacia cup 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-117173205319911429",
    "at": "2026-10-14T19:00:00.000Z",
@@ -853,9 +834,9 @@
     "short": "IG",
     "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
    "event": "Worlds 2026",
    "bestOf": 5
   },

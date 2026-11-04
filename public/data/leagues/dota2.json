@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-04T06:26:20.646Z",
+ "updated": "2026-11-04T14:48:14.127Z",
  "upcomingFetched": "2026-11-04T00:08:17.732Z",
- "recentFetched": "2026-11-04T06:26:20.646Z",
+ "recentFetched": "2026-11-04T14:48:14.127Z",
  "matches": [
   {
    "id": "663128",
@@ -1214,9 +1214,9 @@
     "short": "Resp",
     "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
    "bestOf": 3
   },
@@ -1233,15 +1233,15 @@
     "short": "Direborn",
     "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
    "bestOf": 3
   },
   {
    "id": "663138",
-   "at": "2026-11-04T10:00:00.000Z",
+   "at": "2026-11-04T11:00:00.000Z",
    "a": {
     "name": "Yellow Submarine",
     "short": "YeS",
@@ -1252,15 +1252,15 @@
     "short": "Na`Vi",
     "logo": "https://static.gosugamers.net/15/3e/20/56db16d486a23a1d59729eb4cc094dcb58852bf16cc8e2074c886ec720.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "EPL Masters III",
    "bestOf": 3
   },
   {
    "id": "663436",
-   "at": "2026-11-04T10:00:00.000Z",
+   "at": "2026-11-04T11:00:00.000Z",
    "a": {
     "name": "Zenith",
     "short": "Zenith",
@@ -1271,10 +1271,29 @@
     "short": "CD",
     "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
    },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663141",
+   "at": "2026-11-04T13:45:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
+   },
+   "b": {
+    "name": "OG",
+    "short": "OG",
+    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
+   },
    "sa": null,
    "sb": null,
    "status": "upcoming",
-   "event": "EPL World Series: Southeast Asia Season 19",
+   "event": "EPL Masters III",
    "bestOf": 3
   }
  ]

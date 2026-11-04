@@ -1,5 +1,5 @@
 {
- "at": "2026-11-04T06:26:20.646Z",
+ "at": "2026-11-04T14:48:14.127Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -7,7 +7,48 @@
   },
   "lol": {
    "ok": true,
-   "requests": []
+   "requests": [
+    {
+     "path": "/lol/schedule/results",
+     "ok": true,
+     "shape": {
+      "top": "success,count,total,hasMore,filters,data",
+      "count": 50,
+      "firstKeys": [
+       "matchId",
+       "esportsApiId",
+       "tournamentId",
+       "tournament",
+       "blockName",
+       "round",
+       "state",
+       "strategy",
+       "startTime",
+       "endTime",
+       "winnerSlug",
+       "teams",
+       "gameCount"
+      ],
+      "nested": {
+       "tournament": [
+        "tournamentId",
+        "name",
+        "slug",
+        "league"
+       ],
+       "teams": [
+        "[array]",
+        "slug",
+        "name",
+        "shortName",
+        "logoUrl",
+        "score",
+        "outcome"
+       ]
+      }
+     }
+    }
+   ]
   },
   "cs2": {
    "ok": true,
@@ -99,6 +140,8 @@
         "countryName",
         "countryCode",
         "worldRanking",
+        "alternateLogoUrl",
+        "darkUiLogoUrl",
         "worldRankingStatus",
         "vrsRanking",
         "vrsRankingStatus",
