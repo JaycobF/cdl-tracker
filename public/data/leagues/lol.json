@@ -1,66 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-02T23:41:56.507Z",
- "upcomingFetched": "2026-11-02T23:41:56.507Z",
- "recentFetched": "2026-11-01T09:45:41.455Z",
+ "updated": "2026-11-04T00:08:17.732Z",
+ "upcomingFetched": "2026-11-04T00:08:17.732Z",
+ "recentFetched": "2026-11-04T00:08:17.732Z",
  "matches": [
-  {
-   "id": "lol-match-117133830110912105",
-   "at": "2026-10-13T06:00:00.000Z",
-   "a": {
-    "name": "Xi'an Team WE",
-    "short": "WE",
-    "logo": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-   },
-   "b": {
-    "name": "FlyQuest",
-    "short": "FLY",
-    "logo": "https://static.lolesports.com/teams/flyquest-new-on-dark.png"
-   },
-   "sa": 3,
-   "sb": 2,
-   "status": "completed",
-   "event": "demacia cup 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-117133830110912111",
-   "at": "2026-10-13T09:00:00.000Z",
-   "a": {
-    "name": "HANJIN BRION",
-    "short": "BRO",
-    "logo": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-   },
-   "b": {
-    "name": "LGD GAMING",
-    "short": "LGD",
-    "logo": "https://static.lolesports.com/teams/LGD-FullonDark-1.png"
-   },
-   "sa": 3,
-   "sb": 1,
-   "status": "completed",
-   "event": "demacia cup 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-117173205319911435",
-   "at": "2026-10-13T16:00:00.000Z",
-   "a": {
-    "name": "Galions",
-    "short": "GL",
-    "logo": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
-   },
-   "b": {
-    "name": "Movistar KOI Fénix",
-    "short": "MKF",
-    "logo": "https://static.lolesports.com/teams/1704458610869_6596f892741d1355702004.png"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Summer 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-117133830110912117",
    "at": "2026-10-14T09:00:00.000Z",

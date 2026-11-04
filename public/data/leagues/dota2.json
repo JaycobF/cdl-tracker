@@ -1,7 +1,7 @@
 {
  "id": "dota2",
- "updated": "2026-11-03T19:25:37.453Z",
- "upcomingFetched": "2026-11-02T23:41:56.507Z",
+ "updated": "2026-11-04T00:08:17.732Z",
+ "upcomingFetched": "2026-11-04T00:08:17.732Z",
  "recentFetched": "2026-11-03T19:25:37.453Z",
  "matches": [
   {
@@ -1199,6 +1199,82 @@
    "sb": null,
    "status": "upcoming",
    "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663437",
+   "at": "2026-11-04T04:00:00.000Z",
+   "a": {
+    "name": "Yangon Galacticos",
+    "short": "YG",
+    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
+   },
+   "b": {
+    "name": "Resp Gaming",
+    "short": "Resp",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663435",
+   "at": "2026-11-04T07:00:00.000Z",
+   "a": {
+    "name": "Royal Bear",
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
+   },
+   "b": {
+    "name": "Direborn Esports",
+    "short": "Direborn",
+    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663138",
+   "at": "2026-11-04T10:00:00.000Z",
+   "a": {
+    "name": "Yellow Submarine",
+    "short": "YeS",
+    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
+   },
+   "b": {
+    "name": "Natus Vincere",
+    "short": "Na`Vi",
+    "logo": "https://static.gosugamers.net/15/3e/20/56db16d486a23a1d59729eb4cc094dcb58852bf16cc8e2074c886ec720.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663436",
+   "at": "2026-11-04T10:00:00.000Z",
+   "a": {
+    "name": "Zenith",
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "b": {
+    "name": "Cloud Dawning",
+    "short": "CD",
+    "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 19",
    "bestOf": 3
   }
  ]
