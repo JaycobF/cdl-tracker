@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-05T01:28:09.029Z",
+ "updated": "2026-11-05T16:40:59.315Z",
  "upcomingFetched": "2026-11-05T01:28:09.029Z",
- "recentFetched": "2026-11-05T01:28:09.029Z",
+ "recentFetched": "2026-11-05T16:40:59.315Z",
  "matches": [
   {
    "id": "663128",
@@ -1347,15 +1347,34 @@
     "short": "YG",
     "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663439",
+   "at": "2026-11-05T08:30:00.000Z",
+   "a": {
+    "name": "Royal Bear",
+    "short": "Royal Bear",
+    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
+   },
+   "b": {
+    "name": "Yangon Galacticos",
+    "short": "YG",
+    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
    "bestOf": 3
   },
   {
    "id": "663144",
-   "at": "2026-11-05T13:00:00.000Z",
+   "at": "2026-11-05T14:00:00.000Z",
    "a": {
     "name": "Yellow Submarine",
     "short": "YeS",
