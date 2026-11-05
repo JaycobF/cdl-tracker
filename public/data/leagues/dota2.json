@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-04T14:48:14.127Z",
- "upcomingFetched": "2026-11-04T00:08:17.732Z",
- "recentFetched": "2026-11-04T14:48:14.127Z",
+ "updated": "2026-11-05T01:28:09.029Z",
+ "upcomingFetched": "2026-11-05T01:28:09.029Z",
+ "recentFetched": "2026-11-05T01:28:09.029Z",
  "matches": [
   {
    "id": "663128",
@@ -1289,6 +1289,82 @@
     "name": "OG",
     "short": "OG",
     "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663142",
+   "at": "2026-11-04T17:00:00.000Z",
+   "a": {
+    "name": "Huligani",
+    "short": "Huligani",
+    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+   },
+   "b": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663143",
+   "at": "2026-11-04T19:00:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
+   },
+   "b": {
+    "name": "Huligani",
+    "short": "Huligani",
+    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL Masters III",
+   "bestOf": 3
+  },
+  {
+   "id": "663438",
+   "at": "2026-11-05T04:00:00.000Z",
+   "a": {
+    "name": "Zenith",
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "b": {
+    "name": "Yangon Galacticos",
+    "short": "YG",
+    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 19",
+   "bestOf": 3
+  },
+  {
+   "id": "663144",
+   "at": "2026-11-05T13:00:00.000Z",
+   "a": {
+    "name": "Yellow Submarine",
+    "short": "YeS",
+    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
+   },
+   "b": {
+    "name": "GamerLegion",
+    "short": "GL",
+    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
    },
    "sa": null,
    "sb": null,
