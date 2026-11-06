@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-06T02:44:13.691Z",
+ "updated": "2026-11-06T17:18:23.474Z",
  "upcomingFetched": "2026-11-06T02:44:13.691Z",
- "recentFetched": "2026-11-06T02:44:13.691Z",
+ "recentFetched": "2026-11-06T17:18:23.474Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -3647,9 +3647,9 @@
     "short": "NV",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/33aea6490b84e8284318ac8d52d9b8f3.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "IEM Beijing 2026",
    "bestOf": 3
   },
@@ -3666,9 +3666,9 @@
     "short": "FM",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/75559c671d00e9437d4a97ab081666ee.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -3685,9 +3685,9 @@
     "short": "NJ",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/32a0d6fec7440beb8d7b356bbdc06fbc.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "European Pro League Series 10",
    "bestOf": 3
   },
@@ -3704,9 +3704,9 @@
     "short": "FIREFLUX",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a7c86e27844633ce357b2577e10240b5.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -3723,15 +3723,15 @@
     "short": "TLR",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400007",
-   "at": "2026-11-06T09:45:00.000Z",
+   "at": "2026-11-06T11:00:00.000Z",
    "a": {
     "name": "FURIA",
     "short": "FURIA",
@@ -3742,9 +3742,9 @@
     "short": "BETBOOM",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a91d19576e1c705c518bc30bd6aacdbc.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "IEM Beijing 2026",
    "bestOf": 3
   },
@@ -3760,29 +3760,10 @@
     "short": "MASONIC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0b9e9cc30a2e2c8a10314b6cfd64cba0.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400296",
-   "at": "2026-11-06T12:00:00.000Z",
-   "a": {
-    "name": "Honvéd",
-    "short": "HONVD",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46f7483ece4afa0e5f46782cbc29b57b.webp"
-   },
-   "b": {
-    "name": "Illyrians",
-    "short": "ILLYRIAN",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
   {
@@ -3798,10 +3779,29 @@
     "short": "MEGOSHOR",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4ad5f1da682f1504a4933cc6526b08ed.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400296",
+   "at": "2026-11-06T12:10:00.000Z",
+   "a": {
+    "name": "Honvéd",
+    "short": "HONVD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46f7483ece4afa0e5f46782cbc29b57b.webp"
+   },
+   "b": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
   {
@@ -3817,10 +3817,28 @@
     "short": "ZETTA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/258b7097762d56a7397ac87786f13c3f.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400131",
+   "at": "2026-11-06T14:31:31.000Z",
+   "a": {
+    "name": "6yuBoJlbl",
+    "short": "6YUBOJLB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49f2b6b03c3f8e8f538a2a1302270e4d.png"
+   },
+   "b": {
+    "name": "PsychoFace",
+    "short": "PSYCHOFA"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {
@@ -3855,9 +3873,9 @@
     "short": "BB",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9437604732f8a7f6b9217dc56ffe3ce3.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -3873,9 +3891,9 @@
     "short": "ICA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/d3124f1e28ee719a7135848bba0dfb74.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
@@ -3912,24 +3930,6 @@
    "sb": null,
    "status": "upcoming",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400131",
-   "at": "2026-11-06T18:00:00.000Z",
-   "a": {
-    "name": "6yuBoJlbl",
-    "short": "6YUBOJLB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49f2b6b03c3f8e8f538a2a1302270e4d.png"
-   },
-   "b": {
-    "name": "PsychoFace",
-    "short": "PSYCHOFA"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {

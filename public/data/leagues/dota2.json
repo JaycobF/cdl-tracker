@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-06T02:44:13.691Z",
+ "updated": "2026-11-06T17:18:23.474Z",
  "upcomingFetched": "2026-11-06T02:44:13.691Z",
- "recentFetched": "2026-11-06T02:44:13.691Z",
+ "recentFetched": "2026-11-06T17:18:23.474Z",
  "matches": [
   {
    "id": "663128",
@@ -549,8 +549,8 @@
     "short": "AI",
     "logo": "https://static.gosugamers.net/61/a4/f4/82bd3e290b60beb976dfcce65ed3daab63a3990f651d26e37de1374a2e.webp"
    },
-   "sa": 2,
-   "sb": 1,
+   "sa": 3,
+   "sb": 0,
    "status": "completed",
    "event": "PARI Universe",
    "bestOf": 3
@@ -1294,7 +1294,7 @@
    "sb": 0,
    "status": "completed",
    "event": "EPL Masters III",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663142",
@@ -1313,7 +1313,7 @@
    "sb": 0,
    "status": "completed",
    "event": "EPL Masters III",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663143",
@@ -1332,7 +1332,7 @@
    "sb": 0,
    "status": "completed",
    "event": "EPL Masters III",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663438",
@@ -1351,7 +1351,7 @@
    "sb": 2,
    "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663439",
@@ -1370,7 +1370,7 @@
    "sb": 0,
    "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663144",
@@ -1389,7 +1389,7 @@
    "sb": 2,
    "status": "completed",
    "event": "EPL Masters III",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663145",
@@ -1408,7 +1408,7 @@
    "sb": 1,
    "status": "completed",
    "event": "EPL Masters III",
-   "bestOf": 5
+   "bestOf": null
   },
   {
    "id": "663440",
@@ -1423,11 +1423,11 @@
     "short": "Royal Bear",
     "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 19",
-   "bestOf": 5
+   "bestOf": null
   },
   {
    "id": "663546",
