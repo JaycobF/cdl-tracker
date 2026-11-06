@@ -1,66 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-05T01:28:09.029Z",
- "upcomingFetched": "2026-11-05T01:28:09.029Z",
- "recentFetched": "2026-11-05T01:28:09.029Z",
+ "updated": "2026-11-06T02:44:13.691Z",
+ "upcomingFetched": "2026-11-06T02:44:13.691Z",
+ "recentFetched": "2026-11-06T02:44:13.691Z",
  "matches": [
-  {
-   "id": "lol-match-117133830110912123",
-   "at": "2026-10-15T09:00:00.000Z",
-   "a": {
-    "name": "HANJIN BRION",
-    "short": "BRO",
-    "logo": "https://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-   },
-   "b": {
-    "name": "Xi'an Team WE",
-    "short": "WE",
-    "logo": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-   },
-   "sa": 2,
-   "sb": 3,
-   "status": "completed",
-   "event": "demacia cup 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-115660588583171786",
-   "at": "2026-10-15T18:00:00.000Z",
-   "a": {
-    "name": "Cloud9 Kia",
-    "short": "C9",
-    "logo": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-   },
-   "b": {
-    "name": "Karmine Corp",
-    "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
-   },
-   "sa": 2,
-   "sb": 3,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-115660588583040710",
-   "at": "2026-10-15T23:00:00.000Z",
-   "a": {
-    "name": "FURIA",
-    "short": "FUR",
-    "logo": "https://static.lolesports.com/teams/FURIA---black.png"
-   },
-   "b": {
-    "name": "MVK Esports",
-    "short": "MVK",
-    "logo": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-   },
-   "sa": 0,
-   "sb": 3,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-115660588583171790",
    "at": "2026-10-16T18:00:00.000Z",
@@ -853,9 +796,9 @@
     "short": "BLG",
     "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 3,
+   "status": "completed",
    "event": "Worlds 2026",
    "bestOf": 5
   },
