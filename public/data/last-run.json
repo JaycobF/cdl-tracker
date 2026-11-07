@@ -1,5 +1,5 @@
 {
- "at": "2026-11-06T17:18:23.474Z",
+ "at": "2026-11-07T02:14:01.359Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -7,7 +7,48 @@
   },
   "lol": {
    "ok": true,
-   "requests": []
+   "requests": [
+    {
+     "path": "/lol/schedule/results",
+     "ok": true,
+     "shape": {
+      "top": "success,count,total,hasMore,filters,data",
+      "count": 50,
+      "firstKeys": [
+       "matchId",
+       "esportsApiId",
+       "tournamentId",
+       "tournament",
+       "blockName",
+       "round",
+       "state",
+       "strategy",
+       "startTime",
+       "endTime",
+       "winnerSlug",
+       "teams",
+       "gameCount"
+      ],
+      "nested": {
+       "tournament": [
+        "tournamentId",
+        "name",
+        "slug",
+        "league"
+       ],
+       "teams": [
+        "[array]",
+        "slug",
+        "name",
+        "shortName",
+        "logoUrl",
+        "score",
+        "outcome"
+       ]
+      }
+     }
+    }
+   ]
   },
   "cs2": {
    "ok": true,
@@ -47,16 +88,7 @@
       ],
       "nested": {
        "vetoOrder": [
-        "[array]",
-        "map",
-        "raw",
-        "order",
-        "action",
-        "teamId",
-        "teamName",
-        "mapName",
-        "mapNumber",
-        "played"
+        "[array]"
        ],
        "event": [
         "id",
@@ -99,6 +131,8 @@
         "countryName",
         "countryCode",
         "worldRanking",
+        "alternateLogoUrl",
+        "darkUiLogoUrl",
         "worldRankingStatus",
         "vrsRanking",
         "vrsRankingStatus",
@@ -186,29 +220,31 @@
       ],
       "nested": {
        "raw": [
-        "result",
+        "gameId",
+        "gridId",
+        "childId",
         "matchId",
-        "parentId",
-        "team1Tag",
-        "team2Tag",
-        "childName",
-        "childType",
+        "roundId",
+        "streams",
+        "gameMode",
+        "gameName",
+        "opponents",
         "roundName",
-        "stageName",
-        "team1Name",
-        "team2Name",
-        "parentName",
+        "venueName",
+        "matchGames",
         "startingAt",
-        "team1Image",
-        "team1Score",
-        "team2Image",
-        "team2Score",
         "matchNumber",
-        "isPlayerBase",
-        "gameUrlSafeName",
-        "streamPlatforms",
-        "matchUrlSafeName",
-        "parentUrlSafeName"
+        "matchResult",
+        "matchStatus",
+        "parentImage",
+        "gamesPerMatch",
+        "isPlayerBased",
+        "canEditMatches",
+        "startTournament",
+        "parentUrlSafeName",
+        "parentTournamentId",
+        "childTournamentName",
+        "childTournamentType"
        ],
        "tournament": [
         "id",

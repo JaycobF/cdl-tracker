@@ -1,47 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-06T02:44:13.691Z",
+ "updated": "2026-11-07T02:14:01.359Z",
  "upcomingFetched": "2026-11-06T02:44:13.691Z",
- "recentFetched": "2026-11-06T02:44:13.691Z",
+ "recentFetched": "2026-11-07T02:14:01.359Z",
  "matches": [
-  {
-   "id": "lol-match-115660588583171790",
-   "at": "2026-10-16T18:00:00.000Z",
-   "a": {
-    "name": "Karmine Corp",
-    "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
-   },
-   "b": {
-    "name": "MVK Esports",
-    "short": "MVK",
-    "logo": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-115660588583171794",
-   "at": "2026-10-16T21:00:00.000Z",
-   "a": {
-    "name": "Cloud9 Kia",
-    "short": "C9",
-    "logo": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-   },
-   "b": {
-    "name": "FURIA",
-    "short": "FUR",
-    "logo": "https://static.lolesports.com/teams/FURIA---black.png"
-   },
-   "sa": 1,
-   "sb": 3,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-117133830110912129",
    "at": "2026-10-17T09:30:00.000Z",
@@ -815,9 +777,9 @@
     "short": "KC",
     "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 3,
+   "sb": 1,
+   "status": "completed",
    "event": "Worlds 2026",
    "bestOf": 5
   },
