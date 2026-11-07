@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-07T08:54:52.939Z",
+ "updated": "2026-11-07T15:31:41.384Z",
  "upcomingFetched": "2026-11-07T08:54:52.939Z",
- "recentFetched": "2026-11-07T02:14:01.359Z",
+ "recentFetched": "2026-11-07T15:31:41.384Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -4059,8 +4059,27 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400008",
+   "at": "2026-11-07T06:30:00.000Z",
+   "a": {
+    "name": "The MongolZ",
+    "short": "TM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6d7f3daef614277d88b67fc23d6d926b.webp"
+   },
+   "b": {
+    "name": "Natus Vincere",
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/33aea6490b84e8284318ac8d52d9b8f3.svg"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400293",
-   "at": "2026-11-07T09:00:00.000Z",
+   "at": "2026-11-07T08:46:42.000Z",
    "a": {
     "name": "G2 Ares",
     "short": "G2ARES",
@@ -4070,9 +4089,9 @@
     "name": "Saint Sinners",
     "short": "SS"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
    "event": "European Pro League Series 10",
    "bestOf": 3
   },
@@ -4089,9 +4108,9 @@
     "short": "MAYBE",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
@@ -4108,9 +4127,9 @@
     "short": "MASONIC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0b9e9cc30a2e2c8a10314b6cfd64cba0.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -4127,9 +4146,9 @@
     "short": "DRAMA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/da0443c3cb4277351b25f8ca5c000be4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -4146,10 +4165,28 @@
     "short": "BETBOOM",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a91d19576e1c705c518bc30bd6aacdbc.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "IEM Beijing 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400224",
+   "at": "2026-11-07T10:15:39.000Z",
+   "a": {
+    "name": "Ryvex",
+    "short": "RYVEX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5477ae30e0c15c0ca5f258e6e5789d60.webp"
+   },
+   "b": {
+    "name": "Saint Sinners",
+    "short": "SS"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
    "bestOf": 3
   },
   {
@@ -4164,9 +4201,9 @@
     "short": "MAYBE",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "European Pro League Series 10",
    "bestOf": 3
   },
@@ -4183,28 +4220,47 @@
     "short": "ILLYRIAN",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400224",
+   "id": "cs2-match-2400133",
    "at": "2026-11-07T12:00:00.000Z",
    "a": {
-    "name": "Ryvex",
-    "short": "RYVEX",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5477ae30e0c15c0ca5f258e6e5789d60.webp"
+    "name": "Black Phoenix",
+    "short": "BP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a6f93145eb55b104b99305ef3b3ba485.webp"
    },
    "b": {
+    "name": "BAKS",
+    "short": "BAKS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400389",
+   "at": "2026-11-07T13:48:57.000Z",
+   "a": {
     "name": "Saint Sinners",
     "short": "SS"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+   "b": {
+    "name": "MAYBE",
+    "short": "MAYBE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "European Pro League Series 10",
    "bestOf": 3
   },
   {
@@ -4331,9 +4387,9 @@
     "short": "TLR",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "ESL Challenger League Season 52 Europe Cup 11",
    "bestOf": 3
   },
@@ -4368,9 +4424,9 @@
     "short": "RYVEX",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5477ae30e0c15c0ca5f258e6e5789d60.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "ESL Challenger League Season 52 Europe Cup 11",
    "bestOf": 3
   },

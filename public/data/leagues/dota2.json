@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-07T08:54:52.939Z",
+ "updated": "2026-11-07T15:31:41.384Z",
  "upcomingFetched": "2026-11-07T08:54:52.939Z",
- "recentFetched": "2026-11-07T02:14:01.359Z",
+ "recentFetched": "2026-11-07T15:31:41.384Z",
  "matches": [
   {
    "id": "663128",
@@ -1613,9 +1613,9 @@
     "short": "Xipto",
     "logo": "https://static.gosugamers.net/9d/09/48/688b00e3cb73f7993cfbd5b5604bd635dc39be286597b3da5a5312b943.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
@@ -1651,9 +1651,9 @@
     "short": "Zenith",
     "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
@@ -1670,10 +1670,29 @@
     "short": "potn9ki",
     "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663686",
+   "at": "2026-11-07T10:00:00.000Z",
+   "a": {
+    "name": "Huligani",
+    "short": "Huligani",
+    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "1win Essence III",
    "bestOf": 3
   },
   {
@@ -1696,25 +1715,6 @@
    "bestOf": 3
   },
   {
-   "id": "663681",
-   "at": "2026-11-07T13:00:00.000Z",
-   "a": {
-    "name": "CyberHero",
-    "short": "CyberHero",
-    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
-   },
-   "b": {
-    "name": "Ka4kanarskie cyxariki",
-    "short": "cyxariki",
-    "logo": "https://static.gosugamers.net/c0/34/f7/07fa28c47c2e81a18a2f08d3802ca698d61b14f61e2a6d3fd968b43295.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "1win Essence III",
-   "bestOf": 3
-  },
-  {
    "id": "663565",
    "at": "2026-11-07T13:00:00.000Z",
    "a": {
@@ -1727,9 +1727,9 @@
     "short": "Zenith",
     "logo": "https://static.gosugamers.net/games/128x128_9.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
@@ -1750,6 +1750,25 @@
    "sb": null,
    "status": "upcoming",
    "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663681",
+   "at": "2026-11-07T14:00:00.000Z",
+   "a": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+   },
+   "b": {
+    "name": "Ka4kanarskie cyxariki",
+    "short": "cyxariki",
+    "logo": "https://static.gosugamers.net/c0/34/f7/07fa28c47c2e81a18a2f08d3802ca698d61b14f61e2a6d3fd968b43295.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
    "bestOf": 3
   },
   {
