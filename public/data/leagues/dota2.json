@@ -1,7 +1,7 @@
 {
  "id": "dota2",
- "updated": "2026-11-07T02:14:01.359Z",
- "upcomingFetched": "2026-11-06T02:44:13.691Z",
+ "updated": "2026-11-07T08:54:52.939Z",
+ "upcomingFetched": "2026-11-07T08:54:52.939Z",
  "recentFetched": "2026-11-07T02:14:01.359Z",
  "matches": [
   {
@@ -1588,6 +1588,253 @@
     "name": "Huligani",
     "short": "Huligani",
     "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+   },
+   "b": {
+    "name": "Yakult Brothers",
+    "short": "YkBros",
+    "logo": "https://static.gosugamers.net/8d/fa/7a/4a5b6228aaa5fc2312c87c9669a5bcf13746b2954590800210f6de3648.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663564",
+   "at": "2026-11-07T10:00:00.000Z",
+   "a": {
+    "name": "Power Rangers",
+    "short": "PWR",
+    "logo": "https://static.gosugamers.net/e3/3f/01/d10ae99a472121d6ebf7a4b420d3d7b2a1e8fffdde96295077485123ba.webp"
+   },
+   "b": {
+    "name": "Xipto Esports",
+    "short": "Xipto",
+    "logo": "https://static.gosugamers.net/9d/09/48/688b00e3cb73f7993cfbd5b5604bd635dc39be286597b3da5a5312b943.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663689",
+   "at": "2026-11-07T10:00:00.000Z",
+   "a": {
+    "name": "Huligani",
+    "short": "Huligani",
+    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+   },
+   "b": {
+    "name": "Yellow Submarine",
+    "short": "YeS",
+    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663547",
+   "at": "2026-11-07T10:00:00.000Z",
+   "a": {
+    "name": "Froglings",
+    "short": "Frog",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "b": {
+    "name": "Zenith",
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663549",
+   "at": "2026-11-07T10:00:00.000Z",
+   "a": {
+    "name": "Nemiga Gaming",
+    "short": "Nemiga",
+    "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+   },
+   "b": {
+    "name": "potn9ki",
+    "short": "potn9ki",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663557",
+   "at": "2026-11-07T13:00:00.000Z",
+   "a": {
+    "name": "PlayTime",
+    "short": "PTime",
+    "logo": "https://static.gosugamers.net/f9/88/18/a992f29fd8e18feec2449514fb4decde6634de2ced801ad3e88c7c4010.webp"
+   },
+   "b": {
+    "name": "Xipto Esports",
+    "short": "Xipto",
+    "logo": "https://static.gosugamers.net/9d/09/48/688b00e3cb73f7993cfbd5b5604bd635dc39be286597b3da5a5312b943.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663681",
+   "at": "2026-11-07T13:00:00.000Z",
+   "a": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+   },
+   "b": {
+    "name": "Ka4kanarskie cyxariki",
+    "short": "cyxariki",
+    "logo": "https://static.gosugamers.net/c0/34/f7/07fa28c47c2e81a18a2f08d3802ca698d61b14f61e2a6d3fd968b43295.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663565",
+   "at": "2026-11-07T13:00:00.000Z",
+   "a": {
+    "name": "Power Rangers",
+    "short": "PWR",
+    "logo": "https://static.gosugamers.net/e3/3f/01/d10ae99a472121d6ebf7a4b420d3d7b2a1e8fffdde96295077485123ba.webp"
+   },
+   "b": {
+    "name": "Zenith",
+    "short": "Zenith",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663560",
+   "at": "2026-11-07T13:00:00.000Z",
+   "a": {
+    "name": "potn9ki",
+    "short": "potn9ki",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "b": {
+    "name": "Team Synapse",
+    "short": "Synapse",
+    "logo": "https://static.gosugamers.net/e5/40/8c/f63a240b4ecb4a77e9bd402925cdfe34735014b5844a0895c758b4c8fc.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663574",
+   "at": "2026-11-07T16:00:00.000Z",
+   "a": {
+    "name": "Amaru Gaming",
+    "short": "AG",
+    "logo": "https://static.gosugamers.net/3f/bd/13/f7fff717c87b237cd53808295cd42fa34e437aebf024796821dbac64c4.webp"
+   },
+   "b": {
+    "name": "Yakult Brothers",
+    "short": "YkBros",
+    "logo": "https://static.gosugamers.net/8d/fa/7a/4a5b6228aaa5fc2312c87c9669a5bcf13746b2954590800210f6de3648.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663591",
+   "at": "2026-11-07T16:00:00.000Z",
+   "a": {
+    "name": "Interactive Philippines",
+    "short": "IAP",
+    "logo": "https://static.gosugamers.net/38/0e/9b/9b230566345c7af7c8cbaf2cbd01c9fcdc6802c7f9a6bbbbc98e1510f6.webp"
+   },
+   "b": {
+    "name": "PuckChamp",
+    "short": "PuckChamp",
+    "logo": "https://static.gosugamers.net/d2/3b/9d/9671e30af89fd93e943555cd462c79519182d347036418141686ae9767.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663677",
+   "at": "2026-11-07T16:00:00.000Z",
+   "a": {
+    "name": "Angry Birds",
+    "short": "Angry",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "b": {
+    "name": "Froglings",
+    "short": "Frog",
+    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663586",
+   "at": "2026-11-07T16:00:00.000Z",
+   "a": {
+    "name": "Huligani",
+    "short": "Huligani",
+    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+   },
+   "b": {
+    "name": "Zero Tenacity",
+    "short": "Z10",
+    "logo": "https://static.gosugamers.net/42/2b/03/f51666c5fe8f5575ae17fc11f374f1f5ba2c577b2ebb098f2466e54fd9.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663580",
+   "at": "2026-11-07T19:00:00.000Z",
+   "a": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
    },
    "b": {
     "name": "Yakult Brothers",
