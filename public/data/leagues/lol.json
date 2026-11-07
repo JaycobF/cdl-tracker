@@ -1,47 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-07T08:54:52.939Z",
+ "updated": "2026-11-07T23:03:45.600Z",
  "upcomingFetched": "2026-11-07T08:54:52.939Z",
- "recentFetched": "2026-11-07T02:14:01.359Z",
+ "recentFetched": "2026-11-07T23:03:45.600Z",
  "matches": [
-  {
-   "id": "lol-match-117133830110912129",
-   "at": "2026-10-17T09:30:00.000Z",
-   "a": {
-    "name": "Xi'an Team WE",
-    "short": "WE",
-    "logo": "https://static.lolesports.com/teams/1634763008788_220px-Team_WE_logo.png"
-   },
-   "b": {
-    "name": "BNK FEARX",
-    "short": "BFX",
-    "logo": "https://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-   },
-   "sa": 1,
-   "sb": 3,
-   "status": "completed",
-   "event": "demacia cup 2026",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-match-115660588583171798",
-   "at": "2026-10-17T18:00:00.000Z",
-   "a": {
-    "name": "MVK Esports",
-    "short": "MVK",
-    "logo": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-   },
-   "b": {
-    "name": "FURIA",
-    "short": "FUR",
-    "logo": "https://static.lolesports.com/teams/FURIA---black.png"
-   },
-   "sa": 3,
-   "sb": 1,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-116299649498303884",
    "at": "2026-10-18T18:00:00.000Z",
