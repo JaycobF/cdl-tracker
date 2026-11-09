@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-09T06:34:30.722Z",
- "upcomingFetched": "2026-11-08T09:30:37.328Z",
- "recentFetched": "2026-11-09T06:34:30.722Z",
+ "updated": "2026-11-09T16:52:57.697Z",
+ "upcomingFetched": "2026-11-09T16:52:57.697Z",
+ "recentFetched": "2026-11-09T16:52:57.697Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -5375,20 +5375,59 @@
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400386",
-   "at": "2026-11-09T11:30:00.000Z",
+   "id": "cs2-match-2400229",
+   "at": "2026-11-09T09:00:00.000Z",
    "a": {
-    "name": "Balkan Outlaws",
-    "short": "BO"
+    "name": "LFO 10",
+    "short": "LFO10"
    },
    "b": {
-    "name": "ex-ENCE",
-    "short": "EXENCE"
+    "name": "Prestige",
+    "short": "PRESTIGE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0c309372a31bdd9c818b580254c4ed15.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400385",
+   "at": "2026-11-09T09:00:00.000Z",
+   "a": {
+    "name": "Walczaki",
+    "short": "WALCZAKI",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/60d1ef683fdb3e0b77e2d0ecd9da6207.webp"
+   },
+   "b": {
+    "name": "Noir Verse",
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c4720cf4f05b7548a12dd8f73bae6a6.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "European Pro League Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400140",
+   "at": "2026-11-09T09:00:00.000Z",
+   "a": {
+    "name": "FORZE Reload",
+    "short": "FR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
+   },
+   "b": {
+    "name": "MAYBE",
+    "short": "MAYBE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {
@@ -5404,10 +5443,46 @@
     "short": "LEO",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5edf6ccae4779dc22bb759938f629fa4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400230",
+   "at": "2026-11-09T12:00:00.000Z",
+   "a": {
+    "name": "MAYBE",
+    "short": "MAYBE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
+   },
+   "b": {
+    "name": "MASONIC",
+    "short": "MASONIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0b9e9cc30a2e2c8a10314b6cfd64cba0.svg"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400386",
+   "at": "2026-11-09T12:25:00.000Z",
+   "a": {
+    "name": "Balkan Outlaws",
+    "short": "BO"
+   },
+   "b": {
+    "name": "ex-ENCE",
+    "short": "EXENCE"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "European Pro League Series 10",
    "bestOf": 3
   },
   {
@@ -5445,6 +5520,115 @@
    "sb": null,
    "status": "upcoming",
    "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400232",
+   "at": "2026-11-09T18:00:00.000Z",
+   "a": {
+    "name": "Honvéd",
+    "short": "HONVD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46f7483ece4afa0e5f46782cbc29b57b.webp"
+   },
+   "b": {
+    "name": "Ryvex",
+    "short": "RYVEX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5477ae30e0c15c0ca5f258e6e5789d60.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400097",
+   "at": "2026-11-09T19:00:00.000Z",
+   "a": {
+    "name": "BESTIA Academy",
+    "short": "BA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8f39c7d36daa0eab00a753a0540bf017.webp"
+   },
+   "b": {
+    "name": "Underworld",
+    "short": "UNDERWOR"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400098",
+   "at": "2026-11-09T22:00:00.000Z",
+   "a": {
+    "name": "your end",
+    "short": "YOUREND"
+   },
+   "b": {
+    "name": "DAMAJUANA",
+    "short": "DAMAJUAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0cfbe73549de528cb9c3a4a742a26be7.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400099",
+   "at": "2026-11-10T16:00:00.000Z",
+   "a": {
+    "name": "MEIA NOITE",
+    "short": "MN"
+   },
+   "b": {
+    "name": "BORRACHEIROS",
+    "short": "BORRACHE"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400100",
+   "at": "2026-11-10T19:00:00.000Z",
+   "a": {
+    "name": "Isurus",
+    "short": "ISURUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/cff5b9b7ba1cff8074e93a9737eebf70.webp"
+   },
+   "b": {
+    "name": "RED Canids Academy",
+    "short": "RCA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/126fc400b765aa8fa73ca14da1eb42f5.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400101",
+   "at": "2026-11-10T22:00:00.000Z",
+   "a": {
+    "name": "QUINTESSÊNCIA",
+    "short": "QUINTESS"
+   },
+   "b": {
+    "name": "RUSH",
+    "short": "RUSH",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b248f8354f58c367c3a7cbc8d69d73cb.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
   {

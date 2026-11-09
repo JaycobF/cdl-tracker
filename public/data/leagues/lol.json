@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-09T00:05:34.222Z",
- "upcomingFetched": "2026-11-08T09:30:37.328Z",
- "recentFetched": "2026-11-09T00:05:34.222Z",
+ "updated": "2026-11-09T16:52:57.697Z",
+ "upcomingFetched": "2026-11-09T16:52:57.697Z",
+ "recentFetched": "2026-11-09T16:52:57.697Z",
  "matches": [
   {
    "id": "lol-match-117173205319911441",
@@ -10,12 +10,12 @@
    "a": {
     "name": "Galions",
     "short": "GL",
-    "logo": "https://static.lolesports.com/teams/1734090136444_WHITE_GALIONS_LOGO.png"
+    "logo": "https://api.citoapi.com/img/m/AQPNB52y6cXSV44oJmE8v89vIftHpUHCedaaTuKnNN-4rWbk4gO9UVr_spQ6WUfzgcku9mgT6SGHjv-b-5k-VH_k-qHWBZmkpfTg9MTZYXw6KKsnNy2Qo-AZVs1aCtyj5JPfCwE.png"
    },
    "b": {
     "name": "Solary",
     "short": "SLY",
-    "logo": "https://static.lolesports.com/teams/LFL-SLY-logo.png"
+    "logo": "https://api.citoapi.com/img/m/ARSQYpere6foBTIMG6YVohwEStuQ3PPWgTYTFRaL9rMXoUlZlyDbj2I6YZmSSTqXZFZ9z6_b9esmLEyRCnHnP7uNfycht7dXnswmess_RH38.png"
    },
    "sa": 3,
    "sb": 2,
@@ -29,12 +29,12 @@
    "a": {
     "name": "Gen.G Esports",
     "short": "GEN",
-    "logo": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    "logo": "https://api.citoapi.com/img/m/AQwSpx6OtprKg6YK2qL1tIXauo6g3bOoiYHFDEzmdZIx8lrS41I_SbIa0sVMr-N-QG-Yqx21ywQtgsafzt0rLkVs0tZrBxACP3cqxRN5vnh9x7962volHQc896rhzXC-.png"
    },
    "b": {
     "name": "Invictus Gaming",
     "short": "IG",
-    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    "logo": "https://api.citoapi.com/img/m/AURRsKJqMCC_FTnzkx2zj3N4TNyWuNk-atimvzwb9LfXrhfMbtBpRHJ_ljFPf9bKSOk9fXSFJbOAZqVgSavE8fMZHMJLU8utSXnJ0X_sUCyS-I603h2lb1o02sngfLDlnfuNFKeGzYQclINUQQ.png"
    },
    "sa": 1,
    "sb": 0,
@@ -48,12 +48,12 @@
    "a": {
     "name": "Hanwha Life Esports",
     "short": "HLE",
-    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+    "logo": "https://api.citoapi.com/img/m/AQlI-Ixe9cUveqRXP6Lw1rVZfrqU1_e_ctKnkCmjS70-x7esW98JgLWg4prOvtM6YadGh7OOx7qqD_0fAE_Qfd2rtFe7bQDdQpceVXB_AZq-jFfuAYmHAAF6daQgd1wWLFE.png"
    },
    "b": {
     "name": "TOP ESPORTS",
     "short": "TES",
-    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AegxIiYXYZTSbvpVzaQUYHimjATzAc9HzIAnGQ32mTrT82f49IKFN0Y5fc20tibAHlgbu3J1IcryrXen99Icr4xm9JPR73X4aLUkulfpydRKqa8su3BHw4ZB6wUntaSbsK8p38vqO6J1_j9DDUg.png"
    },
    "sa": 1,
    "sb": 0,
@@ -67,12 +67,12 @@
    "a": {
     "name": "BILIBILI GAMING",
     "short": "BLG",
-    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
    },
    "b": {
     "name": "Movistar KOI",
     "short": "MKOI",
-    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
    },
    "sa": 0,
    "sb": 1,
@@ -86,12 +86,12 @@
    "a": {
     "name": "Anyone's Legend",
     "short": "AL",
-    "logo": "https://static.lolesports.com/teams/1641199582689_.png"
+    "logo": "https://api.citoapi.com/img/m/AeKOW-vPhSF6u9YI63VmYgJdro1JnOEkJvm2doXS0vWQ1e9ZINSuKbwP8akTNVCc3Qw4myDwwS92t_9KRILAZIs7zrLNFhiyiWY9hlGm_R4qLL8.png"
    },
    "b": {
     "name": "Karmine Corp",
     "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
    },
    "sa": 0,
    "sb": 1,
@@ -105,12 +105,12 @@
    "a": {
     "name": "G2 Esports",
     "short": "G2",
-    "logo": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
    },
    "b": {
     "name": "Dplus KIA",
     "short": "DK",
-    "logo": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    "logo": "https://api.citoapi.com/img/m/AQL6UPnsf_7hTdDoilOFMhZZcL9i1s2-PCKYkkbxay3mC1mSmDor1AJ0d_Xnotw2U4kfK_tG_C8LHNMu138mO7XeQQDg0OAtCXqvuVlFvZ2Ei4hK3ROBr2vPPGlie5KuiA.png"
    },
    "sa": 0,
    "sb": 1,
@@ -124,12 +124,12 @@
    "a": {
     "name": "Team Liquid Alienware",
     "short": "TLAW",
-    "logo": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    "logo": "https://api.citoapi.com/img/m/AfUZG6Ua9C0bH5EwUuMcEuD2eqIORGGAgiD1iSqPm8HyesLwB4k1B7YVV78DRVxFcNUcqWd-RIXt-vOvdFO1cnhblvNA6gspaiUKIyW2llaK1q3wdss-XI0IV207_ZHiQrcWe6SJke3FvmstWEF7Sw.png"
    },
    "b": {
     "name": "CTBC Flying Oyster",
     "short": "CFO",
-    "logo": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
+    "logo": "https://api.citoapi.com/img/m/AeaEjj5TXaIB9ohA6v7vAKlObKcwVwkq_xQFogRuwv_2LxCsmLMyOvniwhsVbtAJkcevKeZzR8nv6kGrVTfeVnKHwRjgtIrtXoo7BC-N8meGzE2343V_xq8GQQ.png"
    },
    "sa": 0,
    "sb": 1,
@@ -143,12 +143,12 @@
    "a": {
     "name": "MIBR.LOS",
     "short": "ML",
-    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AYfk6MuSi7Njg5I0oL3e6GBdqB7BFSUbjn2-AYvzO0IYu8JUrxfH00irEDNVSwaUALDePat1eobKnPYjVlo7a20G_fMtLtbPMrgEB0vJGtQCm4-BpxI0rQ9OIOS5hQ8iWCAoVBKPlIre.png"
    },
    "b": {
     "name": "T1",
     "short": "T1",
-    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
    },
    "sa": 0,
    "sb": 1,
@@ -162,12 +162,12 @@
    "a": {
     "name": "Team Secret Whales",
     "short": "TSW",
-    "logo": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    "logo": "https://api.citoapi.com/img/m/ARUqTZGabNpgBGZjCx34Efl0-7fl83Y99wh2Kg0vIA92uFeq6ORB-1c_n7_BrqXcp_2rTezTQqctglvn20wrfYZx-qAx-Pu2ijOpZFNdygGNMhOB0VaE9y6muY8CyNNO38qiUyo.png"
    },
    "b": {
     "name": "LYON",
     "short": "LYON",
-    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
    },
    "sa": 0,
    "sb": 1,
@@ -181,12 +181,12 @@
    "a": {
     "name": "Anyone's Legend",
     "short": "AL",
-    "logo": "https://static.lolesports.com/teams/1641199582689_.png"
+    "logo": "https://api.citoapi.com/img/m/AeKOW-vPhSF6u9YI63VmYgJdro1JnOEkJvm2doXS0vWQ1e9ZINSuKbwP8akTNVCc3Qw4myDwwS92t_9KRILAZIs7zrLNFhiyiWY9hlGm_R4qLL8.png"
    },
    "b": {
     "name": "TOP ESPORTS",
     "short": "TES",
-    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AegxIiYXYZTSbvpVzaQUYHimjATzAc9HzIAnGQ32mTrT82f49IKFN0Y5fc20tibAHlgbu3J1IcryrXen99Icr4xm9JPR73X4aLUkulfpydRKqa8su3BHw4ZB6wUntaSbsK8p38vqO6J1_j9DDUg.png"
    },
    "sa": 0,
    "sb": 1,
@@ -200,12 +200,12 @@
    "a": {
     "name": "CTBC Flying Oyster",
     "short": "CFO",
-    "logo": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
+    "logo": "https://api.citoapi.com/img/m/AeaEjj5TXaIB9ohA6v7vAKlObKcwVwkq_xQFogRuwv_2LxCsmLMyOvniwhsVbtAJkcevKeZzR8nv6kGrVTfeVnKHwRjgtIrtXoo7BC-N8meGzE2343V_xq8GQQ.png"
    },
    "b": {
     "name": "Movistar KOI",
     "short": "MKOI",
-    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
    },
    "sa": 0,
    "sb": 1,
@@ -219,12 +219,12 @@
    "a": {
     "name": "G2 Esports",
     "short": "G2",
-    "logo": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
    },
    "b": {
     "name": "MIBR.LOS",
     "short": "ML",
-    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AYfk6MuSi7Njg5I0oL3e6GBdqB7BFSUbjn2-AYvzO0IYu8JUrxfH00irEDNVSwaUALDePat1eobKnPYjVlo7a20G_fMtLtbPMrgEB0vJGtQCm4-BpxI0rQ9OIOS5hQ8iWCAoVBKPlIre.png"
    },
    "sa": 1,
    "sb": 0,
@@ -238,12 +238,12 @@
    "a": {
     "name": "LYON",
     "short": "LYON",
-    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
    },
    "b": {
     "name": "Karmine Corp",
     "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
    },
    "sa": 1,
    "sb": 0,
@@ -257,12 +257,12 @@
    "a": {
     "name": "Team Secret Whales",
     "short": "TSW",
-    "logo": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    "logo": "https://api.citoapi.com/img/m/ARUqTZGabNpgBGZjCx34Efl0-7fl83Y99wh2Kg0vIA92uFeq6ORB-1c_n7_BrqXcp_2rTezTQqctglvn20wrfYZx-qAx-Pu2ijOpZFNdygGNMhOB0VaE9y6muY8CyNNO38qiUyo.png"
    },
    "b": {
     "name": "Invictus Gaming",
     "short": "IG",
-    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    "logo": "https://api.citoapi.com/img/m/AURRsKJqMCC_FTnzkx2zj3N4TNyWuNk-atimvzwb9LfXrhfMbtBpRHJ_ljFPf9bKSOk9fXSFJbOAZqVgSavE8fMZHMJLU8utSXnJ0X_sUCyS-I603h2lb1o02sngfLDlnfuNFKeGzYQclINUQQ.png"
    },
    "sa": 0,
    "sb": 1,
@@ -276,12 +276,12 @@
    "a": {
     "name": "Gen.G Esports",
     "short": "GEN",
-    "logo": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    "logo": "https://api.citoapi.com/img/m/AQwSpx6OtprKg6YK2qL1tIXauo6g3bOoiYHFDEzmdZIx8lrS41I_SbIa0sVMr-N-QG-Yqx21ywQtgsafzt0rLkVs0tZrBxACP3cqxRN5vnh9x7962volHQc896rhzXC-.png"
    },
    "b": {
     "name": "Hanwha Life Esports",
     "short": "HLE",
-    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+    "logo": "https://api.citoapi.com/img/m/AQlI-Ixe9cUveqRXP6Lw1rVZfrqU1_e_ctKnkCmjS70-x7esW98JgLWg4prOvtM6YadGh7OOx7qqD_0fAE_Qfd2rtFe7bQDdQpceVXB_AZq-jFfuAYmHAAF6daQgd1wWLFE.png"
    },
    "sa": 1,
    "sb": 0,
@@ -295,12 +295,12 @@
    "a": {
     "name": "T1",
     "short": "T1",
-    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
    },
    "b": {
     "name": "Dplus KIA",
     "short": "DK",
-    "logo": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    "logo": "https://api.citoapi.com/img/m/AQL6UPnsf_7hTdDoilOFMhZZcL9i1s2-PCKYkkbxay3mC1mSmDor1AJ0d_Xnotw2U4kfK_tG_C8LHNMu138mO7XeQQDg0OAtCXqvuVlFvZ2Ei4hK3ROBr2vPPGlie5KuiA.png"
    },
    "sa": 0,
    "sb": 1,
@@ -314,12 +314,12 @@
    "a": {
     "name": "Team Liquid Alienware",
     "short": "TLAW",
-    "logo": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    "logo": "https://api.citoapi.com/img/m/AfUZG6Ua9C0bH5EwUuMcEuD2eqIORGGAgiD1iSqPm8HyesLwB4k1B7YVV78DRVxFcNUcqWd-RIXt-vOvdFO1cnhblvNA6gspaiUKIyW2llaK1q3wdss-XI0IV207_ZHiQrcWe6SJke3FvmstWEF7Sw.png"
    },
    "b": {
     "name": "BILIBILI GAMING",
     "short": "BLG",
-    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
    },
    "sa": 0,
    "sb": 1,
@@ -333,12 +333,12 @@
    "a": {
     "name": "Hanwha Life Esports",
     "short": "HLE",
-    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+    "logo": "https://api.citoapi.com/img/m/AQlI-Ixe9cUveqRXP6Lw1rVZfrqU1_e_ctKnkCmjS70-x7esW98JgLWg4prOvtM6YadGh7OOx7qqD_0fAE_Qfd2rtFe7bQDdQpceVXB_AZq-jFfuAYmHAAF6daQgd1wWLFE.png"
    },
    "b": {
     "name": "Invictus Gaming",
     "short": "IG",
-    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    "logo": "https://api.citoapi.com/img/m/AURRsKJqMCC_FTnzkx2zj3N4TNyWuNk-atimvzwb9LfXrhfMbtBpRHJ_ljFPf9bKSOk9fXSFJbOAZqVgSavE8fMZHMJLU8utSXnJ0X_sUCyS-I603h2lb1o02sngfLDlnfuNFKeGzYQclINUQQ.png"
    },
    "sa": 0,
    "sb": 1,
@@ -352,12 +352,12 @@
    "a": {
     "name": "TOP ESPORTS",
     "short": "TES",
-    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AegxIiYXYZTSbvpVzaQUYHimjATzAc9HzIAnGQ32mTrT82f49IKFN0Y5fc20tibAHlgbu3J1IcryrXen99Icr4xm9JPR73X4aLUkulfpydRKqa8su3BHw4ZB6wUntaSbsK8p38vqO6J1_j9DDUg.png"
    },
    "b": {
     "name": "G2 Esports",
     "short": "G2",
-    "logo": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
    },
    "sa": 1,
    "sb": 0,
@@ -371,12 +371,12 @@
    "a": {
     "name": "Movistar KOI",
     "short": "MKOI",
-    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
    },
    "b": {
     "name": "Dplus KIA",
     "short": "DK",
-    "logo": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    "logo": "https://api.citoapi.com/img/m/AQL6UPnsf_7hTdDoilOFMhZZcL9i1s2-PCKYkkbxay3mC1mSmDor1AJ0d_Xnotw2U4kfK_tG_C8LHNMu138mO7XeQQDg0OAtCXqvuVlFvZ2Ei4hK3ROBr2vPPGlie5KuiA.png"
    },
    "sa": 0,
    "sb": 2,
@@ -390,12 +390,12 @@
    "a": {
     "name": "Gen.G Esports",
     "short": "GEN",
-    "logo": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    "logo": "https://api.citoapi.com/img/m/AQwSpx6OtprKg6YK2qL1tIXauo6g3bOoiYHFDEzmdZIx8lrS41I_SbIa0sVMr-N-QG-Yqx21ywQtgsafzt0rLkVs0tZrBxACP3cqxRN5vnh9x7962volHQc896rhzXC-.png"
    },
    "b": {
     "name": "LYON",
     "short": "LYON",
-    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
    },
    "sa": 2,
    "sb": 1,
@@ -409,12 +409,12 @@
    "a": {
     "name": "CTBC Flying Oyster",
     "short": "CFO",
-    "logo": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
+    "logo": "https://api.citoapi.com/img/m/AeaEjj5TXaIB9ohA6v7vAKlObKcwVwkq_xQFogRuwv_2LxCsmLMyOvniwhsVbtAJkcevKeZzR8nv6kGrVTfeVnKHwRjgtIrtXoo7BC-N8meGzE2343V_xq8GQQ.png"
    },
    "b": {
     "name": "T1",
     "short": "T1",
-    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
    },
    "sa": 0,
    "sb": 1,
@@ -428,12 +428,12 @@
    "a": {
     "name": "BILIBILI GAMING",
     "short": "BLG",
-    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
    },
    "b": {
     "name": "Karmine Corp",
     "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
    },
    "sa": 1,
    "sb": 0,
@@ -447,12 +447,12 @@
    "a": {
     "name": "MIBR.LOS",
     "short": "ML",
-    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AYfk6MuSi7Njg5I0oL3e6GBdqB7BFSUbjn2-AYvzO0IYu8JUrxfH00irEDNVSwaUALDePat1eobKnPYjVlo7a20G_fMtLtbPMrgEB0vJGtQCm4-BpxI0rQ9OIOS5hQ8iWCAoVBKPlIre.png"
    },
    "b": {
     "name": "Team Secret Whales",
     "short": "TSW",
-    "logo": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
+    "logo": "https://api.citoapi.com/img/m/ARUqTZGabNpgBGZjCx34Efl0-7fl83Y99wh2Kg0vIA92uFeq6ORB-1c_n7_BrqXcp_2rTezTQqctglvn20wrfYZx-qAx-Pu2ijOpZFNdygGNMhOB0VaE9y6muY8CyNNO38qiUyo.png"
    },
    "sa": 2,
    "sb": 0,
@@ -466,12 +466,12 @@
    "a": {
     "name": "Team Liquid Alienware",
     "short": "TLAW",
-    "logo": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    "logo": "https://api.citoapi.com/img/m/AfUZG6Ua9C0bH5EwUuMcEuD2eqIORGGAgiD1iSqPm8HyesLwB4k1B7YVV78DRVxFcNUcqWd-RIXt-vOvdFO1cnhblvNA6gspaiUKIyW2llaK1q3wdss-XI0IV207_ZHiQrcWe6SJke3FvmstWEF7Sw.png"
    },
    "b": {
     "name": "Anyone's Legend",
     "short": "AL",
-    "logo": "https://static.lolesports.com/teams/1641199582689_.png"
+    "logo": "https://api.citoapi.com/img/m/AeKOW-vPhSF6u9YI63VmYgJdro1JnOEkJvm2doXS0vWQ1e9ZINSuKbwP8akTNVCc3Qw4myDwwS92t_9KRILAZIs7zrLNFhiyiWY9hlGm_R4qLL8.png"
    },
    "sa": 2,
    "sb": 0,
@@ -485,12 +485,12 @@
    "a": {
     "name": "Movistar KOI",
     "short": "MKOI",
-    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
    },
    "b": {
     "name": "T1",
     "short": "T1",
-    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
    },
    "sa": 0,
    "sb": 2,
@@ -504,12 +504,12 @@
    "a": {
     "name": "LYON",
     "short": "LYON",
-    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
    },
    "b": {
     "name": "Invictus Gaming",
     "short": "IG",
-    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    "logo": "https://api.citoapi.com/img/m/AURRsKJqMCC_FTnzkx2zj3N4TNyWuNk-atimvzwb9LfXrhfMbtBpRHJ_ljFPf9bKSOk9fXSFJbOAZqVgSavE8fMZHMJLU8utSXnJ0X_sUCyS-I603h2lb1o02sngfLDlnfuNFKeGzYQclINUQQ.png"
    },
    "sa": 1,
    "sb": 2,
@@ -523,12 +523,12 @@
    "a": {
     "name": "CTBC Flying Oyster",
     "short": "CFO",
-    "logo": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
+    "logo": "https://api.citoapi.com/img/m/AeaEjj5TXaIB9ohA6v7vAKlObKcwVwkq_xQFogRuwv_2LxCsmLMyOvniwhsVbtAJkcevKeZzR8nv6kGrVTfeVnKHwRjgtIrtXoo7BC-N8meGzE2343V_xq8GQQ.png"
    },
    "b": {
     "name": "Karmine Corp",
     "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
    },
    "sa": 0,
    "sb": 2,
@@ -542,12 +542,12 @@
    "a": {
     "name": "BILIBILI GAMING",
     "short": "BLG",
-    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
    },
    "b": {
     "name": "TOP ESPORTS",
     "short": "TES",
-    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AegxIiYXYZTSbvpVzaQUYHimjATzAc9HzIAnGQ32mTrT82f49IKFN0Y5fc20tibAHlgbu3J1IcryrXen99Icr4xm9JPR73X4aLUkulfpydRKqa8su3BHw4ZB6wUntaSbsK8p38vqO6J1_j9DDUg.png"
    },
    "sa": 1,
    "sb": 2,
@@ -561,12 +561,12 @@
    "a": {
     "name": "Team Liquid Alienware",
     "short": "TLAW",
-    "logo": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
+    "logo": "https://api.citoapi.com/img/m/AfUZG6Ua9C0bH5EwUuMcEuD2eqIORGGAgiD1iSqPm8HyesLwB4k1B7YVV78DRVxFcNUcqWd-RIXt-vOvdFO1cnhblvNA6gspaiUKIyW2llaK1q3wdss-XI0IV207_ZHiQrcWe6SJke3FvmstWEF7Sw.png"
    },
    "b": {
     "name": "MIBR.LOS",
     "short": "ML",
-    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AYfk6MuSi7Njg5I0oL3e6GBdqB7BFSUbjn2-AYvzO0IYu8JUrxfH00irEDNVSwaUALDePat1eobKnPYjVlo7a20G_fMtLtbPMrgEB0vJGtQCm4-BpxI0rQ9OIOS5hQ8iWCAoVBKPlIre.png"
    },
    "sa": 1,
    "sb": 2,
@@ -580,12 +580,12 @@
    "a": {
     "name": "G2 Esports",
     "short": "G2",
-    "logo": "https://static.lolesports.com/teams/G2-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
    },
    "b": {
     "name": "Hanwha Life Esports",
     "short": "HLE",
-    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+    "logo": "https://api.citoapi.com/img/m/AQlI-Ixe9cUveqRXP6Lw1rVZfrqU1_e_ctKnkCmjS70-x7esW98JgLWg4prOvtM6YadGh7OOx7qqD_0fAE_Qfd2rtFe7bQDdQpceVXB_AZq-jFfuAYmHAAF6daQgd1wWLFE.png"
    },
    "sa": 0,
    "sb": 2,
@@ -599,12 +599,12 @@
    "a": {
     "name": "Movistar KOI",
     "short": "MKOI",
-    "logo": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
+    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
    },
    "b": {
     "name": "Karmine Corp",
     "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
    },
    "sa": 0,
    "sb": 2,
@@ -618,12 +618,12 @@
    "a": {
     "name": "MIBR.LOS",
     "short": "ML",
-    "logo": "https://static.lolesports.com/teams/1783069635946_600px-MIBR_LOS_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AYfk6MuSi7Njg5I0oL3e6GBdqB7BFSUbjn2-AYvzO0IYu8JUrxfH00irEDNVSwaUALDePat1eobKnPYjVlo7a20G_fMtLtbPMrgEB0vJGtQCm4-BpxI0rQ9OIOS5hQ8iWCAoVBKPlIre.png"
    },
    "b": {
     "name": "LYON",
     "short": "LYON",
-    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
    },
    "sa": 1,
    "sb": 2,
@@ -637,12 +637,12 @@
    "a": {
     "name": "Hanwha Life Esports",
     "short": "HLE",
-    "logo": "https://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+    "logo": "https://api.citoapi.com/img/m/AQlI-Ixe9cUveqRXP6Lw1rVZfrqU1_e_ctKnkCmjS70-x7esW98JgLWg4prOvtM6YadGh7OOx7qqD_0fAE_Qfd2rtFe7bQDdQpceVXB_AZq-jFfuAYmHAAF6daQgd1wWLFE.png"
    },
    "b": {
     "name": "BILIBILI GAMING",
     "short": "BLG",
-    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
    },
    "sa": 0,
    "sb": 2,
@@ -656,12 +656,12 @@
    "a": {
     "name": "TOP ESPORTS",
     "short": "TES",
-    "logo": "https://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
+    "logo": "https://api.citoapi.com/img/m/AegxIiYXYZTSbvpVzaQUYHimjATzAc9HzIAnGQ32mTrT82f49IKFN0Y5fc20tibAHlgbu3J1IcryrXen99Icr4xm9JPR73X4aLUkulfpydRKqa8su3BHw4ZB6wUntaSbsK8p38vqO6J1_j9DDUg.png"
    },
    "b": {
     "name": "Invictus Gaming",
     "short": "IG",
-    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    "logo": "https://api.citoapi.com/img/m/AURRsKJqMCC_FTnzkx2zj3N4TNyWuNk-atimvzwb9LfXrhfMbtBpRHJ_ljFPf9bKSOk9fXSFJbOAZqVgSavE8fMZHMJLU8utSXnJ0X_sUCyS-I603h2lb1o02sngfLDlnfuNFKeGzYQclINUQQ.png"
    },
    "sa": 1,
    "sb": 3,
@@ -675,12 +675,12 @@
    "a": {
     "name": "Gen.G Esports",
     "short": "GEN",
-    "logo": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    "logo": "https://api.citoapi.com/img/m/AQwSpx6OtprKg6YK2qL1tIXauo6g3bOoiYHFDEzmdZIx8lrS41I_SbIa0sVMr-N-QG-Yqx21ywQtgsafzt0rLkVs0tZrBxACP3cqxRN5vnh9x7962volHQc896rhzXC-.png"
    },
    "b": {
     "name": "LYON",
     "short": "LYON",
-    "logo": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
    },
    "sa": 3,
    "sb": 0,
@@ -694,12 +694,12 @@
    "a": {
     "name": "Dplus KIA",
     "short": "DK",
-    "logo": "https://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+    "logo": "https://api.citoapi.com/img/m/AQL6UPnsf_7hTdDoilOFMhZZcL9i1s2-PCKYkkbxay3mC1mSmDor1AJ0d_Xnotw2U4kfK_tG_C8LHNMu138mO7XeQQDg0OAtCXqvuVlFvZ2Ei4hK3ROBr2vPPGlie5KuiA.png"
    },
    "b": {
     "name": "BILIBILI GAMING",
     "short": "BLG",
-    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
    },
    "sa": 0,
    "sb": 3,
@@ -713,12 +713,12 @@
    "a": {
     "name": "T1",
     "short": "T1",
-    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
    },
    "b": {
     "name": "Karmine Corp",
     "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
+    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
    },
    "sa": 3,
    "sb": 1,
@@ -732,12 +732,12 @@
    "a": {
     "name": "Gen.G Esports",
     "short": "GEN",
-    "logo": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+    "logo": "https://api.citoapi.com/img/m/AQwSpx6OtprKg6YK2qL1tIXauo6g3bOoiYHFDEzmdZIx8lrS41I_SbIa0sVMr-N-QG-Yqx21ywQtgsafzt0rLkVs0tZrBxACP3cqxRN5vnh9x7962volHQc896rhzXC-.png"
    },
    "b": {
     "name": "Invictus Gaming",
     "short": "IG",
-    "logo": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
+    "logo": "https://api.citoapi.com/img/m/AURRsKJqMCC_FTnzkx2zj3N4TNyWuNk-atimvzwb9LfXrhfMbtBpRHJ_ljFPf9bKSOk9fXSFJbOAZqVgSavE8fMZHMJLU8utSXnJ0X_sUCyS-I603h2lb1o02sngfLDlnfuNFKeGzYQclINUQQ.png"
    },
    "sa": 3,
    "sb": 0,
@@ -751,16 +751,16 @@
    "a": {
     "name": "T1",
     "short": "T1",
-    "logo": "https://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
    },
    "b": {
     "name": "BILIBILI GAMING",
     "short": "BLG",
-    "logo": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
    "event": "Worlds 2026",
    "bestOf": 5
   },
@@ -770,12 +770,12 @@
    "a": {
     "name": "FENNEL",
     "short": "FL",
-    "logo": "https://static.lolesports.com/teams/1673413831349_fl.png"
+    "logo": "https://api.citoapi.com/img/m/AYCpIORuEAXQniErmJW74121PMZ7WCt_iJLsFQhuLsaJuL2MWsL8Z7nZ26GRR7aRivkZVfxXkbfvPBXomrhIifzgzdf5BC5HYDfGlotQbhQwDmJztw.png"
    },
    "b": {
     "name": "Nothin'Here",
     "short": "NTH",
-    "logo": "https://static.lolesports.com/teams/1792576868179_NTH-LogoColoredwithTeamName.png"
+    "logo": "https://api.citoapi.com/img/m/AfNCfoDjuROwoYY87XJ6AKoGqys4SD0pfmB7eHb5_S_bgChmp4U2oRRWIUxuUDYAKdZUvgtg3uGdkujms-UmrfiWxc10cokFD-_96mJ5Ftr2Y_bLerkWZHJS9rm_THF83f4fqeHCz3sZXEKmkN8.png"
    },
    "sa": null,
    "sb": null,
@@ -789,12 +789,12 @@
    "a": {
     "name": "Saigon Warrior",
     "short": "SGW",
-    "logo": "https://static.lolesports.com/teams/1771230875226_logo_SW-removebg-preview.png"
+    "logo": "https://api.citoapi.com/img/m/AdskOOFgldCbY5oa3Y_9NSJEjA2iWNFWnwbIkARqmY46bfskC_Tg_L9FSF8XtRahg2rhbUEgyuC4My75BLfR7N6fvEOVv22M8KeMmi-aWMpMfO8qIfxfVFZLAQXa8RFuH7kztt0T6kak46U.png"
    },
    "b": {
     "name": "Team Gromp",
     "short": "TGM",
-    "logo": "https://static.lolesports.com/teams/1791284516294_TeamGromp.png"
+    "logo": "https://api.citoapi.com/img/m/AXZMDQYu4vAc-gX_cFeRfJk31Y1NxW4JbWTHBmNFWxQcXs4aT1P2LGjcZbSkeMHt8izp1TqyTuR1Y5vQWkPKzUDuW7vRmfNnKu7IjvDqwLu4ONN59_p7k0vgix4.png"
    },
    "sa": null,
    "sb": null,
@@ -808,17 +808,36 @@
    "a": {
     "name": "Ground Zero Gaming",
     "short": "GZ",
-    "logo": "https://static.lolesports.com/teams/1766395585595_LCP_TEAMLogo_GZ_Full_B.png"
+    "logo": "https://api.citoapi.com/img/m/AXG08wqVj-aG0UkgAb_GH306HknJqBdTmqJbE9HT409dlM0Q3V2fBkcqled4kQgsf1VXCmVyvmv77n1MLT1Q-OLvw-Sebs0NnFaPvzJbFsad9kU0sW2ip3JFFonj96qc5AD6nhHkz28V.png"
    },
    "b": {
     "name": "Frank Esports",
     "short": "FAK",
-    "logo": "https://static.lolesports.com/teams/1656308269827_220621_FRANK_Final_Logo_W.png"
+    "logo": "https://api.citoapi.com/img/m/ATA6i7kRrXsE3oLM8Gmc3fkgCd1Lo4dOL6k9tziIp1gfDXO55QSwsqfyzZDfcYUW4KyNVI-ZFoBWoqGMgo1vdZe0rdPsupAqUg6IrbnKUCRzVuUgCk6qY91zuCBz1fbRNPfIc5D2duFMg8Cs.png"
    },
    "sa": null,
    "sb": null,
    "status": "upcoming",
    "event": "lcp promotion 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-match-115660540726095133",
+   "at": "2026-11-14T19:00:00.000Z",
+   "a": {
+    "name": "Gen.G Esports",
+    "short": "GEN",
+    "logo": "https://api.citoapi.com/img/m/AQwSpx6OtprKg6YK2qL1tIXauo6g3bOoiYHFDEzmdZIx8lrS41I_SbIa0sVMr-N-QG-Yqx21ywQtgsafzt0rLkVs0tZrBxACP3cqxRN5vnh9x7962volHQc896rhzXC-.png"
+   },
+   "b": {
+    "name": "BILIBILI GAMING",
+    "short": "BLG",
+    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Worlds 2026",
    "bestOf": 5
   }
  ]
