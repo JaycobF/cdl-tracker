@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-08T16:16:44.177Z",
+ "updated": "2026-11-09T06:34:30.722Z",
  "upcomingFetched": "2026-11-08T09:30:37.328Z",
- "recentFetched": "2026-11-08T16:16:44.177Z",
+ "recentFetched": "2026-11-09T06:34:30.722Z",
  "matches": [
   {
    "id": "663128",
@@ -1112,12 +1112,12 @@
    "a": {
     "name": "Direborn Esports",
     "short": "Direborn",
-    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
+    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
    },
    "b": {
     "name": "Yangon Galacticos",
     "short": "YG",
-    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
+    "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1131,12 +1131,12 @@
    "a": {
     "name": "LEGION",
     "short": "LEGION",
-    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
    },
    "b": {
     "name": "OG",
     "short": "OG",
-    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
+    "logo": "https://api.citoapi.com/img/m/AVyjjttvqvTYtMgL1PAMiyODakTVQEGsFf8QnklQCvCiIzXhop8Wci21wGGhdGEXikMg3Xnfv-I8ZpeBLs45BBqpaq1x6mck0f0BOCDkD1pce7guyG4XlZbLxp1O2zKx-cCPJGDTfXcDp9xaziJ5lKQcOxmz8bo69AASW7nYXY9Husw.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1150,12 +1150,12 @@
    "a": {
     "name": "Nemiga Gaming",
     "short": "Nemiga",
-    "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+    "logo": "https://api.citoapi.com/img/m/ARApd3ldWFfRfe7Wv67lhqvD9BHYb1F7RhfZC4UbyEQelZifNTaiuXr0W1Oyn76-X_qcI8zN75QoRSfB0wJhT0BhpgKVx83JJucHnl2iiLRNCZSKuYXm8rKOngkbQOSbjmVdJp4eXEnLz9Juwhf8m70b--K4OinyLuX0eAQuUgHSyw.png"
    },
    "b": {
     "name": "CyberHero",
     "short": "CyberHero",
-    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1169,12 +1169,12 @@
    "a": {
     "name": "Huligani",
     "short": "Huligani",
-    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+    "logo": "https://api.citoapi.com/img/m/AR19UU6vmJXp5-pOU-HvcUdI7E862nmb7KRDNQl8b6reJHd2CZIyOr1lrfiUx5tHKsddam1xOekZ-NMtZQllQG09QFs-Jyb-KzveEX7Bhs7miWgrSaNzUGX_7Z84ne5BfXoYhHbxWJGzVPicYrFhHam4clc7lH5p4a-KBcJ6-XglahA.webp"
    },
    "b": {
     "name": "Yellow Submarine",
     "short": "YeS",
-    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
+    "logo": "https://api.citoapi.com/img/m/Ad3Em55c11qMMst1JTV_Gpky9glmOMbxVuYfFfRPYzIWQi4lEgrJbnLK0UapZrvUyzqSWmEL3TLi6j5TMUXl74xbE4XGeV5oaGHasFwfaTyVM8gepRjge04hRshlZMluk-WSy3lY_c4XxustwbYq9F6BOeTjr7HWGzqa1PycRjdqAoM.jpg"
    },
    "sa": 1,
    "sb": 2,
@@ -1188,12 +1188,12 @@
    "a": {
     "name": "Natus Vincere",
     "short": "Na`Vi",
-    "logo": "https://static.gosugamers.net/15/3e/20/56db16d486a23a1d59729eb4cc094dcb58852bf16cc8e2074c886ec720.png"
+    "logo": "https://api.citoapi.com/img/m/AfGXqq40F7qH5iMsSqY_lehN1tb-7CZ2X6SFzi7Q65DMNZsamELqW5nQMabrkbismVezyVa0_l-s4n_U-aZ5bH_X5ZBtNGPEm0La0H1EoGfhQWsNHzGUhZpWIpIZtymcLb-bK9xqjOQ8kgVh_rqdxJnrUbyI0bPyhjFZP9cSswiDZg.png"
    },
    "b": {
     "name": "GamerLegion",
     "short": "GL",
-    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1207,12 +1207,12 @@
    "a": {
     "name": "Yangon Galacticos",
     "short": "YG",
-    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
+    "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
    },
    "b": {
     "name": "Resp Gaming",
     "short": "Resp",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1226,12 +1226,12 @@
    "a": {
     "name": "Royal Bear",
     "short": "Royal Bear",
-    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
+    "logo": "https://api.citoapi.com/img/m/ARm2klmrX6xNo-7DTPG3RvHjXuJM1H2f6b2YE1sEzZ_aJf6QK1jYLsrZliPMB_BBAl0W18ekutanSDHfabbo6c7YitWMIR6dRm-6qT3JzM7lrYorUAc3gRUfqAvJscJUQPcsHqPZDl4v42td8SzGZp1Y7l6d8wIaKqlRixDT8jPh97M.webp"
    },
    "b": {
     "name": "Direborn Esports",
     "short": "Direborn",
-    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
+    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1245,12 +1245,12 @@
    "a": {
     "name": "Yellow Submarine",
     "short": "YeS",
-    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
+    "logo": "https://api.citoapi.com/img/m/Ad3Em55c11qMMst1JTV_Gpky9glmOMbxVuYfFfRPYzIWQi4lEgrJbnLK0UapZrvUyzqSWmEL3TLi6j5TMUXl74xbE4XGeV5oaGHasFwfaTyVM8gepRjge04hRshlZMluk-WSy3lY_c4XxustwbYq9F6BOeTjr7HWGzqa1PycRjdqAoM.jpg"
    },
    "b": {
     "name": "Natus Vincere",
     "short": "Na`Vi",
-    "logo": "https://static.gosugamers.net/15/3e/20/56db16d486a23a1d59729eb4cc094dcb58852bf16cc8e2074c886ec720.png"
+    "logo": "https://api.citoapi.com/img/m/AfGXqq40F7qH5iMsSqY_lehN1tb-7CZ2X6SFzi7Q65DMNZsamELqW5nQMabrkbismVezyVa0_l-s4n_U-aZ5bH_X5ZBtNGPEm0La0H1EoGfhQWsNHzGUhZpWIpIZtymcLb-bK9xqjOQ8kgVh_rqdxJnrUbyI0bPyhjFZP9cSswiDZg.png"
    },
    "sa": 0,
    "sb": 2,
@@ -1264,12 +1264,12 @@
    "a": {
     "name": "Zenith",
     "short": "Zenith",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "b": {
     "name": "Cloud Dawning",
     "short": "CD",
-    "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
+    "logo": "https://api.citoapi.com/img/m/AR6ipFYTETugWkf-U4RK-hvtqlX17mheSv-d4bovLh20CnCQD75_TaLN9p0PRnq1jYSL0UNDKGOmAHhmI9wUtgjtQ0zX87oiBEw_7sttV_x6Cm1vphk5LwUFrtvyUmbCs_BcrxM3m_tvvYq0KairaFyakX7f3sXFSWG0Uxgp4VPQd4o.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -1283,12 +1283,12 @@
    "a": {
     "name": "GamerLegion",
     "short": "GL",
-    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
    },
    "b": {
     "name": "OG",
     "short": "OG",
-    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
+    "logo": "https://api.citoapi.com/img/m/AVyjjttvqvTYtMgL1PAMiyODakTVQEGsFf8QnklQCvCiIzXhop8Wci21wGGhdGEXikMg3Xnfv-I8ZpeBLs45BBqpaq1x6mck0f0BOCDkD1pce7guyG4XlZbLxp1O2zKx-cCPJGDTfXcDp9xaziJ5lKQcOxmz8bo69AASW7nYXY9Husw.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1302,12 +1302,12 @@
    "a": {
     "name": "Huligani",
     "short": "Huligani",
-    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+    "logo": "https://api.citoapi.com/img/m/AR19UU6vmJXp5-pOU-HvcUdI7E862nmb7KRDNQl8b6reJHd2CZIyOr1lrfiUx5tHKsddam1xOekZ-NMtZQllQG09QFs-Jyb-KzveEX7Bhs7miWgrSaNzUGX_7Z84ne5BfXoYhHbxWJGzVPicYrFhHam4clc7lH5p4a-KBcJ6-XglahA.webp"
    },
    "b": {
     "name": "CyberHero",
     "short": "CyberHero",
-    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1321,12 +1321,12 @@
    "a": {
     "name": "GamerLegion",
     "short": "GL",
-    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
    },
    "b": {
     "name": "Huligani",
     "short": "Huligani",
-    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+    "logo": "https://api.citoapi.com/img/m/AR19UU6vmJXp5-pOU-HvcUdI7E862nmb7KRDNQl8b6reJHd2CZIyOr1lrfiUx5tHKsddam1xOekZ-NMtZQllQG09QFs-Jyb-KzveEX7Bhs7miWgrSaNzUGX_7Z84ne5BfXoYhHbxWJGzVPicYrFhHam4clc7lH5p4a-KBcJ6-XglahA.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1340,12 +1340,12 @@
    "a": {
     "name": "Zenith",
     "short": "Zenith",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "b": {
     "name": "Yangon Galacticos",
     "short": "YG",
-    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
+    "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1359,12 +1359,12 @@
    "a": {
     "name": "Royal Bear",
     "short": "Royal Bear",
-    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
+    "logo": "https://api.citoapi.com/img/m/ARm2klmrX6xNo-7DTPG3RvHjXuJM1H2f6b2YE1sEzZ_aJf6QK1jYLsrZliPMB_BBAl0W18ekutanSDHfabbo6c7YitWMIR6dRm-6qT3JzM7lrYorUAc3gRUfqAvJscJUQPcsHqPZDl4v42td8SzGZp1Y7l6d8wIaKqlRixDT8jPh97M.webp"
    },
    "b": {
     "name": "Yangon Galacticos",
     "short": "YG",
-    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
+    "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1378,12 +1378,12 @@
    "a": {
     "name": "Yellow Submarine",
     "short": "YeS",
-    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
+    "logo": "https://api.citoapi.com/img/m/Ad3Em55c11qMMst1JTV_Gpky9glmOMbxVuYfFfRPYzIWQi4lEgrJbnLK0UapZrvUyzqSWmEL3TLi6j5TMUXl74xbE4XGeV5oaGHasFwfaTyVM8gepRjge04hRshlZMluk-WSy3lY_c4XxustwbYq9F6BOeTjr7HWGzqa1PycRjdqAoM.jpg"
    },
    "b": {
     "name": "GamerLegion",
     "short": "GL",
-    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1397,12 +1397,12 @@
    "a": {
     "name": "Natus Vincere",
     "short": "Na`Vi",
-    "logo": "https://static.gosugamers.net/15/3e/20/56db16d486a23a1d59729eb4cc094dcb58852bf16cc8e2074c886ec720.png"
+    "logo": "https://api.citoapi.com/img/m/AfGXqq40F7qH5iMsSqY_lehN1tb-7CZ2X6SFzi7Q65DMNZsamELqW5nQMabrkbismVezyVa0_l-s4n_U-aZ5bH_X5ZBtNGPEm0La0H1EoGfhQWsNHzGUhZpWIpIZtymcLb-bK9xqjOQ8kgVh_rqdxJnrUbyI0bPyhjFZP9cSswiDZg.png"
    },
    "b": {
     "name": "GamerLegion",
     "short": "GL",
-    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
    },
    "sa": 3,
    "sb": 1,
@@ -1416,12 +1416,12 @@
    "a": {
     "name": "Direborn Esports",
     "short": "Direborn",
-    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
+    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
    },
    "b": {
     "name": "Royal Bear",
     "short": "Royal Bear",
-    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
+    "logo": "https://api.citoapi.com/img/m/ARm2klmrX6xNo-7DTPG3RvHjXuJM1H2f6b2YE1sEzZ_aJf6QK1jYLsrZliPMB_BBAl0W18ekutanSDHfabbo6c7YitWMIR6dRm-6qT3JzM7lrYorUAc3gRUfqAvJscJUQPcsHqPZDl4v42td8SzGZp1Y7l6d8wIaKqlRixDT8jPh97M.webp"
    },
    "sa": 3,
    "sb": 0,
@@ -1606,12 +1606,12 @@
    "a": {
     "name": "Power Rangers",
     "short": "PWR",
-    "logo": "https://static.gosugamers.net/e3/3f/01/d10ae99a472121d6ebf7a4b420d3d7b2a1e8fffdde96295077485123ba.webp"
+    "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
    },
    "b": {
     "name": "Xipto Esports",
     "short": "Xipto",
-    "logo": "https://static.gosugamers.net/9d/09/48/688b00e3cb73f7993cfbd5b5604bd635dc39be286597b3da5a5312b943.webp"
+    "logo": "https://api.citoapi.com/img/m/Ae511ww7sy0cPYbQhbZKwOwRc3td338NQ9dDcAphRXRO_0E9FgZXF6eX4R4kM-DqIJDtZPOepYXTpKeLh81kVRWNqn8kTwxFfjIckN8nKzkDMxyl0FDKSBcbnX7cxs027vZ0e4XwoUd-f-O0g8oMBIH3FyCstFTyUo84F2-PZkCkIqQ.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -1625,12 +1625,12 @@
    "a": {
     "name": "Froglings",
     "short": "Frog",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "b": {
     "name": "Zenith",
     "short": "Zenith",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1644,12 +1644,12 @@
    "a": {
     "name": "Nemiga Gaming",
     "short": "Nemiga",
-    "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+    "logo": "https://api.citoapi.com/img/m/ARApd3ldWFfRfe7Wv67lhqvD9BHYb1F7RhfZC4UbyEQelZifNTaiuXr0W1Oyn76-X_qcI8zN75QoRSfB0wJhT0BhpgKVx83JJucHnl2iiLRNCZSKuYXm8rKOngkbQOSbjmVdJp4eXEnLz9Juwhf8m70b--K4OinyLuX0eAQuUgHSyw.png"
    },
    "b": {
     "name": "potn9ki",
     "short": "potn9ki",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1663,12 +1663,12 @@
    "a": {
     "name": "Huligani",
     "short": "Huligani",
-    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+    "logo": "https://api.citoapi.com/img/m/AR19UU6vmJXp5-pOU-HvcUdI7E862nmb7KRDNQl8b6reJHd2CZIyOr1lrfiUx5tHKsddam1xOekZ-NMtZQllQG09QFs-Jyb-KzveEX7Bhs7miWgrSaNzUGX_7Z84ne5BfXoYhHbxWJGzVPicYrFhHam4clc7lH5p4a-KBcJ6-XglahA.webp"
    },
    "b": {
     "name": "LEGION",
     "short": "LEGION",
-    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1682,12 +1682,12 @@
    "a": {
     "name": "PlayTime",
     "short": "PTime",
-    "logo": "https://static.gosugamers.net/f9/88/18/a992f29fd8e18feec2449514fb4decde6634de2ced801ad3e88c7c4010.webp"
+    "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
    },
    "b": {
     "name": "Xipto Esports",
     "short": "Xipto",
-    "logo": "https://static.gosugamers.net/9d/09/48/688b00e3cb73f7993cfbd5b5604bd635dc39be286597b3da5a5312b943.webp"
+    "logo": "https://api.citoapi.com/img/m/Ae511ww7sy0cPYbQhbZKwOwRc3td338NQ9dDcAphRXRO_0E9FgZXF6eX4R4kM-DqIJDtZPOepYXTpKeLh81kVRWNqn8kTwxFfjIckN8nKzkDMxyl0FDKSBcbnX7cxs027vZ0e4XwoUd-f-O0g8oMBIH3FyCstFTyUo84F2-PZkCkIqQ.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -1701,12 +1701,12 @@
    "a": {
     "name": "Power Rangers",
     "short": "PWR",
-    "logo": "https://static.gosugamers.net/e3/3f/01/d10ae99a472121d6ebf7a4b420d3d7b2a1e8fffdde96295077485123ba.webp"
+    "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
    },
    "b": {
     "name": "Zenith",
     "short": "Zenith",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1720,12 +1720,12 @@
    "a": {
     "name": "potn9ki",
     "short": "potn9ki",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "b": {
     "name": "Team Synapse",
     "short": "Synapse",
-    "logo": "https://static.gosugamers.net/e5/40/8c/f63a240b4ecb4a77e9bd402925cdfe34735014b5844a0895c758b4c8fc.webp"
+    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1739,12 +1739,12 @@
    "a": {
     "name": "CyberHero",
     "short": "CyberHero",
-    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
    },
    "b": {
     "name": "Ka4kanarskie cyxariki",
     "short": "cyxariki",
-    "logo": "https://static.gosugamers.net/c0/34/f7/07fa28c47c2e81a18a2f08d3802ca698d61b14f61e2a6d3fd968b43295.webp"
+    "logo": "https://api.citoapi.com/img/m/AZpUcvsr-ysJAOZJCKapMpDbyVzqQf03HlN_qxhV-4OY48oglmTh17qdpsuIuwtHKuHrwQfxe3pIlXHqR0txlpENLafDQd8f3dJg7vNvYq3_oKpHv40uhLm-mdfqlL7zHuDXKD79jofaj4AX0XidShBAZPGTxDVvRCY4jkOJM3HsX4s.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1758,12 +1758,12 @@
    "a": {
     "name": "Huligani",
     "short": "Huligani",
-    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+    "logo": "https://api.citoapi.com/img/m/AR19UU6vmJXp5-pOU-HvcUdI7E862nmb7KRDNQl8b6reJHd2CZIyOr1lrfiUx5tHKsddam1xOekZ-NMtZQllQG09QFs-Jyb-KzveEX7Bhs7miWgrSaNzUGX_7Z84ne5BfXoYhHbxWJGzVPicYrFhHam4clc7lH5p4a-KBcJ6-XglahA.webp"
    },
    "b": {
     "name": "Zero Tenacity",
     "short": "Z10",
-    "logo": "https://static.gosugamers.net/42/2b/03/f51666c5fe8f5575ae17fc11f374f1f5ba2c577b2ebb098f2466e54fd9.webp"
+    "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1777,12 +1777,12 @@
    "a": {
     "name": "Interactive Philippines",
     "short": "IAP",
-    "logo": "https://static.gosugamers.net/38/0e/9b/9b230566345c7af7c8cbaf2cbd01c9fcdc6802c7f9a6bbbbc98e1510f6.webp"
+    "logo": "https://api.citoapi.com/img/m/ASWwi5oGGfUP1FVjlnhuJmn5nhyQioY0iy7V1yyWRxqXYabc_jIOQbSWDsKjghxqSWCyMjgetXhe3RcHliGvJExoPauUg2UXhLakgjrfS_dULA_BHQh69lEUc90hjpkcTXKrTzI2aiiT-VUJgzVdXFlhrePRfPsvMxWD_Z1emFCDR_8.webp"
    },
    "b": {
     "name": "PuckChamp",
     "short": "PuckChamp",
-    "logo": "https://static.gosugamers.net/d2/3b/9d/9671e30af89fd93e943555cd462c79519182d347036418141686ae9767.png"
+    "logo": "https://api.citoapi.com/img/m/AdH8Fa28RhAyO1KHP1c51kbDUuR2Hj2OWezcLoCe44DSIKtsWkGCnDGxOIRHBG0tYFjPvw7kLIUOR07dw6JC939-IXcHZrG6e--tbGPNHsEpcsftoMcuV3KefQPmxmqxHIhQCLaoN0FGw6OH9Zq44sfis6ZXzptoaHGvkIk62FrISA.png"
    },
    "sa": 1,
    "sb": 2,
@@ -1796,12 +1796,12 @@
    "a": {
     "name": "Angry Birds",
     "short": "Angry",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "b": {
     "name": "Froglings",
     "short": "Frog",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1815,12 +1815,12 @@
    "a": {
     "name": "Amaru Gaming",
     "short": "AG",
-    "logo": "https://static.gosugamers.net/3f/bd/13/f7fff717c87b237cd53808295cd42fa34e437aebf024796821dbac64c4.webp"
+    "logo": "https://api.citoapi.com/img/m/ASBavNfFAr-Qa8yMVVQTvsynA9ndCpCTPN35futOBNFFmHWTyHxyQ4fbIltbOE2etKnKn-HsZ3Izbo4GoU3YBeNFyJmDCEgpYjnZyHdwtISlPuErAMYjnf3kSf6X86UwHRUJjOOnpozp_vSEqI2bG9DMTQj23BSBqrHKgM7J1K3Vb84.webp"
    },
    "b": {
     "name": "Yakult Brothers",
     "short": "YkBros",
-    "logo": "https://static.gosugamers.net/8d/fa/7a/4a5b6228aaa5fc2312c87c9669a5bcf13746b2954590800210f6de3648.webp"
+    "logo": "https://api.citoapi.com/img/m/AVAVQTli2tOy6m5q6SprKzbSKMEyCsxLOV6MOwojw76oATHEENr_9gFPepMXUHodx8Rn0yylG7iU-j7Vua0F5cHbPnjLBLY7KGMns0npyAP8Hp9ghEgYY7-RcF_uQQ5VkUMPXNN1fGbK0SGOsFMzBWoApK4N_5IlJqstx5alQavw7Tg.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -1834,12 +1834,12 @@
    "a": {
     "name": "Inner Circle x Insanity",
     "short": "INC",
-    "logo": "https://static.gosugamers.net/ff/9c/08/bffa50eb884a7e547ebbcb26a858cfb6e04622fcb6e4a2ad823ab53008.webp"
+    "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
    },
    "b": {
     "name": "Interactive Philippines",
     "short": "IAP",
-    "logo": "https://static.gosugamers.net/38/0e/9b/9b230566345c7af7c8cbaf2cbd01c9fcdc6802c7f9a6bbbbc98e1510f6.webp"
+    "logo": "https://api.citoapi.com/img/m/ASWwi5oGGfUP1FVjlnhuJmn5nhyQioY0iy7V1yyWRxqXYabc_jIOQbSWDsKjghxqSWCyMjgetXhe3RcHliGvJExoPauUg2UXhLakgjrfS_dULA_BHQh69lEUc90hjpkcTXKrTzI2aiiT-VUJgzVdXFlhrePRfPsvMxWD_Z1emFCDR_8.webp"
    },
    "sa": 2,
    "sb": 1,
@@ -1853,12 +1853,12 @@
    "a": {
     "name": "Huligani",
     "short": "Huligani",
-    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+    "logo": "https://api.citoapi.com/img/m/AR19UU6vmJXp5-pOU-HvcUdI7E862nmb7KRDNQl8b6reJHd2CZIyOr1lrfiUx5tHKsddam1xOekZ-NMtZQllQG09QFs-Jyb-KzveEX7Bhs7miWgrSaNzUGX_7Z84ne5BfXoYhHbxWJGzVPicYrFhHam4clc7lH5p4a-KBcJ6-XglahA.webp"
    },
    "b": {
     "name": "PlayTime",
     "short": "PTime",
-    "logo": "https://static.gosugamers.net/f9/88/18/a992f29fd8e18feec2449514fb4decde6634de2ced801ad3e88c7c4010.webp"
+    "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1872,12 +1872,12 @@
    "a": {
     "name": "CyberHero",
     "short": "CyberHero",
-    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
    },
    "b": {
     "name": "Yakult Brothers",
     "short": "YkBros",
-    "logo": "https://static.gosugamers.net/8d/fa/7a/4a5b6228aaa5fc2312c87c9669a5bcf13746b2954590800210f6de3648.webp"
+    "logo": "https://api.citoapi.com/img/m/AVAVQTli2tOy6m5q6SprKzbSKMEyCsxLOV6MOwojw76oATHEENr_9gFPepMXUHodx8Rn0yylG7iU-j7Vua0F5cHbPnjLBLY7KGMns0npyAP8Hp9ghEgYY7-RcF_uQQ5VkUMPXNN1fGbK0SGOsFMzBWoApK4N_5IlJqstx5alQavw7Tg.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1891,12 +1891,12 @@
    "a": {
     "name": "Amaru Gaming",
     "short": "AG",
-    "logo": "https://static.gosugamers.net/3f/bd/13/f7fff717c87b237cd53808295cd42fa34e437aebf024796821dbac64c4.webp"
+    "logo": "https://api.citoapi.com/img/m/ASBavNfFAr-Qa8yMVVQTvsynA9ndCpCTPN35futOBNFFmHWTyHxyQ4fbIltbOE2etKnKn-HsZ3Izbo4GoU3YBeNFyJmDCEgpYjnZyHdwtISlPuErAMYjnf3kSf6X86UwHRUJjOOnpozp_vSEqI2bG9DMTQj23BSBqrHKgM7J1K3Vb84.webp"
    },
    "b": {
     "name": "Zero Tenacity",
     "short": "Z10",
-    "logo": "https://static.gosugamers.net/42/2b/03/f51666c5fe8f5575ae17fc11f374f1f5ba2c577b2ebb098f2466e54fd9.webp"
+    "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
    },
    "sa": 1,
    "sb": 2,
@@ -1910,12 +1910,12 @@
    "a": {
     "name": "PlayTime",
     "short": "PTime",
-    "logo": "https://static.gosugamers.net/f9/88/18/a992f29fd8e18feec2449514fb4decde6634de2ced801ad3e88c7c4010.webp"
+    "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
    },
    "b": {
     "name": "Power Rangers",
     "short": "PWR",
-    "logo": "https://static.gosugamers.net/e3/3f/01/d10ae99a472121d6ebf7a4b420d3d7b2a1e8fffdde96295077485123ba.webp"
+    "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1929,14 +1929,14 @@
    "a": {
     "name": "Angry Birds",
     "short": "Angry",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "b": {
     "name": "CyberHero",
     "short": "CyberHero",
-    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
    },
-   "sa": 1,
+   "sa": 2,
    "sb": 2,
    "status": "completed",
    "event": "1win Essence III",
@@ -1948,12 +1948,12 @@
    "a": {
     "name": "Xipto Esports",
     "short": "Xipto",
-    "logo": "https://static.gosugamers.net/9d/09/48/688b00e3cb73f7993cfbd5b5604bd635dc39be286597b3da5a5312b943.webp"
+    "logo": "https://api.citoapi.com/img/m/Ae511ww7sy0cPYbQhbZKwOwRc3td338NQ9dDcAphRXRO_0E9FgZXF6eX4R4kM-DqIJDtZPOepYXTpKeLh81kVRWNqn8kTwxFfjIckN8nKzkDMxyl0FDKSBcbnX7cxs027vZ0e4XwoUd-f-O0g8oMBIH3FyCstFTyUo84F2-PZkCkIqQ.webp"
    },
    "b": {
     "name": "Zenith",
     "short": "Zenith",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -1967,15 +1967,15 @@
    "a": {
     "name": "Nemiga Gaming",
     "short": "Nemiga",
-    "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+    "logo": "https://api.citoapi.com/img/m/ARApd3ldWFfRfe7Wv67lhqvD9BHYb1F7RhfZC4UbyEQelZifNTaiuXr0W1Oyn76-X_qcI8zN75QoRSfB0wJhT0BhpgKVx83JJucHnl2iiLRNCZSKuYXm8rKOngkbQOSbjmVdJp4eXEnLz9Juwhf8m70b--K4OinyLuX0eAQuUgHSyw.png"
    },
    "b": {
     "name": "Team Synapse",
     "short": "Synapse",
-    "logo": "https://static.gosugamers.net/e5/40/8c/f63a240b4ecb4a77e9bd402925cdfe34735014b5844a0895c758b4c8fc.webp"
+    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
    },
    "sa": 1,
-   "sb": 2,
+   "sb": 3,
    "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
@@ -1986,14 +1986,14 @@
    "a": {
     "name": "Huligani",
     "short": "Huligani",
-    "logo": "https://static.gosugamers.net/1b/34/f1/e49edc25be6be0c4ff17f478455b530b8e2a8670a1f58286804fc57528.webp"
+    "logo": "https://api.citoapi.com/img/m/AR19UU6vmJXp5-pOU-HvcUdI7E862nmb7KRDNQl8b6reJHd2CZIyOr1lrfiUx5tHKsddam1xOekZ-NMtZQllQG09QFs-Jyb-KzveEX7Bhs7miWgrSaNzUGX_7Z84ne5BfXoYhHbxWJGzVPicYrFhHam4clc7lH5p4a-KBcJ6-XglahA.webp"
    },
    "b": {
     "name": "Yellow Submarine",
     "short": "YeS",
-    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
+    "logo": "https://api.citoapi.com/img/m/Ad3Em55c11qMMst1JTV_Gpky9glmOMbxVuYfFfRPYzIWQi4lEgrJbnLK0UapZrvUyzqSWmEL3TLi6j5TMUXl74xbE4XGeV5oaGHasFwfaTyVM8gepRjge04hRshlZMluk-WSy3lY_c4XxustwbYq9F6BOeTjr7HWGzqa1PycRjdqAoM.jpg"
    },
-   "sa": 2,
+   "sa": 3,
    "sb": 0,
    "status": "completed",
    "event": "1win Essence III",
@@ -2005,12 +2005,12 @@
    "a": {
     "name": "Froglings",
     "short": "Frog",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "b": {
     "name": "potn9ki",
     "short": "potn9ki",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -2024,12 +2024,12 @@
    "a": {
     "name": "Power Rangers",
     "short": "PWR",
-    "logo": "https://static.gosugamers.net/e3/3f/01/d10ae99a472121d6ebf7a4b420d3d7b2a1e8fffdde96295077485123ba.webp"
+    "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
    },
    "b": {
     "name": "Team Synapse",
     "short": "Synapse",
-    "logo": "https://static.gosugamers.net/e5/40/8c/f63a240b4ecb4a77e9bd402925cdfe34735014b5844a0895c758b4c8fc.webp"
+    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
    },
    "sa": 2,
    "sb": 0,
@@ -2043,12 +2043,12 @@
    "a": {
     "name": "Nemiga Gaming",
     "short": "Nemiga",
-    "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
+    "logo": "https://api.citoapi.com/img/m/ARApd3ldWFfRfe7Wv67lhqvD9BHYb1F7RhfZC4UbyEQelZifNTaiuXr0W1Oyn76-X_qcI8zN75QoRSfB0wJhT0BhpgKVx83JJucHnl2iiLRNCZSKuYXm8rKOngkbQOSbjmVdJp4eXEnLz9Juwhf8m70b--K4OinyLuX0eAQuUgHSyw.png"
    },
    "b": {
     "name": "Xipto Esports",
     "short": "Xipto",
-    "logo": "https://static.gosugamers.net/9d/09/48/688b00e3cb73f7993cfbd5b5604bd635dc39be286597b3da5a5312b943.webp"
+    "logo": "https://api.citoapi.com/img/m/Ae511ww7sy0cPYbQhbZKwOwRc3td338NQ9dDcAphRXRO_0E9FgZXF6eX4R4kM-DqIJDtZPOepYXTpKeLh81kVRWNqn8kTwxFfjIckN8nKzkDMxyl0FDKSBcbnX7cxs027vZ0e4XwoUd-f-O0g8oMBIH3FyCstFTyUo84F2-PZkCkIqQ.webp"
    },
    "sa": 0,
    "sb": 2,
@@ -2062,16 +2062,16 @@
    "a": {
     "name": "Yakult Brothers",
     "short": "YkBros",
-    "logo": "https://static.gosugamers.net/8d/fa/7a/4a5b6228aaa5fc2312c87c9669a5bcf13746b2954590800210f6de3648.webp"
+    "logo": "https://api.citoapi.com/img/m/AVAVQTli2tOy6m5q6SprKzbSKMEyCsxLOV6MOwojw76oATHEENr_9gFPepMXUHodx8Rn0yylG7iU-j7Vua0F5cHbPnjLBLY7KGMns0npyAP8Hp9ghEgYY7-RcF_uQQ5VkUMPXNN1fGbK0SGOsFMzBWoApK4N_5IlJqstx5alQavw7Tg.webp"
    },
    "b": {
     "name": "Zero Tenacity",
     "short": "Z10",
-    "logo": "https://static.gosugamers.net/42/2b/03/f51666c5fe8f5575ae17fc11f374f1f5ba2c577b2ebb098f2466e54fd9.webp"
+    "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
@@ -2100,16 +2100,16 @@
    "a": {
     "name": "Inner Circle x Insanity",
     "short": "INC",
-    "logo": "https://static.gosugamers.net/ff/9c/08/bffa50eb884a7e547ebbcb26a858cfb6e04622fcb6e4a2ad823ab53008.webp"
+    "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
    },
    "b": {
     "name": "PuckChamp",
     "short": "PuckChamp",
-    "logo": "https://static.gosugamers.net/d2/3b/9d/9671e30af89fd93e943555cd462c79519182d347036418141686ae9767.png"
+    "logo": "https://api.citoapi.com/img/m/AdH8Fa28RhAyO1KHP1c51kbDUuR2Hj2OWezcLoCe44DSIKtsWkGCnDGxOIRHBG0tYFjPvw7kLIUOR07dw6JC939-IXcHZrG6e--tbGPNHsEpcsftoMcuV3KefQPmxmqxHIhQCLaoN0FGw6OH9Zq44sfis6ZXzptoaHGvkIk62FrISA.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
@@ -2119,16 +2119,16 @@
    "a": {
     "name": "LEGION",
     "short": "LEGION",
-    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
    },
    "b": {
     "name": "PlayTime",
     "short": "PTime",
-    "logo": "https://static.gosugamers.net/f9/88/18/a992f29fd8e18feec2449514fb4decde6634de2ced801ad3e88c7c4010.webp"
+    "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "1win Essence III",
    "bestOf": 3
   },
@@ -2138,16 +2138,92 @@
    "a": {
     "name": "Amaru Gaming",
     "short": "AG",
-    "logo": "https://static.gosugamers.net/3f/bd/13/f7fff717c87b237cd53808295cd42fa34e437aebf024796821dbac64c4.webp"
+    "logo": "https://api.citoapi.com/img/m/ASBavNfFAr-Qa8yMVVQTvsynA9ndCpCTPN35futOBNFFmHWTyHxyQ4fbIltbOE2etKnKn-HsZ3Izbo4GoU3YBeNFyJmDCEgpYjnZyHdwtISlPuErAMYjnf3kSf6X86UwHRUJjOOnpozp_vSEqI2bG9DMTQj23BSBqrHKgM7J1K3Vb84.webp"
    },
    "b": {
     "name": "CyberHero",
     "short": "CyberHero",
-    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663583",
+   "at": "2026-11-08T19:00:00.000Z",
+   "a": {
+    "name": "Huligani",
+    "short": "Huligani",
+    "logo": "https://api.citoapi.com/img/m/AR19UU6vmJXp5-pOU-HvcUdI7E862nmb7KRDNQl8b6reJHd2CZIyOr1lrfiUx5tHKsddam1xOekZ-NMtZQllQG09QFs-Jyb-KzveEX7Bhs7miWgrSaNzUGX_7Z84ne5BfXoYhHbxWJGzVPicYrFhHam4clc7lH5p4a-KBcJ6-XglahA.webp"
+   },
+   "b": {
+    "name": "Interactive Philippines",
+    "short": "IAP",
+    "logo": "https://api.citoapi.com/img/m/ASWwi5oGGfUP1FVjlnhuJmn5nhyQioY0iy7V1yyWRxqXYabc_jIOQbSWDsKjghxqSWCyMjgetXhe3RcHliGvJExoPauUg2UXhLakgjrfS_dULA_BHQh69lEUc90hjpkcTXKrTzI2aiiT-VUJgzVdXFlhrePRfPsvMxWD_Z1emFCDR_8.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663571",
+   "at": "2026-11-08T19:00:00.000Z",
+   "a": {
+    "name": "Amaru Gaming",
+    "short": "AG",
+    "logo": "https://api.citoapi.com/img/m/ASBavNfFAr-Qa8yMVVQTvsynA9ndCpCTPN35futOBNFFmHWTyHxyQ4fbIltbOE2etKnKn-HsZ3Izbo4GoU3YBeNFyJmDCEgpYjnZyHdwtISlPuErAMYjnf3kSf6X86UwHRUJjOOnpozp_vSEqI2bG9DMTQj23BSBqrHKgM7J1K3Vb84.webp"
+   },
+   "b": {
+    "name": "Inner Circle x Insanity",
+    "short": "INC",
+    "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663683",
+   "at": "2026-11-08T19:00:00.000Z",
+   "a": {
+    "name": "Froglings",
+    "short": "Frog",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Ka4kanarskie cyxariki",
+    "short": "cyxariki",
+    "logo": "https://api.citoapi.com/img/m/AZpUcvsr-ysJAOZJCKapMpDbyVzqQf03HlN_qxhV-4OY48oglmTh17qdpsuIuwtHKuHrwQfxe3pIlXHqR0txlpENLafDQd8f3dJg7vNvYq3_oKpHv40uhLm-mdfqlL7zHuDXKD79jofaj4AX0XidShBAZPGTxDVvRCY4jkOJM3HsX4s.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663594",
+   "at": "2026-11-08T19:00:00.000Z",
+   "a": {
+    "name": "PuckChamp",
+    "short": "PuckChamp",
+    "logo": "https://api.citoapi.com/img/m/AdH8Fa28RhAyO1KHP1c51kbDUuR2Hj2OWezcLoCe44DSIKtsWkGCnDGxOIRHBG0tYFjPvw7kLIUOR07dw6JC939-IXcHZrG6e--tbGPNHsEpcsftoMcuV3KefQPmxmqxHIhQCLaoN0FGw6OH9Zq44sfis6ZXzptoaHGvkIk62FrISA.png"
+   },
+   "b": {
+    "name": "Yakult Brothers",
+    "short": "YkBros",
+    "logo": "https://api.citoapi.com/img/m/AVAVQTli2tOy6m5q6SprKzbSKMEyCsxLOV6MOwojw76oATHEENr_9gFPepMXUHodx8Rn0yylG7iU-j7Vua0F5cHbPnjLBLY7KGMns0npyAP8Hp9ghEgYY7-RcF_uQQ5VkUMPXNN1fGbK0SGOsFMzBWoApK4N_5IlJqstx5alQavw7Tg.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   }

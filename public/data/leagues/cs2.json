@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-08T16:16:44.177Z",
+ "updated": "2026-11-09T06:34:30.722Z",
  "upcomingFetched": "2026-11-08T09:30:37.328Z",
- "recentFetched": "2026-11-08T16:16:44.177Z",
+ "recentFetched": "2026-11-09T06:34:30.722Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -4893,7 +4893,7 @@
   },
   {
    "id": "cs2-match-2400137",
-   "at": "2026-11-08T11:14:12.000Z",
+   "at": "2026-11-08T11:15:00.000Z",
    "a": {
     "name": "Gothic",
     "short": "GOTHIC"
@@ -5053,15 +5053,15 @@
     "short": "9INE",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e04b28048be2fb82e0df66cd09639b3.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "ESL Challenger League Season 52 Europe Cup 11",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400138",
-   "at": "2026-11-08T14:31:42.000Z",
+   "at": "2026-11-08T14:35:00.000Z",
    "a": {
     "name": "6yuBoJlbl",
     "short": "6YUBOJLB",
@@ -5090,15 +5090,15 @@
     "short": "ILLYRIAN",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400227",
-   "at": "2026-11-08T15:00:00.000Z",
+   "at": "2026-11-08T15:15:00.000Z",
    "a": {
     "name": "MASONIC",
     "short": "MASONIC",
@@ -5109,9 +5109,9 @@
     "short": "SY",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0df6df79ee647cde41abdcf995a3068e.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -5128,10 +5128,29 @@
     "short": "BA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8f39c7d36daa0eab00a753a0540bf017.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400439",
+   "at": "2026-11-08T17:35:00.000Z",
+   "a": {
+    "name": "BAKS",
+    "short": "BAKS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
+   },
+   "b": {
+    "name": "Azuolas",
+    "short": "AZUOLAS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/163840ebae568e93c8b05f95e0963bb2.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14 Closed Qualifier",
    "bestOf": 3
   },
   {
@@ -5146,34 +5165,90 @@
     "name": "PsychoFace",
     "short": "PSYCHOFA"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400439",
+   "id": "cs2-match-2400320",
    "at": "2026-11-08T18:00:00.000Z",
    "a": {
-    "name": "BAKS",
-    "short": "BAKS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
+    "name": "aimclub",
+    "short": "AIMCLUB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2b40dd9b745dbf65b95cf23cbf22ef1b.webp"
    },
    "b": {
-    "name": "Azuolas",
-    "short": "AZUOLAS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/163840ebae568e93c8b05f95e0963bb2.webp"
+    "name": "Balkan Outlaws",
+    "short": "BO"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "NODWIN Clutch Series 14 Closed Qualifier",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 11",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400322",
+   "at": "2026-11-08T18:00:00.000Z",
+   "a": {
+    "name": "FOKUS",
+    "short": "FOKUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0890a8f0dbabc32f02ff62fad7ac2671.webp"
+   },
+   "b": {
+    "name": "Acend",
+    "short": "ACEND",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6a97e49372552a9b0b28b46b0c6c702f.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 11",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400321",
+   "at": "2026-11-08T18:00:00.000Z",
+   "a": {
+    "name": "Alliance",
+    "short": "ALLIANCE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8a96671354f8c43a864dc75a281c3183.webp"
+   },
+   "b": {
+    "name": "PRIVATE",
+    "short": "PRIVATE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/71d0681b351ba97495d2e9a229ba2507.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 11",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400319",
+   "at": "2026-11-08T18:00:00.000Z",
+   "a": {
+    "name": "OG",
+    "short": "OG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/7ddd426e9383993c284067532009fd1b.webp"
+   },
+   "b": {
+    "name": "9INE",
+    "short": "9INE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e04b28048be2fb82e0df66cd09639b3.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 11",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400228",
-   "at": "2026-11-08T18:00:00.000Z",
+   "at": "2026-11-08T18:30:00.000Z",
    "a": {
     "name": "Ryvex",
     "short": "RYVEX",
@@ -5184,9 +5259,9 @@
     "short": "DRAMA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/da0443c3cb4277351b25f8ca5c000be4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -5202,9 +5277,9 @@
     "name": "tao toma",
     "short": "TAOTOMA"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
@@ -5220,9 +5295,9 @@
     "name": "Feistein",
     "short": "FEISTEIN"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Challengers North America Series 1",
    "bestOf": 3
   },
@@ -5238,9 +5313,9 @@
     "name": "Elusive",
     "short": "ELUSIVE"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Challengers North America Series 1",
    "bestOf": 3
   },
@@ -5257,10 +5332,46 @@
     "short": "RUSH",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b248f8354f58c367c3a7cbc8d69d73cb.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400381",
+   "at": "2026-11-08T22:51:44.000Z",
+   "a": {
+    "name": "Elusive",
+    "short": "ELUSIVE"
+   },
+   "b": {
+    "name": "DETONATE",
+    "short": "DETONATE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/eb7261a616a2761122917835015930c4.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Challengers North America Series 1",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400382",
+   "at": "2026-11-08T23:15:00.000Z",
+   "a": {
+    "name": "Marsborne",
+    "short": "MARSBORN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3da4ca9ea4931c597cd1bbca72aced80.webp"
+   },
+   "b": {
+    "name": "Feistein",
+    "short": "FEISTEIN"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Challengers North America Series 1",
    "bestOf": 3
   },
   {
