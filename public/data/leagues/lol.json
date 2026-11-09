@@ -1,28 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-08T09:30:37.328Z",
+ "updated": "2026-11-09T00:05:34.222Z",
  "upcomingFetched": "2026-11-08T09:30:37.328Z",
- "recentFetched": "2026-11-08T09:30:37.328Z",
+ "recentFetched": "2026-11-09T00:05:34.222Z",
  "matches": [
-  {
-   "id": "lol-match-116299649498303884",
-   "at": "2026-10-18T18:00:00.000Z",
-   "a": {
-    "name": "Karmine Corp",
-    "short": "KC",
-    "logo": "https://static.lolesports.com/teams/1704714951336_KC.png"
-   },
-   "b": {
-    "name": "MVK Esports",
-    "short": "MVK",
-    "logo": "https://static.lolesports.com/teams/1767089709161_White_Logo.png"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-117173205319911441",
    "at": "2026-10-22T12:00:00.000Z",
