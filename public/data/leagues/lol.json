@@ -1,7 +1,7 @@
 {
  "id": "lol",
- "updated": "2026-11-10T16:15:25.325Z",
- "upcomingFetched": "2026-11-09T16:52:57.697Z",
+ "updated": "2026-11-10T21:53:47.885Z",
+ "upcomingFetched": "2026-11-10T21:53:47.885Z",
  "recentFetched": "2026-11-10T16:15:25.325Z",
  "matches": [
   {
@@ -814,6 +814,25 @@
     "name": "Frank Esports",
     "short": "FAK",
     "logo": "https://api.citoapi.com/img/m/ATA6i7kRrXsE3oLM8Gmc3fkgCd1Lo4dOL6k9tziIp1gfDXO55QSwsqfyzZDfcYUW4KyNVI-ZFoBWoqGMgo1vdZe0rdPsupAqUg6IrbnKUCRzVuUgCk6qY91zuCBz1fbRNPfIc5D2duFMg8Cs.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "lcp promotion 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-match-117393592614464354",
+   "at": "2026-11-12T09:00:00.000Z",
+   "a": {
+    "name": "Saigon Warrior",
+    "short": "SGW",
+    "logo": "https://api.citoapi.com/img/m/AdskOOFgldCbY5oa3Y_9NSJEjA2iWNFWnwbIkARqmY46bfskC_Tg_L9FSF8XtRahg2rhbUEgyuC4My75BLfR7N6fvEOVv22M8KeMmi-aWMpMfO8qIfxfVFZLAQXa8RFuH7kztt0T6kak46U.png"
+   },
+   "b": {
+    "name": "Nothin'Here",
+    "short": "NTH",
+    "logo": "https://api.citoapi.com/img/m/AfNCfoDjuROwoYY87XJ6AKoGqys4SD0pfmB7eHb5_S_bgChmp4U2oRRWIUxuUDYAKdZUvgtg3uGdkujms-UmrfiWxc10cokFD-_96mJ5Ftr2Y_bLerkWZHJS9rm_THF83f4fqeHCz3sZXEKmkN8.png"
    },
    "sa": null,
    "sb": null,

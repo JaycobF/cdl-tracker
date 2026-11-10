@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-10T07:46:01.130Z",
- "upcomingFetched": "2026-11-09T16:52:57.697Z",
- "recentFetched": "2026-11-10T07:46:01.130Z",
+ "updated": "2026-11-10T21:53:47.885Z",
+ "upcomingFetched": "2026-11-10T21:53:47.885Z",
+ "recentFetched": "2026-11-10T21:53:47.885Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -5710,6 +5710,192 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400387",
+   "at": "2026-11-10T08:55:59.000Z",
+   "a": {
+    "name": "NAVI Junior",
+    "short": "NJ",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/32a0d6fec7440beb8d7b356bbdc06fbc.svg"
+   },
+   "b": {
+    "name": "LFO 10",
+    "short": "LFO10"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "European Pro League Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400327",
+   "at": "2026-11-10T09:00:00.000Z",
+   "a": {
+    "name": "BRUTE",
+    "short": "BRUTE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/7494f167e3673a9e6c3c9359d91a518a.svg"
+   },
+   "b": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400233",
+   "at": "2026-11-10T09:00:00.000Z",
+   "a": {
+    "name": "BAKS",
+    "short": "BAKS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
+   },
+   "b": {
+    "name": "Azuolas",
+    "short": "AZUOLAS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/163840ebae568e93c8b05f95e0963bb2.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400388",
+   "at": "2026-11-10T11:30:00.000Z",
+   "a": {
+    "name": "FORZE Reload",
+    "short": "FR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
+   },
+   "b": {
+    "name": "MOUZ NXT",
+    "short": "MOUZNXT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "European Pro League Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400144",
+   "at": "2026-11-10T12:00:00.000Z",
+   "a": {
+    "name": "Leo",
+    "short": "LEO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5edf6ccae4779dc22bb759938f629fa4.webp"
+   },
+   "b": {
+    "name": "PsychoFace",
+    "short": "PSYCHOFA"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400234",
+   "at": "2026-11-10T12:00:00.000Z",
+   "a": {
+    "name": "ex-Zero Tenacity",
+    "short": "EZT"
+   },
+   "b": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400328",
+   "at": "2026-11-10T12:00:00.000Z",
+   "a": {
+    "name": "Black Phoenix",
+    "short": "BP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a6f93145eb55b104b99305ef3b3ba485.webp"
+   },
+   "b": {
+    "name": "BAKS",
+    "short": "BAKS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400235",
+   "at": "2026-11-10T15:00:00.000Z",
+   "a": {
+    "name": "Butterfly",
+    "short": "BUTTERFL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fdd1f8a41c1042ac4139dd5a00d58c61.webp"
+   },
+   "b": {
+    "name": "Honvéd",
+    "short": "HONVD",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46f7483ece4afa0e5f46782cbc29b57b.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400145",
+   "at": "2026-11-10T15:00:00.000Z",
+   "a": {
+    "name": "G2 Ares",
+    "short": "G2ARES",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9158a57c6e0e020169cc9b45501d3073.webp"
+   },
+   "b": {
+    "name": "MAYBE",
+    "short": "MAYBE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400329",
+   "at": "2026-11-10T15:10:00.000Z",
+   "a": {
+    "name": "FORZE Reload",
+    "short": "FR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
+   },
+   "b": {
+    "name": "ex-RUSTEC",
+    "short": "EXRUSTEC"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400099",
    "at": "2026-11-10T16:00:00.000Z",
    "a": {
@@ -5720,15 +5906,201 @@
     "name": "BORRACHEIROS",
     "short": "BORRACHE"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400100",
+   "id": "cs2-match-2400236",
+   "at": "2026-11-10T17:06:33.000Z",
+   "a": {
+    "name": "Leo",
+    "short": "LEO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5edf6ccae4779dc22bb759938f629fa4.webp"
+   },
+   "b": {
+    "name": "MINT",
+    "short": "MINT"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400146",
+   "at": "2026-11-10T18:00:00.000Z",
+   "a": {
+    "name": "The Last Resort",
+    "short": "TLR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
+   },
+   "b": {
+    "name": "megoshort",
+    "short": "MEGOSHOR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4ad5f1da682f1504a4933cc6526b08ed.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400458",
+   "at": "2026-11-10T18:00:00.000Z",
+   "a": {
+    "name": "FOKUS",
+    "short": "FOKUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0890a8f0dbabc32f02ff62fad7ac2671.webp"
+   },
+   "b": {
+    "name": "PURE",
+    "short": "PURE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b032e66cdc2959d37ca27ae33ec5cb65.webp"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2400330",
+   "at": "2026-11-10T18:15:00.000Z",
+   "a": {
+    "name": "NT",
+    "short": "NT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c9ed4ead309c4ae64bff189a4387df23.webp"
+   },
+   "b": {
+    "name": "GenOne",
+    "short": "GENONE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8d3280d5ea49595ba7b47d70ac00686c.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400452",
+   "at": "2026-11-10T18:20:00.000Z",
+   "a": {
+    "name": "ZOTIX",
+    "short": "ZOTIX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0313e3cbc20ceb29bae3b6cad627ef61.webp"
+   },
+   "b": {
+    "name": "33",
+    "short": "33",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2400457",
+   "at": "2026-11-10T18:40:00.000Z",
+   "a": {
+    "name": "magic",
+    "short": "MAGIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b7af379661a8e04f6ebc442f39434735.webp"
+   },
+   "b": {
+    "name": "Acend",
+    "short": "ACEND",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6a97e49372552a9b0b28b46b0c6c702f.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2400456",
+   "at": "2026-11-10T18:50:00.000Z",
+   "a": {
+    "name": "Insiders",
+    "short": "INSIDERS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a71ae02204404a1bc65d255c1d2f0033.png"
+   },
+   "b": {
+    "name": "GameSport",
+    "short": "GAMESPOR"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2400450",
    "at": "2026-11-10T19:00:00.000Z",
+   "a": {
+    "name": "r0s3fr0mh3ll",
+    "short": "R0S3FR0M"
+   },
+   "b": {
+    "name": "Legendary100",
+    "short": "LEGENDAR"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "UKIC Masters Winter 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400454",
+   "at": "2026-11-10T19:10:00.000Z",
+   "a": {
+    "name": "WW",
+    "short": "WW",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0bbc226567b97583ea036a6f49563f75.webp"
+   },
+   "b": {
+    "name": "aimclub",
+    "short": "AIMCLUB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2b40dd9b745dbf65b95cf23cbf22ef1b.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2400453",
+   "at": "2026-11-10T19:10:00.000Z",
+   "a": {
+    "name": "BBL",
+    "short": "BBL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/790e88e0391510f8da8d0afa8c2b83f2.webp"
+   },
+   "b": {
+    "name": "INFINITE",
+    "short": "INFINITE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5ee730483d936e6e2873dbf45f963495.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2400100",
+   "at": "2026-11-10T19:20:00.000Z",
    "a": {
     "name": "Isurus",
     "short": "ISURUS",
@@ -5739,11 +6111,67 @@
     "short": "RCA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/126fc400b765aa8fa73ca14da1eb42f5.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400455",
+   "at": "2026-11-10T19:20:00.000Z",
+   "a": {
+    "name": "PCIFIC",
+    "short": "PCIFIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
+   },
+   "b": {
+    "name": "QUAZAR",
+    "short": "QUAZAR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a141128eb0ee5eb6c58900f1ec0106fb.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 1
+  },
+  {
+   "id": "cs2-match-2400462",
+   "at": "2026-11-10T19:45:00.000Z",
+   "a": {
+    "name": "PURE",
+    "short": "PURE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b032e66cdc2959d37ca27ae33ec5cb65.webp"
+   },
+   "b": {
+    "name": "magic",
+    "short": "MAGIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b7af379661a8e04f6ebc442f39434735.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400451",
+   "at": "2026-11-10T20:20:00.000Z",
+   "a": {
+    "name": "yngods",
+    "short": "YNGODS"
+   },
+   "b": {
+    "name": "BASEMENT BOYS",
+    "short": "BB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9437604732f8a7f6b9217dc56ffe3ce3.webp"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 1
   },
   {
    "id": "cs2-match-2400101",
@@ -5821,6 +6249,41 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400237",
+   "at": "2026-11-11T09:00:00.000Z",
+   "a": {
+    "name": "ex-RUSTEC",
+    "short": "EXRUSTEC"
+   },
+   "b": {
+    "name": "LFO 10",
+    "short": "LFO10"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400331",
+   "at": "2026-11-11T09:00:00.000Z",
+   "a": {
+    "name": "ex-UPGRADE",
+    "short": "EU"
+   },
+   "b": {
+    "name": "Butterfly",
+    "short": "BUTTERFL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fdd1f8a41c1042ac4139dd5a00d58c61.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2399854",
    "at": "2026-11-11T09:30:00.000Z",
    "a": {
@@ -5849,7 +6312,177 @@
    },
    "b": {
     "name": "Lunacy",
-    "short": "LUNACY"
+    "short": "LUNACY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bfbc6dd5ae5abc9b6db84eff3cd5b45a.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "European Pro League Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400332",
+   "at": "2026-11-11T12:00:00.000Z",
+   "a": {
+    "name": "Phantom",
+    "short": "PHANTOM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
+   },
+   "b": {
+    "name": "Drama",
+    "short": "DRAMA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/da0443c3cb4277351b25f8ca5c000be4.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400238",
+   "at": "2026-11-11T12:00:00.000Z",
+   "a": {
+    "name": "Nexus",
+    "short": "NEXUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11466876c9cc1b308d5f8309f078393a.webp"
+   },
+   "b": {
+    "name": "MOUZ NXT",
+    "short": "MOUZNXT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400147",
+   "at": "2026-11-11T12:00:00.000Z",
+   "a": {
+    "name": "GenOne",
+    "short": "GENONE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8d3280d5ea49595ba7b47d70ac00686c.webp"
+   },
+   "b": {
+    "name": "Inner Circle Academy",
+    "short": "ICA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/d3124f1e28ee719a7135848bba0dfb74.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400148",
+   "at": "2026-11-11T15:00:00.000Z",
+   "a": {
+    "name": "Nexus",
+    "short": "NEXUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11466876c9cc1b308d5f8309f078393a.webp"
+   },
+   "b": {
+    "name": "BAKS",
+    "short": "BAKS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400239",
+   "at": "2026-11-11T15:00:00.000Z",
+   "a": {
+    "name": "FORZE Reload",
+    "short": "FR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
+   },
+   "b": {
+    "name": "MASONIC",
+    "short": "MASONIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0b9e9cc30a2e2c8a10314b6cfd64cba0.svg"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400333",
+   "at": "2026-11-11T15:00:00.000Z",
+   "a": {
+    "name": "ex-INOX",
+    "short": "EXINOX"
+   },
+   "b": {
+    "name": "33",
+    "short": "33",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400240",
+   "at": "2026-11-11T18:00:00.000Z",
+   "a": {
+    "name": "Walczaki",
+    "short": "WALCZAKI",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/60d1ef683fdb3e0b77e2d0ecd9da6207.webp"
+   },
+   "b": {
+    "name": "The Last Resort",
+    "short": "TLR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400334",
+   "at": "2026-11-11T18:00:00.000Z",
+   "a": {
+    "name": "ex-Zero Tenacity",
+    "short": "EZT"
+   },
+   "b": {
+    "name": "Spirit Academy",
+    "short": "SA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400391",
+   "at": "2026-11-12T09:00:00.000Z",
+   "a": {
+    "name": "NAVI Junior",
+    "short": "NJ",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/32a0d6fec7440beb8d7b356bbdc06fbc.svg"
+   },
+   "b": {
+    "name": "MOUZ NXT",
+    "short": "MOUZNXT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
    },
    "sa": null,
    "sb": null,
