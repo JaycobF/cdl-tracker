@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-09T16:52:57.697Z",
+ "updated": "2026-11-10T07:46:01.130Z",
  "upcomingFetched": "2026-11-09T16:52:57.697Z",
- "recentFetched": "2026-11-09T16:52:57.697Z",
+ "recentFetched": "2026-11-10T07:46:01.130Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -5340,7 +5340,7 @@
   },
   {
    "id": "cs2-match-2400381",
-   "at": "2026-11-08T22:51:44.000Z",
+   "at": "2026-11-08T22:50:00.000Z",
    "a": {
     "name": "Elusive",
     "short": "ELUSIVE"
@@ -5486,21 +5486,41 @@
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400292",
-   "at": "2026-11-09T14:30:00.000Z",
+   "id": "cs2-match-2400324",
+   "at": "2026-11-09T14:00:00.000Z",
    "a": {
-    "name": "LFO 10",
-    "short": "LFO10"
+    "name": "Alliance",
+    "short": "ALLIANCE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8a96671354f8c43a864dc75a281c3183.webp"
    },
    "b": {
-    "name": "MOUZ NXT",
-    "short": "MOUZNXT",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
+    "name": "FOKUS",
+    "short": "FOKUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0890a8f0dbabc32f02ff62fad7ac2671.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "European Pro League Series 10",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 11",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400323",
+   "at": "2026-11-09T14:15:00.000Z",
+   "a": {
+    "name": "aimclub",
+    "short": "AIMCLUB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2b40dd9b745dbf65b95cf23cbf22ef1b.webp"
+   },
+   "b": {
+    "name": "9INE",
+    "short": "9INE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e04b28048be2fb82e0df66cd09639b3.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 11",
    "bestOf": 3
   },
   {
@@ -5516,15 +5536,127 @@
     "short": "NEXUS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11466876c9cc1b308d5f8309f078393a.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400231",
+   "at": "2026-11-09T15:00:00.000Z",
+   "a": {
+    "name": "Phantom Academy",
+    "short": "PA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/f3b52fb54d0d9582e1178ab8f6de225e.webp"
+   },
+   "b": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400292",
+   "at": "2026-11-09T15:10:00.000Z",
+   "a": {
+    "name": "LFO 10",
+    "short": "LFO10"
+   },
+   "b": {
+    "name": "MOUZ NXT",
+    "short": "MOUZNXT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "European Pro League Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400096",
+   "at": "2026-11-09T16:00:00.000Z",
+   "a": {
+    "name": "Grêmio",
+    "short": "GRMIO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/695261e5f5026e21320d55029f36a762.svg"
+   },
+   "b": {
+    "name": "Zetta",
+    "short": "ZETTA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/258b7097762d56a7397ac87786f13c3f.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400325",
+   "at": "2026-11-09T18:00:00.000Z",
+   "a": {
+    "name": "aimclub",
+    "short": "AIMCLUB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2b40dd9b745dbf65b95cf23cbf22ef1b.webp"
+   },
+   "b": {
+    "name": "Alliance",
+    "short": "ALLIANCE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8a96671354f8c43a864dc75a281c3183.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 11",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400326",
+   "at": "2026-11-09T18:00:00.000Z",
+   "a": {
+    "name": "9INE",
+    "short": "9INE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e04b28048be2fb82e0df66cd09639b3.webp"
+   },
+   "b": {
+    "name": "FOKUS",
+    "short": "FOKUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0890a8f0dbabc32f02ff62fad7ac2671.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 11",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400143",
+   "at": "2026-11-09T18:00:00.000Z",
+   "a": {
+    "name": "ex-Zero Tenacity",
+    "short": "EZT"
+   },
+   "b": {
+    "name": "Black Phoenix",
+    "short": "BP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a6f93145eb55b104b99305ef3b3ba485.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400232",
-   "at": "2026-11-09T18:00:00.000Z",
+   "at": "2026-11-09T18:10:00.000Z",
    "a": {
     "name": "Honvéd",
     "short": "HONVD",
@@ -5535,9 +5667,9 @@
     "short": "RYVEX",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5477ae30e0c15c0ca5f258e6e5789d60.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14 Closed Qualifier",
    "bestOf": 3
   },
@@ -5553,9 +5685,9 @@
     "name": "Underworld",
     "short": "UNDERWOR"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
@@ -5571,9 +5703,9 @@
     "short": "DAMAJUAN",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0cfbe73549de528cb9c3a4a742a26be7.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },

@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-09T16:52:57.697Z",
+ "updated": "2026-11-10T07:46:01.130Z",
  "upcomingFetched": "2026-11-09T16:52:57.697Z",
- "recentFetched": "2026-11-09T16:52:57.697Z",
+ "recentFetched": "2026-11-10T07:46:01.130Z",
  "matches": [
   {
    "id": "lol-match-117173205319911441",
@@ -777,9 +777,9 @@
     "short": "NTH",
     "logo": "https://api.citoapi.com/img/m/AfNCfoDjuROwoYY87XJ6AKoGqys4SD0pfmB7eHb5_S_bgChmp4U2oRRWIUxuUDYAKdZUvgtg3uGdkujms-UmrfiWxc10cokFD-_96mJ5Ftr2Y_bLerkWZHJS9rm_THF83f4fqeHCz3sZXEKmkN8.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 3,
+   "status": "completed",
    "event": "lcp promotion 2026",
    "bestOf": 5
   },
