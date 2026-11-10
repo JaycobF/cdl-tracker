@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-10T07:46:01.130Z",
+ "updated": "2026-11-10T16:15:25.325Z",
  "upcomingFetched": "2026-11-09T16:52:57.697Z",
- "recentFetched": "2026-11-10T07:46:01.130Z",
+ "recentFetched": "2026-11-10T16:15:25.325Z",
  "matches": [
   {
    "id": "lol-match-117173205319911441",
@@ -785,7 +785,7 @@
   },
   {
    "id": "lol-match-117393592614464342",
-   "at": "2026-11-10T09:00:00.000Z",
+   "at": "2026-11-10T08:00:00.000Z",
    "a": {
     "name": "Saigon Warrior",
     "short": "SGW",
@@ -796,9 +796,9 @@
     "short": "TGM",
     "logo": "https://api.citoapi.com/img/m/AXZMDQYu4vAc-gX_cFeRfJk31Y1NxW4JbWTHBmNFWxQcXs4aT1P2LGjcZbSkeMHt8izp1TqyTuR1Y5vQWkPKzUDuW7vRmfNnKu7IjvDqwLu4ONN59_p7k0vgix4.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
    "event": "lcp promotion 2026",
    "bestOf": 5
   },
