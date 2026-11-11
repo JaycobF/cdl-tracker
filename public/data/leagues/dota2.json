@@ -1,8 +1,8 @@
 {
  "id": "dota2",
- "updated": "2026-11-10T21:53:47.885Z",
+ "updated": "2026-11-11T01:45:06.806Z",
  "upcomingFetched": "2026-11-10T21:53:47.885Z",
- "recentFetched": "2026-11-10T16:15:25.325Z",
+ "recentFetched": "2026-11-11T01:45:06.806Z",
  "matches": [
   {
    "id": "663128",
@@ -1765,8 +1765,8 @@
     "short": "CyberHero",
     "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
    },
-   "sa": 2,
-   "sb": 2,
+   "sa": 1,
+   "sb": 3,
    "status": "completed",
    "event": "1win Essence III",
    "bestOf": 3
@@ -1803,8 +1803,8 @@
     "short": "Synapse",
     "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
    },
-   "sa": 1,
-   "sb": 3,
+   "sa": 0,
+   "sb": 4,
    "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
@@ -2487,9 +2487,9 @@
     "short": "Z10",
     "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
@@ -2506,15 +2506,15 @@
     "short": "Xipto",
     "logo": "https://api.citoapi.com/img/m/Ae511ww7sy0cPYbQhbZKwOwRc3td338NQ9dDcAphRXRO_0E9FgZXF6eX4R4kM-DqIJDtZPOepYXTpKeLh81kVRWNqn8kTwxFfjIckN8nKzkDMxyl0FDKSBcbnX7cxs027vZ0e4XwoUd-f-O0g8oMBIH3FyCstFTyUo84F2-PZkCkIqQ.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "1win Essence III",
    "bestOf": 3
   },
   {
    "id": "663582",
-   "at": "2026-11-10T16:00:00.000Z",
+   "at": "2026-11-10T17:30:00.000Z",
    "a": {
     "name": "Huligani",
     "short": "Huligani",
@@ -2525,15 +2525,15 @@
     "short": "INC",
     "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
   {
    "id": "663684",
-   "at": "2026-11-10T16:00:00.000Z",
+   "at": "2026-11-10T17:45:00.000Z",
    "a": {
     "name": "Froglings",
     "short": "Frog",
@@ -2544,9 +2544,28 @@
     "short": "PWR",
     "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663682",
+   "at": "2026-11-10T21:45:00.000Z",
+   "a": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
+   },
+   "b": {
+    "name": "Power Rangers",
+    "short": "PWR",
+    "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "1win Essence III",
    "bestOf": 3
   },
