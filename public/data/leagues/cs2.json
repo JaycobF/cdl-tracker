@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-11T08:27:29.732Z",
+ "updated": "2026-11-11T16:31:46.812Z",
  "upcomingFetched": "2026-11-10T21:53:47.885Z",
- "recentFetched": "2026-11-11T08:27:29.732Z",
+ "recentFetched": "2026-11-11T16:31:46.812Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -6287,7 +6287,7 @@
   },
   {
    "id": "cs2-match-2399853",
-   "at": "2026-11-11T07:00:00.000Z",
+   "at": "2026-11-11T06:30:00.000Z",
    "a": {
     "name": "Spirit",
     "short": "SPIRIT",
@@ -6298,15 +6298,15 @@
     "short": "FUT",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/773f8fa25a1a0a34537961b2632572b9.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "BLAST Rivals 2026 Season 2",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400237",
-   "at": "2026-11-11T09:00:00.000Z",
+   "at": "2026-11-11T08:35:00.000Z",
    "a": {
     "name": "ex-RUSTEC",
     "short": "EXRUSTEC"
@@ -6315,9 +6315,9 @@
     "name": "LFO 10",
     "short": "LFO10"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
@@ -6333,9 +6333,9 @@
     "short": "BUTTERFL",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fdd1f8a41c1042ac4139dd5a00d58c61.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14",
    "bestOf": 3
   },
@@ -6352,15 +6352,15 @@
     "short": "G2",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a602501b47997540e5b51a5b49895204.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "BLAST Rivals 2026 Season 2",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400390",
-   "at": "2026-11-11T11:30:00.000Z",
+   "at": "2026-11-11T11:45:00.000Z",
    "a": {
     "name": "G2 Ares",
     "short": "G2ARES",
@@ -6371,9 +6371,9 @@
     "short": "LUNACY",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bfbc6dd5ae5abc9b6db84eff3cd5b45a.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "European Pro League Series 10",
    "bestOf": 3
   },
@@ -6390,9 +6390,9 @@
     "short": "DRAMA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/da0443c3cb4277351b25f8ca5c000be4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14",
    "bestOf": 3
   },
@@ -6409,9 +6409,9 @@
     "short": "MOUZNXT",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
@@ -6428,10 +6428,28 @@
     "short": "ICA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/d3124f1e28ee719a7135848bba0dfb74.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400333",
+   "at": "2026-11-11T14:41:53.000Z",
+   "a": {
+    "name": "ex-INOX",
+    "short": "EXINOX"
+   },
+   "b": {
+    "name": "33",
+    "short": "33",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
    "bestOf": 3
   },
   {
@@ -6470,24 +6488,6 @@
    "sb": null,
    "status": "upcoming",
    "event": "CCT 2026 Europe Series 14",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400333",
-   "at": "2026-11-11T15:00:00.000Z",
-   "a": {
-    "name": "ex-INOX",
-    "short": "EXINOX"
-   },
-   "b": {
-    "name": "33",
-    "short": "33",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "NODWIN Clutch Series 14",
    "bestOf": 3
   },
   {
