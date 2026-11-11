@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-10T21:53:47.885Z",
+ "updated": "2026-11-11T08:27:29.732Z",
  "upcomingFetched": "2026-11-10T21:53:47.885Z",
- "recentFetched": "2026-11-10T21:53:47.885Z",
+ "recentFetched": "2026-11-11T08:27:29.732Z",
  "matches": [
   {
    "id": "cs2-match-2399718",
@@ -6156,6 +6156,25 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400460",
+   "at": "2026-11-10T20:10:00.000Z",
+   "a": {
+    "name": "BBL",
+    "short": "BBL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/790e88e0391510f8da8d0afa8c2b83f2.webp"
+   },
+   "b": {
+    "name": "WW",
+    "short": "WW",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0bbc226567b97583ea036a6f49563f75.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400451",
    "at": "2026-11-10T20:20:00.000Z",
    "a": {
@@ -6174,6 +6193,43 @@
    "bestOf": 1
   },
   {
+   "id": "cs2-match-2400461",
+   "at": "2026-11-10T21:05:00.000Z",
+   "a": {
+    "name": "GameSport",
+    "short": "GAMESPOR"
+   },
+   "b": {
+    "name": "PCIFIC",
+    "short": "PCIFIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400459",
+   "at": "2026-11-10T21:20:00.000Z",
+   "a": {
+    "name": "33",
+    "short": "33",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
+   },
+   "b": {
+    "name": "BASEMENT BOYS",
+    "short": "BB",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9437604732f8a7f6b9217dc56ffe3ce3.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400101",
    "at": "2026-11-10T22:00:00.000Z",
    "a": {
@@ -6185,9 +6241,9 @@
     "short": "RUSH",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b248f8354f58c367c3a7cbc8d69d73cb.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
@@ -6204,15 +6260,15 @@
     "short": "FURIA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ae2903ad6662885facbfedf1183a1b22.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "BLAST Rivals 2026 Season 2",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2399852",
-   "at": "2026-11-11T04:30:00.000Z",
+   "at": "2026-11-11T04:15:00.000Z",
    "a": {
     "name": "Vitality",
     "short": "VITALITY",
@@ -6223,9 +6279,9 @@
     "short": "FALCONS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9e65d7e8195170eaf8992f54dea0f112.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "BLAST Rivals 2026 Season 2",
    "bestOf": 3
   },
