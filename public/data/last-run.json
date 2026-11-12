@@ -1,5 +1,5 @@
 {
- "at": "2026-11-12T03:49:45.327Z",
+ "at": "2026-11-12T12:21:21.857Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -189,95 +189,7 @@
   },
   "dota2": {
    "ok": true,
-   "requests": [
-    {
-     "path": "/dota2/matches/recent",
-     "ok": true,
-     "shape": {
-      "top": "success,data,meta",
-      "count": 50,
-      "firstKeys": [
-       "id",
-       "tournamentId",
-       "tournamentName",
-       "tournamentSlug",
-       "stageName",
-       "roundName",
-       "groupName",
-       "matchNumber",
-       "startsAt",
-       "bestOf",
-       "status",
-       "team1Id",
-       "team2Id",
-       "team1Name",
-       "team2Name",
-       "team1Score",
-       "team2Score",
-       "winnerTeamId",
-       "matchResult",
-       "source",
-       "lastSyncedAt",
-       "tournament",
-       "team1",
-       "team2",
-       "games"
-      ],
-      "nested": {
-       "tournament": [
-        "id",
-        "name",
-        "slug",
-        "imageUrl",
-        "prizePool",
-        "currency",
-        "startsAt",
-        "endsAt",
-        "status",
-        "source",
-        "lastSyncedAt"
-       ],
-       "team1": [
-        "id",
-        "name",
-        "tag",
-        "slug",
-        "imageUrl",
-        "countryName",
-        "countryCode",
-        "worldRanking",
-        "source",
-        "lastSyncedAt"
-       ],
-       "team2": [
-        "id",
-        "name",
-        "tag",
-        "slug",
-        "imageUrl",
-        "countryName",
-        "countryCode",
-        "worldRanking",
-        "source",
-        "lastSyncedAt"
-       ],
-       "games": [
-        "[array]",
-        "id",
-        "matchId",
-        "gameNumber",
-        "result",
-        "duration",
-        "radiantTeamId",
-        "direTeamId",
-        "winnerTeamId",
-        "lastSyncedAt",
-        "dotaMatchId"
-       ]
-      }
-     }
-    }
-   ]
+   "requests": []
   }
  }
 }

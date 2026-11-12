@@ -1,8 +1,8 @@
 {
  "id": "cs2",
- "updated": "2026-11-12T03:49:45.327Z",
+ "updated": "2026-11-12T12:21:21.857Z",
  "upcomingFetched": "2026-11-11T23:05:35.236Z",
- "recentFetched": "2026-11-12T03:49:45.327Z",
+ "recentFetched": "2026-11-12T12:21:21.857Z",
  "matches": [
   {
    "id": "cs2-match-2399938",
@@ -6555,15 +6555,15 @@
     "short": "FALCONS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9e65d7e8195170eaf8992f54dea0f112.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "BLAST Rivals 2026 Season 2",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400201",
-   "at": "2026-11-12T04:30:00.000Z",
+   "at": "2026-11-12T04:00:00.000Z",
    "a": {
     "name": "FURIA",
     "short": "FURIA",
@@ -6574,15 +6574,15 @@
     "short": "VITALITY",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0cd34febd1ad61ff888f21b55756003b.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "BLAST Rivals 2026 Season 2",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400202",
-   "at": "2026-11-12T07:00:00.000Z",
+   "at": "2026-11-12T06:55:00.000Z",
    "a": {
     "name": "FUT",
     "short": "FUT",
@@ -6593,9 +6593,9 @@
     "short": "MOUZ",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0ad08abfc7542d74ca19505208967289.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "BLAST Rivals 2026 Season 2",
    "bestOf": 3
   },
@@ -6612,9 +6612,9 @@
     "short": "MOUZNXT",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "European Pro League Series 10",
    "bestOf": 3
   },
@@ -6631,9 +6631,9 @@
     "short": "MASONIC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0b9e9cc30a2e2c8a10314b6cfd64cba0.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
@@ -6650,10 +6650,45 @@
     "short": "ILLYRIAN",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400242",
+   "at": "2026-11-12T09:06:29.000Z",
+   "a": {
+    "name": "MOUZ NXT",
+    "short": "MOUZNXT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
+   },
+   "b": {
+    "name": "LFO 10",
+    "short": "LFO10"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400108",
+   "at": "2026-11-12T09:16:40.000Z",
+   "a": {
+    "name": "ex-Bounty Hunters",
+    "short": "EBH"
+   },
+   "b": {
+    "name": "QUINTESSÊNCIA",
+    "short": "QUINTESS"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
   {
@@ -6692,24 +6727,6 @@
    "sb": null,
    "status": "upcoming",
    "event": "CCT 2026 Europe Series 13",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400242",
-   "at": "2026-11-12T12:00:00.000Z",
-   "a": {
-    "name": "MOUZ NXT",
-    "short": "MOUZNXT",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
-   },
-   "b": {
-    "name": "LFO 10",
-    "short": "LFO10"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
   {
@@ -6960,23 +6977,6 @@
    "b": {
     "name": "tao toma",
     "short": "TAOTOMA"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "CCT 2026 South America Series 8",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400108",
-   "at": "2026-11-12T22:00:00.000Z",
-   "a": {
-    "name": "ex-Bounty Hunters",
-    "short": "EBH"
-   },
-   "b": {
-    "name": "QUINTESSÊNCIA",
-    "short": "QUINTESS"
    },
    "sa": null,
    "sb": null,

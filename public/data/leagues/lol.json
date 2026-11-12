@@ -1,28 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-12T03:49:45.327Z",
+ "updated": "2026-11-12T12:21:21.857Z",
  "upcomingFetched": "2026-11-11T23:05:35.236Z",
- "recentFetched": "2026-11-12T03:49:45.327Z",
+ "recentFetched": "2026-11-12T12:21:21.857Z",
  "matches": [
-  {
-   "id": "lol-match-117173205319911441",
-   "at": "2026-10-22T12:00:00.000Z",
-   "a": {
-    "name": "Galions",
-    "short": "GL",
-    "logo": "https://api.citoapi.com/img/m/AQPNB52y6cXSV44oJmE8v89vIftHpUHCedaaTuKnNN-4rWbk4gO9UVr_spQ6WUfzgcku9mgT6SGHjv-b-5k-VH_k-qHWBZmkpfTg9MTZYXw6KKsnNy2Qo-AZVs1aCtyj5JPfCwE.png"
-   },
-   "b": {
-    "name": "Solary",
-    "short": "SLY",
-    "logo": "https://api.citoapi.com/img/m/ARSQYpere6foBTIMG6YVohwEStuQ3PPWgTYTFRaL9rMXoUlZlyDbj2I6YZmSSTqXZFZ9z6_b9esmLEyRCnHnP7uNfycht7dXnswmess_RH38.png"
-   },
-   "sa": 3,
-   "sb": 2,
-   "status": "completed",
-   "event": "Summer 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-115660540726095005",
    "at": "2026-10-23T17:00:00.000Z",
@@ -834,9 +815,9 @@
     "short": "NTH",
     "logo": "https://api.citoapi.com/img/m/AfNCfoDjuROwoYY87XJ6AKoGqys4SD0pfmB7eHb5_S_bgChmp4U2oRRWIUxuUDYAKdZUvgtg3uGdkujms-UmrfiWxc10cokFD-_96mJ5Ftr2Y_bLerkWZHJS9rm_THF83f4fqeHCz3sZXEKmkN8.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
    "event": "lcp promotion 2026",
    "bestOf": 5
   },
