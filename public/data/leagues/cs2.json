@@ -1,123 +1,9 @@
 {
  "id": "cs2",
- "updated": "2026-11-11T23:05:35.236Z",
+ "updated": "2026-11-12T03:49:45.327Z",
  "upcomingFetched": "2026-11-11T23:05:35.236Z",
- "recentFetched": "2026-11-11T16:31:46.812Z",
+ "recentFetched": "2026-11-12T03:49:45.327Z",
  "matches": [
-  {
-   "id": "cs2-match-2399718",
-   "at": "2026-10-30T16:00:00.000Z",
-   "a": {
-    "name": "fnatic",
-    "short": "FNATIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e26b4bd4a6b227b915b37099294d35a4.svg"
-   },
-   "b": {
-    "name": "Eternal Fire",
-    "short": "EF",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/17ab3f7067c6945bccdc46f1066d6fc8.webp"
-   },
-   "sa": 2,
-   "sb": 3,
-   "status": "completed",
-   "event": "Stake Ranked Episode 5",
-   "bestOf": 5
-  },
-  {
-   "id": "cs2-match-2399953",
-   "at": "2026-10-30T16:20:00.000Z",
-   "a": {
-    "name": "Low Cortisol BR",
-    "short": "LCB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4e0d0ff2c45c6f233a65c363713eaadd.webp"
-   },
-   "b": {
-    "name": "ALKA",
-    "short": "ALKA",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4a8cae4bb78f1e552133a396f44eea7e.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "Gamers Club Masters VII",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2399936",
-   "at": "2026-10-30T16:30:00.000Z",
-   "a": {
-    "name": "BC.Game",
-    "short": "BCGAME",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a9eb72be6e13fbda838dd2b838128d24.webp"
-   },
-   "b": {
-    "name": "OG",
-    "short": "OG",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e2005cf4ec6c3250b77053216ba352a9.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "HyperX Retake Season 13",
-   "bestOf": 1
-  },
-  {
-   "id": "cs2-match-2399935",
-   "at": "2026-10-30T16:30:00.000Z",
-   "a": {
-    "name": "Metizport",
-    "short": "METIZPOR",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c527b95aba223c97cf19d9f1024cf8d.webp"
-   },
-   "b": {
-    "name": "SNITKO",
-    "short": "SNITKO",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/caeb6aeb44a8f363e92d7db88c5e0b2e.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "HyperX Retake Season 13",
-   "bestOf": 1
-  },
-  {
-   "id": "cs2-match-2399525",
-   "at": "2026-10-30T18:00:00.000Z",
-   "a": {
-    "name": "Phantom",
-    "short": "PHANTOM",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
-   },
-   "b": {
-    "name": "Lavked",
-    "short": "LAVKED",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e387ee6d6360ca5ed4cd39e6a8813748.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 12",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400031",
-   "at": "2026-10-30T18:00:00.000Z",
-   "a": {
-    "name": "Spirit Academy",
-    "short": "SA",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
-   },
-   "b": {
-    "name": "Falcons Force",
-    "short": "FF",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/89ddbcd4dbb598649edee5aaa728bdf3.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
-   "bestOf": 3
-  },
   {
    "id": "cs2-match-2399938",
    "at": "2026-10-30T18:15:00.000Z",
@@ -6465,9 +6351,9 @@
     "short": "BAKS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
@@ -6484,10 +6370,65 @@
     "short": "MASONIC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0b9e9cc30a2e2c8a10314b6cfd64cba0.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400464",
+   "at": "2026-11-11T15:00:00.000Z",
+   "a": {
+    "name": "magic",
+    "short": "MAGIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b7af379661a8e04f6ebc442f39434735.webp"
+   },
+   "b": {
+    "name": "PCIFIC",
+    "short": "PCIFIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400463",
+   "at": "2026-11-11T15:00:00.000Z",
+   "a": {
+    "name": "33",
+    "short": "33",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
+   },
+   "b": {
+    "name": "BBL",
+    "short": "BBL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/790e88e0391510f8da8d0afa8c2b83f2.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400102",
+   "at": "2026-11-11T16:00:00.000Z",
+   "a": {
+    "name": "QUINTESSÊNCIA",
+    "short": "QUINTESS"
+   },
+   "b": {
+    "name": "Underworld",
+    "short": "UNDERWOR"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
   {
@@ -6503,9 +6444,9 @@
     "short": "TLR",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
@@ -6521,10 +6462,84 @@
     "short": "SA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400149",
+   "at": "2026-11-11T18:15:00.000Z",
+   "a": {
+    "name": "Black Phoenix",
+    "short": "BP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a6f93145eb55b104b99305ef3b3ba485.webp"
+   },
+   "b": {
+    "name": "FORZE Reload",
+    "short": "FR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400465",
+   "at": "2026-11-11T18:30:00.000Z",
+   "a": {
+    "name": "magic",
+    "short": "MAGIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b7af379661a8e04f6ebc442f39434735.webp"
+   },
+   "b": {
+    "name": "BBL",
+    "short": "BBL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/790e88e0391510f8da8d0afa8c2b83f2.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Open Qualifier 1",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400103",
+   "at": "2026-11-11T19:15:00.000Z",
+   "a": {
+    "name": "RED Canids Academy",
+    "short": "RCA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/126fc400b765aa8fa73ca14da1eb42f5.webp"
+   },
+   "b": {
+    "name": "Grêmio",
+    "short": "GRMIO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/695261e5f5026e21320d55029f36a762.svg"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 South America Series 8",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400104",
+   "at": "2026-11-11T21:29:45.000Z",
+   "a": {
+    "name": "BORRACHEIROS",
+    "short": "BORRACHE"
+   },
+   "b": {
+    "name": "your end",
+    "short": "YOUREND"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
   {
