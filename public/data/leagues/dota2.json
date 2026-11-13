@@ -1,7 +1,7 @@
 {
  "id": "dota2",
- "updated": "2026-11-12T03:49:45.327Z",
- "upcomingFetched": "2026-11-11T23:05:35.236Z",
+ "updated": "2026-11-13T01:22:52.784Z",
+ "upcomingFetched": "2026-11-13T01:22:52.784Z",
  "recentFetched": "2026-11-12T03:49:45.327Z",
  "matches": [
   {
@@ -2870,6 +2870,177 @@
    "sa": 0,
    "sb": 2,
    "status": "completed",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663768",
+   "at": "2026-11-13T10:00:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL",
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
+   },
+   "b": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663765",
+   "at": "2026-11-13T13:00:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI",
+    "logo": "https://api.citoapi.com/img/m/AVZ3G1j2Aev2XywuZMSJUKDmLznTov0Zu0A_tdE7WMVDeJQPOqawlddYv5YmL23SbF0tfqPi_JCZXwZDSCarcJ4-FeD-9XgVqTnfHFhzMZ88CY3Aru0WgrCoVeS7rMh-mv5iXVzjUojnyrgR8VRm_cnz5O0fvkHMvV2f5DNpz1GLPEI.webp"
+   },
+   "b": {
+    "name": "Yellow Submarine",
+    "short": "YeS",
+    "logo": "https://api.citoapi.com/img/m/Ad3Em55c11qMMst1JTV_Gpky9glmOMbxVuYfFfRPYzIWQi4lEgrJbnLK0UapZrvUyzqSWmEL3TLi6j5TMUXl74xbE4XGeV5oaGHasFwfaTyVM8gepRjge04hRshlZMluk-WSy3lY_c4XxustwbYq9F6BOeTjr7HWGzqa1PycRjdqAoM.jpg"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663769",
+   "at": "2026-11-13T16:00:00.000Z",
+   "a": {
+    "name": "LGD Gaming",
+    "short": "LGD",
+    "logo": "https://api.citoapi.com/img/m/Aap2dPA_mLOKcrxIIEo6Adhs2oTnqXJTy1ix_A7aYgtRqyGeRaf4gchR_CfNZTjtVJT_EZhBezk9navVfIRsA7TIRYYw0XBlP31YwWG-fnz56wiNt4_4H0TK3g7zC7ylAWajHc8dnP6m_8B0rXBectRDDR8IxCLRyY1lwmuG7SJs1U4.webp"
+   },
+   "b": {
+    "name": "Team Liquid",
+    "short": "Liquid",
+    "logo": "https://api.citoapi.com/img/m/AR9e-UG2dydcVCWdbh1IwmtbQ0YLlmryetRkRS0F0I92eNOvhE20f7MZglPehq4-P1jwOCAqrF9ZO8F9fL19y_Gels7YvISComS9A2T84GuanGJSkKbaF6W0j2GduajKcxCDEwArCw_5OsPYOguWOTmz8Z4OSji97cw2m4EOjyyHOlk.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663774",
+   "at": "2026-11-13T19:00:00.000Z",
+   "a": {
+    "name": "Team Spirit",
+    "short": "TSpirit",
+    "logo": "https://api.citoapi.com/img/m/ATIPGfc6Hza8LXSJKnFHMaxcI3vys34QnAh8fQfKHB-mVa7f4oMWNMRaIE6jsR33zyV7pkulRqReURi3EIAiS1x5bCAUyOLp5SjNcGOe_EXC10bMHNMuj_jx8xSP5gwpbYlFrkYXDNVIQor7EE6XlkP6svw3745Sjm0wypSXzZ6iCD4.webp"
+   },
+   "b": {
+    "name": "Froglings",
+    "short": "Frog",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663770",
+   "at": "2026-11-14T09:00:00.000Z",
+   "a": {
+    "name": "LGD Gaming",
+    "short": "LGD",
+    "logo": "https://api.citoapi.com/img/m/Aap2dPA_mLOKcrxIIEo6Adhs2oTnqXJTy1ix_A7aYgtRqyGeRaf4gchR_CfNZTjtVJT_EZhBezk9navVfIRsA7TIRYYw0XBlP31YwWG-fnz56wiNt4_4H0TK3g7zC7ylAWajHc8dnP6m_8B0rXBectRDDR8IxCLRyY1lwmuG7SJs1U4.webp"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663764",
+   "at": "2026-11-14T11:30:00.000Z",
+   "a": {
+    "name": "DO KONCA",
+    "short": "DO KONCA",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Yellow Submarine",
+    "short": "YeS",
+    "logo": "https://api.citoapi.com/img/m/Ad3Em55c11qMMst1JTV_Gpky9glmOMbxVuYfFfRPYzIWQi4lEgrJbnLK0UapZrvUyzqSWmEL3TLi6j5TMUXl74xbE4XGeV5oaGHasFwfaTyVM8gepRjge04hRshlZMluk-WSy3lY_c4XxustwbYq9F6BOeTjr7HWGzqa1PycRjdqAoM.jpg"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663771",
+   "at": "2026-11-14T14:00:00.000Z",
+   "a": {
+    "name": "Team Liquid",
+    "short": "Liquid",
+    "logo": "https://api.citoapi.com/img/m/AR9e-UG2dydcVCWdbh1IwmtbQ0YLlmryetRkRS0F0I92eNOvhE20f7MZglPehq4-P1jwOCAqrF9ZO8F9fL19y_Gels7YvISComS9A2T84GuanGJSkKbaF6W0j2GduajKcxCDEwArCw_5OsPYOguWOTmz8Z4OSji97cw2m4EOjyyHOlk.webp"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663767",
+   "at": "2026-11-14T17:00:00.000Z",
+   "a": {
+    "name": "Aurora Gaming",
+    "short": "AUR",
+    "logo": "https://api.citoapi.com/img/m/AeDP1zSodg_70QRZBSswZn-bzGuCVLd8TyKOwnNZFP6KaPZ-gRvOZPHjgxq2sCSDY1Em7xyKCcAe1-Ny0AFxo__IjO2xThBS1NwdMXo7J1K1P46zhUQfjyQsLnVTNcloBiOD2zmyKZStqn3iuSTVP3lxLrT0r66GI3Cm8ONwPH05e_I.webp"
+   },
+   "b": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663773",
+   "at": "2026-11-14T20:00:00.000Z",
+   "a": {
+    "name": "1W Team",
+    "short": "1Win",
+    "logo": "https://api.citoapi.com/img/m/AS0_9vc6F3vx6Gp1y0tRnS1Ew7AC5BjyTB4KW9JZlFbwpfX-MzATsm1E00fXCeJ0fWFHhE7baIMAkq2iu_BM_CGx63V2JoHQdVjexH0HHxb6psSeppG1OjtGSyCT0kBGqACZij1WILUyxhX06X3SqzL1r3mFvzhgRb8NMZwDhew3m_E.webp"
+   },
+   "b": {
+    "name": "Froglings",
+    "short": "Frog",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
    "event": "1win Essence III",
    "bestOf": 3
   }
