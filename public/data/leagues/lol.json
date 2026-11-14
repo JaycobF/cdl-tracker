@@ -1,85 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-14T02:30:00.574Z",
+ "updated": "2026-11-14T20:35:57.265Z",
  "upcomingFetched": "2026-11-14T02:30:00.574Z",
- "recentFetched": "2026-11-13T16:44:59.584Z",
+ "recentFetched": "2026-11-14T20:35:57.265Z",
  "matches": [
-  {
-   "id": "lol-match-115660540726095029",
-   "at": "2026-10-24T17:00:00.000Z",
-   "a": {
-    "name": "Anyone's Legend",
-    "short": "AL",
-    "logo": "https://api.citoapi.com/img/m/AeKOW-vPhSF6u9YI63VmYgJdro1JnOEkJvm2doXS0vWQ1e9ZINSuKbwP8akTNVCc3Qw4myDwwS92t_9KRILAZIs7zrLNFhiyiWY9hlGm_R4qLL8.png"
-   },
-   "b": {
-    "name": "TOP ESPORTS",
-    "short": "TES",
-    "logo": "https://api.citoapi.com/img/m/AegxIiYXYZTSbvpVzaQUYHimjATzAc9HzIAnGQ32mTrT82f49IKFN0Y5fc20tibAHlgbu3J1IcryrXen99Icr4xm9JPR73X4aLUkulfpydRKqa8su3BHw4ZB6wUntaSbsK8p38vqO6J1_j9DDUg.png"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 1
-  },
-  {
-   "id": "lol-match-115660540726095021",
-   "at": "2026-10-24T18:00:00.000Z",
-   "a": {
-    "name": "CTBC Flying Oyster",
-    "short": "CFO",
-    "logo": "https://api.citoapi.com/img/m/AeaEjj5TXaIB9ohA6v7vAKlObKcwVwkq_xQFogRuwv_2LxCsmLMyOvniwhsVbtAJkcevKeZzR8nv6kGrVTfeVnKHwRjgtIrtXoo7BC-N8meGzE2343V_xq8GQQ.png"
-   },
-   "b": {
-    "name": "Movistar KOI",
-    "short": "MKOI",
-    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 1
-  },
-  {
-   "id": "lol-match-115660540726095031",
-   "at": "2026-10-24T19:00:00.000Z",
-   "a": {
-    "name": "G2 Esports",
-    "short": "G2",
-    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
-   },
-   "b": {
-    "name": "MIBR.LOS",
-    "short": "ML",
-    "logo": "https://api.citoapi.com/img/m/AYfk6MuSi7Njg5I0oL3e6GBdqB7BFSUbjn2-AYvzO0IYu8JUrxfH00irEDNVSwaUALDePat1eobKnPYjVlo7a20G_fMtLtbPMrgEB0vJGtQCm4-BpxI0rQ9OIOS5hQ8iWCAoVBKPlIre.png"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 1
-  },
-  {
-   "id": "lol-match-115660540726095023",
-   "at": "2026-10-24T20:00:00.000Z",
-   "a": {
-    "name": "LYON",
-    "short": "LYON",
-    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
-   },
-   "b": {
-    "name": "Karmine Corp",
-    "short": "KC",
-    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 1
-  },
   {
    "id": "lol-match-115660540726095033",
    "at": "2026-10-24T21:00:00.000Z",
