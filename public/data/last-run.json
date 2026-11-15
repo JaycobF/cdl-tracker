@@ -1,5 +1,5 @@
 {
- "at": "2026-11-15T14:41:12.482Z",
+ "at": "2026-11-15T23:55:21.046Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -47,7 +47,15 @@
       ],
       "nested": {
        "vetoOrder": [
-        "[array]"
+        "[array]",
+        "map",
+        "order",
+        "action",
+        "teamId",
+        "teamName",
+        "mapName",
+        "mapNumber",
+        "played"
        ],
        "event": [
         "id",
