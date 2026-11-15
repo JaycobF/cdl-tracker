@@ -1,120 +1,9 @@
 {
  "id": "cs2",
- "updated": "2026-11-15T06:59:45.158Z",
+ "updated": "2026-11-15T14:41:12.482Z",
  "upcomingFetched": "2026-11-15T06:59:45.158Z",
- "recentFetched": "2026-11-15T00:21:24.140Z",
+ "recentFetched": "2026-11-15T14:41:12.482Z",
  "matches": [
-  {
-   "id": "cs2-match-2399996",
-   "at": "2026-11-03T10:15:00.000Z",
-   "a": {
-    "name": "FURIA",
-    "short": "FURIA",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ae2903ad6662885facbfedf1183a1b22.svg"
-   },
-   "b": {
-    "name": "Natus Vincere",
-    "short": "NV",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/33aea6490b84e8284318ac8d52d9b8f3.svg"
-   },
-   "sa": 2,
-   "sb": 1,
-   "status": "completed",
-   "event": "IEM Beijing 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2399997",
-   "at": "2026-11-03T11:00:00.000Z",
-   "a": {
-    "name": "Legacy",
-    "short": "LEGACY",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e72fb54a4e09a5c6e4564710cea5913.webp"
-   },
-   "b": {
-    "name": "B8",
-    "short": "B8",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3653c35c86f009aab7a0eb112e9ebc9c.webp"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "IEM Beijing 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400069",
-   "at": "2026-11-03T12:00:00.000Z",
-   "a": {
-    "name": "Spirit Academy",
-    "short": "SA",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
-   },
-   "b": {
-    "name": "PsychoFace",
-    "short": "PSYCHOFA"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400197",
-   "at": "2026-11-03T12:00:00.000Z",
-   "a": {
-    "name": "Leo",
-    "short": "LEO",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5edf6ccae4779dc22bb759938f629fa4.webp"
-   },
-   "b": {
-    "name": "Noir Verse",
-    "short": "NV",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c4720cf4f05b7548a12dd8f73bae6a6.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "NODWIN Clutch Series 14 Closed Qualifier",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400072",
-   "at": "2026-11-03T12:55:00.000Z",
-   "a": {
-    "name": "MIBR fe",
-    "short": "MIBRFE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/1cee0f31a5ae0dead6e0cb42f48995e6.webp"
-   },
-   "b": {
-    "name": "RUSH",
-    "short": "RUSH",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b248f8354f58c367c3a7cbc8d69d73cb.webp"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "CCT 2026 South America Series 8",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400073",
-   "at": "2026-11-03T12:55:00.000Z",
-   "a": {
-    "name": "Mira",
-    "short": "MIRA"
-   },
-   "b": {
-    "name": "tao toma",
-    "short": "TAOTOMA"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "CCT 2026 South America Series 8",
-   "bestOf": 3
-  },
   {
    "id": "cs2-match-2400175",
    "at": "2026-11-03T14:00:00.000Z",
@@ -6553,8 +6442,81 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400531",
+   "at": "2026-11-15T01:45:00.000Z",
+   "a": {
+    "name": "Voca",
+    "short": "VOCA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/97b7258809d8aa28407903d4fb47a86c.webp"
+   },
+   "b": {
+    "name": "NuTorious",
+    "short": "NUTORIOU",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/48dd2f8ef732dde7b96b54573b8153c5.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Austin LAN 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400532",
+   "at": "2026-11-15T01:45:00.000Z",
+   "a": {
+    "name": "Iowa Stormboar",
+    "short": "IS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/114a7640c9c289efffafa80a28065b19.webp"
+   },
+   "b": {
+    "name": "It's a Secret",
+    "short": "IAS"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Austin LAN 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400534",
+   "at": "2026-11-15T01:45:00.000Z",
+   "a": {
+    "name": "DETONATE",
+    "short": "DETONATE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/eb7261a616a2761122917835015930c4.webp"
+   },
+   "b": {
+    "name": "Celestial",
+    "short": "CELESTIA"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Austin LAN 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400533",
+   "at": "2026-11-15T02:20:00.000Z",
+   "a": {
+    "name": "LAG",
+    "short": "LAG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/1767d57fdef82006ac8f736a0f56ffee.webp"
+   },
+   "b": {
+    "name": "Arnie's Acolytes",
+    "short": "AA"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Austin LAN 2026",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400541",
-   "at": "2026-11-15T07:00:00.000Z",
+   "at": "2026-11-15T07:30:00.000Z",
    "a": {
     "name": "DNK",
     "short": "DNK"
@@ -6563,9 +6525,9 @@
     "name": "PAQT",
     "short": "PAQT"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "BRO Cyber League Season 2",
    "bestOf": 3
   },
@@ -6581,9 +6543,9 @@
     "short": "REVENGE",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bed726b29e1c82064caa44ada1b4aff4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "BRO Cyber League Season 2",
    "bestOf": 3
   },
@@ -6600,9 +6562,9 @@
     "short": "FURIA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ae2903ad6662885facbfedf1183a1b22.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 3,
+   "status": "completed",
    "event": "BLAST Rivals 2026 Season 2",
    "bestOf": 5
   },
@@ -6619,9 +6581,9 @@
     "short": "MOUZNXT",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/00ca50c3587519e67d5d1b31d74ec610.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
@@ -6637,9 +6599,9 @@
     "short": "DRAMA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/da0443c3cb4277351b25f8ca5c000be4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14",
    "bestOf": 3
   },
@@ -6656,9 +6618,9 @@
     "short": "FR",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "European Pro League Series 10",
    "bestOf": 3
   },
@@ -6674,9 +6636,9 @@
     "name": "Hype Tech",
     "short": "HYPETECH"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
@@ -6693,9 +6655,9 @@
     "short": "FNATIC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e26b4bd4a6b227b915b37099294d35a4.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "PGL Cluj-Napoca 2027 Closed Qualifier",
    "bestOf": 3
   },
@@ -6712,9 +6674,9 @@
     "short": "MAGIC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b7af379661a8e04f6ebc442f39434735.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "PGL Cluj-Napoca 2027 Closed Qualifier",
    "bestOf": 3
   },
@@ -6750,9 +6712,9 @@
     "short": "TLR",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a1a916c08248df3ff8079d95348080a6.svg"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
@@ -6832,8 +6794,43 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400543",
+   "at": "2026-11-15T12:00:00.000Z",
+   "a": {
+    "name": "DNK",
+    "short": "DNK"
+   },
+   "b": {
+    "name": "alienn academy",
+    "short": "AA"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "BRO Cyber League Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400542",
+   "at": "2026-11-15T12:10:00.000Z",
+   "a": {
+    "name": "PAQT",
+    "short": "PAQT"
+   },
+   "b": {
+    "name": "Revenge",
+    "short": "REVENGE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bed726b29e1c82064caa44ada1b4aff4.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "BRO Cyber League Season 2",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400428",
-   "at": "2026-11-15T14:00:00.000Z",
+   "at": "2026-11-15T13:44:39.000Z",
    "a": {
     "name": "XEPT",
     "short": "XEPT"
@@ -6842,9 +6839,9 @@
     "name": "Coinstep",
     "short": "COINSTEP"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
    "event": "Svenska Cupen 2026 Closed Qualifier",
    "bestOf": 3
   },

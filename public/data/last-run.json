@@ -1,5 +1,5 @@
 {
- "at": "2026-11-15T06:59:45.158Z",
+ "at": "2026-11-15T14:41:12.482Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -7,67 +7,17 @@
   },
   "lol": {
    "ok": true,
-   "requests": [
-    {
-     "path": "/lol/schedule/results",
-     "ok": true,
-     "shape": {
-      "top": "success,count,total,hasMore,filters,data",
-      "count": 50,
-      "firstKeys": [
-       "matchId",
-       "tournamentId",
-       "tournament",
-       "blockName",
-       "round",
-       "state",
-       "strategy",
-       "startTime",
-       "endTime",
-       "winnerSlug",
-       "teams",
-       "gameCount"
-      ],
-      "nested": {
-       "tournament": [
-        "tournamentId",
-        "name",
-        "slug",
-        "league"
-       ],
-       "teams": [
-        "[array]",
-        "slug",
-        "name",
-        "shortName",
-        "logoUrl",
-        "score",
-        "outcome"
-       ]
-      }
-     }
-    },
-    {
-     "path": "/lol/schedule/upcoming",
-     "ok": true,
-     "shape": {
-      "top": "success,status,count,data,meta",
-      "count": 0,
-      "firstKeys": [],
-      "nested": {}
-     }
-    }
-   ]
+   "requests": []
   },
   "cs2": {
    "ok": true,
    "requests": [
     {
-     "path": "/cs2/matches/upcoming",
+     "path": "/cs2/matches/recent",
      "ok": true,
      "shape": {
       "top": "success,data,meta",
-      "count": 47,
+      "count": 50,
       "firstKeys": [
        "entityType",
        "id",
@@ -86,42 +36,17 @@
        "team1Score",
        "team2Score",
        "winnerTeamId",
-       "liveState",
        "vetoOrder",
-       "streamLinks",
-       "vodLinks",
        "source",
        "lastSyncedAt",
        "lastVerified",
-       "confidence"
+       "confidence",
+       "event",
+       "team1",
+       "team2"
       ],
       "nested": {
-       "liveState": [
-        "source",
-        "status",
-        "team1Score",
-        "team2Score",
-        "winnerTeamId"
-       ],
        "vetoOrder": [
-        "[array]",
-        "map",
-        "order",
-        "action",
-        "teamId",
-        "teamName",
-        "mapName",
-        "mapNumber",
-        "played"
-       ],
-       "streamLinks": [
-        "[array]",
-        "url",
-        "label",
-        "language",
-        "platform"
-       ],
-       "vodLinks": [
         "[array]"
        ],
        "event": [
@@ -131,25 +56,15 @@
         "imageUrl",
         "prizePool",
         "currency",
-        "location",
-        "format",
-        "teamCount",
-        "standings",
-        "startsAt",
-        "endsAt",
-        "status",
         "tier",
         "prestigeScore",
+        "status",
         "region",
-        "isLan",
-        "confirmedStatus",
-        "streamLinks",
-        "vodLinks",
-        "source",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
-        "eventId"
+        "startsAt",
+        "endsAt",
+        "eventId",
+        "logoUrl",
+        "bannerImageUrl"
        ],
        "team1": [
         "id",
@@ -159,12 +74,7 @@
         "logoUrl",
         "countryName",
         "countryCode",
-        "region",
         "worldRanking",
-        "source",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
         "worldRankingStatus",
         "vrsRanking",
         "vrsRankingStatus",
@@ -179,12 +89,7 @@
         "logoUrl",
         "countryName",
         "countryCode",
-        "region",
         "worldRanking",
-        "source",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
         "worldRankingStatus",
         "vrsRanking",
         "vrsRankingStatus",
@@ -205,10 +110,6 @@
         "winnerTeamId",
         "durationRounds",
         "lastSyncedAt",
-        "playerStats",
-        "bombEvents",
-        "bombStats",
-        "weaponAggregates",
         "mapImageUrl",
         "pickTeamId",
         "objectiveStats",
@@ -217,7 +118,11 @@
         "coverImageUrl",
         "resultType",
         "resultStatus",
-        "isForfeit"
+        "isForfeit",
+        "forfeitStage",
+        "roundsPlayed",
+        "statsEligible",
+        "unavailableReason"
        ],
        "availableSubresources": [
         "[array]"
@@ -228,9 +133,6 @@
        "unavailableFields": [],
        "dataAvailability": [
         "playerStats"
-       ],
-       "odds": [
-        "[array]"
        ]
       }
      }
@@ -241,11 +143,11 @@
    "ok": true,
    "requests": [
     {
-     "path": "/dota2/matches/upcoming",
+     "path": "/dota2/matches/recent",
      "ok": true,
      "shape": {
       "top": "success,data,meta",
-      "count": 12,
+      "count": 50,
       "firstKeys": [
        "id",
        "tournamentId",
@@ -312,7 +214,17 @@
         "lastSyncedAt"
        ],
        "games": [
-        "[array]"
+        "[array]",
+        "id",
+        "matchId",
+        "gameNumber",
+        "result",
+        "duration",
+        "radiantTeamId",
+        "direTeamId",
+        "winnerTeamId",
+        "lastSyncedAt",
+        "dotaMatchId"
        ]
       }
      }

@@ -1,85 +1,9 @@
 {
  "id": "dota2",
- "updated": "2026-11-15T06:59:45.158Z",
+ "updated": "2026-11-15T14:41:12.482Z",
  "upcomingFetched": "2026-11-15T06:59:45.158Z",
- "recentFetched": "2026-11-15T00:21:24.140Z",
+ "recentFetched": "2026-11-15T14:41:12.482Z",
  "matches": [
-  {
-   "id": "663181",
-   "at": "2026-10-25T09:00:00.000Z",
-   "a": {
-    "name": "OG",
-    "short": "OG",
-    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
-   },
-   "b": {
-    "name": "Team Liquid",
-    "short": "Liquid",
-    "logo": "https://static.gosugamers.net/9d/94/de/794d72411471289e5778c49398b213e4be829b53683bd077fc05d28996.webp"
-   },
-   "sa": 2,
-   "sb": 1,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
-  {
-   "id": "663116",
-   "at": "2026-10-25T10:00:00.000Z",
-   "a": {
-    "name": "salamit",
-    "short": "salamit",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
-   },
-   "b": {
-    "name": "Team Lynx",
-    "short": "Lynx",
-    "logo": "https://static.gosugamers.net/84/0e/6e/887282f0004dda4dd33583e520e84746ba9bf955b1b9d41c737c04b58b.webp"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "EPL Masters III",
-   "bestOf": 1
-  },
-  {
-   "id": "663107",
-   "at": "2026-10-25T13:00:00.000Z",
-   "a": {
-    "name": "Inner Circle x Insanity",
-    "short": "INC",
-    "logo": "https://static.gosugamers.net/ff/9c/08/bffa50eb884a7e547ebbcb26a858cfb6e04622fcb6e4a2ad823ab53008.webp"
-   },
-   "b": {
-    "name": "Nemiga Gaming",
-    "short": "Nemiga",
-    "logo": "https://static.gosugamers.net/77/91/36/12991f4a08f385996f0cf08cdb177101f98cf6eefe9db4806622ee25ed.png"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "EPL Masters III",
-   "bestOf": 3
-  },
-  {
-   "id": "663177",
-   "at": "2026-10-25T13:10:00.000Z",
-   "a": {
-    "name": "1W Team",
-    "short": "1Win",
-    "logo": "https://static.gosugamers.net/d5/52/ee/9946c5e4aeb6aa83e835cfe546f455ef708966164601a5aa483fd49f72.webp"
-   },
-   "b": {
-    "name": "Team Yandex",
-    "short": "TY",
-    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
   {
    "id": "663187",
    "at": "2026-10-25T15:30:00.000Z",
@@ -3380,7 +3304,7 @@
     "short": "CyberHero",
     "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
    },
-   "sa": 3,
+   "sa": 2,
    "sb": 0,
    "status": "completed",
    "event": "1win Essence III",
@@ -3388,7 +3312,7 @@
   },
   {
    "id": "663773",
-   "at": "2026-11-14T20:00:00.000Z",
+   "at": "2026-11-14T22:30:00.000Z",
    "a": {
     "name": "1W Team",
     "short": "1Win",
@@ -3399,10 +3323,29 @@
     "short": "Frog",
     "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663809",
+   "at": "2026-11-15T04:00:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn",
+    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
+   },
+   "b": {
+    "name": "Execration",
+    "short": "XctN",
+    "logo": "https://api.citoapi.com/img/m/ASz2nJNMigAaWPq-sLq5i-uqDHOSSaqmkOfBiaotaiDPUQSITpBWi3jFJ8QMRVl3Ux_hZ-V2K8NU1owfMFV_ks0JFuByZfjL0GejeuzrxPXalArBXlXLo-44340z-TVjWaRoyDNgbiEGBYVBiPiuptibri4ORnL_PgF39Y_4zCZa_g.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 20",
    "bestOf": 3
   },
   {
@@ -3437,9 +3380,9 @@
     "short": "Synapse",
     "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
@@ -3456,9 +3399,9 @@
     "short": "Ryvex",
     "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 20",
    "bestOf": 3
   },
@@ -3475,10 +3418,29 @@
     "short": "INC",
     "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "European Pro League Season 41",
+   "bestOf": 3
+  },
+  {
+   "id": "663420",
+   "at": "2026-11-15T10:00:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI",
+    "logo": "https://api.citoapi.com/img/m/AVZ3G1j2Aev2XywuZMSJUKDmLznTov0Zu0A_tdE7WMVDeJQPOqawlddYv5YmL23SbF0tfqPi_JCZXwZDSCarcJ4-FeD-9XgVqTnfHFhzMZ88CY3Aru0WgrCoVeS7rMh-mv5iXVzjUojnyrgR8VRm_cnz5O0fvkHMvV2f5DNpz1GLPEI.webp"
+   },
+   "b": {
+    "name": "GamerLegion",
+    "short": "GL",
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "1win Essence III",
    "bestOf": 3
   },
   {
@@ -3536,6 +3498,25 @@
    "sb": null,
    "status": "upcoming",
    "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663423",
+   "at": "2026-11-15T14:30:00.000Z",
+   "a": {
+    "name": "Froglings",
+    "short": "Frog",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
    "bestOf": 3
   },
   {
