@@ -1,66 +1,9 @@
 {
  "id": "cs2",
- "updated": "2026-11-14T15:57:43.609Z",
+ "updated": "2026-11-15T00:21:24.140Z",
  "upcomingFetched": "2026-11-14T02:30:00.574Z",
- "recentFetched": "2026-11-14T15:57:43.609Z",
+ "recentFetched": "2026-11-15T00:21:24.140Z",
  "matches": [
-  {
-   "id": "cs2-match-2399862",
-   "at": "2026-11-02T05:30:00.000Z",
-   "a": {
-    "name": "PARIVISION",
-    "short": "PARIVISI",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ac4c24d8fa96deb6ce8fc6a38c1245e5.webp"
-   },
-   "b": {
-    "name": "G2",
-    "short": "G2",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a602501b47997540e5b51a5b49895204.webp"
-   },
-   "sa": 2,
-   "sb": 1,
-   "status": "completed",
-   "event": "IEM Beijing 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2399860",
-   "at": "2026-11-02T07:00:00.000Z",
-   "a": {
-    "name": "9z",
-    "short": "9Z",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/712c4fbfdc57ac09631f5920c7a7c0c1.webp"
-   },
-   "b": {
-    "name": "BETBOOM",
-    "short": "BETBOOM",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/a91d19576e1c705c518bc30bd6aacdbc.webp"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "IEM Beijing 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400064",
-   "at": "2026-11-02T08:35:00.000Z",
-   "a": {
-    "name": "MAYBE",
-    "short": "MAYBE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
-   },
-   "b": {
-    "name": "Honvéd",
-    "short": "HONVD",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46f7483ece4afa0e5f46782cbc29b57b.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13 Closed Qualifier",
-   "bestOf": 3
-  },
   {
    "id": "cs2-match-2400056",
    "at": "2026-11-02T08:45:00.000Z",
@@ -6596,25 +6539,6 @@
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400396",
-   "at": "2026-11-14T11:30:00.000Z",
-   "a": {
-    "name": "9INE",
-    "short": "9INE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e04b28048be2fb82e0df66cd09639b3.webp"
-   },
-   "b": {
-    "name": "PCIFIC",
-    "short": "PCIFIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "European Pro League Series 10",
-   "bestOf": 3
-  },
-  {
    "id": "cs2-match-2400158",
    "at": "2026-11-14T12:00:00.000Z",
    "a": {
@@ -6652,6 +6576,25 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400396",
+   "at": "2026-11-14T12:55:00.000Z",
+   "a": {
+    "name": "9INE",
+    "short": "9INE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/6e04b28048be2fb82e0df66cd09639b3.webp"
+   },
+   "b": {
+    "name": "PCIFIC",
+    "short": "PCIFIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "European Pro League Series 10",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400113",
    "at": "2026-11-14T13:00:00.000Z",
    "a": {
@@ -6681,15 +6624,34 @@
     "name": "Talent Factory",
     "short": "TF"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "Svenska Cupen 2026 Closed Qualifier",
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400491",
+   "id": "cs2-match-2400490",
    "at": "2026-11-14T14:00:00.000Z",
+   "a": {
+    "name": "Noir Verse",
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c4720cf4f05b7548a12dd8f73bae6a6.webp"
+   },
+   "b": {
+    "name": "MAYBE",
+    "short": "MAYBE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400491",
+   "at": "2026-11-14T14:15:00.000Z",
    "a": {
     "name": "ex-INOX",
     "short": "EXINOX"
@@ -6699,9 +6661,9 @@
     "short": "ALLIANCE",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8a96671354f8c43a864dc75a281c3183.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "ESL Challenger League Season 52 Europe Cup 12",
    "bestOf": 3
   },
@@ -6718,9 +6680,9 @@
     "short": "FR",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
@@ -6736,15 +6698,15 @@
     "short": "HONVD",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/46f7483ece4afa0e5f46782cbc29b57b.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400345",
-   "at": "2026-11-14T15:00:00.000Z",
+   "at": "2026-11-14T15:30:00.000Z",
    "a": {
     "name": "LUNTIKI",
     "short": "LUNTIKI",
@@ -6755,9 +6717,9 @@
     "short": "SA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/45677b64e90b8b619c3fb082c18afc59.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14",
    "bestOf": 3
   },
@@ -6773,15 +6735,15 @@
     "short": "BARCA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/29e4e9876e96b35be1db798123693557.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
   {
    "id": "cs2-match-2400432",
-   "at": "2026-11-14T16:30:00.000Z",
+   "at": "2026-11-14T16:50:00.000Z",
    "a": {
     "name": "Lilmix",
     "short": "LILMIX",
@@ -6792,28 +6754,10 @@
     "short": "BS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c0928f975434391ac14d6efa30b8007e.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Svenska Cupen 2026 Closed Qualifier",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400160",
-   "at": "2026-11-14T18:00:00.000Z",
-   "a": {
-    "name": "WW",
-    "short": "WW",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0bbc226567b97583ea036a6f49563f75.webp"
-   },
-   "b": {
-    "name": "Hype Tech",
-    "short": "HYPETECH"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {
@@ -6829,15 +6773,70 @@
     "short": "ILLYRIAN",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400346",
+   "id": "cs2-match-2400493",
    "at": "2026-11-14T18:00:00.000Z",
+   "a": {
+    "name": "Alliance",
+    "short": "ALLIANCE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8a96671354f8c43a864dc75a281c3183.webp"
+   },
+   "b": {
+    "name": "Noir Verse",
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c4720cf4f05b7548a12dd8f73bae6a6.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400492",
+   "at": "2026-11-14T18:00:00.000Z",
+   "a": {
+    "name": "ex-INOX",
+    "short": "EXINOX"
+   },
+   "b": {
+    "name": "MAYBE",
+    "short": "MAYBE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ESL Challenger League Season 52 Europe Cup 12",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400160",
+   "at": "2026-11-14T18:30:00.000Z",
+   "a": {
+    "name": "WW",
+    "short": "WW",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0bbc226567b97583ea036a6f49563f75.webp"
+   },
+   "b": {
+    "name": "Hype Tech",
+    "short": "HYPETECH"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400346",
+   "at": "2026-11-14T19:00:00.000Z",
    "a": {
     "name": "33",
     "short": "33",
@@ -6848,9 +6847,9 @@
     "short": "GENONE",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8d3280d5ea49595ba7b47d70ac00686c.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "NODWIN Clutch Series 14",
    "bestOf": 3
   },
@@ -6865,9 +6864,9 @@
     "name": "ex-Yawara",
     "short": "EXYAWARA"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },
@@ -6884,9 +6883,9 @@
     "short": "LC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2d37607d6c216b1dd088d831173cb4bb.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CCT 2026 South America Series 8",
    "bestOf": 3
   },

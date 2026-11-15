@@ -1,66 +1,9 @@
 {
  "id": "dota2",
- "updated": "2026-11-14T15:57:43.609Z",
+ "updated": "2026-11-15T00:21:24.140Z",
  "upcomingFetched": "2026-11-14T02:30:00.574Z",
- "recentFetched": "2026-11-14T15:57:43.609Z",
+ "recentFetched": "2026-11-15T00:21:24.140Z",
  "matches": [
-  {
-   "id": "663124",
-   "at": "2026-10-24T16:00:00.000Z",
-   "a": {
-    "name": "Dawn Bulls",
-    "short": "DB",
-    "logo": "https://static.gosugamers.net/05/0b/6b/5193c285e107c3e001d9fe6ad872d054207dec001f09efbe9d02578af8.webp"
-   },
-   "b": {
-    "name": "Yellow Submarine",
-    "short": "YeS",
-    "logo": "https://static.gosugamers.net/f3/2b/fe/303c34a29292107adb2078c9699302ed64185a6628a94780608f0d995c.jpeg"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "EPL Masters III",
-   "bestOf": 3
-  },
-  {
-   "id": "663185",
-   "at": "2026-10-24T17:00:00.000Z",
-   "a": {
-    "name": "Astra Invicta",
-    "short": "AI",
-    "logo": "https://static.gosugamers.net/61/a4/f4/82bd3e290b60beb976dfcce65ed3daab63a3990f651d26e37de1374a2e.webp"
-   },
-   "b": {
-    "name": "LEGION",
-    "short": "LEGION",
-    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
-  {
-   "id": "663119",
-   "at": "2026-10-24T18:00:00.000Z",
-   "a": {
-    "name": "CyberHero",
-    "short": "CyberHero",
-    "logo": "https://static.gosugamers.net/2e/cc/bd/e33801ae32b6784f73ccf3643bf47a0791cb7e74642b855739567f2f8f.webp"
-   },
-   "b": {
-    "name": "TheBot$",
-    "short": "TheBot$",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "EPL Masters III",
-   "bestOf": 1
-  },
   {
    "id": "663181",
    "at": "2026-10-25T09:00:00.000Z",
@@ -2506,8 +2449,8 @@
     "short": "PWR",
     "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
    },
-   "sa": 2,
-   "sb": 1,
+   "sa": 1,
+   "sb": 2,
    "status": "completed",
    "event": "1win Essence III",
    "bestOf": 3
@@ -3368,25 +3311,6 @@
    "bestOf": 3
   },
   {
-   "id": "663771",
-   "at": "2026-11-14T14:00:00.000Z",
-   "a": {
-    "name": "Team Liquid",
-    "short": "Liquid",
-    "logo": "https://api.citoapi.com/img/m/AR9e-UG2dydcVCWdbh1IwmtbQ0YLlmryetRkRS0F0I92eNOvhE20f7MZglPehq4-P1jwOCAqrF9ZO8F9fL19y_Gels7YvISComS9A2T84GuanGJSkKbaF6W0j2GduajKcxCDEwArCw_5OsPYOguWOTmz8Z4OSji97cw2m4EOjyyHOlk.webp"
-   },
-   "b": {
-    "name": "LEGION",
-    "short": "LEGION",
-    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "1win Essence III",
-   "bestOf": 3
-  },
-  {
    "id": "663786",
    "at": "2026-11-14T14:40:52.000Z",
    "a": {
@@ -3399,28 +3323,28 @@
     "short": "Z10",
     "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
    "bestOf": 3
   },
   {
-   "id": "663767",
-   "at": "2026-11-14T17:00:00.000Z",
+   "id": "663771",
+   "at": "2026-11-14T16:05:21.000Z",
    "a": {
-    "name": "Aurora Gaming",
-    "short": "AUR",
-    "logo": "https://api.citoapi.com/img/m/AeDP1zSodg_70QRZBSswZn-bzGuCVLd8TyKOwnNZFP6KaPZ-gRvOZPHjgxq2sCSDY1Em7xyKCcAe1-Ny0AFxo__IjO2xThBS1NwdMXo7J1K1P46zhUQfjyQsLnVTNcloBiOD2zmyKZStqn3iuSTVP3lxLrT0r66GI3Cm8ONwPH05e_I.webp"
+    "name": "Team Liquid",
+    "short": "Liquid",
+    "logo": "https://api.citoapi.com/img/m/AR9e-UG2dydcVCWdbh1IwmtbQ0YLlmryetRkRS0F0I92eNOvhE20f7MZglPehq4-P1jwOCAqrF9ZO8F9fL19y_Gels7YvISComS9A2T84GuanGJSkKbaF6W0j2GduajKcxCDEwArCw_5OsPYOguWOTmz8Z4OSji97cw2m4EOjyyHOlk.webp"
    },
    "b": {
-    "name": "CyberHero",
-    "short": "CyberHero",
-    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "1win Essence III",
    "bestOf": 3
   },
@@ -3437,10 +3361,29 @@
     "short": "PWR",
     "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "663767",
+   "at": "2026-11-14T19:45:00.000Z",
+   "a": {
+    "name": "Aurora Gaming",
+    "short": "AUR",
+    "logo": "https://api.citoapi.com/img/m/AeDP1zSodg_70QRZBSswZn-bzGuCVLd8TyKOwnNZFP6KaPZ-gRvOZPHjgxq2sCSDY1Em7xyKCcAe1-Ny0AFxo__IjO2xThBS1NwdMXo7J1K1P46zhUQfjyQsLnVTNcloBiOD2zmyKZStqn3iuSTVP3lxLrT0r66GI3Cm8ONwPH05e_I.webp"
+   },
+   "b": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
+   },
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
+   "event": "1win Essence III",
    "bestOf": 3
   },
   {
