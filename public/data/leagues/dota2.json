@@ -1,47 +1,9 @@
 {
  "id": "dota2",
- "updated": "2026-11-16T14:01:22.111Z",
+ "updated": "2026-11-16T23:24:43.294Z",
  "upcomingFetched": "2026-11-16T14:01:22.111Z",
- "recentFetched": "2026-11-16T14:01:22.111Z",
+ "recentFetched": "2026-11-16T23:24:43.294Z",
  "matches": [
-  {
-   "id": "663193",
-   "at": "2026-10-26T16:30:00.000Z",
-   "a": {
-    "name": "PARIVISION",
-    "short": "PARI",
-    "logo": "https://static.gosugamers.net/a2/51/96/bf34ccba3ee39dd32a5b149d8b19f63829c236578d89133efa96954d6b.webp"
-   },
-   "b": {
-    "name": "Team Spirit",
-    "short": "TSpirit",
-    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
-  {
-   "id": "663188",
-   "at": "2026-10-26T20:00:00.000Z",
-   "a": {
-    "name": "BetBoom Team",
-    "short": "BetBoom",
-    "logo": "https://static.gosugamers.net/dc/e7/aa/220f66d7ef6da7c8b7411c395ea3f34215497aefc94f8236cf3fc891df.webp"
-   },
-   "b": {
-    "name": "LEGION",
-    "short": "LEGION",
-    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
   {
    "id": "663151",
    "at": "2026-10-27T04:00:00.000Z",
@@ -3494,9 +3456,9 @@
     "short": "PWR",
     "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "European Pro League Season 41",
    "bestOf": 3
   },
@@ -3513,11 +3475,11 @@
     "short": "INC",
     "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
-   "bestOf": null
+   "bestOf": 3
   },
   {
    "id": "663428",
@@ -3532,34 +3494,15 @@
     "short": "LGD",
     "logo": "https://api.citoapi.com/img/m/Aap2dPA_mLOKcrxIIEo6Adhs2oTnqXJTy1ix_A7aYgtRqyGeRaf4gchR_CfNZTjtVJT_EZhBezk9navVfIRsA7TIRYYw0XBlP31YwWG-fnz56wiNt4_4H0TK3g7zC7ylAWajHc8dnP6m_8B0rXBectRDDR8IxCLRyY1lwmuG7SJs1U4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "1win Essence III",
-   "bestOf": null
-  },
-  {
-   "id": "663416",
-   "at": "2026-11-16T16:00:00.000Z",
-   "a": {
-    "name": "PARIVISION",
-    "short": "PARI",
-    "logo": "https://api.citoapi.com/img/m/AVZ3G1j2Aev2XywuZMSJUKDmLznTov0Zu0A_tdE7WMVDeJQPOqawlddYv5YmL23SbF0tfqPi_JCZXwZDSCarcJ4-FeD-9XgVqTnfHFhzMZ88CY3Aru0WgrCoVeS7rMh-mv5iXVzjUojnyrgR8VRm_cnz5O0fvkHMvV2f5DNpz1GLPEI.webp"
-   },
-   "b": {
-    "name": "Team Spirit",
-    "short": "TSpirit",
-    "logo": "https://api.citoapi.com/img/m/ATIPGfc6Hza8LXSJKnFHMaxcI3vys34QnAh8fQfKHB-mVa7f4oMWNMRaIE6jsR33zyV7pkulRqReURi3EIAiS1x5bCAUyOLp5SjNcGOe_EXC10bMHNMuj_jx8xSP5gwpbYlFrkYXDNVIQor7EE6XlkP6svw3745Sjm0wypSXzZ6iCD4.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "1win Essence III",
    "bestOf": 3
   },
   {
    "id": "663843",
-   "at": "2026-11-16T16:00:00.000Z",
+   "at": "2026-11-16T16:30:00.000Z",
    "a": {
     "name": "PuckChamp",
     "short": "PuckChamp",
@@ -3570,15 +3513,15 @@
     "short": "Synapse",
     "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "European Pro League Season 41",
    "bestOf": 3
   },
   {
    "id": "663789",
-   "at": "2026-11-16T17:00:00.000Z",
+   "at": "2026-11-16T17:45:00.000Z",
    "a": {
     "name": "PlayTime",
     "short": "PTime",
@@ -3589,15 +3532,34 @@
     "short": "Z10",
     "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "DreamLeague Division 2 Series 5",
-   "bestOf": null
+   "bestOf": 3
+  },
+  {
+   "id": "663416",
+   "at": "2026-11-16T18:00:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI",
+    "logo": "https://api.citoapi.com/img/m/AVZ3G1j2Aev2XywuZMSJUKDmLznTov0Zu0A_tdE7WMVDeJQPOqawlddYv5YmL23SbF0tfqPi_JCZXwZDSCarcJ4-FeD-9XgVqTnfHFhzMZ88CY3Aru0WgrCoVeS7rMh-mv5iXVzjUojnyrgR8VRm_cnz5O0fvkHMvV2f5DNpz1GLPEI.webp"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit",
+    "logo": "https://api.citoapi.com/img/m/ATIPGfc6Hza8LXSJKnFHMaxcI3vys34QnAh8fQfKHB-mVa7f4oMWNMRaIE6jsR33zyV7pkulRqReURi3EIAiS1x5bCAUyOLp5SjNcGOe_EXC10bMHNMuj_jx8xSP5gwpbYlFrkYXDNVIQor7EE6XlkP6svw3745Sjm0wypSXzZ6iCD4.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "1win Essence III",
+   "bestOf": 3
   },
   {
    "id": "663417",
-   "at": "2026-11-16T19:00:00.000Z",
+   "at": "2026-11-16T20:00:00.000Z",
    "a": {
     "name": "Aurora Gaming",
     "short": "AUR",
@@ -3612,7 +3574,41 @@
    "sb": null,
    "status": "upcoming",
    "event": "1win Essence III",
-   "bestOf": null
+   "bestOf": 3
+  },
+  {
+   "id": "dota-fd087e3b3e",
+   "at": "2026-11-16T21:00:00.000Z",
+   "a": {
+    "name": "Moonlight Wispers",
+    "short": ""
+   },
+   "b": {
+    "name": "Prime Legion",
+    "short": ""
+   },
+   "sa": null,
+   "sb": null,
+   "status": "live",
+   "event": "Mad Dogs League 2026 Season 51",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-88feab1d4f",
+   "at": "2026-11-16T22:00:00.000Z",
+   "a": {
+    "name": "Real Eclipse",
+    "short": ""
+   },
+   "b": {
+    "name": "Vitality Warriors",
+    "short": ""
+   },
+   "sa": null,
+   "sb": null,
+   "status": "live",
+   "event": "Dota 2 Space League 2026 Season 77",
+   "bestOf": 3
   },
   {
    "id": "663822",

@@ -1,5 +1,5 @@
 {
- "at": "2026-11-16T14:01:22.111Z",
+ "at": "2026-11-16T23:24:43.294Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -7,28 +7,17 @@
   },
   "lol": {
    "ok": true,
-   "requests": [
-    {
-     "path": "/lol/schedule/upcoming",
-     "ok": true,
-     "shape": {
-      "top": "success,status,count,data,meta",
-      "count": 0,
-      "firstKeys": [],
-      "nested": {}
-     }
-    }
-   ]
+   "requests": []
   },
   "cs2": {
    "ok": true,
    "requests": [
     {
-     "path": "/cs2/matches/upcoming",
+     "path": "/cs2/matches/recent",
      "ok": true,
      "shape": {
       "top": "success,data,meta",
-      "count": 38,
+      "count": 50,
       "firstKeys": [
        "entityType",
        "id",
@@ -47,28 +36,26 @@
        "team1Score",
        "team2Score",
        "winnerTeamId",
-       "liveState",
        "vetoOrder",
-       "streamLinks",
-       "vodLinks",
        "source",
        "lastSyncedAt",
        "lastVerified",
-       "confidence"
+       "confidence",
+       "event",
+       "team1",
+       "team2"
       ],
       "nested": {
-       "liveState": [
-        "source",
-        "status",
-        "team1Score",
-        "team2Score",
-        "winnerTeamId"
-       ],
        "vetoOrder": [
-        "[array]"
-       ],
-       "vodLinks": [
-        "[array]"
+        "[array]",
+        "map",
+        "order",
+        "action",
+        "teamId",
+        "teamName",
+        "mapName",
+        "mapNumber",
+        "played"
        ],
        "event": [
         "id",
@@ -77,25 +64,15 @@
         "imageUrl",
         "prizePool",
         "currency",
-        "location",
-        "format",
-        "teamCount",
-        "standings",
-        "startsAt",
-        "endsAt",
-        "status",
         "tier",
         "prestigeScore",
+        "status",
         "region",
-        "isLan",
-        "confirmedStatus",
-        "streamLinks",
-        "vodLinks",
-        "source",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
-        "eventId"
+        "startsAt",
+        "endsAt",
+        "eventId",
+        "logoUrl",
+        "bannerImageUrl"
        ],
        "team1": [
         "id",
@@ -105,18 +82,11 @@
         "logoUrl",
         "countryName",
         "countryCode",
-        "region",
         "worldRanking",
-        "source",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
         "worldRankingStatus",
         "vrsRanking",
         "vrsRankingStatus",
         "vrsRegion",
-        "alternateLogoUrl",
-        "darkUiLogoUrl",
         "logoIsPlaceholder"
        ],
        "team2": [
@@ -127,12 +97,7 @@
         "logoUrl",
         "countryName",
         "countryCode",
-        "region",
         "worldRanking",
-        "source",
-        "lastSyncedAt",
-        "lastVerified",
-        "confidence",
         "worldRankingStatus",
         "vrsRanking",
         "vrsRankingStatus",
@@ -140,7 +105,32 @@
         "logoIsPlaceholder"
        ],
        "maps": [
-        "[array]"
+        "[array]",
+        "id",
+        "matchId",
+        "mapNumber",
+        "mapName",
+        "status",
+        "team1Score",
+        "team2Score",
+        "team1Halves",
+        "team2Halves",
+        "winnerTeamId",
+        "durationRounds",
+        "lastSyncedAt",
+        "mapImageUrl",
+        "pickTeamId",
+        "objectiveStats",
+        "mapNameCanonical",
+        "imageUrl",
+        "coverImageUrl",
+        "resultType",
+        "resultStatus",
+        "isForfeit",
+        "forfeitStage",
+        "roundsPlayed",
+        "statsEligible",
+        "unavailableReason"
        ],
        "availableSubresources": [
         "[array]"
@@ -151,9 +141,6 @@
        "unavailableFields": [],
        "dataAvailability": [
         "playerStats"
-       ],
-       "odds": [
-        "[array]"
        ]
       }
      }
@@ -197,43 +184,6 @@
        "games"
       ],
       "nested": {
-       "tournament": [
-        "id",
-        "name",
-        "slug",
-        "imageUrl",
-        "prizePool",
-        "currency",
-        "startsAt",
-        "endsAt",
-        "status",
-        "source",
-        "lastSyncedAt"
-       ],
-       "team1": [
-        "id",
-        "name",
-        "tag",
-        "slug",
-        "imageUrl",
-        "countryName",
-        "countryCode",
-        "worldRanking",
-        "source",
-        "lastSyncedAt"
-       ],
-       "team2": [
-        "id",
-        "name",
-        "tag",
-        "slug",
-        "imageUrl",
-        "countryName",
-        "countryCode",
-        "worldRanking",
-        "source",
-        "lastSyncedAt"
-       ],
        "games": [
         "[array]",
         "id",
@@ -246,83 +196,6 @@
         "winnerTeamId",
         "lastSyncedAt",
         "dotaMatchId"
-       ]
-      }
-     }
-    },
-    {
-     "path": "/dota2/matches/upcoming",
-     "ok": true,
-     "shape": {
-      "top": "success,data,meta",
-      "count": 10,
-      "firstKeys": [
-       "id",
-       "tournamentId",
-       "tournamentName",
-       "tournamentSlug",
-       "stageName",
-       "roundName",
-       "groupName",
-       "matchNumber",
-       "startsAt",
-       "bestOf",
-       "status",
-       "team1Id",
-       "team2Id",
-       "team1Name",
-       "team2Name",
-       "team1Score",
-       "team2Score",
-       "winnerTeamId",
-       "matchResult",
-       "source",
-       "lastSyncedAt",
-       "tournament",
-       "team1",
-       "team2",
-       "games"
-      ],
-      "nested": {
-       "tournament": [
-        "id",
-        "name",
-        "slug",
-        "imageUrl",
-        "prizePool",
-        "currency",
-        "startsAt",
-        "endsAt",
-        "status",
-        "source",
-        "lastSyncedAt"
-       ],
-       "team1": [
-        "id",
-        "name",
-        "tag",
-        "slug",
-        "imageUrl",
-        "countryName",
-        "countryCode",
-        "worldRanking",
-        "source",
-        "lastSyncedAt"
-       ],
-       "team2": [
-        "id",
-        "name",
-        "tag",
-        "slug",
-        "imageUrl",
-        "countryName",
-        "countryCode",
-        "worldRanking",
-        "source",
-        "lastSyncedAt"
-       ],
-       "games": [
-        "[array]"
        ]
       }
      }
