@@ -1,104 +1,9 @@
 {
  "id": "dota2",
- "updated": "2026-11-15T23:55:21.046Z",
- "upcomingFetched": "2026-11-15T06:59:45.158Z",
- "recentFetched": "2026-11-15T23:55:21.046Z",
+ "updated": "2026-11-16T14:01:22.111Z",
+ "upcomingFetched": "2026-11-16T14:01:22.111Z",
+ "recentFetched": "2026-11-16T14:01:22.111Z",
  "matches": [
-  {
-   "id": "663146",
-   "at": "2026-10-26T04:00:00.000Z",
-   "a": {
-    "name": "Cloud Dawning",
-    "short": "CD",
-    "logo": "https://static.gosugamers.net/a4/3b/42/e08027f0f36806635d75805bf99195bca9521bac94e8f15c7453a695b2.webp"
-   },
-   "b": {
-    "name": "Direborn Esports",
-    "short": "Direborn",
-    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "EPL World Series: Southeast Asia Season 19",
-   "bestOf": 3
-  },
-  {
-   "id": "663155",
-   "at": "2026-10-26T07:00:00.000Z",
-   "a": {
-    "name": "Direborn Esports",
-    "short": "Direborn",
-    "logo": "https://static.gosugamers.net/ed/85/01/e4be6a2529e0b171b51bfa1d8242c0cd855574520e697573bc712e369b.webp"
-   },
-   "b": {
-    "name": "Team Kinetix",
-    "short": "Kinetix",
-    "logo": "https://static.gosugamers.net/games/128x128_9.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "EPL World Series: Southeast Asia Season 19",
-   "bestOf": 3
-  },
-  {
-   "id": "663178",
-   "at": "2026-10-26T09:00:00.000Z",
-   "a": {
-    "name": "GamerLegion",
-    "short": "GL",
-    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
-   },
-   "b": {
-    "name": "OG",
-    "short": "OG",
-    "logo": "https://static.gosugamers.net/48/67/44/161175e89a9dd5f083e2651bd114026ee348ab8b1fb7a36c63874e224f.webp"
-   },
-   "sa": 2,
-   "sb": 1,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
-  {
-   "id": "663173",
-   "at": "2026-10-26T10:00:00.000Z",
-   "a": {
-    "name": "Royal Bear",
-    "short": "Royal Bear",
-    "logo": "https://static.gosugamers.net/57/30/f3/3f28ba55e81acf7fc8399b2cb650a235fadaefb11518b3366b2dce6c84.webp"
-   },
-   "b": {
-    "name": "Yangon Galacticos",
-    "short": "YG",
-    "logo": "https://static.gosugamers.net/65/f4/77/03d043b8b70c571fdb754fbd0baa44e6e6094219240de13903480b9c97.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "EPL World Series: Southeast Asia Season 19",
-   "bestOf": 3
-  },
-  {
-   "id": "663183",
-   "at": "2026-10-26T13:00:00.000Z",
-   "a": {
-    "name": "Team Liquid",
-    "short": "Liquid",
-    "logo": "https://static.gosugamers.net/9d/94/de/794d72411471289e5778c49398b213e4be829b53683bd077fc05d28996.webp"
-   },
-   "b": {
-    "name": "Team Yandex",
-    "short": "TY",
-    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
   {
    "id": "663193",
    "at": "2026-10-26T16:30:00.000Z",
@@ -3292,25 +3197,6 @@
    "bestOf": 3
   },
   {
-   "id": "663821",
-   "at": "2026-11-15T07:00:00.000Z",
-   "a": {
-    "name": "Team Nemesis Academy",
-    "short": "NMSS.Ac",
-    "logo": "https://api.citoapi.com/img/m/Af0maqtN3RL7kxsdr-jqgG1FSKEs-DhII6n34OGEY1IMfLrapmJ2pUL511R3hqx8urLqXf22d3_TeO-UD3q3B_qQGzoia-XYWerHVitOVvmkkuImIGtDamjCK4OJZLJmZIc-pRYu1pQP-J3Im2yTuH3QloDAIlQlitsljOKVhrzkswc.webp"
-   },
-   "b": {
-    "name": "Yangon Galacticos",
-    "short": "YG",
-    "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "EPL World Series: Southeast Asia Season 20",
-   "bestOf": 3
-  },
-  {
    "id": "663787",
    "at": "2026-11-15T10:00:00.000Z",
    "a": {
@@ -3403,25 +3289,6 @@
    "sb": 0,
    "status": "completed",
    "event": "European Pro League Season 41",
-   "bestOf": 3
-  },
-  {
-   "id": "663816",
-   "at": "2026-11-15T13:00:00.000Z",
-   "a": {
-    "name": "Execration",
-    "short": "XctN",
-    "logo": "https://api.citoapi.com/img/m/ASz2nJNMigAaWPq-sLq5i-uqDHOSSaqmkOfBiaotaiDPUQSITpBWi3jFJ8QMRVl3Ux_hZ-V2K8NU1owfMFV_ks0JFuByZfjL0GejeuzrxPXalArBXlXLo-44340z-TVjWaRoyDNgbiEGBYVBiPiuptibri4ORnL_PgF39Y_4zCZa_g.png"
-   },
-   "b": {
-    "name": "Yangon Galacticos",
-    "short": "YG",
-    "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "EPL World Series: Southeast Asia Season 20",
    "bestOf": 3
   },
   {
@@ -3551,9 +3418,9 @@
     "short": "Resp",
     "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 20",
    "bestOf": 3
   },
@@ -3570,11 +3437,220 @@
     "short": "YG",
     "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
    },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 20",
+   "bestOf": 3
+  },
+  {
+   "id": "663802",
+   "at": "2026-11-16T10:00:00.000Z",
+   "a": {
+    "name": "Cloud of Hope",
+    "short": "CoH",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Ryvex Esports",
+    "short": "Ryvex",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 20",
+   "bestOf": 3
+  },
+  {
+   "id": "663429",
+   "at": "2026-11-16T10:00:00.000Z",
+   "a": {
+    "name": "DO KONCA",
+    "short": "DO KONCA",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Froglings",
+    "short": "Frog",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663846",
+   "at": "2026-11-16T13:00:00.000Z",
+   "a": {
+    "name": "Interactive Philippines",
+    "short": "IAP",
+    "logo": "https://api.citoapi.com/img/m/ASWwi5oGGfUP1FVjlnhuJmn5nhyQioY0iy7V1yyWRxqXYabc_jIOQbSWDsKjghxqSWCyMjgetXhe3RcHliGvJExoPauUg2UXhLakgjrfS_dULA_BHQh69lEUc90hjpkcTXKrTzI2aiiT-VUJgzVdXFlhrePRfPsvMxWD_Z1emFCDR_8.webp"
+   },
+   "b": {
+    "name": "Power Rangers",
+    "short": "PWR",
+    "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "European Pro League Season 41",
+   "bestOf": 3
+  },
+  {
+   "id": "663783",
+   "at": "2026-11-16T13:45:00.000Z",
+   "a": {
+    "name": "Froglings",
+    "short": "Frog",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Inner Circle x Insanity",
+    "short": "INC",
+    "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": null
+  },
+  {
+   "id": "663428",
+   "at": "2026-11-16T14:00:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL",
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
+   },
+   "b": {
+    "name": "LGD Gaming",
+    "short": "LGD",
+    "logo": "https://api.citoapi.com/img/m/Aap2dPA_mLOKcrxIIEo6Adhs2oTnqXJTy1ix_A7aYgtRqyGeRaf4gchR_CfNZTjtVJT_EZhBezk9navVfIRsA7TIRYYw0XBlP31YwWG-fnz56wiNt4_4H0TK3g7zC7ylAWajHc8dnP6m_8B0rXBectRDDR8IxCLRyY1lwmuG7SJs1U4.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": null
+  },
+  {
+   "id": "663416",
+   "at": "2026-11-16T16:00:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI",
+    "logo": "https://api.citoapi.com/img/m/AVZ3G1j2Aev2XywuZMSJUKDmLznTov0Zu0A_tdE7WMVDeJQPOqawlddYv5YmL23SbF0tfqPi_JCZXwZDSCarcJ4-FeD-9XgVqTnfHFhzMZ88CY3Aru0WgrCoVeS7rMh-mv5iXVzjUojnyrgR8VRm_cnz5O0fvkHMvV2f5DNpz1GLPEI.webp"
+   },
+   "b": {
+    "name": "Team Spirit",
+    "short": "TSpirit",
+    "logo": "https://api.citoapi.com/img/m/ATIPGfc6Hza8LXSJKnFHMaxcI3vys34QnAh8fQfKHB-mVa7f4oMWNMRaIE6jsR33zyV7pkulRqReURi3EIAiS1x5bCAUyOLp5SjNcGOe_EXC10bMHNMuj_jx8xSP5gwpbYlFrkYXDNVIQor7EE6XlkP6svw3745Sjm0wypSXzZ6iCD4.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "663843",
+   "at": "2026-11-16T16:00:00.000Z",
+   "a": {
+    "name": "PuckChamp",
+    "short": "PuckChamp",
+    "logo": "https://api.citoapi.com/img/m/AdH8Fa28RhAyO1KHP1c51kbDUuR2Hj2OWezcLoCe44DSIKtsWkGCnDGxOIRHBG0tYFjPvw7kLIUOR07dw6JC939-IXcHZrG6e--tbGPNHsEpcsftoMcuV3KefQPmxmqxHIhQCLaoN0FGw6OH9Zq44sfis6ZXzptoaHGvkIk62FrISA.png"
+   },
+   "b": {
+    "name": "Team Synapse",
+    "short": "Synapse",
+    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "European Pro League Season 41",
+   "bestOf": 3
+  },
+  {
+   "id": "663789",
+   "at": "2026-11-16T17:00:00.000Z",
+   "a": {
+    "name": "PlayTime",
+    "short": "PTime",
+    "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
+   },
+   "b": {
+    "name": "Zero Tenacity",
+    "short": "Z10",
+    "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": null
+  },
+  {
+   "id": "663417",
+   "at": "2026-11-16T19:00:00.000Z",
+   "a": {
+    "name": "Aurora Gaming",
+    "short": "AUR",
+    "logo": "https://api.citoapi.com/img/m/AeDP1zSodg_70QRZBSswZn-bzGuCVLd8TyKOwnNZFP6KaPZ-gRvOZPHjgxq2sCSDY1Em7xyKCcAe1-Ny0AFxo__IjO2xThBS1NwdMXo7J1K1P46zhUQfjyQsLnVTNcloBiOD2zmyKZStqn3iuSTVP3lxLrT0r66GI3Cm8ONwPH05e_I.webp"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "1win Essence III",
+   "bestOf": null
+  },
+  {
+   "id": "663822",
+   "at": "2026-11-17T04:00:00.000Z",
+   "a": {
+    "name": "Team Nemesis Academy",
+    "short": "NMSS.Ac",
+    "logo": "https://api.citoapi.com/img/m/Af0maqtN3RL7kxsdr-jqgG1FSKEs-DhII6n34OGEY1IMfLrapmJ2pUL511R3hqx8urLqXf22d3_TeO-UD3q3B_qQGzoia-XYWerHVitOVvmkkuImIGtDamjCK4OJZLJmZIc-pRYu1pQP-J3Im2yTuH3QloDAIlQlitsljOKVhrzkswc.webp"
+   },
+   "b": {
+    "name": "Ryvex Esports",
+    "short": "Ryvex",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
    "sa": null,
    "sb": null,
    "status": "upcoming",
    "event": "EPL World Series: Southeast Asia Season 20",
-   "bestOf": 3
+   "bestOf": null
+  },
+  {
+   "id": "663813",
+   "at": "2026-11-17T07:00:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn",
+    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
+   },
+   "b": {
+    "name": "Ryvex Esports",
+    "short": "Ryvex",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 20",
+   "bestOf": null
   },
   {
    "id": "663796",
@@ -3588,6 +3664,63 @@
     "name": "Cloud Rising",
     "short": "CR",
     "logo": "https://api.citoapi.com/img/m/AT9W7xn-NdGaul-qDoRinU7sU9bs5ZhusAjXdlh2LaT_uJpVvG6sZK_0b-quW5iQaS6l6WBb9lvJOOgPIk4k7xv4v_JrLxAarOPfdMKi2WBm565wqHFYpzZYWuyeOKWt9hLN2V7Qkpbrh3urNARQe9V4Hk9F28WSFHWEj-PF2MWFDbk.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 20",
+   "bestOf": null
+  },
+  {
+   "id": "663821",
+   "at": "2026-11-17T13:00:00.000Z",
+   "a": {
+    "name": "Team Nemesis Academy",
+    "short": "NMSS.Ac",
+    "logo": "https://api.citoapi.com/img/m/Af0maqtN3RL7kxsdr-jqgG1FSKEs-DhII6n34OGEY1IMfLrapmJ2pUL511R3hqx8urLqXf22d3_TeO-UD3q3B_qQGzoia-XYWerHVitOVvmkkuImIGtDamjCK4OJZLJmZIc-pRYu1pQP-J3Im2yTuH3QloDAIlQlitsljOKVhrzkswc.webp"
+   },
+   "b": {
+    "name": "Yangon Galacticos",
+    "short": "YG",
+    "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 20",
+   "bestOf": 3
+  },
+  {
+   "id": "663803",
+   "at": "2026-11-20T07:00:00.000Z",
+   "a": {
+    "name": "Cloud Rising",
+    "short": "CR",
+    "logo": "https://api.citoapi.com/img/m/AT9W7xn-NdGaul-qDoRinU7sU9bs5ZhusAjXdlh2LaT_uJpVvG6sZK_0b-quW5iQaS6l6WBb9lvJOOgPIk4k7xv4v_JrLxAarOPfdMKi2WBm565wqHFYpzZYWuyeOKWt9hLN2V7Qkpbrh3urNARQe9V4Hk9F28WSFHWEj-PF2MWFDbk.webp"
+   },
+   "b": {
+    "name": "Direborn Esports",
+    "short": "Direborn",
+    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "EPL World Series: Southeast Asia Season 20",
+   "bestOf": 3
+  },
+  {
+   "id": "663816",
+   "at": "2026-11-21T07:00:00.000Z",
+   "a": {
+    "name": "Execration",
+    "short": "XctN",
+    "logo": "https://api.citoapi.com/img/m/ASz2nJNMigAaWPq-sLq5i-uqDHOSSaqmkOfBiaotaiDPUQSITpBWi3jFJ8QMRVl3Ux_hZ-V2K8NU1owfMFV_ks0JFuByZfjL0GejeuzrxPXalArBXlXLo-44340z-TVjWaRoyDNgbiEGBYVBiPiuptibri4ORnL_PgF39Y_4zCZa_g.png"
+   },
+   "b": {
+    "name": "Yangon Galacticos",
+    "short": "YG",
+    "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
    },
    "sa": null,
    "sb": null,

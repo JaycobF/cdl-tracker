@@ -1,85 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-15T06:59:45.158Z",
- "upcomingFetched": "2026-11-15T06:59:45.158Z",
+ "updated": "2026-11-16T14:01:22.111Z",
+ "upcomingFetched": "2026-11-16T14:01:22.111Z",
  "recentFetched": "2026-11-15T06:59:45.158Z",
  "matches": [
-  {
-   "id": "lol-match-115660540726095045",
-   "at": "2026-10-25T17:00:00.000Z",
-   "a": {
-    "name": "Hanwha Life Esports",
-    "short": "HLE",
-    "logo": "https://api.citoapi.com/img/m/AQlI-Ixe9cUveqRXP6Lw1rVZfrqU1_e_ctKnkCmjS70-x7esW98JgLWg4prOvtM6YadGh7OOx7qqD_0fAE_Qfd2rtFe7bQDdQpceVXB_AZq-jFfuAYmHAAF6daQgd1wWLFE.png"
-   },
-   "b": {
-    "name": "Invictus Gaming",
-    "short": "IG",
-    "logo": "https://api.citoapi.com/img/m/AURRsKJqMCC_FTnzkx2zj3N4TNyWuNk-atimvzwb9LfXrhfMbtBpRHJ_ljFPf9bKSOk9fXSFJbOAZqVgSavE8fMZHMJLU8utSXnJ0X_sUCyS-I603h2lb1o02sngfLDlnfuNFKeGzYQclINUQQ.png"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 1
-  },
-  {
-   "id": "lol-match-115660540726095047",
-   "at": "2026-10-25T18:00:00.000Z",
-   "a": {
-    "name": "TOP ESPORTS",
-    "short": "TES",
-    "logo": "https://api.citoapi.com/img/m/AegxIiYXYZTSbvpVzaQUYHimjATzAc9HzIAnGQ32mTrT82f49IKFN0Y5fc20tibAHlgbu3J1IcryrXen99Icr4xm9JPR73X4aLUkulfpydRKqa8su3BHw4ZB6wUntaSbsK8p38vqO6J1_j9DDUg.png"
-   },
-   "b": {
-    "name": "G2 Esports",
-    "short": "G2",
-    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 1
-  },
-  {
-   "id": "lol-match-115660540726095037",
-   "at": "2026-10-25T19:00:00.000Z",
-   "a": {
-    "name": "Movistar KOI",
-    "short": "MKOI",
-    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
-   },
-   "b": {
-    "name": "Dplus KIA",
-    "short": "DK",
-    "logo": "https://api.citoapi.com/img/m/AQL6UPnsf_7hTdDoilOFMhZZcL9i1s2-PCKYkkbxay3mC1mSmDor1AJ0d_Xnotw2U4kfK_tG_C8LHNMu138mO7XeQQDg0OAtCXqvuVlFvZ2Ei4hK3ROBr2vPPGlie5KuiA.png"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "lol-match-115660540726095041",
-   "at": "2026-10-25T21:00:00.000Z",
-   "a": {
-    "name": "Gen.G Esports",
-    "short": "GEN",
-    "logo": "https://api.citoapi.com/img/m/AQwSpx6OtprKg6YK2qL1tIXauo6g3bOoiYHFDEzmdZIx8lrS41I_SbIa0sVMr-N-QG-Yqx21ywQtgsafzt0rLkVs0tZrBxACP3cqxRN5vnh9x7962volHQc896rhzXC-.png"
-   },
-   "b": {
-    "name": "LYON",
-    "short": "LYON",
-    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
-   },
-   "sa": 2,
-   "sb": 1,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 3
-  },
   {
    "id": "lol-match-115660540726095049",
    "at": "2026-10-26T17:00:00.000Z",
