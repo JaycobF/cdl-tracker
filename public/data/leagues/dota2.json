@@ -1,28 +1,9 @@
 {
  "id": "dota2",
- "updated": "2026-11-17T14:30:00.784Z",
+ "updated": "2026-11-17T22:36:44.698Z",
  "upcomingFetched": "2026-11-17T14:30:00.784Z",
- "recentFetched": "2026-11-17T14:30:00.784Z",
+ "recentFetched": "2026-11-17T22:36:44.698Z",
  "matches": [
-  {
-   "id": "663311",
-   "at": "2026-10-27T16:00:00.000Z",
-   "a": {
-    "name": "BetBoom Team",
-    "short": "BetBoom",
-    "logo": "https://static.gosugamers.net/dc/e7/aa/220f66d7ef6da7c8b7411c395ea3f34215497aefc94f8236cf3fc891df.webp"
-   },
-   "b": {
-    "name": "LEGION",
-    "short": "LEGION",
-    "logo": "https://static.gosugamers.net/09/6a/fe/67d3ff785af8794bc361dd8eb70203f4929755fa548ed2b3ae6e2ed765.webp"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 1
-  },
   {
    "id": "663148",
    "at": "2026-10-28T04:00:00.000Z",
@@ -3617,7 +3598,7 @@
    },
    "sa": null,
    "sb": null,
-   "status": "live",
+   "status": "completed",
    "event": "Ultras Dota Pro League 2026-2027 Season 60",
    "bestOf": 3
   },
@@ -3634,7 +3615,7 @@
    },
    "sa": null,
    "sb": null,
-   "status": "live",
+   "status": "completed",
    "event": "Mad Dogs League 2026 Season 51",
    "bestOf": 3
   },
@@ -3651,7 +3632,7 @@
    },
    "sa": null,
    "sb": null,
-   "status": "live",
+   "status": "completed",
    "event": "Destiny League 2026 Season 56",
    "bestOf": 3
   },
@@ -3668,7 +3649,7 @@
    },
    "sa": null,
    "sb": null,
-   "status": "live",
+   "status": "completed",
    "event": "Destiny League 2026 Season 56",
    "bestOf": 3
   },
@@ -3708,7 +3689,7 @@
    "sb": 2,
    "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 20",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663427",
@@ -3727,7 +3708,7 @@
    "sb": 0,
    "status": "completed",
    "event": "1win Essence III",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663821",
@@ -3742,11 +3723,11 @@
     "short": "YG",
     "logo": "https://api.citoapi.com/img/m/AcW8q8Kd0C25nWgtrqFoD61a8A01Il8ILqh5ujS76UP3Kyl2SJ49dV2jZNB0DA7crIg8Ez4CqWnnBEMkkgs9vNlDNnNS1c5cbXEO7u5a69dFJansXdinm4nXBRI-TqyyilJYNe9DF7xUEPw1tP2JjJ1Y2AUuIe_19d_Xf7oakTh_esU.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "EPL World Series: Southeast Asia Season 20",
-   "bestOf": 3
+   "bestOf": null
   },
   {
    "id": "663831",
@@ -3761,9 +3742,9 @@
     "short": "4iki",
     "logo": "https://api.citoapi.com/img/m/AREuA4QsEc8TQu4gatsZ0eUminWc-dgNl8E2E44fNH8tVYpXKstE3B-qZ_5Ea_b8lfZuMutU_HcKCfXSrMU4PlRT6jTyTWIb6L_WNoUB4xAamAGrvTH0vt58eNZxIh6ABvppP7eqz2SXBiFqi84g7r4CSSHEwII7fw0nAfHYXq0SoM8.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "European Pro League Season 41",
    "bestOf": 3
   },
@@ -3780,10 +3761,29 @@
     "short": "LGD",
     "logo": "https://api.citoapi.com/img/m/Aap2dPA_mLOKcrxIIEo6Adhs2oTnqXJTy1ix_A7aYgtRqyGeRaf4gchR_CfNZTjtVJT_EZhBezk9navVfIRsA7TIRYYw0XBlP31YwWG-fnz56wiNt4_4H0TK3g7zC7ylAWajHc8dnP6m_8B0rXBectRDDR8IxCLRyY1lwmuG7SJs1U4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-cd54f7810a",
+   "at": "2026-11-17T13:00:00.000Z",
+   "a": {
+    "name": "Team Lynx",
+    "short": "Lynx",
+    "logo": "https://api.citoapi.com/img/m/AShBQq-4V2I8llsgMv2kOu-6_jU-SWpBY4tHPLHfzvNV8WI1G7f7tznqB4Hk8otvat-So71-i0kB1g5idtAp64pgMeQIp9BdV40jz1ApprakqFPt6iagA01tSU6EYLOH_ylVrJOvivCnDQBrLH_dpuuFtQ3Ob_E_qaUhlSKJOBr5898.webp"
+   },
+   "b": {
+    "name": "Team Synapse",
+    "short": "Synapse",
+    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Asgard Championship Season 2",
    "bestOf": 3
   },
   {
@@ -3799,10 +3799,44 @@
     "short": "Nemiga",
     "logo": "https://api.citoapi.com/img/m/ARApd3ldWFfRfe7Wv67lhqvD9BHYb1F7RhfZC4UbyEQelZifNTaiuXr0W1Oyn76-X_qcI8zN75QoRSfB0wJhT0BhpgKVx83JJucHnl2iiLRNCZSKuYXm8rKOngkbQOSbjmVdJp4eXEnLz9Juwhf8m70b--K4OinyLuX0eAQuUgHSyw.png"
    },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-bb7078af77",
+   "at": "2026-11-17T15:00:00.000Z",
+   "a": {
+    "name": "Nethercore",
+    "short": ""
+   },
+   "b": {
+    "name": "Air Defence",
+    "short": ""
+   },
    "sa": null,
    "sb": null,
-   "status": "upcoming",
-   "event": "DreamLeague Division 2 Series 5",
+   "status": "completed",
+   "event": "Ultras Dota Pro League 2026-2027 Season 60",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-7553944853",
+   "at": "2026-11-17T15:00:00.000Z",
+   "a": {
+    "name": "Nova Pulse",
+    "short": ""
+   },
+   "b": {
+    "name": "The Last Titan",
+    "short": ""
+   },
+   "sa": null,
+   "sb": null,
+   "status": "completed",
+   "event": "Destiny League 2026 Season 56",
    "bestOf": 3
   },
   {
@@ -3826,7 +3860,7 @@
   },
   {
    "id": "663418",
-   "at": "2026-11-17T16:00:00.000Z",
+   "at": "2026-11-17T16:30:00.000Z",
    "a": {
     "name": "Team Spirit",
     "short": "TSpirit",
@@ -3837,9 +3871,9 @@
     "short": "AUR",
     "logo": "https://api.citoapi.com/img/m/AeDP1zSodg_70QRZBSswZn-bzGuCVLd8TyKOwnNZFP6KaPZ-gRvOZPHjgxq2sCSDY1Em7xyKCcAe1-Ny0AFxo__IjO2xThBS1NwdMXo7J1K1P46zhUQfjyQsLnVTNcloBiOD2zmyKZStqn3iuSTVP3lxLrT0r66GI3Cm8ONwPH05e_I.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "1win Essence III",
    "bestOf": 3
   },
@@ -3856,10 +3890,63 @@
     "short": "PTime",
     "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
    },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-0f2d630eea",
+   "at": "2026-11-17T17:00:00.000Z",
+   "a": {
+    "name": "Freedom Fighters Team",
+    "short": ""
+   },
+   "b": {
+    "name": "Moonlight Wispers",
+    "short": ""
+   },
+   "sa": null,
+   "sb": 2,
+   "status": "completed",
+   "event": "Mad Dogs League 2026 Season 51",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-16b95a6bc2",
+   "at": "2026-11-17T17:00:00.000Z",
+   "a": {
+    "name": "Kirin",
+    "short": ""
+   },
+   "b": {
+    "name": "Blink Dagger Club",
+    "short": ""
+   },
    "sa": null,
    "sb": null,
-   "status": "upcoming",
-   "event": "DreamLeague Division 2 Series 5",
+   "status": "completed",
+   "event": "Ultras Dota Pro League 2026-2027 Season 60",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-da74810e76",
+   "at": "2026-11-17T17:00:00.000Z",
+   "a": {
+    "name": "Team Spirit Academy",
+    "short": " TS.Ac",
+    "logo": "https://api.citoapi.com/img/m/AYEiVS4Rt8iPlKv2ZrNTtxONjZ_IZ3lpwc9W7fxRNJswepmd7MO3lcYZaDjw296mBczCDagToJRTAd6ZDqYTJj3cvACuH_Pv_j1o9gL1WLQ-_RphzpG6xQG4xqtPthda4Hepb5rD_zhaD2dLeNjR8RhW0tqYkCSmEdlVcWFIVb7uajg.webp"
+   },
+   "b": {
+    "name": "Angry Birds",
+    "short": "Angry",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "Asgard Championship Season 2",
    "bestOf": 3
   },
   {
@@ -3875,10 +3962,99 @@
     "short": "potn9ki",
     "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
    },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "European Pro League Season 41",
+   "bestOf": 3
+  },
+  {
+   "id": "663425",
+   "at": "2026-11-17T19:00:00.000Z",
+   "a": {
+    "name": "LGD Gaming",
+    "short": "LGD",
+    "logo": "https://api.citoapi.com/img/m/Aap2dPA_mLOKcrxIIEo6Adhs2oTnqXJTy1ix_A7aYgtRqyGeRaf4gchR_CfNZTjtVJT_EZhBezk9navVfIRsA7TIRYYw0XBlP31YwWG-fnz56wiNt4_4H0TK3g7zC7ylAWajHc8dnP6m_8B0rXBectRDDR8IxCLRyY1lwmuG7SJs1U4.webp"
+   },
+   "b": {
+    "name": "PARIVISION",
+    "short": "PARI",
+    "logo": "https://api.citoapi.com/img/m/AVZ3G1j2Aev2XywuZMSJUKDmLznTov0Zu0A_tdE7WMVDeJQPOqawlddYv5YmL23SbF0tfqPi_JCZXwZDSCarcJ4-FeD-9XgVqTnfHFhzMZ88CY3Aru0WgrCoVeS7rMh-mv5iXVzjUojnyrgR8VRm_cnz5O0fvkHMvV2f5DNpz1GLPEI.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "1win Essence III",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-2bd14dd68d",
+   "at": "2026-11-17T19:00:00.000Z",
+   "a": {
+    "name": "Xipto Esports",
+    "short": "Xipto",
+    "logo": "https://api.citoapi.com/img/m/Ae511ww7sy0cPYbQhbZKwOwRc3td338NQ9dDcAphRXRO_0E9FgZXF6eX4R4kM-DqIJDtZPOepYXTpKeLh81kVRWNqn8kTwxFfjIckN8nKzkDMxyl0FDKSBcbnX7cxs027vZ0e4XwoUd-f-O0g8oMBIH3FyCstFTyUo84F2-PZkCkIqQ.webp"
+   },
+   "b": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "live",
+   "event": "Asgard Championship Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-cdc8a657ec",
+   "at": "2026-11-17T20:00:00.000Z",
+   "a": {
+    "name": "Prime Legion",
+    "short": ""
+   },
+   "b": {
+    "name": "Project Achilles",
+    "short": ""
+   },
+   "sa": 2,
+   "sb": null,
+   "status": "completed",
+   "event": "Mad Dogs League 2026 Season 51",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-a7512b7bb3",
+   "at": "2026-11-17T20:00:00.000Z",
+   "a": {
+    "name": "FALL VICTIMS",
+    "short": ""
+   },
+   "b": {
+    "name": "Real Eclipse",
+    "short": ""
+   },
+   "sa": 1,
+   "sb": null,
+   "status": "completed",
+   "event": "Dota 2 Space League 2026 Season 77",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-0834cd1b00",
+   "at": "2026-11-17T22:00:00.000Z",
+   "a": {
+    "name": "Vertex Pack",
+    "short": ""
+   },
+   "b": {
+    "name": "Silent killer",
+    "short": ""
+   },
    "sa": null,
    "sb": null,
-   "status": "upcoming",
-   "event": "European Pro League Season 41",
+   "status": "live",
+   "event": "Dota 2 Space League 2026 Season 77",
    "bestOf": 3
   },
   {
