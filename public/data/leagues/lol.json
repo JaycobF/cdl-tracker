@@ -1,28 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-17T14:30:00.784Z",
- "upcomingFetched": "2026-11-17T14:30:00.784Z",
+ "updated": "2026-11-18T21:10:28.165Z",
+ "upcomingFetched": "2026-11-18T21:10:28.165Z",
  "recentFetched": "2026-11-15T06:59:45.158Z",
  "matches": [
-  {
-   "id": "lol-match-115660540726095061",
-   "at": "2026-10-28T20:00:00.000Z",
-   "a": {
-    "name": "Movistar KOI",
-    "short": "MKOI",
-    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
-   },
-   "b": {
-    "name": "T1",
-    "short": "T1",
-    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 3
-  },
   {
    "id": "lol-match-115660540726095065",
    "at": "2026-10-28T22:00:00.000Z",
