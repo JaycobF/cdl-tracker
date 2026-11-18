@@ -1,5 +1,5 @@
 {
- "at": "2026-11-17T22:36:44.698Z",
+ "at": "2026-11-18T12:45:51.265Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -184,6 +184,43 @@
        "games"
       ],
       "nested": {
+       "tournament": [
+        "id",
+        "name",
+        "slug",
+        "imageUrl",
+        "prizePool",
+        "currency",
+        "startsAt",
+        "endsAt",
+        "status",
+        "source",
+        "lastSyncedAt"
+       ],
+       "team1": [
+        "id",
+        "name",
+        "tag",
+        "slug",
+        "imageUrl",
+        "countryName",
+        "countryCode",
+        "worldRanking",
+        "source",
+        "lastSyncedAt"
+       ],
+       "team2": [
+        "id",
+        "name",
+        "tag",
+        "slug",
+        "imageUrl",
+        "countryName",
+        "countryCode",
+        "worldRanking",
+        "source",
+        "lastSyncedAt"
+       ],
        "games": [
         "[array]",
         "id",

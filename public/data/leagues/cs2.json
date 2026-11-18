@@ -1,45 +1,9 @@
 {
  "id": "cs2",
- "updated": "2026-11-17T22:36:44.698Z",
+ "updated": "2026-11-18T12:45:51.265Z",
  "upcomingFetched": "2026-11-17T14:30:00.784Z",
- "recentFetched": "2026-11-17T22:36:44.698Z",
+ "recentFetched": "2026-11-18T12:45:51.265Z",
  "matches": [
-  {
-   "id": "cs2-match-2400081",
-   "at": "2026-11-05T01:05:43.000Z",
-   "a": {
-    "name": "BESTIA Academy",
-    "short": "BA",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8f39c7d36daa0eab00a753a0540bf017.webp"
-   },
-   "b": {
-    "name": "Mira",
-    "short": "MIRA"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 South America Series 8",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400221",
-   "at": "2026-11-05T08:50:00.000Z",
-   "a": {
-    "name": "Bebop",
-    "short": "BEBOP"
-   },
-   "b": {
-    "name": "megoshort",
-    "short": "MEGOSHOR",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4ad5f1da682f1504a4933cc6526b08ed.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
-   "bestOf": 3
-  },
   {
    "id": "cs2-match-2400060",
    "at": "2026-11-05T09:00:00.000Z",
@@ -6645,7 +6609,7 @@
   },
   {
    "id": "cs2-match-2400285",
-   "at": "2026-11-17T15:20:00.000Z",
+   "at": "2026-11-17T16:59:52.000Z",
    "a": {
     "name": "Ninjas in Pyjamas",
     "short": "NIP",
@@ -6663,8 +6627,27 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400423",
+   "at": "2026-11-17T17:11:00.000Z",
+   "a": {
+    "name": "magic",
+    "short": "MAGIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b7af379661a8e04f6ebc442f39434735.webp"
+   },
+   "b": {
+    "name": "fnatic",
+    "short": "FNATIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e26b4bd4a6b227b915b37099294d35a4.svg"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "PGL Cluj-Napoca 2027 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400261",
-   "at": "2026-11-17T15:25:00.000Z",
+   "at": "2026-11-17T17:14:13.000Z",
    "a": {
     "name": "Hype Tech",
     "short": "HYPETECH"
@@ -6681,22 +6664,22 @@
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400423",
-   "at": "2026-11-17T15:30:00.000Z",
+   "id": "cs2-match-2400262",
+   "at": "2026-11-17T18:00:00.000Z",
    "a": {
-    "name": "magic",
-    "short": "MAGIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b7af379661a8e04f6ebc442f39434735.webp"
+    "name": "Nexus",
+    "short": "NEXUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11466876c9cc1b308d5f8309f078393a.webp"
    },
    "b": {
-    "name": "fnatic",
-    "short": "FNATIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/e26b4bd4a6b227b915b37099294d35a4.svg"
+    "name": "Walczaki",
+    "short": "WALCZAKI",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/60d1ef683fdb3e0b77e2d0ecd9da6207.webp"
    },
-   "sa": 0,
-   "sb": 2,
+   "sa": 2,
+   "sb": 0,
    "status": "completed",
-   "event": "PGL Cluj-Napoca 2027 Closed Qualifier",
+   "event": "CCT 2026 Europe Series 14",
    "bestOf": 3
   },
   {
@@ -6738,44 +6721,6 @@
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400521",
-   "at": "2026-11-17T19:00:00.000Z",
-   "a": {
-    "name": "Envy",
-    "short": "ENVY",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/7247afa0b91e9aea7d492deb8f06fa90.svg"
-   },
-   "b": {
-    "name": "Metizport",
-    "short": "METIZPOR",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/454642d5b2a1bdea9abae04327bd2c5e.webp"
-   },
-   "sa": 2,
-   "sb": 1,
-   "status": "completed",
-   "event": "Tipsport RUSH Brno 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400262",
-   "at": "2026-11-17T19:33:58.000Z",
-   "a": {
-    "name": "Nexus",
-    "short": "NEXUS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11466876c9cc1b308d5f8309f078393a.webp"
-   },
-   "b": {
-    "name": "Walczaki",
-    "short": "WALCZAKI",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/60d1ef683fdb3e0b77e2d0ecd9da6207.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 14",
-   "bestOf": 3
-  },
-  {
    "id": "cs2-match-2400286",
    "at": "2026-11-17T20:37:16.000Z",
    "a": {
@@ -6813,21 +6758,40 @@
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400403",
-   "at": "2026-11-18T09:00:00.000Z",
+   "id": "cs2-match-2400521",
+   "at": "2026-11-17T21:47:06.000Z",
    "a": {
-    "name": "Balkan Outlaws",
-    "short": "BO"
+    "name": "Envy",
+    "short": "ENVY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/7247afa0b91e9aea7d492deb8f06fa90.svg"
    },
    "b": {
-    "name": "PCIFIC",
-    "short": "PCIFIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
+    "name": "Metizport",
+    "short": "METIZPOR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/454642d5b2a1bdea9abae04327bd2c5e.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "European Pro League Series 10",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Tipsport RUSH Brno 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400357",
+   "at": "2026-11-18T10:37:36.000Z",
+   "a": {
+    "name": "NT",
+    "short": "NT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c9ed4ead309c4ae64bff189a4387df23.webp"
+   },
+   "b": {
+    "name": "ex-RUSTEC",
+    "short": "EXRUSTEC"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
    "bestOf": 3
   },
   {
@@ -6846,6 +6810,43 @@
    "sa": null,
    "sb": null,
    "status": "upcoming",
+   "event": "European Pro League Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400522",
+   "at": "2026-11-18T11:51:40.000Z",
+   "a": {
+    "name": "Nexus",
+    "short": "NEXUS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/11466876c9cc1b308d5f8309f078393a.webp"
+   },
+   "b": {
+    "name": "Iberian Soul",
+    "short": "IS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3e4a7c929a4caa5f376eccf0ac007e8a.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Tipsport RUSH Brno 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400403",
+   "at": "2026-11-18T11:56:17.000Z",
+   "a": {
+    "name": "Balkan Outlaws",
+    "short": "BO"
+   },
+   "b": {
+    "name": "PCIFIC",
+    "short": "PCIFIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/31173c1ac3ac276ed19e41d804ef8fdc.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "European Pro League Series 10",
    "bestOf": 3
   },
