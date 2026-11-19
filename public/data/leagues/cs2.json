@@ -1,64 +1,9 @@
 {
  "id": "cs2",
- "updated": "2026-11-19T10:46:36.311Z",
+ "updated": "2026-11-19T19:24:34.657Z",
  "upcomingFetched": "2026-11-18T21:10:28.165Z",
- "recentFetched": "2026-11-19T10:46:36.311Z",
+ "recentFetched": "2026-11-19T19:24:34.657Z",
  "matches": [
-  {
-   "id": "cs2-match-2400131",
-   "at": "2026-11-06T14:31:31.000Z",
-   "a": {
-    "name": "6yuBoJlbl",
-    "short": "6YUBOJLB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49f2b6b03c3f8e8f538a2a1302270e4d.png"
-   },
-   "b": {
-    "name": "PsychoFace",
-    "short": "PSYCHOFA"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400297",
-   "at": "2026-11-06T15:00:00.000Z",
-   "a": {
-    "name": "Johnny Speeds",
-    "short": "JS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8a19aeb7d6d4dffb81b302211c1f1d26.webp"
-   },
-   "b": {
-    "name": "BASEMENT BOYS",
-    "short": "BB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9437604732f8a7f6b9217dc56ffe3ce3.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "NODWIN Clutch Series 14 Closed Qualifier",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400130",
-   "at": "2026-11-06T15:00:00.000Z",
-   "a": {
-    "name": "Gothic",
-    "short": "GOTHIC"
-   },
-   "b": {
-    "name": "Inner Circle Academy",
-    "short": "ICA",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/d3124f1e28ee719a7135848bba0dfb74.webp"
-   },
-   "sa": 0,
-   "sb": 1,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13",
-   "bestOf": 3
-  },
   {
    "id": "cs2-match-2400215",
    "at": "2026-11-06T15:25:00.000Z",
@@ -5763,6 +5708,25 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400167",
+   "at": "2026-11-16T17:00:00.000Z",
+   "a": {
+    "name": "Virtus.pro",
+    "short": "VP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/68db9c499141e90866a92cea2d99e411.svg"
+   },
+   "b": {
+    "name": "PRIVATE",
+    "short": "PRIVATE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/71d0681b351ba97495d2e9a229ba2507.webp"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 13",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400353",
    "at": "2026-11-16T17:51:48.000Z",
    "a": {
@@ -5798,25 +5762,6 @@
    "sb": 0,
    "status": "completed",
    "event": "CCT 2026 Europe Series 14",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400167",
-   "at": "2026-11-16T18:42:30.000Z",
-   "a": {
-    "name": "Virtus.pro",
-    "short": "VP",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/68db9c499141e90866a92cea2d99e411.svg"
-   },
-   "b": {
-    "name": "PRIVATE",
-    "short": "PRIVATE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/71d0681b351ba97495d2e9a229ba2507.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13",
    "bestOf": 3
   },
   {
@@ -6544,10 +6489,46 @@
     "short": "KUUSAMO",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/692f623a2a97de9e5bbc598bb28a9432.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400266",
+   "at": "2026-11-19T09:00:00.000Z",
+   "a": {
+    "name": "33",
+    "short": "33",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
+   },
+   "b": {
+    "name": "ex-RUSTEC",
+    "short": "EXRUSTEC"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400405",
+   "at": "2026-11-19T09:00:00.000Z",
+   "a": {
+    "name": "MAYBE",
+    "short": "MAYBE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
+   },
+   "b": {
+    "name": "ex-INOX",
+    "short": "EXINOX"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "European Pro League Series 10",
    "bestOf": 3
   },
   {
@@ -6563,9 +6544,9 @@
     "short": "IC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9e5e492be07c91a959dee1d876392043.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "Stake Ranked Episode 6",
    "bestOf": 3
   },
@@ -6586,6 +6567,25 @@
    "sb": null,
    "status": "upcoming",
    "event": "European Pro League Series 10",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400445",
+   "at": "2026-11-19T14:25:00.000Z",
+   "a": {
+    "name": "BIG",
+    "short": "BIG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b6b03159d5cd2854818eef78d4060e1b.svg"
+   },
+   "b": {
+    "name": "Ninjas in Pyjamas",
+    "short": "NIP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3d69c0ad0de004529d4b993c4fd9d856.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Stake Ranked Episode 6",
    "bestOf": 3
   },
   {
