@@ -1,5 +1,5 @@
 {
- "at": "2026-11-20T08:57:25.185Z",
+ "at": "2026-11-20T17:42:10.911Z",
  "leagues": {
   "cdl": {
    "ok": true,
@@ -47,7 +47,15 @@
       ],
       "nested": {
        "vetoOrder": [
-        "[array]"
+        "[array]",
+        "map",
+        "order",
+        "action",
+        "teamId",
+        "teamName",
+        "mapName",
+        "mapNumber",
+        "played"
        ],
        "event": [
         "id",
@@ -90,6 +98,8 @@
         "countryName",
         "countryCode",
         "worldRanking",
+        "alternateLogoUrl",
+        "darkUiLogoUrl",
         "worldRankingStatus",
         "vrsRanking",
         "vrsRankingStatus",
