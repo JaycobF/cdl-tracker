@@ -1,7 +1,7 @@
 {
  "id": "dota2",
- "updated": "2026-11-19T19:24:34.657Z",
- "upcomingFetched": "2026-11-18T21:10:28.165Z",
+ "updated": "2026-11-20T01:23:57.150Z",
+ "upcomingFetched": "2026-11-20T01:23:57.150Z",
  "recentFetched": "2026-11-19T19:24:34.657Z",
  "matches": [
   {
@@ -4388,25 +4388,6 @@
    "bestOf": 3
   },
   {
-   "id": "663847",
-   "at": "2026-11-19T10:00:00.000Z",
-   "a": {
-    "name": "Interactive Philippines",
-    "short": "IAP",
-    "logo": "https://api.citoapi.com/img/m/ASWwi5oGGfUP1FVjlnhuJmn5nhyQioY0iy7V1yyWRxqXYabc_jIOQbSWDsKjghxqSWCyMjgetXhe3RcHliGvJExoPauUg2UXhLakgjrfS_dULA_BHQh69lEUc90hjpkcTXKrTzI2aiiT-VUJgzVdXFlhrePRfPsvMxWD_Z1emFCDR_8.webp"
-   },
-   "b": {
-    "name": "Team Synapse",
-    "short": "Synapse",
-    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "European Pro League Season 41",
-   "bestOf": 3
-  },
-  {
    "id": "663806",
    "at": "2026-11-19T10:00:00.000Z",
    "a": {
@@ -4750,6 +4731,177 @@
    "bestOf": 3
   },
   {
+   "id": "663837",
+   "at": "2026-11-20T10:00:00.000Z",
+   "a": {
+    "name": "Team Allied",
+    "short": "Allied",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Inner Circle x Insanity",
+    "short": "INC",
+    "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "European Pro League Season 41",
+   "bestOf": 3
+  },
+  {
+   "id": "661567",
+   "at": "2026-11-20T11:00:00.000Z",
+   "a": {
+    "name": "Team Spirit",
+    "short": "TSpirit",
+    "logo": "https://api.citoapi.com/img/m/ATIPGfc6Hza8LXSJKnFHMaxcI3vys34QnAh8fQfKHB-mVa7f4oMWNMRaIE6jsR33zyV7pkulRqReURi3EIAiS1x5bCAUyOLp5SjNcGOe_EXC10bMHNMuj_jx8xSP5gwpbYlFrkYXDNVIQor7EE6XlkP6svw3745Sjm0wypSXzZ6iCD4.webp"
+   },
+   "b": {
+    "name": "Team Nemesis",
+    "short": "Nemesis",
+    "logo": "https://api.citoapi.com/img/m/Ad37kIpNFACeqlPiPktM7EbZBclvuxW-t3W6BWHbRyH4F-5Pskg5Uc4qyMM0t33ogjRcC-VOvXCBPCevVhtvpnuI7Kp5KmwsNSApnyHBdmyKaormnDb79BlTdT389HgxE-tJkSauYDx0yTTImbkoEUE6hiKxhrakCN3kzehGUhUY3Xk.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST SLAM IX",
+   "bestOf": 3
+  },
+  {
+   "id": "661562",
+   "at": "2026-11-20T11:00:00.000Z",
+   "a": {
+    "name": "Team Yandex",
+    "short": "TY",
+    "logo": "https://api.citoapi.com/img/m/Af_YyGYEKk66gnNi2TmEVaSYv0ySOvVo6KPDI43UD8r7JZQCfhWNZWIkZ0OijYI3ScFJ0Pvd3XbpLNAovux3bbqQi_T9FYbASRRmLH9cV_2MuSOClCKrSn5W3hY-3QDGCqJ7V4RBSEQIGsdzJSSxLu3rzD9wKniXH69NLw_Xih3ALgo.webp"
+   },
+   "b": {
+    "name": "PlayTime",
+    "short": "PTime",
+    "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST SLAM IX",
+   "bestOf": 4
+  },
+  {
+   "id": "663852",
+   "at": "2026-11-20T13:00:00.000Z",
+   "a": {
+    "name": "potn9ki",
+    "short": "potn9ki",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Team Synapse",
+    "short": "Synapse",
+    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "European Pro League Season 41",
+   "bestOf": 3
+  },
+  {
+   "id": "661568",
+   "at": "2026-11-20T14:00:00.000Z",
+   "a": {
+    "name": "GamerLegion",
+    "short": "GL",
+    "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
+   },
+   "b": {
+    "name": "Xtreme Gaming",
+    "short": "XG",
+    "logo": "https://api.citoapi.com/img/m/ASdaB-jTyI9eHWc7rlASpsweGEJEsCf85fGXWqRnOdtcr5iKO2inwDep2qRtczih5iWv1jKMW0rUBthqigwnA7paWrDtLax8ehhz8tsU-KaS-j_S4Brg04n9jJNSDAIomGthmhk9vog0qrJR3U9EgdTeUI4sa0kIL0lgDpwDcj-drKE.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST SLAM IX",
+   "bestOf": 3
+  },
+  {
+   "id": "661563",
+   "at": "2026-11-20T14:00:00.000Z",
+   "a": {
+    "name": "Natus Vincere",
+    "short": "Na`Vi",
+    "logo": "https://api.citoapi.com/img/m/AfGXqq40F7qH5iMsSqY_lehN1tb-7CZ2X6SFzi7Q65DMNZsamELqW5nQMabrkbismVezyVa0_l-s4n_U-aZ5bH_X5ZBtNGPEm0La0H1EoGfhQWsNHzGUhZpWIpIZtymcLb-bK9xqjOQ8kgVh_rqdxJnrUbyI0bPyhjFZP9cSswiDZg.png"
+   },
+   "b": {
+    "name": "OG",
+    "short": "OG",
+    "logo": "https://api.citoapi.com/img/m/AVyjjttvqvTYtMgL1PAMiyODakTVQEGsFf8QnklQCvCiIzXhop8Wci21wGGhdGEXikMg3Xnfv-I8ZpeBLs45BBqpaq1x6mck0f0BOCDkD1pce7guyG4XlZbLxp1O2zKx-cCPJGDTfXcDp9xaziJ5lKQcOxmz8bo69AASW7nYXY9Husw.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST SLAM IX",
+   "bestOf": 3
+  },
+  {
+   "id": "663795",
+   "at": "2026-11-20T15:00:00.000Z",
+   "a": {
+    "name": "Inner Circle x Insanity",
+    "short": "INC",
+    "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
+   },
+   "b": {
+    "name": "CyberHero",
+    "short": "CyberHero",
+    "logo": "https://api.citoapi.com/img/m/AcHkljtkeUhGL-VGfBnUnq1_AOSgyznaK4g7CXUKAgWPGzQmRvc7ZHfIDswUGRk0uEQ5RDBkHNPdsTMvvE8f7pR_X6XADeH_quPOl6mPFdErK7UdZY9KALoDLjrAWge18W-aF_1KoHk-TnrcrIyF5A3NpskiULhM_9FbMyjP6N3Kkg0.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "DreamLeague Division 2 Series 5",
+   "bestOf": 5
+  },
+  {
+   "id": "661572",
+   "at": "2026-11-20T17:00:00.000Z",
+   "a": {
+    "name": "PARIVISION",
+    "short": "PARI",
+    "logo": "https://api.citoapi.com/img/m/AVZ3G1j2Aev2XywuZMSJUKDmLznTov0Zu0A_tdE7WMVDeJQPOqawlddYv5YmL23SbF0tfqPi_JCZXwZDSCarcJ4-FeD-9XgVqTnfHFhzMZ88CY3Aru0WgrCoVeS7rMh-mv5iXVzjUojnyrgR8VRm_cnz5O0fvkHMvV2f5DNpz1GLPEI.webp"
+   },
+   "b": {
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST SLAM IX",
+   "bestOf": 3
+  },
+  {
+   "id": "661573",
+   "at": "2026-11-20T17:00:00.000Z",
+   "a": {
+    "name": "LEGION",
+    "short": "LEGION",
+    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
+   },
+   "b": {
+    "name": "DO KONCA",
+    "short": "DO KONCA",
+    "logo": "https://api.citoapi.com/img/m/AayjOuUwt_gd3-XlsrW3Np85oFL_AZxQoHX79x8uV37PFlel0FHay1deyBe1bpp2eltkWJoVe_DYBC-rxl3oatEqVgw3BXVRHyPDW-JAq-rJRrjNaDn-zIfiFrfSaYOolvd5YJDlidezE44oMe_sZj85Ufw5QFgILQuF0oBGmRWn-zg.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "BLAST SLAM IX",
+   "bestOf": 3
+  },
+  {
    "id": "663816",
    "at": "2026-11-21T07:00:00.000Z",
    "a": {
@@ -4837,6 +4989,25 @@
     "name": "Team Allied",
     "short": "Allied",
     "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "European Pro League Season 41",
+   "bestOf": 3
+  },
+  {
+   "id": "663847",
+   "at": "2026-11-23T10:00:00.000Z",
+   "a": {
+    "name": "Interactive Philippines",
+    "short": "IAP",
+    "logo": "https://api.citoapi.com/img/m/ASWwi5oGGfUP1FVjlnhuJmn5nhyQioY0iy7V1yyWRxqXYabc_jIOQbSWDsKjghxqSWCyMjgetXhe3RcHliGvJExoPauUg2UXhLakgjrfS_dULA_BHQh69lEUc90hjpkcTXKrTzI2aiiT-VUJgzVdXFlhrePRfPsvMxWD_Z1emFCDR_8.webp"
+   },
+   "b": {
+    "name": "Team Synapse",
+    "short": "Synapse",
+    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
    },
    "sa": null,
    "sb": null,
