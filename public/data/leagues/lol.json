@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-21T04:12:04.097Z",
+ "updated": "2026-11-21T12:43:55.369Z",
  "upcomingFetched": "2026-11-21T04:12:04.097Z",
- "recentFetched": "2026-11-15T06:59:45.158Z",
+ "recentFetched": "2026-11-21T12:43:55.369Z",
  "matches": [
   {
    "id": "lol-match-115660540726095085",
@@ -176,6 +176,114 @@
    "bestOf": 5
   },
   {
+   "id": "lol-off-lpl-youth-academy-2026-day-2-1-ca78b46eb970",
+   "at": "2026-11-09T06:00:00.000Z",
+   "a": {
+    "name": "LYA-B",
+    "short": "lya-b"
+   },
+   "b": {
+    "name": "Ultra Prime",
+    "short": "UP",
+    "logo": "https://api.citoapi.com/img/m/AbLFbLrMeUQasfU2TX76HG-VwlviOmfPVauDdD01XmmfxjM9m4DSL1ZJXUIhy-gCIf_I09LKz87qwXI8uQGgtHuayPs3LfJy5qfkdLLoQw.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-2-2-024fcd61f1b3",
+   "at": "2026-11-09T09:00:00.000Z",
+   "a": {
+    "name": "LYA-A",
+    "short": "lya-a"
+   },
+   "b": {
+    "name": "WeiboGaming",
+    "short": "WBG",
+    "logo": "https://api.citoapi.com/img/m/AVOkGHLC2sv8DxU-L22odf8Na1eBzjmo60CWEpNkr1sPwqNX9oiOdbSvr8Q4SeWmRY58w1Nzw-ybnrqFIc446weCS9j6MnWOMmzPOlbY7rIA6rdP.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-2-3-fbe16797760f",
+   "at": "2026-11-09T12:00:00.000Z",
+   "a": {
+    "name": "Suzhou LNG Esports",
+    "short": "LNG",
+    "logo": "https://api.citoapi.com/img/m/AbZTAoPl_82yhIlrR1qVUSDlOqFho33aX0NJVCufC7xJ-eotfevUy6TGyXU1xmRy3bbopCcIzSYPgjqSjaKvpXQNL1TNmOcRARYy3q3Ibd8iJ_UnaIksmDer.png"
+   },
+   "b": {
+    "name": "Oh My God",
+    "short": "OMG",
+    "logo": "https://api.citoapi.com/img/m/AWwvVa0TFbhK8LIIH7kWwKVZor7Rq6y85msSiagqjMrxFz8i81FLwAcJyyjZ45TnE5jR45eQ2roY6v6mq4Vyzn-4SApbJ3yEEmKEjKhPbQ-jFVoJbTS4d5_mCZi4SrlmeLC2.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-1-3-723cab124a8a",
+   "at": "2026-11-09T14:00:00.000Z",
+   "a": {
+    "name": "No macro Only Vibes",
+    "short": "no-macro-only-vibes"
+   },
+   "b": {
+    "name": "Balta Esports",
+    "short": "balta-esports"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-1-4-3cfff01eb869",
+   "at": "2026-11-09T14:00:00.000Z",
+   "a": {
+    "name": "PCIFIC Esports",
+    "short": "PCF",
+    "logo": "https://api.citoapi.com/img/m/AZOOVr0YnFRwbco6TW-dE2U40eYKeBdMg9JdwSEr_7DstbYtntLQ5uI8bNO4MKHcMQNt3WFsq0Tfc9vC1YCsQZnAa5PW-Xprd0_bjCL-fI3qA8SUUJPfSIkkGL_oPA.png"
+   },
+   "b": {
+    "name": "BADILER",
+    "short": "badiler"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-1-2-1924cd87ee7a",
+   "at": "2026-11-09T14:00:00.000Z",
+   "a": {
+    "name": "Bushido Wildcats",
+    "short": "BW",
+    "logo": "https://api.citoapi.com/img/m/ASY5PKIGimbsWPVUuqJnn4wDot8hOFIGbSejXqLEt9DpXxeV1tTSVj2OrF49pKhapxSWea2YiYpq_J4OB_BotQjSAcIKVyBFf0ZBbarNLjKoJw_o2KqLlghnOX0aP06ueA.png"
+   },
+   "b": {
+    "name": "Çakıl",
+    "short": "cak-l"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
    "id": "lol-match-117393592614464336",
    "at": "2026-11-10T05:00:00.000Z",
    "a": {
@@ -191,8 +299,27 @@
    "sa": 0,
    "sb": 3,
    "status": "completed",
-   "event": "lcp promotion 2026",
+   "event": "Lcp Promotion 2026",
    "bestOf": 5
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-3-1-569f21b8b3bb",
+   "at": "2026-11-10T06:00:00.000Z",
+   "a": {
+    "name": "WeiboGaming",
+    "short": "WBG",
+    "logo": "https://api.citoapi.com/img/m/AVOkGHLC2sv8DxU-L22odf8Na1eBzjmo60CWEpNkr1sPwqNX9oiOdbSvr8Q4SeWmRY58w1Nzw-ybnrqFIc446weCS9j6MnWOMmzPOlbY7rIA6rdP.png"
+   },
+   "b": {
+    "name": "Ultra Prime",
+    "short": "UP",
+    "logo": "https://api.citoapi.com/img/m/AbLFbLrMeUQasfU2TX76HG-VwlviOmfPVauDdD01XmmfxjM9m4DSL1ZJXUIhy-gCIf_I09LKz87qwXI8uQGgtHuayPs3LfJy5qfkdLLoQw.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
   },
   {
    "id": "lol-match-117393592614464342",
@@ -210,8 +337,169 @@
    "sa": 3,
    "sb": 0,
    "status": "completed",
-   "event": "lcp promotion 2026",
+   "event": "Lcp Promotion 2026",
    "bestOf": 5
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-3-2-b9afccdb8ec5",
+   "at": "2026-11-10T09:00:00.000Z",
+   "a": {
+    "name": "LYA-B",
+    "short": "lya-b"
+   },
+   "b": {
+    "name": "Suzhou LNG Esports",
+    "short": "LNG",
+    "logo": "https://api.citoapi.com/img/m/AbZTAoPl_82yhIlrR1qVUSDlOqFho33aX0NJVCufC7xJ-eotfevUy6TGyXU1xmRy3bbopCcIzSYPgjqSjaKvpXQNL1TNmOcRARYy3q3Ibd8iJ_UnaIksmDer.png"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-3-3-5dfdc971a12e",
+   "at": "2026-11-10T12:00:00.000Z",
+   "a": {
+    "name": "LYA-A",
+    "short": "lya-a"
+   },
+   "b": {
+    "name": "Oh My God",
+    "short": "OMG",
+    "logo": "https://api.citoapi.com/img/m/AWwvVa0TFbhK8LIIH7kWwKVZor7Rq6y85msSiagqjMrxFz8i81FLwAcJyyjZ45TnE5jR45eQ2roY6v6mq4Vyzn-4SApbJ3yEEmKEjKhPbQ-jFVoJbTS4d5_mCZi4SrlmeLC2.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-2-3-591a58e7d9e0",
+   "at": "2026-11-10T14:00:00.000Z",
+   "a": {
+    "name": "Balta Esports",
+    "short": "balta-esports"
+   },
+   "b": {
+    "name": "BADILER",
+    "short": "badiler"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-2-2-6813cbc656f7",
+   "at": "2026-11-10T14:00:00.000Z",
+   "a": {
+    "name": "Blades of Valor",
+    "short": "blades-of-valor"
+   },
+   "b": {
+    "name": "Bushido Wildcats",
+    "short": "BW",
+    "logo": "https://api.citoapi.com/img/m/ASY5PKIGimbsWPVUuqJnn4wDot8hOFIGbSejXqLEt9DpXxeV1tTSVj2OrF49pKhapxSWea2YiYpq_J4OB_BotQjSAcIKVyBFf0ZBbarNLjKoJw_o2KqLlghnOX0aP06ueA.png"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-2-1-8b793fc85cbc",
+   "at": "2026-11-10T14:00:00.000Z",
+   "a": {
+    "name": "Avella SU Esports",
+    "short": "SU",
+    "logo": "https://api.citoapi.com/img/m/AfL7bG-p9DFucacepVK5hR6QGFKCYRJLNy3ZxuJVcBQfXga2Q7oTJMTk66uz8u8D736dIMjzgiUVZPL1levcH1yNNYtg_-PUSbaR7TA5PcHKl6WLgZEW98Ey8JlGNao37A.png"
+   },
+   "b": {
+    "name": "Çakıl",
+    "short": "cak-l"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-2-4-8ca1931aa444",
+   "at": "2026-11-10T16:00:00.000Z",
+   "a": {
+    "name": "No macro Only Vibes",
+    "short": "no-macro-only-vibes"
+   },
+   "b": {
+    "name": "PCIFIC Esports",
+    "short": "PCF",
+    "logo": "https://api.citoapi.com/img/m/AZOOVr0YnFRwbco6TW-dE2U40eYKeBdMg9JdwSEr_7DstbYtntLQ5uI8bNO4MKHcMQNt3WFsq0Tfc9vC1YCsQZnAa5PW-Xprd0_bjCL-fI3qA8SUUJPfSIkkGL_oPA.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-breeze-of-glory-2026-round-2-3-373c6897a304",
+   "at": "2026-11-10T17:00:00.000Z",
+   "a": {
+    "name": "Huskies Esports",
+    "short": "huskies-esports"
+   },
+   "b": {
+    "name": "Macko Esports",
+    "short": "MCK",
+    "logo": "https://api.citoapi.com/img/m/AVw1aDxA_I7xUPz-A8eB4x9UFfAeblJovbz9EZ6X6VCbhz7o68ks0b3I9E71KPVZwtsfWeNj6qiUs9HeOEwJ0h3YvTAS_PqqibtI1NPFsc88B8PCaw.png"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "Breeze of Glory 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-1-4-b0e72ec8b2d9",
+   "at": "2026-11-10T18:00:00.000Z",
+   "a": {
+    "name": "2 Massive",
+    "short": "2M",
+    "logo": "https://api.citoapi.com/img/m/AVJ2fzTJflE55haagTMOiCGuCz6VxuR0IORl2KQE1qQ6nMnz32OUpzzC3837IJATvcgOEZd5eJsYlNwJetHS-R-NJKgq07fGbwZXfFLbdZpEvFZ5i4Id.png"
+   },
+   "b": {
+    "name": "Northern Wolves Esports",
+    "short": "NORTHERN-WOLVES-ESPO"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-4-1-c4339139598e",
+   "at": "2026-11-11T06:00:00.000Z",
+   "a": {
+    "name": "LYA-B",
+    "short": "lya-b"
+   },
+   "b": {
+    "name": "WeiboGaming",
+    "short": "WBG",
+    "logo": "https://api.citoapi.com/img/m/AVOkGHLC2sv8DxU-L22odf8Na1eBzjmo60CWEpNkr1sPwqNX9oiOdbSvr8Q4SeWmRY58w1Nzw-ybnrqFIc446weCS9j6MnWOMmzPOlbY7rIA6rdP.png"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
   },
   {
    "id": "lol-match-117393592614464348",
@@ -229,7 +517,96 @@
    "sa": 3,
    "sb": 2,
    "status": "completed",
-   "event": "lcp promotion 2026",
+   "event": "Lcp Promotion 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-4-2-9ae0e6f704ce",
+   "at": "2026-11-11T09:00:00.000Z",
+   "a": {
+    "name": "Ultra Prime",
+    "short": "UP",
+    "logo": "https://api.citoapi.com/img/m/AbLFbLrMeUQasfU2TX76HG-VwlviOmfPVauDdD01XmmfxjM9m4DSL1ZJXUIhy-gCIf_I09LKz87qwXI8uQGgtHuayPs3LfJy5qfkdLLoQw.png"
+   },
+   "b": {
+    "name": "Oh My God",
+    "short": "OMG",
+    "logo": "https://api.citoapi.com/img/m/AWwvVa0TFbhK8LIIH7kWwKVZor7Rq6y85msSiagqjMrxFz8i81FLwAcJyyjZ45TnE5jR45eQ2roY6v6mq4Vyzn-4SApbJ3yEEmKEjKhPbQ-jFVoJbTS4d5_mCZi4SrlmeLC2.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-4-3-38fd6153605f",
+   "at": "2026-11-11T12:00:00.000Z",
+   "a": {
+    "name": "LYA-A",
+    "short": "lya-a"
+   },
+   "b": {
+    "name": "Suzhou LNG Esports",
+    "short": "LNG",
+    "logo": "https://api.citoapi.com/img/m/AbZTAoPl_82yhIlrR1qVUSDlOqFho33aX0NJVCufC7xJ-eotfevUy6TGyXU1xmRy3bbopCcIzSYPgjqSjaKvpXQNL1TNmOcRARYy3q3Ibd8iJ_UnaIksmDer.png"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-3-1-83e272567e9e",
+   "at": "2026-11-11T14:00:00.000Z",
+   "a": {
+    "name": "Avella SU Esports",
+    "short": "SU",
+    "logo": "https://api.citoapi.com/img/m/AfL7bG-p9DFucacepVK5hR6QGFKCYRJLNy3ZxuJVcBQfXga2Q7oTJMTk66uz8u8D736dIMjzgiUVZPL1levcH1yNNYtg_-PUSbaR7TA5PcHKl6WLgZEW98Ey8JlGNao37A.png"
+   },
+   "b": {
+    "name": "Blades of Valor",
+    "short": "blades-of-valor"
+   },
+   "sa": 3,
+   "sb": 1,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-day-3-2-b58ab9fe87ed",
+   "at": "2026-11-11T14:00:00.000Z",
+   "a": {
+    "name": "No macro Only Vibes",
+    "short": "no-macro-only-vibes"
+   },
+   "b": {
+    "name": "Balta Esports",
+    "short": "balta-esports"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-breeze-of-glory-2026-round-2-4-68be5c849381",
+   "at": "2026-11-11T17:00:00.000Z",
+   "a": {
+    "name": "Team Aqua ASD",
+    "short": "team-aqua-asd"
+   },
+   "b": {
+    "name": "GONGJI",
+    "short": "gongji"
+   },
+   "sa": 2,
+   "sb": 3,
+   "status": "completed",
+   "event": "Breeze of Glory 2026",
    "bestOf": 5
   },
   {
@@ -248,8 +625,82 @@
    "sa": 3,
    "sb": 0,
    "status": "completed",
-   "event": "lcp promotion 2026",
+   "event": "Lcp Promotion 2026",
    "bestOf": 5
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-5-1-c39be45ccbfd",
+   "at": "2026-11-12T06:00:00.000Z",
+   "a": {
+    "name": "WeiboGaming",
+    "short": "WBG",
+    "logo": "https://api.citoapi.com/img/m/AVOkGHLC2sv8DxU-L22odf8Na1eBzjmo60CWEpNkr1sPwqNX9oiOdbSvr8Q4SeWmRY58w1Nzw-ybnrqFIc446weCS9j6MnWOMmzPOlbY7rIA6rdP.png"
+   },
+   "b": {
+    "name": "Oh My God",
+    "short": "OMG",
+    "logo": "https://api.citoapi.com/img/m/AWwvVa0TFbhK8LIIH7kWwKVZor7Rq6y85msSiagqjMrxFz8i81FLwAcJyyjZ45TnE5jR45eQ2roY6v6mq4Vyzn-4SApbJ3yEEmKEjKhPbQ-jFVoJbTS4d5_mCZi4SrlmeLC2.png"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-5-2-ed129c553939",
+   "at": "2026-11-12T09:00:00.000Z",
+   "a": {
+    "name": "Suzhou LNG Esports",
+    "short": "LNG",
+    "logo": "https://api.citoapi.com/img/m/AbZTAoPl_82yhIlrR1qVUSDlOqFho33aX0NJVCufC7xJ-eotfevUy6TGyXU1xmRy3bbopCcIzSYPgjqSjaKvpXQNL1TNmOcRARYy3q3Ibd8iJ_UnaIksmDer.png"
+   },
+   "b": {
+    "name": "Ultra Prime",
+    "short": "UP",
+    "logo": "https://api.citoapi.com/img/m/AbLFbLrMeUQasfU2TX76HG-VwlviOmfPVauDdD01XmmfxjM9m4DSL1ZJXUIhy-gCIf_I09LKz87qwXI8uQGgtHuayPs3LfJy5qfkdLLoQw.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpl-youth-academy-2026-day-5-3-c7bc8ba3eca6",
+   "at": "2026-11-12T12:00:00.000Z",
+   "a": {
+    "name": "LYA-A",
+    "short": "lya-a"
+   },
+   "b": {
+    "name": "LYA-B",
+    "short": "lya-b"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "LPL Youth Academy 2026",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-hellenic-legends-league-2026-season-super-cup-stage-1-round-2-1-8826f70ae5fd",
+   "at": "2026-11-12T16:00:00.000Z",
+   "a": {
+    "name": "Gamespace M.C.",
+    "short": "GSMC",
+    "logo": "https://api.citoapi.com/img/m/AZ_Y-MTRp5yFo9hMJR3LjRiNyy6ZzNn4-ITXVYBtyU8VPAGVkZROYorAvyeLEQlOjRDsIDlbKHLVHxTkvb4J_nrqm1-W4BuJQatF_CGaZYWUzRlrBYXHR-zk-WpWFowplc3DyLlw6i4t.png"
+   },
+   "b": {
+    "name": "Spartans EU",
+    "short": "SPAR",
+    "logo": "https://api.citoapi.com/img/m/AdtXGH5DcakfaUcKd6n9fMOEtuLy76XxFiKJBlxHlBVItV8u5tfmbYmcGHrV471Qn6bA7XzO8-d8i59IyQ5haznCCU6ObaitOwzzqCusCmviL1xHhjspyefGUfGXX4kCErc.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "HLL 2026 Super Cup",
+   "bestOf": 3
   },
   {
    "id": "lol-match-117393592614464360",
@@ -267,8 +718,44 @@
    "sa": 3,
    "sb": 1,
    "status": "completed",
-   "event": "lcp promotion 2026",
+   "event": "Lcp Promotion 2026",
    "bestOf": 5
+  },
+  {
+   "id": "lol-off-hellenic-legends-league-2026-season-super-cup-stage-1-round-1-4-dfd1dfd263e6",
+   "at": "2026-11-13T16:00:00.000Z",
+   "a": {
+    "name": "Hell ZeroLag",
+    "short": "HELL",
+    "logo": "https://api.citoapi.com/img/m/AdVop29_4RqiJ9QtXaex6knYCef4VDnNDrhiX0lZsiJ8qdHNsmKnXpSF0JMYHxSvQY3g0vQwIOHyJaNh-7FRSyuSdfyzLZ3XTYDlUAEu8opgQpIWPifKcA.png"
+   },
+   "b": {
+    "name": "New Generation Gaming",
+    "short": "new-generation-gaming"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "HLL 2026 Super Cup",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-hellenic-legends-league-2026-season-super-cup-stage-1-round-1-3-111de8fb080c",
+   "at": "2026-11-13T16:00:00.000Z",
+   "a": {
+    "name": "ALMO Players",
+    "short": "ALMO",
+    "logo": "https://api.citoapi.com/img/m/AZR15PTANiA28lCNyJRyqgxqNHCF3qmszeEOiD71ePQRduapTv13CmUpnxJ75C4xa7dblzwfZMqUvyHJd7g4ZpmJd6u6E4AAwDzDMjPGlAMJJI6Z_qzUW5iDmg.webp"
+   },
+   "b": {
+    "name": "Alpha Impact",
+    "short": "alpha-impact"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "HLL 2026 Super Cup",
+   "bestOf": 3
   },
   {
    "id": "lol-match-115660540726095133",
@@ -290,6 +777,296 @@
    "bestOf": 5
   },
   {
+   "id": "lol-off-hellenic-legends-league-2026-season-super-cup-stage-1-round-2-2-587c26b81526",
+   "at": "2026-11-15T16:00:00.000Z",
+   "a": {
+    "name": "WLGaming",
+    "short": "WLG",
+    "logo": "https://api.citoapi.com/img/m/AWevJ4R0zw3buILKYk4HebuSUyTc4TJBffGhY2zLF8voYARbPo0vvsXjvJq-mNYE0iywgUfk2e4XLZANvlg7unlENGjwNlkNM6ZTwQ.png"
+   },
+   "b": {
+    "name": "Noxium",
+    "short": "noxium"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "HLL 2026 Super Cup",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-breeze-of-glory-2026-round-4-1-87207fad761c",
+   "at": "2026-11-15T17:00:00.000Z",
+   "a": {
+    "name": "Zena Esports",
+    "short": "ZENA",
+    "logo": "https://api.citoapi.com/img/m/AQsrKKUt1ehNVTgrUJAASRzG5Az5pvVrMtoIeVQD8zllcYHoRvHVtPELLrJEkUdocaBlr1YTMBaIxmleOaU5uQFGTSaQMNvFwNtSZ0LzcxV1Vp_cM_i1drV1IDfJs3j2lnzE5aIdHWsilARMfo7BHF0YbWDZaKg.png"
+   },
+   "b": {
+    "name": "HMBLE",
+    "short": "HMB",
+    "logo": "https://api.citoapi.com/img/m/AQ7RcpNWVMtUDNOLTaIYuVb09CTvDPT6Y14yIqmMx7N2NacyH_PCdRVEWoelY2SqQX3eI_DpXnhFSL7BIRFbWD-O8hpRLqOjbrhOW5qaz05mCVHn2_IWo19cgPSld5r1ieLeLzxB.png"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "Breeze of Glory 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-1-5-f5d6ede34efb",
+   "at": "2026-11-15T17:30:00.000Z",
+   "a": {
+    "name": "Flame hard",
+    "short": "FLH",
+    "logo": "https://api.citoapi.com/img/m/Aeaew1jlBuE1xlj8COgXpyISkWScQy16jMdPvM377my_rYRE5-StNFeCJWjyVWjGf_FrM8z1sBB5KlAoOd7M9nidfMieQTJa7g26DjjJdrC373DOF7LIIpgnsV5G.png"
+   },
+   "b": {
+    "name": "Lund Esports Organization OGs",
+    "short": "LUND-ESPORTS-ORGANIZ"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-1-6-207cd3397b2e",
+   "at": "2026-11-15T19:00:00.000Z",
+   "a": {
+    "name": "Northern Wolves Esports",
+    "short": "NORTHERN-WOLVES-ESPO"
+   },
+   "b": {
+    "name": "Turbo Gaming",
+    "short": "turbo-gaming"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-round-1-1-58a16c9bcf43",
+   "at": "2026-11-16T14:00:00.000Z",
+   "a": {
+    "name": "PCIFIC Esports",
+    "short": "PCF",
+    "logo": "https://api.citoapi.com/img/m/AZOOVr0YnFRwbco6TW-dE2U40eYKeBdMg9JdwSEr_7DstbYtntLQ5uI8bNO4MKHcMQNt3WFsq0Tfc9vC1YCsQZnAa5PW-Xprd0_bjCL-fI3qA8SUUJPfSIkkGL_oPA.png"
+   },
+   "b": {
+    "name": "Avella SU Esports",
+    "short": "SU",
+    "logo": "https://api.citoapi.com/img/m/AfL7bG-p9DFucacepVK5hR6QGFKCYRJLNy3ZxuJVcBQfXga2Q7oTJMTk66uz8u8D736dIMjzgiUVZPL1levcH1yNNYtg_-PUSbaR7TA5PcHKl6WLgZEW98Ey8JlGNao37A.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-round-1-2-a7d2f3705234",
+   "at": "2026-11-16T17:30:00.000Z",
+   "a": {
+    "name": "Çakıl",
+    "short": "cak-l"
+   },
+   "b": {
+    "name": "Balta Esports",
+    "short": "balta-esports"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-round-2-1-568bc1fc504d",
+   "at": "2026-11-17T14:30:00.000Z",
+   "a": {
+    "name": "Çakıl",
+    "short": "cak-l"
+   },
+   "b": {
+    "name": "PCIFIC Esports",
+    "short": "PCF",
+    "logo": "https://api.citoapi.com/img/m/AZOOVr0YnFRwbco6TW-dE2U40eYKeBdMg9JdwSEr_7DstbYtntLQ5uI8bNO4MKHcMQNt3WFsq0Tfc9vC1YCsQZnAa5PW-Xprd0_bjCL-fI3qA8SUUJPfSIkkGL_oPA.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-round-1-3-46cee0953bc6",
+   "at": "2026-11-17T17:30:00.000Z",
+   "a": {
+    "name": "Balta Esports",
+    "short": "balta-esports"
+   },
+   "b": {
+    "name": "Avella SU Esports",
+    "short": "SU",
+    "logo": "https://api.citoapi.com/img/m/AfL7bG-p9DFucacepVK5hR6QGFKCYRJLNy3ZxuJVcBQfXga2Q7oTJMTk66uz8u8D736dIMjzgiUVZPL1levcH1yNNYtg_-PUSbaR7TA5PcHKl6WLgZEW98Ey8JlGNao37A.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-2-1-ff90b813c6fe",
+   "at": "2026-11-17T18:00:00.000Z",
+   "a": {
+    "name": "Tung Sahur Mid",
+    "short": "tung-sahur-mid"
+   },
+   "b": {
+    "name": "Lundqvist Darkside",
+    "short": "lundqvist-darkside"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-round-2-2-50d6543d6f10",
+   "at": "2026-11-19T15:00:00.000Z",
+   "a": {
+    "name": "Çakıl",
+    "short": "cak-l"
+   },
+   "b": {
+    "name": "Avella SU Esports",
+    "short": "SU",
+    "logo": "https://api.citoapi.com/img/m/AfL7bG-p9DFucacepVK5hR6QGFKCYRJLNy3ZxuJVcBQfXga2Q7oTJMTk66uz8u8D736dIMjzgiUVZPL1levcH1yNNYtg_-PUSbaR7TA5PcHKl6WLgZEW98Ey8JlGNao37A.png"
+   },
+   "sa": 3,
+   "sb": 1,
+   "status": "completed",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-2-2-e9baeb42e7a1",
+   "at": "2026-11-19T18:00:00.000Z",
+   "a": {
+    "name": "2 Massive",
+    "short": "2M",
+    "logo": "https://api.citoapi.com/img/m/AVJ2fzTJflE55haagTMOiCGuCz6VxuR0IORl2KQE1qQ6nMnz32OUpzzC3837IJATvcgOEZd5eJsYlNwJetHS-R-NJKgq07fGbwZXfFLbdZpEvFZ5i4Id.png"
+   },
+   "b": {
+    "name": "B2U",
+    "short": "b2u"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-legends-premier-league-season-5-round-1-1-fa66efdbcd95",
+   "at": "2026-11-20T10:00:00.000Z",
+   "a": {
+    "name": "Forsaken",
+    "short": "FSK",
+    "logo": "https://api.citoapi.com/img/m/AbEBLyD0FGFm7xo3dX19neuEsmf4_p2WhnOs5J6D22CcVqJLhnkYyo_lr5pb-z4fPukPhi2PB_N6nGE8czbUMbcEsv1PKufvwd_G1I630Z5plzSJScBjpNuihvwJEx_v.png"
+   },
+   "b": {
+    "name": "Colossal Gaming",
+    "short": "CG",
+    "logo": "https://api.citoapi.com/img/m/AcS52wBPwYobACG9aOZUfPqoL39d6AQmdhnmyTdaugyDkGTCO_E52XWbOO1AROICKVv40B7emaoNTdEDaESWzPrQ0xCjXPx9sAPfX3XVPJ_RLW3SjIHzDtxIeJgHQFDdWQgrPChHOugvOuAXLx5t.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-legends-premier-league-season-5-round-1-2-f58f88bfd0ea",
+   "at": "2026-11-20T13:00:00.000Z",
+   "a": {
+    "name": "DOCISK",
+    "short": "DOC",
+    "logo": "https://api.citoapi.com/img/m/AWOQvo8CkWkS2BQVwQGEFTb0bXsmmXwLAiqpKMCqdnk6k5BvSvwOFS-PFdAamPvulEFynjv2YaAiRsQvL8RWwf8rw2ars1nTTm4bIDl75keuNQidv3MZDNHXJ-oBqgNwew.png"
+   },
+   "b": {
+    "name": "Valerion",
+    "short": "VLR",
+    "logo": "https://api.citoapi.com/img/m/AeK-4P9Ovm3k8Zv7-G2QFlnmLUAIkS4OoMQaFG6DoFtCjLNe5Kk0K4L1GLy8zYklZabaO-BwXJxY4TKiDQnIvSEe8Edg_Dun35tK4R0AuAkFQ0__gafejMlDZ7tE2r0.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-legends-premier-league-season-5-round-1-3-152a2b2d50cb",
+   "at": "2026-11-20T16:00:00.000Z",
+   "a": {
+    "name": "Bubliki",
+    "short": "BBK",
+    "logo": "https://api.citoapi.com/img/m/AfvmCHO-RZ24-ovymvj7bzf6S8H5oAYwlWXgo6MzTW0YsfNr8hVVcKzQOOJoxrUVCho1jQx8V3KzIm5jmuup-I84fmDaTM60mw-JdUi0l5AU_e43lkDSmQ.png"
+   },
+   "b": {
+    "name": "Zena Esports",
+    "short": "ZENA",
+    "logo": "https://api.citoapi.com/img/m/AQsrKKUt1ehNVTgrUJAASRzG5Az5pvVrMtoIeVQD8zllcYHoRvHVtPELLrJEkUdocaBlr1YTMBaIxmleOaU5uQFGTSaQMNvFwNtSZ0LzcxV1Vp_cM_i1drV1IDfJs3j2lnzE5aIdHWsilARMfo7BHF0YbWDZaKg.png"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-breeze-of-glory-2026-round-3-1-aa896ee59100",
+   "at": "2026-11-20T17:00:00.000Z",
+   "a": {
+    "name": "Macko Esports",
+    "short": "MCK",
+    "logo": "https://api.citoapi.com/img/m/AVw1aDxA_I7xUPz-A8eB4x9UFfAeblJovbz9EZ6X6VCbhz7o68ks0b3I9E71KPVZwtsfWeNj6qiUs9HeOEwJ0h3YvTAS_PqqibtI1NPFsc88B8PCaw.png"
+   },
+   "b": {
+    "name": "GONGJI",
+    "short": "gongji"
+   },
+   "sa": 2,
+   "sb": 3,
+   "status": "completed",
+   "event": "Breeze of Glory 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-legends-premier-league-season-5-round-1-4-65dccef9a85c",
+   "at": "2026-11-20T19:30:00.000Z",
+   "a": {
+    "name": "regnum4games",
+    "short": "regnum4games"
+   },
+   "b": {
+    "name": "Francesinhas",
+    "short": "FCN",
+    "logo": "https://api.citoapi.com/img/m/AU0O822hmAz2WWWM6rfGVCrw7hDgT9mxSDZ2tcRLRHFaksL3RhluKcRTa68jA5Fy1SJwS11H_0oiBGqYBAqCuyuCwb17sFrYBpw9wCuBSCxr-FhCxiok4g.png"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
    "id": "lol-off-legends-premier-league-season-5-round-1-5-e3a385866928",
    "at": "2026-11-21T10:00:00.000Z",
    "a": {
@@ -302,9 +1079,9 @@
     "short": "WLG",
     "logo": "https://api.citoapi.com/img/m/AWevJ4R0zw3buILKYk4HebuSUyTc4TJBffGhY2zLF8voYARbPo0vvsXjvJq-mNYE0iywgUfk2e4XLZANvlg7unlENGjwNlkNM6ZTwQ.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
