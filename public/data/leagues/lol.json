@@ -1,47 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-20T01:23:57.150Z",
- "upcomingFetched": "2026-11-20T01:23:57.150Z",
+ "updated": "2026-11-21T04:12:04.097Z",
+ "upcomingFetched": "2026-11-21T04:12:04.097Z",
  "recentFetched": "2026-11-15T06:59:45.158Z",
  "matches": [
-  {
-   "id": "lol-match-115660540726095077",
-   "at": "2026-10-30T20:00:00.000Z",
-   "a": {
-    "name": "Team Liquid Alienware",
-    "short": "TLAW",
-    "logo": "https://api.citoapi.com/img/m/AfUZG6Ua9C0bH5EwUuMcEuD2eqIORGGAgiD1iSqPm8HyesLwB4k1B7YVV78DRVxFcNUcqWd-RIXt-vOvdFO1cnhblvNA6gspaiUKIyW2llaK1q3wdss-XI0IV207_ZHiQrcWe6SJke3FvmstWEF7Sw.png"
-   },
-   "b": {
-    "name": "MIBR.LOS",
-    "short": "ML",
-    "logo": "https://api.citoapi.com/img/m/AYfk6MuSi7Njg5I0oL3e6GBdqB7BFSUbjn2-AYvzO0IYu8JUrxfH00irEDNVSwaUALDePat1eobKnPYjVlo7a20G_fMtLtbPMrgEB0vJGtQCm4-BpxI0rQ9OIOS5hQ8iWCAoVBKPlIre.png"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "lol-match-115660540726095081",
-   "at": "2026-10-30T23:00:00.000Z",
-   "a": {
-    "name": "G2 Esports",
-    "short": "G2",
-    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
-   },
-   "b": {
-    "name": "Hanwha Life Esports",
-    "short": "HLE",
-    "logo": "https://api.citoapi.com/img/m/AQlI-Ixe9cUveqRXP6Lw1rVZfrqU1_e_ctKnkCmjS70-x7esW98JgLWg4prOvtM6YadGh7OOx7qqD_0fAE_Qfd2rtFe7bQDdQpceVXB_AZq-jFfuAYmHAAF6daQgd1wWLFE.png"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 3
-  },
   {
    "id": "lol-match-115660540726095085",
    "at": "2026-10-31T17:00:00.000Z",
@@ -326,6 +288,281 @@
    "status": "completed",
    "event": "Worlds 2026",
    "bestOf": 5
+  },
+  {
+   "id": "lol-off-legends-premier-league-season-5-round-1-5-e3a385866928",
+   "at": "2026-11-21T10:00:00.000Z",
+   "a": {
+    "name": "BOMBA Team",
+    "short": "BOOM",
+    "logo": "https://api.citoapi.com/img/m/ARH6bWhX_1Cod0fiZ3J6x6eUilyyskQrjyWpwvNRy4QUyb8Mf1YyZ2WpeWp8BksqhM7yqaGvv_o5V3CB9cNZeI66oQWKwMteSHvvODp-PgRooGs6OSykGQXymAjjPTSTSY0.png"
+   },
+   "b": {
+    "name": "WLGaming",
+    "short": "WLG",
+    "logo": "https://api.citoapi.com/img/m/AWevJ4R0zw3buILKYk4HebuSUyTc4TJBffGhY2zLF8voYARbPo0vvsXjvJq-mNYE0iywgUfk2e4XLZANvlg7unlENGjwNlkNM6ZTwQ.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-legends-premier-league-season-5-round-1-6-ddc498d61ec7",
+   "at": "2026-11-21T13:00:00.000Z",
+   "a": {
+    "name": "Power Rangers",
+    "short": "power-rangers"
+   },
+   "b": {
+    "name": "Arctic Pandas",
+    "short": "AP",
+    "logo": "https://api.citoapi.com/img/m/AR7ktrbiqWlehKS-I3-s2lVNTcZD4lYwN1c63rUIGX1nNq89jybTq3SMGtJC9yblZozh_Rq2aqSEzr2Egoc9TkgRLmO27oIh6FlMwSV7k_za3700Dg.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-legends-premier-league-season-5-round-1-7-32d8de578b8b",
+   "at": "2026-11-21T15:30:00.000Z",
+   "a": {
+    "name": "Cult of Wildenbruch",
+    "short": "cult-of-wildenbruch"
+   },
+   "b": {
+    "name": "Sawadika",
+    "short": "sawadika"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-hellenic-legends-league-2026-season-super-cup-stage-1-round-2-3-ba395da30dcb",
+   "at": "2026-11-21T16:00:00.000Z",
+   "a": {
+    "name": "Team Phantasma",
+    "short": "TP",
+    "logo": "https://api.citoapi.com/img/m/Af5X9oQYc7XNMEzH0jdMP1ozPuu51ozmxxf42zrzECkk0byTVFVnqTjehDdJ6ToVW4zHHxqNl-1kEONfSudOh5p2y4rmOlk6ZEBQU4EzhUE8-w.png"
+   },
+   "b": {
+    "name": "Alpha Impact",
+    "short": "alpha-impact"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "HLL 2026 Super Cup",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-hellenic-legends-league-2026-season-super-cup-stage-1-round-2-4-c790291e7b9e",
+   "at": "2026-11-21T16:00:00.000Z",
+   "a": {
+    "name": "Valerion",
+    "short": "VLR",
+    "logo": "https://api.citoapi.com/img/m/AeK-4P9Ovm3k8Zv7-G2QFlnmLUAIkS4OoMQaFG6DoFtCjLNe5Kk0K4L1GLy8zYklZabaO-BwXJxY4TKiDQnIvSEe8Edg_Dun35tK4R0AuAkFQ0__gafejMlDZ7tE2r0.png"
+   },
+   "b": {
+    "name": "Hell ZeroLag",
+    "short": "HELL",
+    "logo": "https://api.citoapi.com/img/m/AdVop29_4RqiJ9QtXaex6knYCef4VDnNDrhiX0lZsiJ8qdHNsmKnXpSF0JMYHxSvQY3g0vQwIOHyJaNh-7FRSyuSdfyzLZ3XTYDlUAEu8opgQpIWPifKcA.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "HLL 2026 Super Cup",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-2-3-096a29c7e0d0",
+   "at": "2026-11-21T17:00:00.000Z",
+   "a": {
+    "name": "Lundqvist Darkside",
+    "short": "lundqvist-darkside"
+   },
+   "b": {
+    "name": "Turbo Gaming",
+    "short": "turbo-gaming"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "RIVALS LEAGUE Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-legends-premier-league-season-5-round-1-8-07b3ac3ca712",
+   "at": "2026-11-21T19:00:00.000Z",
+   "a": {
+    "name": "VfB Stuttgart",
+    "short": "VFB",
+    "logo": "https://api.citoapi.com/img/m/AXlXaXeWl4JKzKw14jVhWg6WRVxK1xL3NJI8d9lIx2jjM0vn8Ap_BTLyj2mOaDr6S8IkkaJ3D-C21Vdqpbk6CFabc3Ob054qieeF8rvE3Yvr-iC9rq8.png"
+   },
+   "b": {
+    "name": "Dominion Goblins",
+    "short": "GOB",
+    "logo": "https://api.citoapi.com/img/m/AZoNSK2iSD0xDqyc2-EZv26S9P_HmP1fGbrkqehsCJ4s-E4XxDgish3yrbIHkZNdypGV85NPSGD_azVFLMmXHasPWh6LpoMNH5eDRaH2lGPMDSmVUGpg_RU.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-2-4-7e72d90cb926",
+   "at": "2026-11-22T17:00:00.000Z",
+   "a": {
+    "name": "2 Massive",
+    "short": "2M",
+    "logo": "https://api.citoapi.com/img/m/AVJ2fzTJflE55haagTMOiCGuCz6VxuR0IORl2KQE1qQ6nMnz32OUpzzC3837IJATvcgOEZd5eJsYlNwJetHS-R-NJKgq07fGbwZXfFLbdZpEvFZ5i4Id.png"
+   },
+   "b": {
+    "name": "Lund Esports Organization OGs",
+    "short": "LUND-ESPORTS-ORGANIZ"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "RIVALS LEAGUE Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-gg-arena-by-teknosa-season-2-finals-1-fb8bef42df85",
+   "at": "2026-11-28T14:00:00.000Z",
+   "a": {
+    "name": "PCIFIC Esports",
+    "short": "PCF",
+    "logo": "https://api.citoapi.com/img/m/AZOOVr0YnFRwbco6TW-dE2U40eYKeBdMg9JdwSEr_7DstbYtntLQ5uI8bNO4MKHcMQNt3WFsq0Tfc9vC1YCsQZnAa5PW-Xprd0_bjCL-fI3qA8SUUJPfSIkkGL_oPA.png"
+   },
+   "b": {
+    "name": "Çakıl",
+    "short": "cak-l"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "GG Arena by Teknosa Season 2",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-4-1-3e9155c52e93",
+   "at": "2026-11-28T17:00:00.000Z",
+   "a": {
+    "name": "Tung Sahur Mid",
+    "short": "tung-sahur-mid"
+   },
+   "b": {
+    "name": "B2U",
+    "short": "b2u"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "RIVALS LEAGUE Season 2",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-2026-red-bull-league-of-its-own-showmatches-1-ebbf05eb189b",
+   "at": "2026-12-05T13:00:00.000Z",
+   "a": {
+    "name": "Movistar KOI",
+    "short": "MKOI",
+    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
+   },
+   "b": {
+    "name": "Karmine Corp",
+    "short": "KC",
+    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Red Bull League of Its Own 2026",
+   "bestOf": 1
+  },
+  {
+   "id": "lol-off-2026-red-bull-league-of-its-own-showmatches-2-d5dfd2c41c82",
+   "at": "2026-12-05T14:00:00.000Z",
+   "a": {
+    "name": "G2 Esports",
+    "short": "G2",
+    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
+   },
+   "b": {
+    "name": "Movistar KOI",
+    "short": "MKOI",
+    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Red Bull League of Its Own 2026",
+   "bestOf": 1
+  },
+  {
+   "id": "lol-off-2026-red-bull-league-of-its-own-showmatches-4-cad1be96c7b2",
+   "at": "2026-12-05T16:00:00.000Z",
+   "a": {
+    "name": "T1",
+    "short": "T1",
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
+   },
+   "b": {
+    "name": "Karmine Corp",
+    "short": "KC",
+    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Red Bull League of Its Own 2026",
+   "bestOf": 1
+  },
+  {
+   "id": "lol-off-2026-red-bull-league-of-its-own-showmatches-5-730470290257",
+   "at": "2026-12-05T17:00:00.000Z",
+   "a": {
+    "name": "T1",
+    "short": "T1",
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
+   },
+   "b": {
+    "name": "G2 Esports",
+    "short": "G2",
+    "logo": "https://api.citoapi.com/img/m/AYuHXI98R10k82HQOJg9GRc59AmqxUnYooHBtWVxIf4HfzAcLbZ2XqrWvtechvedCT74HAMHV9aS1yFX_FpixLhNceUX94mmLMIwSvdBuxbfcQ.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Red Bull League of Its Own 2026",
+   "bestOf": 1
+  },
+  {
+   "id": "lol-off-2026-red-bull-league-of-its-own-showmatches-6-8fc077229178",
+   "at": "2026-12-05T18:00:00.000Z",
+   "a": {
+    "name": "T1",
+    "short": "T1",
+    "logo": "https://api.citoapi.com/img/m/AVLztRQafkvA25TP2W9yW_BaCrJVw0Fao4gq52T7OYfFswL8j46ArLwGz01geszBxF1-Xsd1aACmLH0cdteJ2Y36SvOV1Mr-2aVGmhhp1nZcoiBSdj8kasZLPRxWZL0vZROel_Ycnbv2XHfrXw.png"
+   },
+   "b": {
+    "name": "Movistar KOI",
+    "short": "MKOI",
+    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Red Bull League of Its Own 2026",
+   "bestOf": 1
   }
  ]
 }
