@@ -1,66 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-21T12:43:55.369Z",
+ "updated": "2026-11-22T00:09:38.291Z",
  "upcomingFetched": "2026-11-21T04:12:04.097Z",
- "recentFetched": "2026-11-21T12:43:55.369Z",
+ "recentFetched": "2026-11-22T00:09:38.291Z",
  "matches": [
-  {
-   "id": "lol-match-115660540726095085",
-   "at": "2026-10-31T17:00:00.000Z",
-   "a": {
-    "name": "Movistar KOI",
-    "short": "MKOI",
-    "logo": "https://api.citoapi.com/img/m/AbFbjtqRhoIlJcnRxd4jSiPpCuCbvBGHMA1yHYhlhxPLL2FmEbwSHNu4kOmdFbMmmv4Ocx4a0lS6FBXRVheSFsCqScoe197WF_U8ao4wYqq_gT5jDC70qTYWqTfR-umJ4ZtAOBeY.png"
-   },
-   "b": {
-    "name": "Karmine Corp",
-    "short": "KC",
-    "logo": "https://api.citoapi.com/img/m/ARS_0DijO2BtIYpgP4y0ieFIk0lu-TVUYO5DHZ4niRFdAt1yhLy2g--pSj-v4pvLi4ZgQ1AyujXU7GtzvKA45ZqiVnevdwoArDMatJb5VGp4D9t5Ew.png"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "lol-match-115660540726095089",
-   "at": "2026-10-31T19:00:00.000Z",
-   "a": {
-    "name": "MIBR.LOS",
-    "short": "ML",
-    "logo": "https://api.citoapi.com/img/m/AYfk6MuSi7Njg5I0oL3e6GBdqB7BFSUbjn2-AYvzO0IYu8JUrxfH00irEDNVSwaUALDePat1eobKnPYjVlo7a20G_fMtLtbPMrgEB0vJGtQCm4-BpxI0rQ9OIOS5hQ8iWCAoVBKPlIre.png"
-   },
-   "b": {
-    "name": "LYON",
-    "short": "LYON",
-    "logo": "https://api.citoapi.com/img/m/AWKDNLza0AIvPFOgevv85npD031Vfo3Yxv7oI265_9le0HXAUrLoZGJ9G4CKvvbF18uvyM_p0Mk0tNsyUVDfiy7sPaMgGlmzkz-j1wQvbW8uLqm1DAiZ_P6ZhXdTXweiQA.png"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 3
-  },
-  {
-   "id": "lol-match-115660540726095093",
-   "at": "2026-10-31T22:00:00.000Z",
-   "a": {
-    "name": "Hanwha Life Esports",
-    "short": "HLE",
-    "logo": "https://api.citoapi.com/img/m/AQlI-Ixe9cUveqRXP6Lw1rVZfrqU1_e_ctKnkCmjS70-x7esW98JgLWg4prOvtM6YadGh7OOx7qqD_0fAE_Qfd2rtFe7bQDdQpceVXB_AZq-jFfuAYmHAAF6daQgd1wWLFE.png"
-   },
-   "b": {
-    "name": "BILIBILI GAMING",
-    "short": "BLG",
-    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 3
-  },
   {
    "id": "lol-match-115660540726095109",
    "at": "2026-11-03T22:00:00.000Z",
@@ -703,6 +646,42 @@
    "bestOf": 3
   },
   {
+   "id": "lol-off-acl26fall-kits-esports-vs-next-level-esports-2026-11-13-a1e1d48e6db9",
+   "at": "2026-11-13T01:50:00.000Z",
+   "a": {
+    "name": "Kits Esports",
+    "short": "KITS",
+    "logo": "https://api.citoapi.com/img/m/AZ8qEGNbK3dNBtn07GelaFBiXNyu-07I4cmaveNENKr51WKtgBfcotAeUeYFqii4daCs9FO6kJyewww-NOyo3KyAFzipYU4r-iqLFauNPCGDL3rnYu3Tx3KYHKxagW3X.png"
+   },
+   "b": {
+    "name": "Next Level Esports",
+    "short": "NEXT-LEVEL-ESPORTS"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-university-of-pikeville-vs-contingent-esports-2026-11-13-12498e02ecfa",
+   "at": "2026-11-13T01:53:00.000Z",
+   "a": {
+    "name": "University of Pikeville",
+    "short": "university-of-pikeville"
+   },
+   "b": {
+    "name": "Contingent Esports",
+    "short": "CONT",
+    "logo": "https://api.citoapi.com/img/m/ATHywN3uNG0dC_PNhbdXUoHtNXrnFqnrYaBONdIkeJiBgLq3uOnwZlr67j7qQanreWzKDhMj_lD9vF6tsoqf1SleK9P3rBT0h7i8LxtJ1jN3iCgOnl1ppOsW.png"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
    "id": "lol-match-117393592614464360",
    "at": "2026-11-13T06:00:00.000Z",
    "a": {
@@ -755,6 +734,160 @@
    "sb": 2,
    "status": "completed",
    "event": "HLL 2026 Super Cup",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-san-jose-state-university-vs-gamers-collecting-club-esports-2026-11-13-5bd3d1d7950a",
+   "at": "2026-11-13T19:22:00.000Z",
+   "a": {
+    "name": "San Jose State University",
+    "short": "san-jose-state-university"
+   },
+   "b": {
+    "name": "Gamers Collecting Club Esports",
+    "short": "gamers-collecting-club-esports"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-classic-esports-gold-vs-ccg-esports-2026-11-14-a66bb4e445a7",
+   "at": "2026-11-14T01:00:00.000Z",
+   "a": {
+    "name": "Classic eSports Gold",
+    "short": "classic-esports-gold"
+   },
+   "b": {
+    "name": "CCG Esports",
+    "short": "CCG",
+    "logo": "https://api.citoapi.com/img/m/Aa7CQ_nCqYvzFBaP75YFi0403hgIdpDpGiTEsDAzAvgc7TCNZb5ltDWTQqWS3BnEYfaxXqOb1wpkKGZc2qB7WKomTlLzbTsQDGksqvh35KTguZdiyR_GQSJqk3hIdrS1.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-nine-lives-esports-vs-final-boss-esports-2026-11-14-1534c3447a79",
+   "at": "2026-11-14T01:10:00.000Z",
+   "a": {
+    "name": "Nine Lives Esports",
+    "short": "nine-lives-esports"
+   },
+   "b": {
+    "name": "Final Boss Esports",
+    "short": "FINAL-BOSS-ESPORTS"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-milk-esports-vs-nle-kittens-2026-11-14-21058ed1a623",
+   "at": "2026-11-14T01:15:00.000Z",
+   "a": {
+    "name": "Milk Esports",
+    "short": "milk-esports"
+   },
+   "b": {
+    "name": "NLE Kittens",
+    "short": "NLE-KITTENS"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-have-j-bs-vs-conviction-calamity-2026-11-14-fb92f076e2cc",
+   "at": "2026-11-14T01:18:00.000Z",
+   "a": {
+    "name": "Have J-bs",
+    "short": "have-j-bs"
+   },
+   "b": {
+    "name": "Conviction Calamity",
+    "short": "conviction-calamity"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-deathmark-e-sports-vs-team-samsara-bloom-2026-11-14-f5fe1eee5335",
+   "at": "2026-11-14T01:25:00.000Z",
+   "a": {
+    "name": "DeathMark E-Sports",
+    "short": "deathmark-e-sports"
+   },
+   "b": {
+    "name": "Team Samsara Bloom",
+    "short": "TEAM-SAMSARA-BLOOM"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-andromeda-esports-vs-stasis-gaming-2026-11-14-22910d119594",
+   "at": "2026-11-14T01:46:00.000Z",
+   "a": {
+    "name": "Andromeda Esports",
+    "short": "andromeda-esports"
+   },
+   "b": {
+    "name": "Stasis Gaming",
+    "short": "STASIS-GAMING"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-kitchen-utensil-vs-team-six-gaming-2026-11-14-8926ec75b15c",
+   "at": "2026-11-14T01:51:00.000Z",
+   "a": {
+    "name": "Kitchen Utensil",
+    "short": "kitchen-utensil"
+   },
+   "b": {
+    "name": "Team Six Gaming",
+    "short": "TEAM-SIX-GAMING"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-university-of-california-berkeley-vs-dragon-ascendant-nap-2026-11-14-2f1c8ccb3b3d",
+   "at": "2026-11-14T01:57:00.000Z",
+   "a": {
+    "name": "University of California Berkeley",
+    "short": "university-of-california-berkeley"
+   },
+   "b": {
+    "name": "Dragon Ascendant NAP",
+    "short": "dragon-ascendant-nap"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
    "bestOf": 3
   },
   {
@@ -849,6 +982,23 @@
    "bestOf": 3
   },
   {
+   "id": "lol-off-acl26fall-dorado-gaming-black-vs-jigglypuff-guild-2026-11-16-473af7827c81",
+   "at": "2026-11-16T01:14:00.000Z",
+   "a": {
+    "name": "Dorado Gaming Black",
+    "short": "dorado-gaming-black"
+   },
+   "b": {
+    "name": "Jigglypuff Guild",
+    "short": "jigglypuff-guild"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
    "id": "lol-off-gg-arena-by-teknosa-season-2-round-1-1-58a16c9bcf43",
    "at": "2026-11-16T14:00:00.000Z",
    "a": {
@@ -935,6 +1085,41 @@
    "sb": 0,
    "status": "completed",
    "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-dragon-ascendant-esports-vs-dorado-gaming-white-2026-11-18-7ed3aad812a8",
+   "at": "2026-11-18T01:34:00.000Z",
+   "a": {
+    "name": "Dragon Ascendant Esports",
+    "short": "DRAGON-ASCENDANT-ESP"
+   },
+   "b": {
+    "name": "Dorado Gaming White",
+    "short": "dorado-gaming-white"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-blue-vs-team-samsara-2026-11-19-4a2e8a7911ab",
+   "at": "2026-11-19T01:31:00.000Z",
+   "a": {
+    "name": "Blue Otter",
+    "short": "BLUE",
+    "logo": "https://api.citoapi.com/img/m/ARUVtggqQxIkM2TKj6R4fxkVqzY4rjKJmeLVLWThi5INojdVvkAcjQcb7nLR3l-3IvSYDkTGIM14qAHufDfxDtOJyUiaDzGw_w4ZVH3HegUEQiF7wnvmlKkEeBU.png"
+   },
+   "b": {
+    "name": "Team Samsara",
+    "short": "TEAM-SAMSARA"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
    "bestOf": 3
   },
   {
@@ -1067,6 +1252,144 @@
    "bestOf": 3
   },
   {
+   "id": "lol-off-acl26fall-have-j-bs-vs-blue-2026-11-21-ac4d5a811743",
+   "at": "2026-11-21T01:00:00.000Z",
+   "a": {
+    "name": "Have J-bs",
+    "short": "have-j-bs"
+   },
+   "b": {
+    "name": "Blue Otter",
+    "short": "BLUE",
+    "logo": "https://api.citoapi.com/img/m/ARUVtggqQxIkM2TKj6R4fxkVqzY4rjKJmeLVLWThi5INojdVvkAcjQcb7nLR3l-3IvSYDkTGIM14qAHufDfxDtOJyUiaDzGw_w4ZVH3HegUEQiF7wnvmlKkEeBU.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-team-samsara-vs-team-six-gaming-2026-11-21-a9d6a08b884a",
+   "at": "2026-11-21T01:00:00.000Z",
+   "a": {
+    "name": "Team Samsara",
+    "short": "TEAM-SAMSARA"
+   },
+   "b": {
+    "name": "Team Six Gaming",
+    "short": "TEAM-SIX-GAMING"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-nle-kittens-vs-dragon-ascendant-esports-2026-11-21-fd206c0c8996",
+   "at": "2026-11-21T01:13:00.000Z",
+   "a": {
+    "name": "NLE Kittens",
+    "short": "NLE-KITTENS"
+   },
+   "b": {
+    "name": "Dragon Ascendant Esports",
+    "short": "DRAGON-ASCENDANT-ESP"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-conviction-calamity-vs-meebos-weebos-2026-11-21-051ab9a551c7",
+   "at": "2026-11-21T01:16:00.000Z",
+   "a": {
+    "name": "Conviction Calamity",
+    "short": "conviction-calamity"
+   },
+   "b": {
+    "name": "Meebo's Weebos",
+    "short": "meebos-weebos"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-kits-esports-vs-andromeda-esports-2026-11-21-6d6000fdbb0f",
+   "at": "2026-11-21T01:29:00.000Z",
+   "a": {
+    "name": "Kits Esports",
+    "short": "KITS",
+    "logo": "https://api.citoapi.com/img/m/AZ8qEGNbK3dNBtn07GelaFBiXNyu-07I4cmaveNENKr51WKtgBfcotAeUeYFqii4daCs9FO6kJyewww-NOyo3KyAFzipYU4r-iqLFauNPCGDL3rnYu3Tx3KYHKxagW3X.png"
+   },
+   "b": {
+    "name": "Andromeda Esports",
+    "short": "andromeda-esports"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-dragon-ascendant-nap-vs-team-samsara-bloom-2026-11-21-f494e12a2508",
+   "at": "2026-11-21T01:42:00.000Z",
+   "a": {
+    "name": "Dragon Ascendant NAP",
+    "short": "dragon-ascendant-nap"
+   },
+   "b": {
+    "name": "Team Samsara Bloom",
+    "short": "TEAM-SAMSARA-BLOOM"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-university-of-california-berkeley-vs-san-jose-state-university-2026-11-21-21705eb8e6b8",
+   "at": "2026-11-21T01:59:00.000Z",
+   "a": {
+    "name": "University of California Berkeley",
+    "short": "university-of-california-berkeley"
+   },
+   "b": {
+    "name": "San Jose State University",
+    "short": "san-jose-state-university"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-stasis-gaming-vs-university-of-pikeville-2026-11-21-866dca69e30d",
+   "at": "2026-11-21T02:38:00.000Z",
+   "a": {
+    "name": "Stasis Gaming",
+    "short": "STASIS-GAMING"
+   },
+   "b": {
+    "name": "University of Pikeville",
+    "short": "university-of-pikeville"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
    "id": "lol-off-legends-premier-league-season-5-round-1-5-e3a385866928",
    "at": "2026-11-21T10:00:00.000Z",
    "a": {
@@ -1097,9 +1420,9 @@
     "short": "AP",
     "logo": "https://api.citoapi.com/img/m/AR7ktrbiqWlehKS-I3-s2lVNTcZD4lYwN1c63rUIGX1nNq89jybTq3SMGtJC9yblZozh_Rq2aqSEzr2Egoc9TkgRLmO27oIh6FlMwSV7k_za3700Dg.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1114,9 +1437,9 @@
     "name": "Sawadika",
     "short": "sawadika"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1158,6 +1481,25 @@
    "bestOf": 3
   },
   {
+   "id": "lol-off-nova2026-bo3-134816",
+   "at": "2026-11-21T16:00:00.000Z",
+   "a": {
+    "name": "Vitality Rising Bees",
+    "short": "VRB",
+    "logo": "https://api.citoapi.com/img/m/Acy66e-qVVmfmX4VDVlImVIl-4eSB8DNjWcz8eqbcC1XYg_SNx_Ms7EEo1ElmMPGX7YpWrT09P2VZK5Bh8AwkWLnEBNutDZhNHssTydssVi7Ti9pI8FZeZ9XA3Uwup6AktyQ0FcUZw.png"
+   },
+   "b": {
+    "name": "Mental Rush",
+    "short": "MR",
+    "logo": "https://api.citoapi.com/img/m/AadAqlrdw0hyLDxW-a3JuqJb6gq77_4nqlNNj5ak44X0RsgPtJRR8xQhe7WPkp-JmU4c7dgbr_EaLE59U8jreYQ8e6D_Co4gzUQx_Udm1AyxUzeNTHKBF5p4SOpcLFIZqA.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Nova Series 2026",
+   "bestOf": 3
+  },
+  {
    "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-2-3-096a29c7e0d0",
    "at": "2026-11-21T17:00:00.000Z",
    "a": {
@@ -1175,6 +1517,23 @@
    "bestOf": 3
   },
   {
+   "id": "lol-off-nova2026-bo3-134817",
+   "at": "2026-11-21T18:00:00.000Z",
+   "a": {
+    "name": "SK Gaming Avarosa",
+    "short": "sk-gaming-avarosa"
+   },
+   "b": {
+    "name": "The Six Tung Tung Tung Sahurs",
+    "short": "the-six-tung-tung-tung-sahurs"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Nova Series 2026",
+   "bestOf": 3
+  },
+  {
    "id": "lol-off-legends-premier-league-season-5-round-1-8-07b3ac3ca712",
    "at": "2026-11-21T19:00:00.000Z",
    "a": {
@@ -1187,9 +1546,9 @@
     "short": "GOB",
     "logo": "https://api.citoapi.com/img/m/AZoNSK2iSD0xDqyc2-EZv26S9P_HmP1fGbrkqehsCJ4s-E4XxDgish3yrbIHkZNdypGV85NPSGD_azVFLMmXHasPWh6LpoMNH5eDRaH2lGPMDSmVUGpg_RU.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },

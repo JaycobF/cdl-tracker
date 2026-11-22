@@ -1,47 +1,9 @@
 {
  "id": "dota2",
- "updated": "2026-11-21T12:43:55.369Z",
+ "updated": "2026-11-22T00:09:38.291Z",
  "upcomingFetched": "2026-11-21T04:12:04.097Z",
- "recentFetched": "2026-11-21T12:43:55.369Z",
+ "recentFetched": "2026-11-22T00:09:38.291Z",
  "matches": [
-  {
-   "id": "663328",
-   "at": "2026-10-31T13:00:00.000Z",
-   "a": {
-    "name": "Team Yandex",
-    "short": "TY",
-    "logo": "https://static.gosugamers.net/24/46/bc/a0d9bc5f040ee1bd033974432fa80d7e8631d569126bb01c0ffd029bb9.webp"
-   },
-   "b": {
-    "name": "GamerLegion",
-    "short": "GL",
-    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
-  {
-   "id": "663334",
-   "at": "2026-10-31T17:00:00.000Z",
-   "a": {
-    "name": "GamerLegion",
-    "short": "GL",
-    "logo": "https://static.gosugamers.net/ab/9a/04/bf91eca95db0193ed29e080d8001e78f1d77d1c9a3f64706d19cffd233.webp"
-   },
-   "b": {
-    "name": "Team Spirit",
-    "short": "TSpirit",
-    "logo": "https://static.gosugamers.net/30/30/18/9e9c545e487d8ed3684ea87ad889853e082b5e2f4e384b161cea418e04.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "PARI Universe",
-   "bestOf": 3
-  },
   {
    "id": "663162",
    "at": "2026-11-01T10:00:00.000Z",
@@ -5254,7 +5216,7 @@
     "short": "project-achilles"
    },
    "sa": 0,
-   "sb": 3,
+   "sb": 2,
    "status": "completed",
    "event": "Mad Dogs League 2026 Season 51",
    "bestOf": 3
@@ -5447,6 +5409,23 @@
    "bestOf": 3
   },
   {
+   "id": "dota-32e163f852",
+   "at": "2026-11-21T09:00:00.000Z",
+   "a": {
+    "name": "Hellspawn",
+    "short": "hellspawn"
+   },
+   "b": {
+    "name": "Azure Dragons",
+    "short": "azure-dragons"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "Mad Dogs League 2026 Season 51",
+   "bestOf": 3
+  },
+  {
    "id": "663849",
    "at": "2026-11-21T10:00:00.000Z",
    "a": {
@@ -5461,7 +5440,7 @@
    },
    "sa": 0,
    "sb": 2,
-   "status": "live",
+   "status": "completed",
    "event": "European Pro League Season 41",
    "bestOf": 3
   },
@@ -5478,9 +5457,9 @@
     "short": "AI",
     "logo": "https://api.citoapi.com/img/m/Abivpl6-0CVF4ue73eW2kCL21my8fhDb-K-rdKOpSgWLhwkCtjjE_mI5DuHP8p6kNiB9Ssp1UEY9Xl3UeIUS8RlEpR8gHxQIc-naJRJIA12YI9pA1tBM_r0wT_QxHcAUINrSaH3oMrCnne-U1HV1CYb8UwZDMbS3r2pQgcjECxT7gEw.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "BLAST SLAM IX",
    "bestOf": 3
   },
@@ -5497,9 +5476,9 @@
     "short": "1Win",
     "logo": "https://api.citoapi.com/img/m/AS0_9vc6F3vx6Gp1y0tRnS1Ew7AC5BjyTB4KW9JZlFbwpfX-MzATsm1E00fXCeJ0fWFHhE7baIMAkq2iu_BM_CGx63V2JoHQdVjexH0HHxb6psSeppG1OjtGSyCT0kBGqACZij1WILUyxhX06X3SqzL1r3mFvzhgRb8NMZwDhew3m_E.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "BLAST SLAM IX",
    "bestOf": 3
   },
@@ -5514,9 +5493,9 @@
     "name": "Nethercore",
     "short": "nethercore"
    },
-   "sa": 0,
+   "sa": 2,
    "sb": 0,
-   "status": "live",
+   "status": "completed",
    "event": "Ultras Dota Pro League 2026-2027 Season 60",
    "bestOf": 3
   },
@@ -5531,15 +5510,32 @@
     "name": "Stormriders",
     "short": "stormriders"
    },
-   "sa": 0,
-   "sb": 0,
-   "status": "live",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "Mad Dogs League 2026 Season 51",
    "bestOf": 3
   },
   {
-   "id": "663832",
+   "id": "dota-43d052e84b",
    "at": "2026-11-21T13:00:00.000Z",
+   "a": {
+    "name": "Dominion",
+    "short": "dominion"
+   },
+   "b": {
+    "name": "Kirin",
+    "short": "kirin"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Ultras Dota Pro League 2026-2027 Season 60",
+   "bestOf": 3
+  },
+  {
+   "id": "663832",
+   "at": "2026-11-21T13:30:00.000Z",
    "a": {
     "name": "Angry Birds",
     "short": "Angry",
@@ -5550,34 +5546,15 @@
     "short": "INC",
     "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "European Pro League Season 41",
    "bestOf": 3
   },
   {
-   "id": "661564",
-   "at": "2026-11-21T14:00:00.000Z",
-   "a": {
-    "name": "Team Yandex",
-    "short": "TY",
-    "logo": "https://api.citoapi.com/img/m/Af_YyGYEKk66gnNi2TmEVaSYv0ySOvVo6KPDI43UD8r7JZQCfhWNZWIkZ0OijYI3ScFJ0Pvd3XbpLNAovux3bbqQi_T9FYbASRRmLH9cV_2MuSOClCKrSn5W3hY-3QDGCqJ7V4RBSEQIGsdzJSSxLu3rzD9wKniXH69NLw_Xih3ALgo.webp"
-   },
-   "b": {
-    "name": "Natus Vincere",
-    "short": "Na`Vi",
-    "logo": "https://api.citoapi.com/img/m/AfGXqq40F7qH5iMsSqY_lehN1tb-7CZ2X6SFzi7Q65DMNZsamELqW5nQMabrkbismVezyVa0_l-s4n_U-aZ5bH_X5ZBtNGPEm0La0H1EoGfhQWsNHzGUhZpWIpIZtymcLb-bK9xqjOQ8kgVh_rqdxJnrUbyI0bPyhjFZP9cSswiDZg.png"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "BLAST SLAM IX",
-   "bestOf": 3
-  },
-  {
    "id": "661569",
-   "at": "2026-11-21T14:00:00.000Z",
+   "at": "2026-11-21T13:50:00.000Z",
    "a": {
     "name": "Team Nemesis",
     "short": "Nemesis",
@@ -5588,15 +5565,53 @@
     "short": "GL",
     "logo": "https://api.citoapi.com/img/m/AWo7CaJOS9dz8Ab_k_gqdN4TMruSlsS_YPnzDKcM7pKDnlJij3UQD2IUgrCy8nDnsDawcXttFI1I6DiLtYoTE6K65czAM_x1N2T0KYST688SFzOROeCDEzcJDqU_PKfSuHKnjZ2HeGZ5o90OF5r8mmyrUuzGuhWRABvTE6jzMz06j9E.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "BLAST SLAM IX",
+   "bestOf": 3
+  },
+  {
+   "id": "661564",
+   "at": "2026-11-21T14:45:00.000Z",
+   "a": {
+    "name": "Team Yandex",
+    "short": "TY",
+    "logo": "https://api.citoapi.com/img/m/Af_YyGYEKk66gnNi2TmEVaSYv0ySOvVo6KPDI43UD8r7JZQCfhWNZWIkZ0OijYI3ScFJ0Pvd3XbpLNAovux3bbqQi_T9FYbASRRmLH9cV_2MuSOClCKrSn5W3hY-3QDGCqJ7V4RBSEQIGsdzJSSxLu3rzD9wKniXH69NLw_Xih3ALgo.webp"
+   },
+   "b": {
+    "name": "Natus Vincere",
+    "short": "Na`Vi",
+    "logo": "https://api.citoapi.com/img/m/AfGXqq40F7qH5iMsSqY_lehN1tb-7CZ2X6SFzi7Q65DMNZsamELqW5nQMabrkbismVezyVa0_l-s4n_U-aZ5bH_X5ZBtNGPEm0La0H1EoGfhQWsNHzGUhZpWIpIZtymcLb-bK9xqjOQ8kgVh_rqdxJnrUbyI0bPyhjFZP9cSswiDZg.png"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "BLAST SLAM IX",
+   "bestOf": 3
+  },
+  {
+   "id": "661565",
+   "at": "2026-11-21T16:15:00.000Z",
+   "a": {
+    "name": "PlayTime",
+    "short": "PTime",
+    "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
+   },
+   "b": {
+    "name": "OG",
+    "short": "OG",
+    "logo": "https://api.citoapi.com/img/m/AVyjjttvqvTYtMgL1PAMiyODakTVQEGsFf8QnklQCvCiIzXhop8Wci21wGGhdGEXikMg3Xnfv-I8ZpeBLs45BBqpaq1x6mck0f0BOCDkD1pce7guyG4XlZbLxp1O2zKx-cCPJGDTfXcDp9xaziJ5lKQcOxmz8bo69AASW7nYXY9Husw.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "BLAST SLAM IX",
    "bestOf": 3
   },
   {
    "id": "663853",
-   "at": "2026-11-21T16:00:00.000Z",
+   "at": "2026-11-21T16:20:00.000Z",
    "a": {
     "name": "Power Rangers",
     "short": "PWR",
@@ -5607,9 +5622,9 @@
     "short": "Synapse",
     "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "European Pro League Season 41",
    "bestOf": 3
   },
@@ -5626,29 +5641,44 @@
     "short": "XG",
     "logo": "https://api.citoapi.com/img/m/ASdaB-jTyI9eHWc7rlASpsweGEJEsCf85fGXWqRnOdtcr5iKO2inwDep2qRtczih5iWv1jKMW0rUBthqigwnA7paWrDtLax8ehhz8tsU-KaS-j_S4Brg04n9jJNSDAIomGthmhk9vog0qrJR3U9EgdTeUI4sa0kIL0lgDpwDcj-drKE.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "BLAST SLAM IX",
    "bestOf": 3
   },
   {
-   "id": "661565",
+   "id": "dota-b9f1ad561b",
    "at": "2026-11-21T17:00:00.000Z",
    "a": {
-    "name": "PlayTime",
-    "short": "PTime",
-    "logo": "https://api.citoapi.com/img/m/AavEwrHCQ0dBJss0GeT5lvLOedQZXyS_7EAgNb3KXkKlLx-PKFG7E7B8lzp5SYwW_z42uFE72JTMYNurIGaMLTkVUE7ukEA-v229PsEQ0lxLDi23SBPxGHSuQ82v0KyVEcB2RoaNr7THf_0RMd6Pu_LCi1iXl-C600jDLwydv8mEmyI.webp"
+    "name": "Blink Dagger Club",
+    "short": "blink-dagger-club"
    },
    "b": {
-    "name": "OG",
-    "short": "OG",
-    "logo": "https://api.citoapi.com/img/m/AVyjjttvqvTYtMgL1PAMiyODakTVQEGsFf8QnklQCvCiIzXhop8Wci21wGGhdGEXikMg3Xnfv-I8ZpeBLs45BBqpaq1x6mck0f0BOCDkD1pce7guyG4XlZbLxp1O2zKx-cCPJGDTfXcDp9xaziJ5lKQcOxmz8bo69AASW7nYXY9Husw.webp"
+    "name": "Kirin",
+    "short": "kirin"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "BLAST SLAM IX",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "Ultras Dota Pro League 2026-2027 Season 60",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-0dff85c730",
+   "at": "2026-11-21T17:00:00.000Z",
+   "a": {
+    "name": "Moonlight Wispers",
+    "short": ""
+   },
+   "b": {
+    "name": "Project Achilles",
+    "short": "project-achilles"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "Mad Dogs League 2026 Season 51",
    "bestOf": 3
   },
   {
@@ -5664,10 +5694,27 @@
     "short": "INC",
     "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 0,
+   "status": "completed",
    "event": "European Pro League Season 41",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-8a2b0ce5e8",
+   "at": "2026-11-21T20:00:00.000Z",
+   "a": {
+    "name": "Prime Legion",
+    "short": ""
+   },
+   "b": {
+    "name": "Freedom Fighters Team",
+    "short": "freedom-fighters-team"
+   },
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
+   "event": "Mad Dogs League 2026 Season 51",
    "bestOf": 3
   },
   {
