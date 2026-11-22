@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-22T06:51:24.492Z",
+ "updated": "2026-11-22T15:07:38.873Z",
  "upcomingFetched": "2026-11-22T06:51:24.492Z",
- "recentFetched": "2026-11-22T00:09:38.291Z",
+ "recentFetched": "2026-11-22T15:07:38.873Z",
  "matches": [
   {
    "id": "lol-match-115660540726095109",
@@ -1455,9 +1455,9 @@
     "name": "Alpha Impact",
     "short": "alpha-impact"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "HLL 2026 Super Cup",
    "bestOf": 3
   },
@@ -1474,9 +1474,9 @@
     "short": "HELL",
     "logo": "https://api.citoapi.com/img/m/AdVop29_4RqiJ9QtXaex6knYCef4VDnNDrhiX0lZsiJ8qdHNsmKnXpSF0JMYHxSvQY3g0vQwIOHyJaNh-7FRSyuSdfyzLZ3XTYDlUAEu8opgQpIWPifKcA.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "HLL 2026 Super Cup",
    "bestOf": 3
   },
@@ -1510,11 +1510,29 @@
     "name": "Turbo Gaming",
     "short": "turbo-gaming"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "RIVALS LEAGUE Season 2",
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
    "bestOf": 3
+  },
+  {
+   "id": "lol-off-breeze-of-glory-2026-round-4-2-f3a91d4d4d48",
+   "at": "2026-11-21T17:00:00.000Z",
+   "a": {
+    "name": "Zena Esports",
+    "short": "ZENA",
+    "logo": "https://api.citoapi.com/img/m/AQsrKKUt1ehNVTgrUJAASRzG5Az5pvVrMtoIeVQD8zllcYHoRvHVtPELLrJEkUdocaBlr1YTMBaIxmleOaU5uQFGTSaQMNvFwNtSZ0LzcxV1Vp_cM_i1drV1IDfJs3j2lnzE5aIdHWsilARMfo7BHF0YbWDZaKg.png"
+   },
+   "b": {
+    "name": "GONGJI",
+    "short": "gongji"
+   },
+   "sa": 0,
+   "sb": 3,
+   "status": "completed",
+   "event": "Breeze of Glory 2026",
+   "bestOf": 5
   },
   {
    "id": "lol-off-nova2026-bo3-134817",
@@ -1564,9 +1582,9 @@
     "name": "Power Rangers",
     "short": "power-rangers"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1583,9 +1601,9 @@
     "short": "WLG",
     "logo": "https://api.citoapi.com/img/m/AWevJ4R0zw3buILKYk4HebuSUyTc4TJBffGhY2zLF8voYARbPo0vvsXjvJq-mNYE0iywgUfk2e4XLZANvlg7unlENGjwNlkNM6ZTwQ.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },

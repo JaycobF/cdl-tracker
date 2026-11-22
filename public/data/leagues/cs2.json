@@ -1,45 +1,9 @@
 {
  "id": "cs2",
- "updated": "2026-11-22T06:51:24.492Z",
+ "updated": "2026-11-22T15:07:38.873Z",
  "upcomingFetched": "2026-11-22T06:51:24.492Z",
- "recentFetched": "2026-11-22T00:09:38.291Z",
+ "recentFetched": "2026-11-22T15:07:38.873Z",
  "matches": [
-  {
-   "id": "cs2-match-2400139",
-   "at": "2026-11-08T18:00:00.000Z",
-   "a": {
-    "name": "GenOne",
-    "short": "GENONE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/8d3280d5ea49595ba7b47d70ac00686c.webp"
-   },
-   "b": {
-    "name": "PsychoFace",
-    "short": "PSYCHOFA"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400320",
-   "at": "2026-11-08T18:00:00.000Z",
-   "a": {
-    "name": "aimclub",
-    "short": "AIMCLUB",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2b40dd9b745dbf65b95cf23cbf22ef1b.webp"
-   },
-   "b": {
-    "name": "Balkan Outlaws",
-    "short": "BO"
-   },
-   "sa": 2,
-   "sb": 1,
-   "status": "completed",
-   "event": "ESL Challenger League Season 52 Europe Cup 11",
-   "bestOf": 3
-  },
   {
    "id": "cs2-match-2400322",
    "at": "2026-11-08T18:00:00.000Z",
@@ -6606,6 +6570,25 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400367",
+   "at": "2026-11-21T18:55:00.000Z",
+   "a": {
+    "name": "Betclic",
+    "short": "BETCLIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/dbfd86fda3ecda278f74c1683b5fb21d.webp"
+   },
+   "b": {
+    "name": "FORZE Reload",
+    "short": "FR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400547",
    "at": "2026-11-21T19:10:04.000Z",
    "a": {
@@ -6644,25 +6627,6 @@
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400367",
-   "at": "2026-11-21T21:24:07.000Z",
-   "a": {
-    "name": "Betclic",
-    "short": "BETCLIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/dbfd86fda3ecda278f74c1683b5fb21d.webp"
-   },
-   "b": {
-    "name": "FORZE Reload",
-    "short": "FR",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "NODWIN Clutch Series 14",
-   "bestOf": 3
-  },
-  {
    "id": "cs2-match-2400529",
    "at": "2026-11-21T22:28:16.000Z",
    "a": {
@@ -6682,8 +6646,45 @@
    "bestOf": 3
   },
   {
+   "id": "cs2-match-2400740",
+   "at": "2026-11-21T23:45:44.000Z",
+   "a": {
+    "name": "MEIA NOITE",
+    "short": "MN"
+   },
+   "b": {
+    "name": "ALKA",
+    "short": "ALKA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/f988514bd669e5568531ed83f320a56a.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Challengers South America Series 4",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400741",
+   "at": "2026-11-22T02:32:08.000Z",
+   "a": {
+    "name": "LOS NINOS",
+    "short": "LOSNINOS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0d65af8cac8ecbfb6b25a73f8e9a4355.webp"
+   },
+   "b": {
+    "name": "RUSH",
+    "short": "RUSH",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b248f8354f58c367c3a7cbc8d69d73cb.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Challengers South America Series 4",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400736",
-   "at": "2026-11-22T03:00:00.000Z",
+   "at": "2026-11-22T05:29:44.000Z",
    "a": {
     "name": "Overtake Sector",
     "short": "OS",
@@ -6694,70 +6695,15 @@
     "short": "DETONATE",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/eb7261a616a2761122917835015930c4.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "CROSSFIRE Season 7",
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400742",
-   "at": "2026-11-22T08:00:00.000Z",
-   "a": {
-    "name": "IC Prospect",
-    "short": "IP"
-   },
-   "b": {
-    "name": "TOP G",
-    "short": "TOPG"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "",
-   "bestOf": null
-  },
-  {
-   "id": "cs2-match-2400410",
-   "at": "2026-11-22T09:00:00.000Z",
-   "a": {
-    "name": "FORZE Reload",
-    "short": "FR",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
-   },
-   "b": {
-    "name": "WBT",
-    "short": "WBT",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c8c732a2a2926b38a5c48070128b6ab8.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "European Pro League Series 10",
-   "bestOf": 5
-  },
-  {
-   "id": "cs2-match-2400368",
-   "at": "2026-11-22T09:00:00.000Z",
-   "a": {
-    "name": "33",
-    "short": "33",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
-   },
-   "b": {
-    "name": "Phantom",
-    "short": "PHANTOM",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "",
-   "bestOf": null
-  },
-  {
    "id": "cs2-match-2400641",
-   "at": "2026-11-22T09:00:00.000Z",
+   "at": "2026-11-22T07:31:29.000Z",
    "a": {
     "name": "Azuolas",
     "short": "AZUOLAS",
@@ -6768,11 +6714,11 @@
     "short": "ILLYRIAN",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
-   "bestOf": null
+   "bestOf": 3
   },
   {
    "id": "cs2-match-2400642",
@@ -6786,29 +6732,11 @@
     "short": "INFURITY",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/431eda969643d4a521c20d7a7dfa9297.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
-   "bestOf": null
-  },
-  {
-   "id": "cs2-match-2400278",
-   "at": "2026-11-22T11:00:00.000Z",
-   "a": {
-    "name": "Butterfly",
-    "short": "BUTTERFL",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fdd1f8a41c1042ac4139dd5a00d58c61.webp"
-   },
-   "b": {
-    "name": "ex-RUSTEC",
-    "short": "EXRUSTEC"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "CCT 2026 Europe Series 14",
-   "bestOf": null
+   "bestOf": 3
   },
   {
    "id": "cs2-match-2400544",
@@ -6822,30 +6750,11 @@
     "short": "UNITY",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/963106ee965e1a1995de49bdbb86b762.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Tipsport MČR 2026 Finals",
    "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400369",
-   "at": "2026-11-22T12:00:00.000Z",
-   "a": {
-    "name": "Virtus.pro",
-    "short": "VP",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/68db9c499141e90866a92cea2d99e411.svg"
-   },
-   "b": {
-    "name": "INFINITE",
-    "short": "INFINITE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5ee730483d936e6e2873dbf45f963495.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "",
-   "bestOf": null
   },
   {
    "id": "cs2-match-2400743",
@@ -6864,6 +6773,98 @@
    "status": "upcoming",
    "event": "",
    "bestOf": null
+  },
+  {
+   "id": "cs2-match-2400368",
+   "at": "2026-11-22T12:02:59.000Z",
+   "a": {
+    "name": "33",
+    "short": "33",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/4cb113879694b523b9c748c4006faec1.webp"
+   },
+   "b": {
+    "name": "Phantom",
+    "short": "PHANTOM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
+   },
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400369",
+   "at": "2026-11-22T12:20:00.000Z",
+   "a": {
+    "name": "Virtus.pro",
+    "short": "VP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/68db9c499141e90866a92cea2d99e411.svg"
+   },
+   "b": {
+    "name": "INFINITE",
+    "short": "INFINITE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5ee730483d936e6e2873dbf45f963495.webp"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400410",
+   "at": "2026-11-22T12:56:04.000Z",
+   "a": {
+    "name": "FORZE Reload",
+    "short": "FR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
+   },
+   "b": {
+    "name": "WBT",
+    "short": "WBT",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c8c732a2a2926b38a5c48070128b6ab8.webp"
+   },
+   "sa": 3,
+   "sb": 0,
+   "status": "completed",
+   "event": "European Pro League Series 10",
+   "bestOf": 5
+  },
+  {
+   "id": "cs2-match-2400742",
+   "at": "2026-11-22T13:15:15.000Z",
+   "a": {
+    "name": "IC Prospect",
+    "short": "IP"
+   },
+   "b": {
+    "name": "TOP G",
+    "short": "TOPG"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "UESF Championship of Ukraine 2026 Stage 5 Finals",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400278",
+   "at": "2026-11-22T13:35:22.000Z",
+   "a": {
+    "name": "Butterfly",
+    "short": "BUTTERFL",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/fdd1f8a41c1042ac4139dd5a00d58c61.webp"
+   },
+   "b": {
+    "name": "ex-RUSTEC",
+    "short": "EXRUSTEC"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 14",
+   "bestOf": 3
   },
   {
    "id": "cs2-match-2400549",
