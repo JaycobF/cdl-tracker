@@ -1,7 +1,7 @@
 {
  "id": "lol",
- "updated": "2026-11-22T00:09:38.291Z",
- "upcomingFetched": "2026-11-21T04:12:04.097Z",
+ "updated": "2026-11-22T06:51:24.492Z",
+ "upcomingFetched": "2026-11-22T06:51:24.492Z",
  "recentFetched": "2026-11-22T00:09:38.291Z",
  "matches": [
   {
@@ -1553,6 +1553,62 @@
    "bestOf": 3
   },
   {
+   "id": "lol-off-lpls5-fsk-vs-power-rangers-2026-11-22-5f65ef47e2b4",
+   "at": "2026-11-22T10:00:00.000Z",
+   "a": {
+    "name": "Forsaken",
+    "short": "FSK",
+    "logo": "https://api.citoapi.com/img/m/AbEBLyD0FGFm7xo3dX19neuEsmf4_p2WhnOs5J6D22CcVqJLhnkYyo_lr5pb-z4fPukPhi2PB_N6nGE8czbUMbcEsv1PKufvwd_G1I630Z5plzSJScBjpNuihvwJEx_v.png"
+   },
+   "b": {
+    "name": "Power Rangers",
+    "short": "power-rangers"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-zena-vs-wlgaming-esports-2026-11-22-de1481b2fd35",
+   "at": "2026-11-22T13:00:00.000Z",
+   "a": {
+    "name": "Zena Esports",
+    "short": "ZENA",
+    "logo": "https://api.citoapi.com/img/m/AQsrKKUt1ehNVTgrUJAASRzG5Az5pvVrMtoIeVQD8zllcYHoRvHVtPELLrJEkUdocaBlr1YTMBaIxmleOaU5uQFGTSaQMNvFwNtSZ0LzcxV1Vp_cM_i1drV1IDfJs3j2lnzE5aIdHWsilARMfo7BHF0YbWDZaKg.png"
+   },
+   "b": {
+    "name": "WLGaming",
+    "short": "WLG",
+    "logo": "https://api.citoapi.com/img/m/AWevJ4R0zw3buILKYk4HebuSUyTc4TJBffGhY2zLF8voYARbPo0vvsXjvJq-mNYE0iywgUfk2e4XLZANvlg7unlENGjwNlkNM6ZTwQ.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-vlr-vs-arctic-pandas-oy-2026-11-22-3dae937abf02",
+   "at": "2026-11-22T16:00:00.000Z",
+   "a": {
+    "name": "Valerion",
+    "short": "VLR",
+    "logo": "https://api.citoapi.com/img/m/AeK-4P9Ovm3k8Zv7-G2QFlnmLUAIkS4OoMQaFG6DoFtCjLNe5Kk0K4L1GLy8zYklZabaO-BwXJxY4TKiDQnIvSEe8Edg_Dun35tK4R0AuAkFQ0__gafejMlDZ7tE2r0.png"
+   },
+   "b": {
+    "name": "Arctic Pandas",
+    "short": "AP",
+    "logo": "https://api.citoapi.com/img/m/AR7ktrbiqWlehKS-I3-s2lVNTcZD4lYwN1c63rUIGX1nNq89jybTq3SMGtJC9yblZozh_Rq2aqSEzr2Egoc9TkgRLmO27oIh6FlMwSV7k_za3700Dg.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
    "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-2-4-7e72d90cb926",
    "at": "2026-11-22T17:00:00.000Z",
    "a": {
@@ -1567,7 +1623,152 @@
    "sa": null,
    "sb": null,
    "status": "upcoming",
-   "event": "RIVALS LEAGUE Season 2",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-docisk-vs-francesinhas-2026-11-22-b342a058c546",
+   "at": "2026-11-22T19:30:00.000Z",
+   "a": {
+    "name": "DOCISK",
+    "short": "DOC",
+    "logo": "https://api.citoapi.com/img/m/AWOQvo8CkWkS2BQVwQGEFTb0bXsmmXwLAiqpKMCqdnk6k5BvSvwOFS-PFdAamPvulEFynjv2YaAiRsQvL8RWwf8rw2ars1nTTm4bIDl75keuNQidv3MZDNHXJ-oBqgNwew.png"
+   },
+   "b": {
+    "name": "Francesinhas",
+    "short": "FCN",
+    "logo": "https://api.citoapi.com/img/m/AU0O822hmAz2WWWM6rfGVCrw7hDgT9mxSDZ2tcRLRHFaksL3RhluKcRTa68jA5Fy1SJwS11H_0oiBGqYBAqCuyuCwb17sFrYBpw9wCuBSCxr-FhCxiok4g.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-gamers-collecting-club-esports-vs-jigglypuff-guild-2026-11-23-f44afdc365b1",
+   "at": "2026-11-23T01:00:00.000Z",
+   "a": {
+    "name": "Gamers Collecting Club Esports",
+    "short": "gamers-collecting-club-esports"
+   },
+   "b": {
+    "name": "Jigglypuff Guild",
+    "short": "jigglypuff-guild"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-contingent-esports-vs-ccg-esports-2026-11-23-df4e983f92a5",
+   "at": "2026-11-23T01:00:00.000Z",
+   "a": {
+    "name": "Contingent Esports",
+    "short": "CONT",
+    "logo": "https://api.citoapi.com/img/m/ATHywN3uNG0dC_PNhbdXUoHtNXrnFqnrYaBONdIkeJiBgLq3uOnwZlr67j7qQanreWzKDhMj_lD9vF6tsoqf1SleK9P3rBT0h7i8LxtJ1jN3iCgOnl1ppOsW.png"
+   },
+   "b": {
+    "name": "CCG Esports",
+    "short": "CCG",
+    "logo": "https://api.citoapi.com/img/m/Aa7CQ_nCqYvzFBaP75YFi0403hgIdpDpGiTEsDAzAvgc7TCNZb5ltDWTQqWS3BnEYfaxXqOb1wpkKGZc2qB7WKomTlLzbTsQDGksqvh35KTguZdiyR_GQSJqk3hIdrS1.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-gob-vs-bomba-team-2026-11-23-e70f304d0635",
+   "at": "2026-11-23T10:00:00.000Z",
+   "a": {
+    "name": "Dominion Goblins",
+    "short": "GOB",
+    "logo": "https://api.citoapi.com/img/m/AZoNSK2iSD0xDqyc2-EZv26S9P_HmP1fGbrkqehsCJ4s-E4XxDgish3yrbIHkZNdypGV85NPSGD_azVFLMmXHasPWh6LpoMNH5eDRaH2lGPMDSmVUGpg_RU.png"
+   },
+   "b": {
+    "name": "BOMBA Team",
+    "short": "BOOM",
+    "logo": "https://api.citoapi.com/img/m/ARH6bWhX_1Cod0fiZ3J6x6eUilyyskQrjyWpwvNRy4QUyb8Mf1YyZ2WpeWp8BksqhM7yqaGvv_o5V3CB9cNZeI66oQWKwMteSHvvODp-PgRooGs6OSykGQXymAjjPTSTSY0.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-colossal-gaming-vs-sawadika-2026-11-23-00e4a676ce9b",
+   "at": "2026-11-23T13:00:00.000Z",
+   "a": {
+    "name": "Colossal Gaming",
+    "short": "CG",
+    "logo": "https://api.citoapi.com/img/m/AcS52wBPwYobACG9aOZUfPqoL39d6AQmdhnmyTdaugyDkGTCO_E52XWbOO1AROICKVv40B7emaoNTdEDaESWzPrQ0xCjXPx9sAPfX3XVPJ_RLW3SjIHzDtxIeJgHQFDdWQgrPChHOugvOuAXLx5t.png"
+   },
+   "b": {
+    "name": "Sawadika",
+    "short": "sawadika"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-bubliki-vs-cult-of-wildenbruch-2026-11-23-76e0d5a6bfe9",
+   "at": "2026-11-23T16:00:00.000Z",
+   "a": {
+    "name": "Bubliki",
+    "short": "BBK",
+    "logo": "https://api.citoapi.com/img/m/AfvmCHO-RZ24-ovymvj7bzf6S8H5oAYwlWXgo6MzTW0YsfNr8hVVcKzQOOJoxrUVCho1jQx8V3KzIm5jmuup-I84fmDaTM60mw-JdUi0l5AU_e43lkDSmQ.png"
+   },
+   "b": {
+    "name": "Cult of Wildenbruch",
+    "short": "cult-of-wildenbruch"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-regnum4games-vs-vfb-stuttgart-2026-11-23-8bd90111761c",
+   "at": "2026-11-23T19:00:00.000Z",
+   "a": {
+    "name": "regnum4games",
+    "short": "regnum4games"
+   },
+   "b": {
+    "name": "VfB Stuttgart",
+    "short": "VFB",
+    "logo": "https://api.citoapi.com/img/m/AXlXaXeWl4JKzKw14jVhWg6WRVxK1xL3NJI8d9lIx2jjM0vn8Ap_BTLyj2mOaDr6S8IkkaJ3D-C21Vdqpbk6CFabc3Ob054qieeF8rvE3Yvr-iC9rq8.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-dorado-gaming-black-vs-deathmark-e-sports-2026-11-26-5fc11eae6215",
+   "at": "2026-11-26T01:00:00.000Z",
+   "a": {
+    "name": "Dorado Gaming Black",
+    "short": "dorado-gaming-black"
+   },
+   "b": {
+    "name": "DeathMark E-Sports",
+    "short": "deathmark-e-sports"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ACL 2026 Fall",
    "bestOf": 3
   },
   {
@@ -1602,7 +1803,76 @@
    "sa": null,
    "sb": null,
    "status": "upcoming",
-   "event": "RIVALS LEAGUE Season 2",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-2026-asia-esports-championship-finals-1-45afe0d0ba79",
+   "at": "2026-11-29T05:30:00.000Z",
+   "a": {
+    "name": "Sponge Gaming",
+    "short": "SG7",
+    "logo": "https://api.citoapi.com/img/m/Af6bRYAg476e4g3J9JjiKzZbdKghw7fzBr62VWoK6QVNinq9SehEuel-tWyKSJRZI45XetT7sDWT4pgff-q1cLaYXy6EtdNMUUOIfaAQsVUePf0N73o.png"
+   },
+   "b": {
+    "name": "KR迎神隊",
+    "short": "kr"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Asia Esports Championship 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-acl26fall-final-boss-esports-vs-dorado-gaming-white-2026-11-30-bdb3f5d24efd",
+   "at": "2026-11-30T01:00:00.000Z",
+   "a": {
+    "name": "Final Boss Esports",
+    "short": "FINAL-BOSS-ESPORTS"
+   },
+   "b": {
+    "name": "Dorado Gaming White",
+    "short": "dorado-gaming-white"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-classic-esports-red-vs-nine-lives-esports-2026-11-30-5b58aa4ce163",
+   "at": "2026-11-30T01:00:00.000Z",
+   "a": {
+    "name": "Classic eSports Red",
+    "short": "classic-esports-red"
+   },
+   "b": {
+    "name": "Nine Lives Esports",
+    "short": "nine-lives-esports"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ACL 2026 Fall",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-acl26fall-next-level-esports-vs-classic-esports-gold-2026-12-01-82a5faa6a486",
+   "at": "2026-12-01T01:00:00.000Z",
+   "a": {
+    "name": "Next Level Esports",
+    "short": "NEXT-LEVEL-ESPORTS"
+   },
+   "b": {
+    "name": "Classic eSports Gold",
+    "short": "classic-esports-gold"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ACL 2026 Fall",
    "bestOf": 3
   },
   {
