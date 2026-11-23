@@ -1,47 +1,9 @@
 {
  "id": "cs2",
- "updated": "2026-11-23T09:52:04.763Z",
+ "updated": "2026-11-23T21:56:10.972Z",
  "upcomingFetched": "2026-11-23T09:52:04.763Z",
- "recentFetched": "2026-11-23T09:52:04.763Z",
+ "recentFetched": "2026-11-23T21:56:10.972Z",
  "matches": [
-  {
-   "id": "cs2-match-2400141",
-   "at": "2026-11-09T12:00:00.000Z",
-   "a": {
-    "name": "BAKS",
-    "short": "BAKS",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c925a6d446e66fd050c441c49c45bfc7.webp"
-   },
-   "b": {
-    "name": "Leo",
-    "short": "LEO",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/5edf6ccae4779dc22bb759938f629fa4.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400230",
-   "at": "2026-11-09T12:00:00.000Z",
-   "a": {
-    "name": "MAYBE",
-    "short": "MAYBE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
-   },
-   "b": {
-    "name": "MASONIC",
-    "short": "MASONIC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0b9e9cc30a2e2c8a10314b6cfd64cba0.svg"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
-   "bestOf": 3
-  },
   {
    "id": "cs2-match-2400386",
    "at": "2026-11-09T12:25:00.000Z",
@@ -6908,7 +6870,7 @@
   },
   {
    "id": "cs2-match-2400645",
-   "at": "2026-11-23T09:00:00.000Z",
+   "at": "2026-11-23T09:14:37.000Z",
    "a": {
     "name": "KUUSAMO",
     "short": "KUUSAMO",
@@ -6927,7 +6889,7 @@
   },
   {
    "id": "cs2-match-2400372",
-   "at": "2026-11-23T09:00:00.000Z",
+   "at": "2026-11-23T12:10:37.000Z",
    "a": {
     "name": "Phantom",
     "short": "PHANTOM",
@@ -6938,15 +6900,15 @@
     "short": "BETCLIC",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/dbfd86fda3ecda278f74c1683b5fb21d.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "",
-   "bestOf": null
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
   },
   {
    "id": "cs2-match-2400373",
-   "at": "2026-11-23T12:00:00.000Z",
+   "at": "2026-11-23T14:39:14.000Z",
    "a": {
     "name": "Virtus.pro",
     "short": "VP",
@@ -6957,15 +6919,34 @@
     "short": "IS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3e4a7c929a4caa5f376eccf0ac007e8a.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "",
-   "bestOf": null
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400646",
+   "at": "2026-11-23T15:14:34.000Z",
+   "a": {
+    "name": "MAYBE",
+    "short": "MAYBE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
+   },
+   "b": {
+    "name": "G2 Ares",
+    "short": "G2ARES",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/9158a57c6e0e020169cc9b45501d3073.webp"
+   },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+   "bestOf": 3
   },
   {
    "id": "cs2-match-2400647",
-   "at": "2026-11-23T15:00:00.000Z",
+   "at": "2026-11-23T17:17:23.000Z",
    "a": {
     "name": "Illyrians",
     "short": "ILLYRIAN",
@@ -6976,15 +6957,34 @@
     "short": "PA",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/f3b52fb54d0d9582e1178ab8f6de225e.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
-   "bestOf": null
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400374",
+   "at": "2026-11-23T18:23:48.000Z",
+   "a": {
+    "name": "Betclic",
+    "short": "BETCLIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/dbfd86fda3ecda278f74c1683b5fb21d.webp"
+   },
+   "b": {
+    "name": "Virtus.pro",
+    "short": "VP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/68db9c499141e90866a92cea2d99e411.svg"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "NODWIN Clutch Series 14",
+   "bestOf": 3
   },
   {
    "id": "cs2-match-2400648",
-   "at": "2026-11-23T18:00:00.000Z",
+   "at": "2026-11-23T20:26:27.000Z",
    "a": {
     "name": "INFURITY",
     "short": "INFURITY",
@@ -6995,11 +6995,11 @@
     "short": "LUNACY",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bfbc6dd5ae5abc9b6db84eff3cd5b45a.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "CCT 2026 Europe Series 15 Closed Qualifier",
-   "bestOf": null
+   "bestOf": 3
   },
   {
    "id": "cs2-match-2400738",

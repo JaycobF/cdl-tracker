@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-23T09:52:04.763Z",
+ "updated": "2026-11-23T21:56:10.972Z",
  "upcomingFetched": "2026-11-23T09:52:04.763Z",
- "recentFetched": "2026-11-23T09:52:04.763Z",
+ "recentFetched": "2026-11-23T21:56:10.972Z",
  "matches": [
   {
    "id": "lol-match-115660540726095109",
@@ -1510,8 +1510,8 @@
     "name": "Turbo Gaming",
     "short": "turbo-gaming"
    },
-   "sa": 1,
-   "sb": 3,
+   "sa": 0,
+   "sb": 0,
    "status": "completed",
    "event": "RIVALS LEAGUE Season 2 Playoffs",
    "bestOf": 3
@@ -1638,8 +1638,8 @@
     "name": "Lund Esports Organization OGs",
     "short": "LUND-ESPORTS-ORGANIZ"
    },
-   "sa": 2,
-   "sb": 3,
+   "sa": 0,
+   "sb": 0,
    "status": "completed",
    "event": "RIVALS LEAGUE Season 2 Playoffs",
    "bestOf": 3
@@ -1712,9 +1712,9 @@
     "short": "BOOM",
     "logo": "https://api.citoapi.com/img/m/ARH6bWhX_1Cod0fiZ3J6x6eUilyyskQrjyWpwvNRy4QUyb8Mf1YyZ2WpeWp8BksqhM7yqaGvv_o5V3CB9cNZeI66oQWKwMteSHvvODp-PgRooGs6OSykGQXymAjjPTSTSY0.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1730,9 +1730,9 @@
     "name": "Sawadika",
     "short": "sawadika"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1748,9 +1748,9 @@
     "name": "Cult of Wildenbruch",
     "short": "cult-of-wildenbruch"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
