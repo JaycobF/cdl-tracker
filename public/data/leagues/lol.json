@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-22T15:07:38.873Z",
+ "updated": "2026-11-23T01:45:04.940Z",
  "upcomingFetched": "2026-11-22T06:51:24.492Z",
- "recentFetched": "2026-11-22T15:07:38.873Z",
+ "recentFetched": "2026-11-23T01:45:04.940Z",
  "matches": [
   {
    "id": "lol-match-115660540726095109",
@@ -1620,9 +1620,9 @@
     "short": "AP",
     "logo": "https://api.citoapi.com/img/m/AR7ktrbiqWlehKS-I3-s2lVNTcZD4lYwN1c63rUIGX1nNq89jybTq3SMGtJC9yblZozh_Rq2aqSEzr2Egoc9TkgRLmO27oIh6FlMwSV7k_za3700Dg.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1657,15 +1657,15 @@
     "short": "FCN",
     "logo": "https://api.citoapi.com/img/m/AU0O822hmAz2WWWM6rfGVCrw7hDgT9mxSDZ2tcRLRHFaksL3RhluKcRTa68jA5Fy1SJwS11H_0oiBGqYBAqCuyuCwb17sFrYBpw9wCuBSCxr-FhCxiok4g.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
   {
    "id": "lol-off-acl26fall-gamers-collecting-club-esports-vs-jigglypuff-guild-2026-11-23-f44afdc365b1",
-   "at": "2026-11-23T01:00:00.000Z",
+   "at": "2026-11-22T21:22:00.000Z",
    "a": {
     "name": "Gamers Collecting Club Esports",
     "short": "gamers-collecting-club-esports"
@@ -1674,9 +1674,9 @@
     "name": "Jigglypuff Guild",
     "short": "jigglypuff-guild"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "ACL 2026 Fall",
    "bestOf": 3
   },
