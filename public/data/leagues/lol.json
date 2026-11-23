@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-23T01:45:04.940Z",
- "upcomingFetched": "2026-11-22T06:51:24.492Z",
- "recentFetched": "2026-11-23T01:45:04.940Z",
+ "updated": "2026-11-23T09:52:04.763Z",
+ "upcomingFetched": "2026-11-23T09:52:04.763Z",
+ "recentFetched": "2026-11-23T09:52:04.763Z",
  "matches": [
   {
    "id": "lol-match-115660540726095109",
@@ -1638,9 +1638,9 @@
     "name": "Lund Esports Organization OGs",
     "short": "LUND-ESPORTS-ORGANIZ"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 3,
+   "status": "completed",
    "event": "RIVALS LEAGUE Season 2 Playoffs",
    "bestOf": 3
   },
@@ -1840,6 +1840,41 @@
    "sb": null,
    "status": "upcoming",
    "event": "Asia Esports Championship 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-3-1-097cd79118e3",
+   "at": "2026-11-29T17:00:00.000Z",
+   "a": {
+    "name": "Turbo Gaming",
+    "short": "turbo-gaming"
+   },
+   "b": {
+    "name": "Lund Esports Organization OGs",
+    "short": "LUND-ESPORTS-ORGANIZ"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-breeze-of-glory-2026-grand-final-1-9d240ea1ef62",
+   "at": "2026-11-29T22:59:00.000Z",
+   "a": {
+    "name": "HMBLE",
+    "short": "HMB",
+    "logo": "https://api.citoapi.com/img/m/AQ7RcpNWVMtUDNOLTaIYuVb09CTvDPT6Y14yIqmMx7N2NacyH_PCdRVEWoelY2SqQX3eI_DpXnhFSL7BIRFbWD-O8hpRLqOjbrhOW5qaz05mCVHn2_IWo19cgPSld5r1ieLeLzxB.png"
+   },
+   "b": {
+    "name": "GONGJI",
+    "short": "gongji"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Breeze of Glory 2026",
    "bestOf": 5
   },
   {

@@ -1,156 +1,9 @@
 {
  "id": "cs2",
- "updated": "2026-11-23T01:45:04.940Z",
- "upcomingFetched": "2026-11-22T06:51:24.492Z",
- "recentFetched": "2026-11-23T01:45:04.940Z",
+ "updated": "2026-11-23T09:52:04.763Z",
+ "upcomingFetched": "2026-11-23T09:52:04.763Z",
+ "recentFetched": "2026-11-23T09:52:04.763Z",
  "matches": [
-  {
-   "id": "cs2-match-2400380",
-   "at": "2026-11-08T20:30:00.000Z",
-   "a": {
-    "name": "DETONATE",
-    "short": "DETONATE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/eb7261a616a2761122917835015930c4.webp"
-   },
-   "b": {
-    "name": "Feistein",
-    "short": "FEISTEIN"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "CCT 2026 Challengers North America Series 1",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400379",
-   "at": "2026-11-08T20:30:00.000Z",
-   "a": {
-    "name": "Marsborne",
-    "short": "MARSBORN",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3da4ca9ea4931c597cd1bbca72aced80.webp"
-   },
-   "b": {
-    "name": "Elusive",
-    "short": "ELUSIVE"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Challengers North America Series 1",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400095",
-   "at": "2026-11-08T22:00:00.000Z",
-   "a": {
-    "name": "Low Cortisol",
-    "short": "LC",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/2d37607d6c216b1dd088d831173cb4bb.webp"
-   },
-   "b": {
-    "name": "RUSH",
-    "short": "RUSH",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b248f8354f58c367c3a7cbc8d69d73cb.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 South America Series 8",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400381",
-   "at": "2026-11-08T22:50:00.000Z",
-   "a": {
-    "name": "Elusive",
-    "short": "ELUSIVE"
-   },
-   "b": {
-    "name": "DETONATE",
-    "short": "DETONATE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/eb7261a616a2761122917835015930c4.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Challengers North America Series 1",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400382",
-   "at": "2026-11-08T23:15:00.000Z",
-   "a": {
-    "name": "Marsborne",
-    "short": "MARSBORN",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3da4ca9ea4931c597cd1bbca72aced80.webp"
-   },
-   "b": {
-    "name": "Feistein",
-    "short": "FEISTEIN"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Challengers North America Series 1",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400229",
-   "at": "2026-11-09T09:00:00.000Z",
-   "a": {
-    "name": "LFO 10",
-    "short": "LFO10"
-   },
-   "b": {
-    "name": "Prestige",
-    "short": "PRESTIGE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0c309372a31bdd9c818b580254c4ed15.webp"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 14 Closed Qualifier",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400385",
-   "at": "2026-11-09T09:00:00.000Z",
-   "a": {
-    "name": "Walczaki",
-    "short": "WALCZAKI",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/60d1ef683fdb3e0b77e2d0ecd9da6207.webp"
-   },
-   "b": {
-    "name": "Noir Verse",
-    "short": "NV",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c4720cf4f05b7548a12dd8f73bae6a6.webp"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "European Pro League Series 10",
-   "bestOf": 3
-  },
-  {
-   "id": "cs2-match-2400140",
-   "at": "2026-11-09T09:00:00.000Z",
-   "a": {
-    "name": "FORZE Reload",
-    "short": "FR",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bb5dcd5558832da8e349f7a0eeb1bc5a.webp"
-   },
-   "b": {
-    "name": "MAYBE",
-    "short": "MAYBE",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/49b90c488c0eeb24498a5a7339174858.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "CCT 2026 Europe Series 13",
-   "bestOf": 3
-  },
   {
    "id": "cs2-match-2400141",
    "at": "2026-11-09T12:00:00.000Z",
@@ -6980,44 +6833,63 @@
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400737",
-   "at": "2026-11-23T01:00:00.000Z",
+   "id": "cs2-match-2400748",
+   "at": "2026-11-23T02:29:06.000Z",
    "a": {
-    "name": "Milk",
-    "short": "MILK"
+    "name": "FlyQuest RED",
+    "short": "FR",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/94167faf3133a93d6477993f63d59551.webp"
    },
    "b": {
-    "name": "Celestial",
-    "short": "CELESTIA"
+    "name": "Axial",
+    "short": "AXIAL"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
    "event": "CROSSFIRE Season 7",
    "bestOf": 3
   },
   {
-   "id": "cs2-match-2400738",
-   "at": "2026-11-23T01:00:00.000Z",
+   "id": "cs2-match-2400754",
+   "at": "2026-11-23T02:39:12.000Z",
    "a": {
-    "name": "KODEX",
-    "short": "KODEX",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/961aec48f70893f95b41243f4ecfcb05.webp"
+    "name": "ALKA",
+    "short": "ALKA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/f988514bd669e5568531ed83f320a56a.webp"
    },
    "b": {
-    "name": "NineFly",
-    "short": "NINEFLY",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0493b7b20c792de7d5fb1c34b7777be4.webp"
+    "name": "RUSH",
+    "short": "RUSH",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b248f8354f58c367c3a7cbc8d69d73cb.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "",
-   "bestOf": null
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
+   "event": "CCT 2026 Challengers South America Series 4",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400755",
+   "at": "2026-11-23T03:19:22.000Z",
+   "a": {
+    "name": "DETONATE",
+    "short": "DETONATE",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/eb7261a616a2761122917835015930c4.webp"
+   },
+   "b": {
+    "name": "NXG",
+    "short": "NXG"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "CROSSFIRE Season 7",
+   "bestOf": 3
   },
   {
    "id": "cs2-match-2400747",
-   "at": "2026-11-23T01:00:00.000Z",
+   "at": "2026-11-23T03:53:50.000Z",
    "a": {
     "name": "regain",
     "short": "REGAIN",
@@ -7028,6 +6900,44 @@
     "short": "IS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/114a7640c9c289efffafa80a28065b19.webp"
    },
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
+   "event": "CROSSFIRE Season 7",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400645",
+   "at": "2026-11-23T09:00:00.000Z",
+   "a": {
+    "name": "KUUSAMO",
+    "short": "KUUSAMO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/692f623a2a97de9e5bbc598bb28a9432.webp"
+   },
+   "b": {
+    "name": "Noir Verse",
+    "short": "NV",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3c4720cf4f05b7548a12dd8f73bae6a6.webp"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+   "bestOf": 3
+  },
+  {
+   "id": "cs2-match-2400372",
+   "at": "2026-11-23T09:00:00.000Z",
+   "a": {
+    "name": "Phantom",
+    "short": "PHANTOM",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/efa259edfdf9754d171e7d54624b9bb3.webp"
+   },
+   "b": {
+    "name": "Betclic",
+    "short": "BETCLIC",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/dbfd86fda3ecda278f74c1683b5fb21d.webp"
+   },
    "sa": null,
    "sb": null,
    "status": "upcoming",
@@ -7035,16 +6945,74 @@
    "bestOf": null
   },
   {
-   "id": "cs2-match-2400748",
-   "at": "2026-11-23T01:00:00.000Z",
+   "id": "cs2-match-2400373",
+   "at": "2026-11-23T12:00:00.000Z",
    "a": {
-    "name": "FlyQuest RED",
-    "short": "FR",
-    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/94167faf3133a93d6477993f63d59551.webp"
+    "name": "Virtus.pro",
+    "short": "VP",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/68db9c499141e90866a92cea2d99e411.svg"
    },
    "b": {
-    "name": "Axial",
-    "short": "AXIAL"
+    "name": "Iberian Soul",
+    "short": "IS",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3e4a7c929a4caa5f376eccf0ac007e8a.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "",
+   "bestOf": null
+  },
+  {
+   "id": "cs2-match-2400647",
+   "at": "2026-11-23T15:00:00.000Z",
+   "a": {
+    "name": "Illyrians",
+    "short": "ILLYRIAN",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/c1a0427413bc18ba47a56a38cd0c3d52.webp"
+   },
+   "b": {
+    "name": "Phantom Academy",
+    "short": "PA",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/f3b52fb54d0d9582e1178ab8f6de225e.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+   "bestOf": null
+  },
+  {
+   "id": "cs2-match-2400648",
+   "at": "2026-11-23T18:00:00.000Z",
+   "a": {
+    "name": "INFURITY",
+    "short": "INFURITY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/431eda969643d4a521c20d7a7dfa9297.webp"
+   },
+   "b": {
+    "name": "Lunacy",
+    "short": "LUNACY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/bfbc6dd5ae5abc9b6db84eff3cd5b45a.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CCT 2026 Europe Series 15 Closed Qualifier",
+   "bestOf": null
+  },
+  {
+   "id": "cs2-match-2400738",
+   "at": "2026-11-24T01:00:00.000Z",
+   "a": {
+    "name": "KODEX",
+    "short": "KODEX",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/961aec48f70893f95b41243f4ecfcb05.webp"
+   },
+   "b": {
+    "name": "NineFly",
+    "short": "NINEFLY",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/0493b7b20c792de7d5fb1c34b7777be4.webp"
    },
    "sa": null,
    "sb": null,
@@ -7089,6 +7057,23 @@
    "bestOf": null
   },
   {
+   "id": "cs2-match-2400737",
+   "at": "2026-11-24T02:00:00.000Z",
+   "a": {
+    "name": "Milk",
+    "short": "MILK"
+   },
+   "b": {
+    "name": "Celestial",
+    "short": "CELESTIA"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "CROSSFIRE Season 7",
+   "bestOf": 3
+  },
+  {
    "id": "cs2-match-2400750",
    "at": "2026-11-24T02:00:00.000Z",
    "a": {
@@ -7100,6 +7085,25 @@
     "name": "Overtake Sector",
     "short": "OS",
     "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/3f7e5bcae305d2c6c29cfff1ad22b83f.webp"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "",
+   "bestOf": null
+  },
+  {
+   "id": "cs2-match-2400752",
+   "at": "2026-11-24T02:00:00.000Z",
+   "a": {
+    "name": "Villainous",
+    "short": "VILLAINO",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/b8b54d2efa48267fb7c2d39abccaf156.webp"
+   },
+   "b": {
+    "name": "Wanted Goons",
+    "short": "WG",
+    "logo": "https://api.citoapi.com/api/v1/public/images/cs2/logos/ce0b7edf0fc9eafad20bad1599e6dd1e.webp"
    },
    "sa": null,
    "sb": null,
