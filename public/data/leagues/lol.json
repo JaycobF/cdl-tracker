@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-25T01:26:47.382Z",
- "upcomingFetched": "2026-11-24T17:12:04.923Z",
- "recentFetched": "2026-11-25T10:20:33.130Z",
+ "updated": "2026-11-25T20:03:52.419Z",
+ "upcomingFetched": "2026-11-25T20:03:52.419Z",
+ "recentFetched": "2026-11-25T20:03:52.419Z",
  "matches": [
   {
    "id": "lol-match-115660540726095115",
@@ -1820,9 +1820,9 @@
     "name": "Sawadika",
     "short": "sawadika"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1839,9 +1839,9 @@
     "short": "CG",
     "logo": "https://api.citoapi.com/img/m/AcS52wBPwYobACG9aOZUfPqoL39d6AQmdhnmyTdaugyDkGTCO_E52XWbOO1AROICKVv40B7emaoNTdEDaESWzPrQ0xCjXPx9sAPfX3XVPJ_RLW3SjIHzDtxIeJgHQFDdWQgrPChHOugvOuAXLx5t.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1937,23 +1937,6 @@
    "bestOf": 5
   },
   {
-   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-4-1-3e9155c52e93",
-   "at": "2026-11-28T17:00:00.000Z",
-   "a": {
-    "name": "Tung Sahur Mid",
-    "short": "tung-sahur-mid"
-   },
-   "b": {
-    "name": "B2U",
-    "short": "b2u"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "RIVALS LEAGUE Season 2 Playoffs",
-   "bestOf": 3
-  },
-  {
    "id": "lol-off-2026-asia-esports-championship-finals-1-45afe0d0ba79",
    "at": "2026-11-29T05:30:00.000Z",
    "a": {
@@ -1970,6 +1953,23 @@
    "status": "upcoming",
    "event": "Asia Esports Championship 2026",
    "bestOf": 5
+  },
+  {
+   "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-4-1-3e9155c52e93",
+   "at": "2026-11-29T14:00:00.000Z",
+   "a": {
+    "name": "Tung Sahur Mid",
+    "short": "tung-sahur-mid"
+   },
+   "b": {
+    "name": "B2U",
+    "short": "b2u"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "RIVALS LEAGUE Season 2 Playoffs",
+   "bestOf": 3
   },
   {
    "id": "lol-off-rivals-league-2026-season-season-2-playoffs-round-3-1-097cd79118e3",
@@ -2170,6 +2170,24 @@
    "status": "upcoming",
    "event": "Red Bull League of Its Own 2026",
    "bestOf": 1
+  },
+  {
+   "id": "lol-off-nova2026-bo3-134818",
+   "at": "2026-12-06T16:00:00.000Z",
+   "a": {
+    "name": "Vitality Rising Bees",
+    "short": "VRB",
+    "logo": "https://api.citoapi.com/img/m/Acy66e-qVVmfmX4VDVlImVIl-4eSB8DNjWcz8eqbcC1XYg_SNx_Ms7EEo1ElmMPGX7YpWrT09P2VZK5Bh8AwkWLnEBNutDZhNHssTydssVi7Ti9pI8FZeZ9XA3Uwup6AktyQ0FcUZw.png"
+   },
+   "b": {
+    "name": "SK Gaming Avarosa",
+    "short": "sk-gaming-avarosa"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Nova Series 2026",
+   "bestOf": 5
   }
  ]
 }
