@@ -1,28 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-24T17:12:04.923Z",
+ "updated": "2026-11-25T01:26:47.382Z",
  "upcomingFetched": "2026-11-24T17:12:04.923Z",
- "recentFetched": "2026-11-24T17:12:04.923Z",
+ "recentFetched": "2026-11-25T01:26:47.382Z",
  "matches": [
-  {
-   "id": "lol-match-115660540726095109",
-   "at": "2026-11-03T22:00:00.000Z",
-   "a": {
-    "name": "TOP ESPORTS",
-    "short": "TES",
-    "logo": "https://api.citoapi.com/img/m/AegxIiYXYZTSbvpVzaQUYHimjATzAc9HzIAnGQ32mTrT82f49IKFN0Y5fc20tibAHlgbu3J1IcryrXen99Icr4xm9JPR73X4aLUkulfpydRKqa8su3BHw4ZB6wUntaSbsK8p38vqO6J1_j9DDUg.png"
-   },
-   "b": {
-    "name": "Invictus Gaming",
-    "short": "IG",
-    "logo": "https://api.citoapi.com/img/m/AURRsKJqMCC_FTnzkx2zj3N4TNyWuNk-atimvzwb9LfXrhfMbtBpRHJ_ljFPf9bKSOk9fXSFJbOAZqVgSavE8fMZHMJLU8utSXnJ0X_sUCyS-I603h2lb1o02sngfLDlnfuNFKeGzYQclINUQQ.png"
-   },
-   "sa": 1,
-   "sb": 3,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-115660540726095115",
    "at": "2026-11-04T22:00:00.000Z",
@@ -1803,9 +1784,9 @@
     "short": "VLR",
     "logo": "https://api.citoapi.com/img/m/AeK-4P9Ovm3k8Zv7-G2QFlnmLUAIkS4OoMQaFG6DoFtCjLNe5Kk0K4L1GLy8zYklZabaO-BwXJxY4TKiDQnIvSEe8Edg_Dun35tK4R0AuAkFQ0__gafejMlDZ7tE2r0.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1821,9 +1802,9 @@
     "name": "regnum4games",
     "short": "regnum4games"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
