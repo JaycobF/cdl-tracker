@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-26T12:01:45.154Z",
- "upcomingFetched": "2026-11-25T20:03:52.419Z",
- "recentFetched": "2026-11-26T12:01:45.154Z",
+ "updated": "2026-11-26T21:34:30.119Z",
+ "upcomingFetched": "2026-11-26T21:34:30.119Z",
+ "recentFetched": "2026-11-26T21:34:30.119Z",
  "matches": [
   {
    "id": "lol-match-115660540726095097",
@@ -1855,9 +1855,9 @@
     "name": "Power Rangers",
     "short": "power-rangers"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1873,6 +1873,42 @@
     "name": "Zena Esports",
     "short": "ZENA",
     "logo": "https://api.citoapi.com/img/m/AQsrKKUt1ehNVTgrUJAASRzG5Az5pvVrMtoIeVQD8zllcYHoRvHVtPELLrJEkUdocaBlr1YTMBaIxmleOaU5uQFGTSaQMNvFwNtSZ0LzcxV1Vp_cM_i1drV1IDfJs3j2lnzE5aIdHWsilARMfo7BHF0YbWDZaKg.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-power-rangers-vs-bubliki-2026-11-27-79fae023ab5b",
+   "at": "2026-11-27T16:00:00.000Z",
+   "a": {
+    "name": "Power Rangers",
+    "short": "power-rangers"
+   },
+   "b": {
+    "name": "Bubliki",
+    "short": "BBK",
+    "logo": "https://api.citoapi.com/img/m/AfvmCHO-RZ24-ovymvj7bzf6S8H5oAYwlWXgo6MzTW0YsfNr8hVVcKzQOOJoxrUVCho1jQx8V3KzIm5jmuup-I84fmDaTM60mw-JdUi0l5AU_e43lkDSmQ.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
+   "id": "lol-off-lpls5-regnum4games-vs-wlgaming-esports-2026-11-27-d52f9ba5c6f3",
+   "at": "2026-11-27T19:00:00.000Z",
+   "a": {
+    "name": "regnum4games",
+    "short": "regnum4games"
+   },
+   "b": {
+    "name": "WLGaming",
+    "short": "WLG",
+    "logo": "https://api.citoapi.com/img/m/AWevJ4R0zw3buILKYk4HebuSUyTc4TJBffGhY2zLF8voYARbPo0vvsXjvJq-mNYE0iywgUfk2e4XLZANvlg7unlENGjwNlkNM6ZTwQ.png"
    },
    "sa": null,
    "sb": null,
@@ -1899,6 +1935,25 @@
    "bestOf": 5
   },
   {
+   "id": "lol-off-lpls5-docisk-vs-gob-2026-11-28-73a3e11193d5",
+   "at": "2026-11-28T16:00:00.000Z",
+   "a": {
+    "name": "DOCISK",
+    "short": "DOC",
+    "logo": "https://api.citoapi.com/img/m/AWOQvo8CkWkS2BQVwQGEFTb0bXsmmXwLAiqpKMCqdnk6k5BvSvwOFS-PFdAamPvulEFynjv2YaAiRsQvL8RWwf8rw2ars1nTTm4bIDl75keuNQidv3MZDNHXJ-oBqgNwew.png"
+   },
+   "b": {
+    "name": "Dominion Goblins",
+    "short": "GOB",
+    "logo": "https://api.citoapi.com/img/m/AZoNSK2iSD0xDqyc2-EZv26S9P_HmP1fGbrkqehsCJ4s-E4XxDgish3yrbIHkZNdypGV85NPSGD_azVFLMmXHasPWh6LpoMNH5eDRaH2lGPMDSmVUGpg_RU.png"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Legends Premier League Season 5",
+   "bestOf": 3
+  },
+  {
    "id": "lol-off-2026-asia-esports-championship-finals-1-45afe0d0ba79",
    "at": "2026-11-29T05:30:00.000Z",
    "a": {
@@ -1914,6 +1969,24 @@
    "sb": null,
    "status": "upcoming",
    "event": "Asia Esports Championship 2026",
+   "bestOf": 5
+  },
+  {
+   "id": "lol-off-breeze-of-glory-2026-grand-final-1-9d240ea1ef62",
+   "at": "2026-11-29T09:00:00.000Z",
+   "a": {
+    "name": "HMBLE",
+    "short": "HMB",
+    "logo": "https://api.citoapi.com/img/m/AQ7RcpNWVMtUDNOLTaIYuVb09CTvDPT6Y14yIqmMx7N2NacyH_PCdRVEWoelY2SqQX3eI_DpXnhFSL7BIRFbWD-O8hpRLqOjbrhOW5qaz05mCVHn2_IWo19cgPSld5r1ieLeLzxB.png"
+   },
+   "b": {
+    "name": "GONGJI",
+    "short": "gongji"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "Breeze of Glory 2026",
    "bestOf": 5
   },
   {
@@ -1948,24 +2021,6 @@
    "sb": null,
    "status": "upcoming",
    "event": "RIVALS LEAGUE Season 2 Playoffs",
-   "bestOf": 5
-  },
-  {
-   "id": "lol-off-breeze-of-glory-2026-grand-final-1-9d240ea1ef62",
-   "at": "2026-11-29T22:59:00.000Z",
-   "a": {
-    "name": "HMBLE",
-    "short": "HMB",
-    "logo": "https://api.citoapi.com/img/m/AQ7RcpNWVMtUDNOLTaIYuVb09CTvDPT6Y14yIqmMx7N2NacyH_PCdRVEWoelY2SqQX3eI_DpXnhFSL7BIRFbWD-O8hpRLqOjbrhOW5qaz05mCVHn2_IWo19cgPSld5r1ieLeLzxB.png"
-   },
-   "b": {
-    "name": "GONGJI",
-    "short": "gongji"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "Breeze of Glory 2026",
    "bestOf": 5
   },
   {
@@ -2022,6 +2077,74 @@
    "bestOf": 3
   },
   {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-1-1-97b0c09f4a32",
+   "at": "2026-11-30T15:00:00.000Z",
+   "a": {
+    "name": "Desqualificats",
+    "short": "desqualificats"
+   },
+   "b": {
+    "name": "Coi",
+    "short": "coi"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
+  },
+  {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-1-2-c17ed2bd4536",
+   "at": "2026-11-30T17:00:00.000Z",
+   "a": {
+    "name": "Sakura",
+    "short": "sakura"
+   },
+   "b": {
+    "name": "Quesazos",
+    "short": "quesazos"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
+  },
+  {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-1-3-d25a0c0204b5",
+   "at": "2026-11-30T19:00:00.000Z",
+   "a": {
+    "name": "Pilates &amp; Matcha",
+    "short": "pilates-amp-matcha"
+   },
+   "b": {
+    "name": "Los Chavalines",
+    "short": "los-chavalines"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
+  },
+  {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-1-4-d55243b51d52",
+   "at": "2026-11-30T21:00:00.000Z",
+   "a": {
+    "name": "El Reinado Del Terror",
+    "short": "el-reinado-del-terror"
+   },
+   "b": {
+    "name": "Los Xokeros",
+    "short": "los-xokeros"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
+  },
+  {
    "id": "lol-off-acl26fall-next-level-esports-vs-classic-esports-gold-2026-12-01-82a5faa6a486",
    "at": "2026-12-01T01:00:00.000Z",
    "a": {
@@ -2037,6 +2160,91 @@
    "status": "upcoming",
    "event": "ACL 2026 Fall",
    "bestOf": 3
+  },
+  {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-2-1-39181be97f1a",
+   "at": "2026-12-01T15:00:00.000Z",
+   "a": {
+    "name": "Desqualificats",
+    "short": "desqualificats"
+   },
+   "b": {
+    "name": "Pilates &amp; Matcha",
+    "short": "pilates-amp-matcha"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
+  },
+  {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-2-2-4ec706e782ca",
+   "at": "2026-12-01T17:00:00.000Z",
+   "a": {
+    "name": "Sakura",
+    "short": "sakura"
+   },
+   "b": {
+    "name": "El Reinado Del Terror",
+    "short": "el-reinado-del-terror"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
+  },
+  {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-2-3-d9775cc24d78",
+   "at": "2026-12-01T19:00:00.000Z",
+   "a": {
+    "name": "Los Chavalines",
+    "short": "los-chavalines"
+   },
+   "b": {
+    "name": "Quesazos",
+    "short": "quesazos"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
+  },
+  {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-2-4-f5e547147ee8",
+   "at": "2026-12-01T21:00:00.000Z",
+   "a": {
+    "name": "Coi",
+    "short": "coi"
+   },
+   "b": {
+    "name": "Los Xokeros",
+    "short": "los-xokeros"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
+  },
+  {
+   "id": "lol-off-elmiillor-invitational-cup-2026-group-stage-round-3-1-a91672364fe1",
+   "at": "2026-12-02T19:00:00.000Z",
+   "a": {
+    "name": "Coi",
+    "short": "coi"
+   },
+   "b": {
+    "name": "Los Chavalines",
+    "short": "los-chavalines"
+   },
+   "sa": null,
+   "sb": null,
+   "status": "upcoming",
+   "event": "ElmiilloR Invitational Cup 2026",
+   "bestOf": 2
   },
   {
    "id": "lol-off-2026-red-bull-league-of-its-own-showmatches-1-ebbf05eb189b",
