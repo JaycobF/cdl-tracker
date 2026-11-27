@@ -1,28 +1,9 @@
 {
  "id": "lol",
- "updated": "2026-11-26T21:34:30.119Z",
+ "updated": "2026-11-27T13:35:19.823Z",
  "upcomingFetched": "2026-11-26T21:34:30.119Z",
- "recentFetched": "2026-11-26T21:34:30.119Z",
+ "recentFetched": "2026-11-27T13:35:19.823Z",
  "matches": [
-  {
-   "id": "lol-match-115660540726095097",
-   "at": "2026-11-05T22:00:00.000Z",
-   "a": {
-    "name": "Dplus KIA",
-    "short": "DK",
-    "logo": "https://api.citoapi.com/img/m/AQL6UPnsf_7hTdDoilOFMhZZcL9i1s2-PCKYkkbxay3mC1mSmDor1AJ0d_Xnotw2U4kfK_tG_C8LHNMu138mO7XeQQDg0OAtCXqvuVlFvZ2Ei4hK3ROBr2vPPGlie5KuiA.png"
-   },
-   "b": {
-    "name": "BILIBILI GAMING",
-    "short": "BLG",
-    "logo": "https://api.citoapi.com/img/m/ATwYW4-u2h4kO8bivoeiB5tKIbd4DKJpg1Sxu5cZqKEVCHcIhg7E07ziTVHyun6f_NXf8-ad0iREfky-D7iqKngNaGDegXo2o5Wnp-1uEqMEFTs-Em-PNkvuTDpGnl78zHuHQl2JRB1F3k9LAw.png"
-   },
-   "sa": 0,
-   "sb": 3,
-   "status": "completed",
-   "event": "Worlds 2026",
-   "bestOf": 5
-  },
   {
    "id": "lol-match-115660540726095103",
    "at": "2026-11-06T22:00:00.000Z",
@@ -1874,9 +1855,9 @@
     "short": "ZENA",
     "logo": "https://api.citoapi.com/img/m/AQsrKKUt1ehNVTgrUJAASRzG5Az5pvVrMtoIeVQD8zllcYHoRvHVtPELLrJEkUdocaBlr1YTMBaIxmleOaU5uQFGTSaQMNvFwNtSZ0LzcxV1Vp_cM_i1drV1IDfJs3j2lnzE5aIdHWsilARMfo7BHF0YbWDZaKg.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 2,
+   "sb": 1,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
