@@ -1,8 +1,8 @@
 {
  "id": "lol",
- "updated": "2026-11-27T22:21:20.025Z",
+ "updated": "2026-11-28T13:01:22.728Z",
  "upcomingFetched": "2026-11-27T22:21:20.025Z",
- "recentFetched": "2026-11-27T22:21:20.025Z",
+ "recentFetched": "2026-11-28T13:01:22.728Z",
  "matches": [
   {
    "id": "lol-match-115660540726095127",
@@ -1890,9 +1890,9 @@
     "name": "Sawadika",
     "short": "sawadika"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 1,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },
@@ -1909,9 +1909,9 @@
     "short": "VLR",
     "logo": "https://api.citoapi.com/img/m/AeK-4P9Ovm3k8Zv7-G2QFlnmLUAIkS4OoMQaFG6DoFtCjLNe5Kk0K4L1GLy8zYklZabaO-BwXJxY4TKiDQnIvSEe8Edg_Dun35tK4R0AuAkFQ0__gafejMlDZ7tE2r0.png"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
    "event": "Legends Premier League Season 5",
    "bestOf": 3
   },

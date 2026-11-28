@@ -1,696 +1,9 @@
 {
  "id": "dota2",
- "updated": "2026-11-27T22:21:20.025Z",
+ "updated": "2026-11-28T13:01:22.728Z",
  "upcomingFetched": "2026-11-27T22:21:20.025Z",
- "recentFetched": "2026-11-27T22:21:20.025Z",
+ "recentFetched": "2026-11-28T13:01:22.728Z",
  "matches": [
-  {
-   "id": "dota-1a94b79006",
-   "at": "2026-11-22T11:29:00.000Z",
-   "a": {
-    "name": "Peacekeepers Team",
-    "short": "peacekeepers-team"
-   },
-   "b": {
-    "name": "Immortal Squad",
-    "short": "immortal-squad"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-0e40aa3018",
-   "at": "2026-11-22T11:39:00.000Z",
-   "a": {
-    "name": "Jebzhiki",
-    "short": "jebzhiki"
-   },
-   "b": {
-    "name": "Pes The Bullet",
-    "short": "pes-the-bullet"
-   },
-   "sa": 2,
-   "sb": 2,
-   "status": "completed",
-   "event": "Ultras Dota Pro League 2026-2027 Season 60",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-15ab927ff8",
-   "at": "2026-11-22T13:28:00.000Z",
-   "a": {
-    "name": "Azure Dragons",
-    "short": "azure-dragons"
-   },
-   "b": {
-    "name": "Hellspawn",
-    "short": "hellspawn"
-   },
-   "sa": 0,
-   "sb": 3,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "663842",
-   "at": "2026-11-22T14:00:00.000Z",
-   "a": {
-    "name": "PuckChamp",
-    "short": "PuckChamp",
-    "logo": "https://api.citoapi.com/img/m/AdH8Fa28RhAyO1KHP1c51kbDUuR2Hj2OWezcLoCe44DSIKtsWkGCnDGxOIRHBG0tYFjPvw7kLIUOR07dw6JC939-IXcHZrG6e--tbGPNHsEpcsftoMcuV3KefQPmxmqxHIhQCLaoN0FGw6OH9Zq44sfis6ZXzptoaHGvkIk62FrISA.png"
-   },
-   "b": {
-    "name": "Power Rangers",
-    "short": "PWR",
-    "logo": "https://api.citoapi.com/img/m/AdrA11wGedXsvHPHUAOEaYOAdZqyGrLkVgD2ZgdnpXv97-B_S20x-uOXLF7l9d73b-KymNcdhIbAfASLkDVCpqlog8t6VvofWs5B8ia-Oo1iiSNwHA7G_S1LR-_bAsKgChMtrqQzOx9SACwZJj3KK8iDZnmxsLfXJc5qzX6jZhsUjqk.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "European Pro League Season 41",
-   "bestOf": 3
-  },
-  {
-   "id": "661574",
-   "at": "2026-11-22T14:00:00.000Z",
-   "a": {
-    "name": "PARIVISION",
-    "short": "PARI",
-    "logo": "https://api.citoapi.com/img/m/AVZ3G1j2Aev2XywuZMSJUKDmLznTov0Zu0A_tdE7WMVDeJQPOqawlddYv5YmL23SbF0tfqPi_JCZXwZDSCarcJ4-FeD-9XgVqTnfHFhzMZ88CY3Aru0WgrCoVeS7rMh-mv5iXVzjUojnyrgR8VRm_cnz5O0fvkHMvV2f5DNpz1GLPEI.webp"
-   },
-   "b": {
-    "name": "Team Liquid",
-    "short": "Liquid",
-    "logo": "https://api.citoapi.com/img/m/AR9e-UG2dydcVCWdbh1IwmtbQ0YLlmryetRkRS0F0I92eNOvhE20f7MZglPehq4-P1jwOCAqrF9ZO8F9fL19y_Gels7YvISComS9A2T84GuanGJSkKbaF6W0j2GduajKcxCDEwArCw_5OsPYOguWOTmz8Z4OSji97cw2m4EOjyyHOlk.webp"
-   },
-   "sa": 2,
-   "sb": 1,
-   "status": "completed",
-   "event": "BLAST SLAM IX",
-   "bestOf": 3
-  },
-  {
-   "id": "661575",
-   "at": "2026-11-22T14:00:00.000Z",
-   "a": {
-    "name": "LEGION",
-    "short": "LEGION",
-    "logo": "https://api.citoapi.com/img/m/AfEnGzQRXx6Q7ZcpOfNvwlJ_yrEu74srEK7f7cwy2-G3voJsMdIaL0sZXHaR-pB-CzkhhZ2OBHmJPEy6gRCfiRTZNpi3e_Ax53gZY0lGJSICNL3KIlJ9cEJbjIDHzNS9KYOkPNw-PExbq712X4IzEgn1k98XyAi4YmzsPJcTsyuJzUY.webp"
-   },
-   "b": {
-    "name": "DO KONCA",
-    "short": "DO KONCA",
-    "logo": "https://api.citoapi.com/img/m/AayjOuUwt_gd3-XlsrW3Np85oFL_AZxQoHX79x8uV37PFlel0FHay1deyBe1bpp2eltkWJoVe_DYBC-rxl3oatEqVgw3BXVRHyPDW-JAq-rJRrjNaDn-zIfiFrfSaYOolvd5YJDlidezE44oMe_sZj85Ufw5QFgILQuF0oBGmRWn-zg.webp"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "BLAST SLAM IX",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-464a55735d",
-   "at": "2026-11-22T14:00:00.000Z",
-   "a": {
-    "name": "Air Defence",
-    "short": "air-defence"
-   },
-   "b": {
-    "name": "Nethercore",
-    "short": "nethercore"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Ultras Dota Pro League 2026-2027 Season 60",
-   "bestOf": 3
-  },
-  {
-   "id": "663826",
-   "at": "2026-11-22T16:00:00.000Z",
-   "a": {
-    "name": "Team Spirit Academy",
-    "short": " TS.Ac",
-    "logo": "https://api.citoapi.com/img/m/AYEiVS4Rt8iPlKv2ZrNTtxONjZ_IZ3lpwc9W7fxRNJswepmd7MO3lcYZaDjw296mBczCDagToJRTAd6ZDqYTJj3cvACuH_Pv_j1o9gL1WLQ-_RphzpG6xQG4xqtPthda4Hepb5rD_zhaD2dLeNjR8RhW0tqYkCSmEdlVcWFIVb7uajg.webp"
-   },
-   "b": {
-    "name": "Team Allied",
-    "short": "Allied",
-    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "European Pro League Season 41",
-   "bestOf": 1
-  },
-  {
-   "id": "dota-7c847bc358",
-   "at": "2026-11-22T16:00:00.000Z",
-   "a": {
-    "name": "Air Defence",
-    "short": "air-defence"
-   },
-   "b": {
-    "name": "Kirin",
-    "short": "kirin"
-   },
-   "sa": 1,
-   "sb": 1,
-   "status": "completed",
-   "event": "Ultras Dota Pro League 2026-2027 Season 60",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-c4e3de58fb",
-   "at": "2026-11-22T17:00:00.000Z",
-   "a": {
-    "name": "Project Achilles",
-    "short": "project-achilles"
-   },
-   "b": {
-    "name": "Prime Legion",
-    "short": ""
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "661579",
-   "at": "2026-11-22T18:00:00.000Z",
-   "a": {
-    "name": "Aurora Gaming",
-    "short": "AUR",
-    "logo": "https://api.citoapi.com/img/m/AeDP1zSodg_70QRZBSswZn-bzGuCVLd8TyKOwnNZFP6KaPZ-gRvOZPHjgxq2sCSDY1Em7xyKCcAe1-Ny0AFxo__IjO2xThBS1NwdMXo7J1K1P46zhUQfjyQsLnVTNcloBiOD2zmyKZStqn3iuSTVP3lxLrT0r66GI3Cm8ONwPH05e_I.webp"
-   },
-   "b": {
-    "name": "1W Team",
-    "short": "1Win",
-    "logo": "https://api.citoapi.com/img/m/AS0_9vc6F3vx6Gp1y0tRnS1Ew7AC5BjyTB4KW9JZlFbwpfX-MzATsm1E00fXCeJ0fWFHhE7baIMAkq2iu_BM_CGx63V2JoHQdVjexH0HHxb6psSeppG1OjtGSyCT0kBGqACZij1WILUyxhX06X3SqzL1r3mFvzhgRb8NMZwDhew3m_E.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "BLAST SLAM IX",
-   "bestOf": 3
-  },
-  {
-   "id": "661580",
-   "at": "2026-11-22T18:00:00.000Z",
-   "a": {
-    "name": "Astra Invicta",
-    "short": "AI",
-    "logo": "https://api.citoapi.com/img/m/Abivpl6-0CVF4ue73eW2kCL21my8fhDb-K-rdKOpSgWLhwkCtjjE_mI5DuHP8p6kNiB9Ssp1UEY9Xl3UeIUS8RlEpR8gHxQIc-naJRJIA12YI9pA1tBM_r0wT_QxHcAUINrSaH3oMrCnne-U1HV1CYb8UwZDMbS3r2pQgcjECxT7gEw.webp"
-   },
-   "b": {
-    "name": "LGD Gaming",
-    "short": "LGD",
-    "logo": "https://api.citoapi.com/img/m/Aap2dPA_mLOKcrxIIEo6Adhs2oTnqXJTy1ix_A7aYgtRqyGeRaf4gchR_CfNZTjtVJT_EZhBezk9navVfIRsA7TIRYYw0XBlP31YwWG-fnz56wiNt4_4H0TK3g7zC7ylAWajHc8dnP6m_8B0rXBectRDDR8IxCLRyY1lwmuG7SJs1U4.webp"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "BLAST SLAM IX",
-   "bestOf": 3
-  },
-  {
-   "id": "663835",
-   "at": "2026-11-22T19:00:00.000Z",
-   "a": {
-    "name": "Zero Tenacity",
-    "short": "Z10",
-    "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
-   },
-   "b": {
-    "name": "Inner Circle x Insanity",
-    "short": "INC",
-    "logo": "https://api.citoapi.com/img/m/AWc-8KFL8TclSa0qNcyhkJ3LaZdzdAzG7SD65Pyim_VfNuD3BJXbTYCGIKP-_NkHfNrl2dHUnbIErE7Uws4KJ0zU-EkhykhZuFcMyzvv8GGbC4uvw8UaUoeFHhSHVko8Vr2fvy3amfHPDFg1BE2xFQJbjoO88WccHNhS_556_OPgjKk.webp"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "completed",
-   "event": "European Pro League Season 41",
-   "bestOf": 1
-  },
-  {
-   "id": "dota-794ac762fc",
-   "at": "2026-11-22T19:00:00.000Z",
-   "a": {
-    "name": "CrimsonSky",
-    "short": "crimson-sky"
-   },
-   "b": {
-    "name": "FLYING FORTUNE",
-    "short": "flying-fortune"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "Dota 2 Space League 2026 Season 77",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-71836d4f33",
-   "at": "2026-11-22T19:00:00.000Z",
-   "a": {
-    "name": "Freedom Fighters Team",
-    "short": "freedom-fighters-team"
-   },
-   "b": {
-    "name": "Moonlight Wispers",
-    "short": ""
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-d0db90282e",
-   "at": "2026-11-22T22:00:00.000Z",
-   "a": {
-    "name": "Vertex Pack",
-    "short": "vertex-pack"
-   },
-   "b": {
-    "name": "Wild Dragon",
-    "short": ""
-   },
-   "sa": 2,
-   "sb": 2,
-   "status": "completed",
-   "event": "Dota 2 Space League 2026 Season 77",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-81247e5f84",
-   "at": "2026-11-22T22:00:00.000Z",
-   "a": {
-    "name": "Project Achilles",
-    "short": "project-achilles"
-   },
-   "b": {
-    "name": "Moonlight Wispers",
-    "short": ""
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-6a4d21cf08",
-   "at": "2026-11-23T00:00:00.000Z",
-   "a": {
-    "name": "Silent killer",
-    "short": "silent-killer"
-   },
-   "b": {
-    "name": "Real Eclipse",
-    "short": ""
-   },
-   "sa": 1,
-   "sb": 3,
-   "status": "completed",
-   "event": "Dota 2 Space League 2026 Season 77",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-9d8a61d6c4",
-   "at": "2026-11-23T01:00:00.000Z",
-   "a": {
-    "name": "Vitality Warriors",
-    "short": "vitality-warriors"
-   },
-   "b": {
-    "name": "FALL VICTIMS",
-    "short": ""
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "Dota 2 Space League 2026 Season 77",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-63ad65b2fe",
-   "at": "2026-11-23T04:00:00.000Z",
-   "a": {
-    "name": "Elite Eclipse",
-    "short": "elite-eclipse"
-   },
-   "b": {
-    "name": "Dominion",
-    "short": "dominion"
-   },
-   "sa": 2,
-   "sb": 0,
-   "status": "completed",
-   "event": "Ultras Dota Pro League 2026-2027 Season 60",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-4a3524d8e2",
-   "at": "2026-11-23T05:00:00.000Z",
-   "a": {
-    "name": "Wiser Warriors",
-    "short": "wiser-warriors"
-   },
-   "b": {
-    "name": "Lunar Vibes",
-    "short": "lunar-vibes"
-   },
-   "sa": 1,
-   "sb": 1,
-   "status": "completed",
-   "event": "Destiny League 2026 Season 56",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-4bb9e681bb",
-   "at": "2026-11-23T05:00:00.000Z",
-   "a": {
-    "name": "Immortal Squad",
-    "short": "immortal-squad"
-   },
-   "b": {
-    "name": "Stormriders",
-    "short": "stormriders"
-   },
-   "sa": 0,
-   "sb": 3,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-4804ec123b",
-   "at": "2026-11-23T05:00:00.000Z",
-   "a": {
-    "name": "Nova Pulse",
-    "short": "nova-pulse"
-   },
-   "b": {
-    "name": "The Last Titan",
-    "short": "the-last-titan"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Destiny League 2026 Season 56",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-52daf1267a",
-   "at": "2026-11-23T06:50:00.000Z",
-   "a": {
-    "name": "LV United",
-    "short": "lv-united"
-   },
-   "b": {
-    "name": "Riftwalkers",
-    "short": "riftwalkers"
-   },
-   "sa": 1,
-   "sb": 3,
-   "status": "completed",
-   "event": "Destiny League 2026 Season 56",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-b919f3ea5c",
-   "at": "2026-11-23T06:55:00.000Z",
-   "a": {
-    "name": "Dominion",
-    "short": "dominion"
-   },
-   "b": {
-    "name": "Eye Gaming",
-    "short": "eye-gaming"
-   },
-   "sa": 2,
-   "sb": 2,
-   "status": "completed",
-   "event": "Ultras Dota Pro League 2026-2027 Season 60",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-f4abdfde00",
-   "at": "2026-11-23T07:25:00.000Z",
-   "a": {
-    "name": "Peacekeepers Team",
-    "short": "peacekeepers-team"
-   },
-   "b": {
-    "name": "Dark Tamplars",
-    "short": "dark-tamplars"
-   },
-   "sa": 2,
-   "sb": 2,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-6723acbe29",
-   "at": "2026-11-23T08:14:00.000Z",
-   "a": {
-    "name": "Night Force",
-    "short": "night-force"
-   },
-   "b": {
-    "name": "Wild Bats",
-    "short": "wild-bats"
-   },
-   "sa": 2,
-   "sb": 2,
-   "status": "completed",
-   "event": "Destiny League 2026 Season 56",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-8ccfe414bc",
-   "at": "2026-11-23T09:56:00.000Z",
-   "a": {
-    "name": "Dark Rebellion",
-    "short": "dark-rebellion"
-   },
-   "b": {
-    "name": "LSG",
-    "short": "lsg"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Destiny League 2026 Season 56",
-   "bestOf": 3
-  },
-  {
-   "id": "663847",
-   "at": "2026-11-23T10:00:00.000Z",
-   "a": {
-    "name": "Interactive Philippines",
-    "short": "IAP",
-    "logo": "https://api.citoapi.com/img/m/ASWwi5oGGfUP1FVjlnhuJmn5nhyQioY0iy7V1yyWRxqXYabc_jIOQbSWDsKjghxqSWCyMjgetXhe3RcHliGvJExoPauUg2UXhLakgjrfS_dULA_BHQh69lEUc90hjpkcTXKrTzI2aiiT-VUJgzVdXFlhrePRfPsvMxWD_Z1emFCDR_8.webp"
-   },
-   "b": {
-    "name": "Team Synapse",
-    "short": "Synapse",
-    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "European Pro League Season 41",
-   "bestOf": 3
-  },
-  {
-   "id": "663797",
-   "at": "2026-11-23T10:00:00.000Z",
-   "a": {
-    "name": "Cloud of Hope",
-    "short": "CoH",
-    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
-   },
-   "b": {
-    "name": "Direborn Esports",
-    "short": "Direborn",
-    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "EPL World Series: Southeast Asia Season 20",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-53266538df",
-   "at": "2026-11-23T10:12:00.000Z",
-   "a": {
-    "name": "Cinqueblinks",
-    "short": "cinqueblinks"
-   },
-   "b": {
-    "name": "Kirin",
-    "short": "kirin"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Ultras Dota Pro League 2026-2027 Season 60",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-42acbf38e2",
-   "at": "2026-11-23T10:44:00.000Z",
-   "a": {
-    "name": "Immortal Squad",
-    "short": "immortal-squad"
-   },
-   "b": {
-    "name": "Dark Tamplars",
-    "short": "dark-tamplars"
-   },
-   "sa": 1,
-   "sb": 3,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-06b5f60f02",
-   "at": "2026-11-23T11:39:00.000Z",
-   "a": {
-    "name": "Lunar Vibes",
-    "short": "lunar-vibes"
-   },
-   "b": {
-    "name": "Nova Pulse",
-    "short": "nova-pulse"
-   },
-   "sa": 3,
-   "sb": 0,
-   "status": "completed",
-   "event": "Destiny League 2026 Season 56",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-d36c624082",
-   "at": "2026-11-23T12:03:00.000Z",
-   "a": {
-    "name": "Wiser Warriors",
-    "short": "wiser-warriors"
-   },
-   "b": {
-    "name": "Riftwalkers",
-    "short": "riftwalkers"
-   },
-   "sa": 2,
-   "sb": 2,
-   "status": "completed",
-   "event": "Destiny League 2026 Season 56",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-46e3e65a9a",
-   "at": "2026-11-23T12:28:00.000Z",
-   "a": {
-    "name": "Nethercore",
-    "short": "nethercore"
-   },
-   "b": {
-    "name": "Pes The Bullet",
-    "short": "pes-the-bullet"
-   },
-   "sa": 0,
-   "sb": 3,
-   "status": "completed",
-   "event": "Ultras Dota Pro League 2026-2027 Season 60",
-   "bestOf": 3
-  },
-  {
-   "id": "663852",
-   "at": "2026-11-23T13:15:00.000Z",
-   "a": {
-    "name": "potn9ki",
-    "short": "potn9ki",
-    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
-   },
-   "b": {
-    "name": "Team Synapse",
-    "short": "Synapse",
-    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "European Pro League Season 41",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-bb10a39096",
-   "at": "2026-11-23T13:38:00.000Z",
-   "a": {
-    "name": "Stormriders",
-    "short": "stormriders"
-   },
-   "b": {
-    "name": "Peacekeepers Team",
-    "short": "peacekeepers-team"
-   },
-   "sa": 1,
-   "sb": 2,
-   "status": "completed",
-   "event": "Mad Dogs League 2026 Season 51",
-   "bestOf": 3
-  },
-  {
-   "id": "661566",
-   "at": "2026-11-23T14:00:00.000Z",
-   "a": {
-    "name": "Natus Vincere",
-    "short": "Na`Vi",
-    "logo": "https://api.citoapi.com/img/m/AfGXqq40F7qH5iMsSqY_lehN1tb-7CZ2X6SFzi7Q65DMNZsamELqW5nQMabrkbismVezyVa0_l-s4n_U-aZ5bH_X5ZBtNGPEm0La0H1EoGfhQWsNHzGUhZpWIpIZtymcLb-bK9xqjOQ8kgVh_rqdxJnrUbyI0bPyhjFZP9cSswiDZg.png"
-   },
-   "b": {
-    "name": "OG",
-    "short": "OG",
-    "logo": "https://api.citoapi.com/img/m/AVyjjttvqvTYtMgL1PAMiyODakTVQEGsFf8QnklQCvCiIzXhop8Wci21wGGhdGEXikMg3Xnfv-I8ZpeBLs45BBqpaq1x6mck0f0BOCDkD1pce7guyG4XlZbLxp1O2zKx-cCPJGDTfXcDp9xaziJ5lKQcOxmz8bo69AASW7nYXY9Husw.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "BLAST SLAM IX",
-   "bestOf": 3
-  },
-  {
-   "id": "661571",
-   "at": "2026-11-23T14:00:00.000Z",
-   "a": {
-    "name": "Team Nemesis",
-    "short": "Nemesis",
-    "logo": "https://api.citoapi.com/img/m/Ad37kIpNFACeqlPiPktM7EbZBclvuxW-t3W6BWHbRyH4F-5Pskg5Uc4qyMM0t33ogjRcC-VOvXCBPCevVhtvpnuI7Kp5KmwsNSApnyHBdmyKaormnDb79BlTdT389HgxE-tJkSauYDx0yTTImbkoEUE6hiKxhrakCN3kzehGUhUY3Xk.webp"
-   },
-   "b": {
-    "name": "Xtreme Gaming",
-    "short": "XG",
-    "logo": "https://api.citoapi.com/img/m/ASdaB-jTyI9eHWc7rlASpsweGEJEsCf85fGXWqRnOdtcr5iKO2inwDep2qRtczih5iWv1jKMW0rUBthqigwnA7paWrDtLax8ehhz8tsU-KaS-j_S4Brg04n9jJNSDAIomGthmhk9vog0qrJR3U9EgdTeUI4sa0kIL0lgDpwDcj-drKE.webp"
-   },
-   "sa": 0,
-   "sb": 2,
-   "status": "completed",
-   "event": "BLAST SLAM IX",
-   "bestOf": 3
-  },
   {
    "id": "dota-aa6823f425",
    "at": "2026-11-23T14:00:00.000Z",
@@ -2561,129 +1874,6 @@
    "status": "completed",
    "event": "",
    "bestOf": 1
-  },
-  {
-   "id": "dota-0fc71ede53",
-   "at": "2026-11-25T08:28:00.000Z",
-   "a": {
-    "name": "Wild Bats",
-    "short": "wild-bats"
-   },
-   "b": {
-    "name": "Wiser Warriors",
-    "short": "wiser-warriors"
-   },
-   "sa": 1,
-   "sb": 1,
-   "status": "live",
-   "event": "Destiny League 2026 Season 56",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-162bbaa1ce",
-   "at": "2026-11-25T08:48:27.388Z",
-   "a": {
-    "name": "Azure Dragons",
-    "short": "azure-dragons"
-   },
-   "b": {
-    "name": "Stormriders",
-    "short": "stormriders"
-   },
-   "sa": 1,
-   "sb": 0,
-   "status": "live",
-   "event": "",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-f162ddbd54",
-   "at": "2026-11-25T09:00:00.000Z",
-   "a": {
-    "name": "Zero Tenacity",
-    "short": "Z10",
-    "logo": "https://api.citoapi.com/img/m/AbkFTgms0lmGxhaHkx3AYiUozstqnltPqGZTzEAKQyNfm-06LFFlv_KjIGwebaM9goihHWvtDp9r8KVPnoWYpXI7V0tR2XUM720C9x2wVh1bBCGcnd7YX9_MtiLd04ZHOwRrfQSbh59wjvRwU8rRcjFvc6i_C1q1eZ42wvhorCNS5oE.webp"
-   },
-   "b": {
-    "name": "Team Synapse",
-    "short": "Synapse",
-    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
-   },
-   "sa": 0,
-   "sb": 0,
-   "status": "live",
-   "event": "Esports Pro Circuit Season 4",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-13d6d2eb17",
-   "at": "2026-11-25T09:41:08.876Z",
-   "a": {
-    "name": "Team oshikurich",
-    "short": "team-oshikurich"
-   },
-   "b": {
-    "name": "Team Pedro Lopes",
-    "short": "team-pedro-lopes"
-   },
-   "sa": 0,
-   "sb": 0,
-   "status": "live",
-   "event": "",
-   "bestOf": 1
-  },
-  {
-   "id": "dota-0996893aa2",
-   "at": "2026-11-25T09:42:45.034Z",
-   "a": {
-    "name": "ОТВЕЧАЮ ЗА БАЗАР",
-    "short": "cito-07324f1a8f"
-   },
-   "b": {
-    "name": "Team.星跃次元",
-    "short": "team"
-   },
-   "sa": 0,
-   "sb": 0,
-   "status": "live",
-   "event": "",
-   "bestOf": 1
-  },
-  {
-   "id": "663861",
-   "at": "2026-11-25T10:00:00.000Z",
-   "a": {
-    "name": "Interactive Philippines",
-    "short": "IAP",
-    "logo": "https://api.citoapi.com/img/m/ASWwi5oGGfUP1FVjlnhuJmn5nhyQioY0iy7V1yyWRxqXYabc_jIOQbSWDsKjghxqSWCyMjgetXhe3RcHliGvJExoPauUg2UXhLakgjrfS_dULA_BHQh69lEUc90hjpkcTXKrTzI2aiiT-VUJgzVdXFlhrePRfPsvMxWD_Z1emFCDR_8.webp"
-   },
-   "b": {
-    "name": "Team Synapse",
-    "short": "Synapse",
-    "logo": "https://api.citoapi.com/img/m/ARDj5MVyykCf3U6wYSiTBae3Ek9lzVLe0bUQqKQ6wf69RcSTLgTKY0oWH-xeyzrIphHk6iAcjrczzrS9O-ADwDOsydAT3YMXfU0EcdACc73H8pqk0l15hu0oQzUBOIWWxYiR0dp4kNUmSa1j6CpMov1qmu5-8rYIguWUzcVugYDatY8.webp"
-   },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
-   "event": "European Pro League Season 41",
-   "bestOf": 3
-  },
-  {
-   "id": "dota-f5b8584746",
-   "at": "2026-11-25T10:10:00.000Z",
-   "a": {
-    "name": "Shinigami Gaming",
-    "short": "shinigami-gaming"
-   },
-   "b": {
-    "name": "Dominion",
-    "short": "dominion"
-   },
-   "sa": 0,
-   "sb": 0,
-   "status": "live",
-   "event": "Ultras Dota Pro League 2026-2027 Season 60",
-   "bestOf": 3
   },
   {
    "id": "dota-4586f3e2ff",
@@ -6818,8 +6008,352 @@
    "bestOf": 3
   },
   {
+   "id": "dota-6863f6e1bb",
+   "at": "2026-11-28T08:16:34.889Z",
+   "a": {
+    "name": "ТРОН ЗАСТРАХОВАН",
+    "short": "cito-4c5080d85c"
+   },
+   "b": {
+    "name": "Mega Creeps",
+    "short": "mega-creeps"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "completed",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-c76f995904",
+   "at": "2026-11-28T08:17:41.838Z",
+   "a": {
+    "name": "GPBots",
+    "short": "gpbots"
+   },
+   "b": {
+    "name": "Aura Farming",
+    "short": "aura-farming"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-6fcf9c0fa0",
+   "at": "2026-11-28T08:20:23.898Z",
+   "a": {
+    "name": "VK Esports",
+    "short": "vk-esports"
+   },
+   "b": {
+    "name": "T-Gadzhiev",
+    "short": "t-gadzhiev"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "664142",
+   "at": "2026-11-28T08:30:00.000Z",
+   "a": {
+    "name": "Direborn Esports",
+    "short": "Direborn",
+    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
+   },
+   "b": {
+    "name": "Ryvex Esports",
+    "short": "Ryvex",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": 3,
+   "sb": 1,
+   "status": "completed",
+   "event": "EPL World Series: Southeast Asia Season 20",
+   "bestOf": 5
+  },
+  {
+   "id": "dota-e75b3ab713",
+   "at": "2026-11-28T08:40:35.956Z",
+   "a": {
+    "name": "Immortal Legacy",
+    "short": "immortal-legacy"
+   },
+   "b": {
+    "name": "Glacial Dominion",
+    "short": "glacial-dominion"
+   },
+   "sa": 2,
+   "sb": 0,
+   "status": "completed",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-e9016d6668",
+   "at": "2026-11-28T08:55:38.038Z",
+   "a": {
+    "name": "Throne Breakers",
+    "short": "throne-breakers"
+   },
+   "b": {
+    "name": "Divine Verdict",
+    "short": "divine-verdict"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-1232433f9c",
+   "at": "2026-11-28T08:57:51.879Z",
+   "a": {
+    "name": "Team isa",
+    "short": "team-isa"
+   },
+   "b": {
+    "name": "Team zarich",
+    "short": "team-zarich"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-176700e229",
+   "at": "2026-11-28T09:00:00.000Z",
+   "a": {
+    "name": "Immortal Squad",
+    "short": "immortal-squad"
+   },
+   "b": {
+    "name": "Peacekeepers Team",
+    "short": "peacekeepers-team"
+   },
+   "sa": 0,
+   "sb": 2,
+   "status": "completed",
+   "event": "Mad Dogs League 2026 Season 51",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-e0d073bae6",
+   "at": "2026-11-28T09:59:25.502Z",
+   "a": {
+    "name": "Team Pedro Lopes",
+    "short": "team-pedro-lopes"
+   },
+   "b": {
+    "name": "Team gamer",
+    "short": "team-gamer"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-a37bf6234f",
+   "at": "2026-11-28T09:59:46.071Z",
+   "a": {
+    "name": "gOld Defenders",
+    "short": "gold-defenders"
+   },
+   "b": {
+    "name": "Don`T Write",
+    "short": "don-t-write"
+   },
+   "sa": 1,
+   "sb": 1,
+   "status": "live",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-67639b22e1",
+   "at": "2026-11-28T10:00:00.000Z",
+   "a": {
+    "name": "Air Defence",
+    "short": "air-defence"
+   },
+   "b": {
+    "name": "Kirin",
+    "short": "kirin"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "live",
+   "event": "Ultras Dota Pro League 2026-2027 Season 60",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-7a368dc1f5",
+   "at": "2026-11-28T10:07:39.872Z",
+   "a": {
+    "name": "Убийцы Династий",
+    "short": "cito-21654b5b3c"
+   },
+   "b": {
+    "name": "VeniVidiVici",
+    "short": "venividivici"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-67a2c9f3fb",
+   "at": "2026-11-28T10:08:08.697Z",
+   "a": {
+    "name": "Убийцы Династий",
+    "short": "cito-21654b5b3c"
+   },
+   "b": {
+    "name": "FinalBoss",
+    "short": "finalboss"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-7e7a2bb9ed",
+   "at": "2026-11-28T10:39:53.164Z",
+   "a": {
+    "name": "3大吸",
+    "short": "3大吸",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Team.星跃次元",
+    "short": "team"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-b19d4545ba",
+   "at": "2026-11-28T10:43:23.305Z",
+   "a": {
+    "name": "3大吸",
+    "short": "3大吸",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Paseka",
+    "short": "paseka"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-7a10733bcd",
+   "at": "2026-11-28T11:00:00.000Z",
+   "a": {
+    "name": "Dark Tamplars",
+    "short": "dark-tamplars"
+   },
+   "b": {
+    "name": "Stormriders",
+    "short": "stormriders"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "live",
+   "event": "Mad Dogs League 2026 Season 51",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-356acb901f",
+   "at": "2026-11-28T11:10:47.017Z",
+   "a": {
+    "name": "VeniVidiVici",
+    "short": "venividivici"
+   },
+   "b": {
+    "name": "Чевапchepчи",
+    "short": "chep"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-31307b640a",
+   "at": "2026-11-28T11:13:35.895Z",
+   "a": {
+    "name": "Team Clackson",
+    "short": "team-clackson"
+   },
+   "b": {
+    "name": "Team waste",
+    "short": "team-waste"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "completed",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-99b7b7bf89",
+   "at": "2026-11-28T11:14:45.835Z",
+   "a": {
+    "name": "CB9I3b",
+    "short": "cb9i3b"
+   },
+   "b": {
+    "name": "Убийцы Династий",
+    "short": "cito-21654b5b3c"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-59541cf467",
+   "at": "2026-11-28T11:19:29.467Z",
+   "a": {
+    "name": "AuraFarmers",
+    "short": "aurafarmers"
+   },
+   "b": {
+    "name": "FinalBoss",
+    "short": "finalboss"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "completed",
+   "event": "",
+   "bestOf": 1
+  },
+  {
    "id": "661590",
-   "at": "2026-11-28T11:30:00.000Z",
+   "at": "2026-11-28T11:20:00.000Z",
    "a": {
     "name": "Team Yandex",
     "short": "TY",
@@ -6830,10 +6364,456 @@
     "short": "Liquid",
     "logo": "https://api.citoapi.com/img/m/AR9e-UG2dydcVCWdbh1IwmtbQ0YLlmryetRkRS0F0I92eNOvhE20f7MZglPehq4-P1jwOCAqrF9ZO8F9fL19y_Gels7YvISComS9A2T84GuanGJSkKbaF6W0j2GduajKcxCDEwArCw_5OsPYOguWOTmz8Z4OSji97cw2m4EOjyyHOlk.webp"
    },
-   "sa": null,
-   "sb": null,
-   "status": "upcoming",
+   "sa": 0,
+   "sb": 1,
+   "status": "live",
    "event": "BLAST SLAM IX",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-c97e9fdaaf",
+   "at": "2026-11-28T11:21:43.859Z",
+   "a": {
+    "name": "ДИНАСТИЯ",
+    "short": "cito-325810b656"
+   },
+   "b": {
+    "name": "дотянуться до zvёzd",
+    "short": "zv-zd"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-c8f0d37de7",
+   "at": "2026-11-28T11:31:10.767Z",
+   "a": {
+    "name": "Салаватстекло",
+    "short": "cito-695ed7bd1f"
+   },
+   "b": {
+    "name": "QLab",
+    "short": "qlab"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-82ffadc9d7",
+   "at": "2026-11-28T11:33:07.779Z",
+   "a": {
+    "name": "QLab",
+    "short": "qlab"
+   },
+   "b": {
+    "name": "DCP",
+    "short": "dcp"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-da9008bb6f",
+   "at": "2026-11-28T11:33:57.092Z",
+   "a": {
+    "name": "solid",
+    "short": "solid"
+   },
+   "b": {
+    "name": "CHAIGN",
+    "short": "chaign"
+   },
+   "sa": 0,
+   "sb": 1,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-ef64c7cdf9",
+   "at": "2026-11-28T11:43:04.049Z",
+   "a": {
+    "name": "SBER MOSCOW BANK",
+    "short": "sber-moscow-bank"
+   },
+   "b": {
+    "name": "DotaWatch",
+    "short": "dotawatch"
+   },
+   "sa": 1,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-9b7c399d30",
+   "at": "2026-11-28T11:43:04.049Z",
+   "a": {
+    "name": "Mindbots",
+    "short": "mindbots"
+   },
+   "b": {
+    "name": "Поволжский банк",
+    "short": "cito-80945a5b08"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-b6bef0b109",
+   "at": "2026-11-28T11:47:01.952Z",
+   "a": {
+    "name": "НПО ПКРВ",
+    "short": "cito-9ba517ed20"
+   },
+   "b": {
+    "name": "MEXZAVOD",
+    "short": "mexzavod"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-928d7c3f27",
+   "at": "2026-11-28T11:56:46.235Z",
+   "a": {
+    "name": "WINLINE",
+    "short": "winline"
+   },
+   "b": {
+    "name": "Могаем деньгами",
+    "short": "cito-4f10979063"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-bc1b3c309e",
+   "at": "2026-11-28T12:00:00.000Z",
+   "a": {
+    "name": "old blood",
+    "short": "old blood",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Ryvex Esports",
+    "short": "Ryvex",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "Esports Pro Circuit Season 4",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-9ffa55834d",
+   "at": "2026-11-28T12:06:14.833Z",
+   "a": {
+    "name": "BC-dota2",
+    "short": "bc-dota2"
+   },
+   "b": {
+    "name": "米卫兵",
+    "short": "cito-43c0320635"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-c98afd9f83",
+   "at": "2026-11-28T12:06:26.944Z",
+   "a": {
+    "name": "Another Ray",
+    "short": "another-ray"
+   },
+   "b": {
+    "name": "你说的一点都队",
+    "short": "cito-5532954bae"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-a2bd0192e1",
+   "at": "2026-11-28T12:10:45.651Z",
+   "a": {
+    "name": "Sky Savior",
+    "short": "sky-savior"
+   },
+   "b": {
+    "name": "老登队",
+    "short": "cito-bc45d5fa53"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-75925b10fd",
+   "at": "2026-11-28T12:15:07.030Z",
+   "a": {
+    "name": "ZAVAZISUKA",
+    "short": "zavazisuka"
+   },
+   "b": {
+    "name": "ROHAN",
+    "short": "rohan"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 5
+  },
+  {
+   "id": "dota-34de3b1ecc",
+   "at": "2026-11-28T12:16:57.135Z",
+   "a": {
+    "name": "LUNAR SYNDICATE",
+    "short": "lunar-syndicate"
+   },
+   "b": {
+    "name": "Raven Court",
+    "short": "raven-court"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-56b51d36f2",
+   "at": "2026-11-28T12:17:13.465Z",
+   "a": {
+    "name": "恐子",
+    "short": "cito-e02ac0eea2"
+   },
+   "b": {
+    "name": "Grand debut",
+    "short": "grand-debut"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-af82c48dfd",
+   "at": "2026-11-28T12:25:36.549Z",
+   "a": {
+    "name": "дотянуться до zvёzd",
+    "short": "zv-zd"
+   },
+   "b": {
+    "name": "CB9I3b",
+    "short": "cb9i3b"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-c75d35933e",
+   "at": "2026-11-28T12:27:46.714Z",
+   "a": {
+    "name": "Team mrtq",
+    "short": "team-mrtq"
+   },
+   "b": {
+    "name": "Team chuchulovely",
+    "short": "team-chuchulovely"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-e195c256c9",
+   "at": "2026-11-28T12:30:05.114Z",
+   "a": {
+    "name": "Ryvex Esports",
+    "short": "Ryvex",
+    "logo": "https://api.citoapi.com/img/m/AQRLnx41aLo5znWwx8Em_Owl5yr9zrrB3q_o01INwK32-BbREwMG3MO2yaeoVavz15VqgzxJTDhaen81fY86kVV9oFQ_pEBSiqcscW9-UQ.webp"
+   },
+   "b": {
+    "name": "Direborn Esports",
+    "short": "Direborn",
+    "logo": "https://api.citoapi.com/img/m/AWavUM2BNbAZxWPHfKbZM6y8_pV8Sa2hns7jSHsq_8M0eWrFKWIy0lOWomNWEd6CWUSXbyDJeGTDO3NcLdLlLNsILMyQGiQMiJ50qb5TgjGymQj4L-X3wHGhxktyHvr2oZRrBpmAP-47pl15gLoc2enCESw6ZN14JPl7QUucnQUXXrQ.webp"
+   },
+   "sa": 1,
+   "sb": 3,
+   "status": "completed",
+   "event": "",
+   "bestOf": 5
+  },
+  {
+   "id": "dota-1b966bb4d8",
+   "at": "2026-11-28T12:33:26.115Z",
+   "a": {
+    "name": "T-Gadzhiev",
+    "short": "t-gadzhiev"
+   },
+   "b": {
+    "name": "КИБЕРСКУФЫ",
+    "short": "cito-e4819859f7"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 3
+  },
+  {
+   "id": "dota-bb4372a810",
+   "at": "2026-11-28T12:39:53.284Z",
+   "a": {
+    "name": "复仇者小队",
+    "short": "cito-1ebe1a73a8"
+   },
+   "b": {
+    "name": "NOVA LEGION",
+    "short": "nova-legion"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-10b9a7ef32",
+   "at": "2026-11-28T12:40:09.895Z",
+   "a": {
+    "name": "ДИНАСТИЯ",
+    "short": "cito-325810b656"
+   },
+   "b": {
+    "name": "Чевапchepчи",
+    "short": "chep"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-f010cb31db",
+   "at": "2026-11-28T12:42:50.407Z",
+   "a": {
+    "name": "MEXZAVOD",
+    "short": "mexzavod"
+   },
+   "b": {
+    "name": "Dexterity",
+    "short": "dexterity"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-5254568416",
+   "at": "2026-11-28T12:44:11.487Z",
+   "a": {
+    "name": "angelbastards",
+    "short": "angelbastards"
+   },
+   "b": {
+    "name": "LOVE",
+    "short": "love"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-f07072b2dd",
+   "at": "2026-11-28T12:45:48.350Z",
+   "a": {
+    "name": "TF·Boys",
+    "short": "tf-boys"
+   },
+   "b": {
+    "name": "GWZ.DDCAT",
+    "short": "gwz-ddcat"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-407722d471",
+   "at": "2026-11-28T12:46:33.735Z",
+   "a": {
+    "name": "AuraFarmers",
+    "short": "aurafarmers"
+   },
+   "b": {
+    "name": "VeniVidiVici",
+    "short": "venividivici"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
+   "bestOf": 1
+  },
+  {
+   "id": "dota-fede4d40ea",
+   "at": "2026-11-28T12:53:21.474Z",
+   "a": {
+    "name": "Barrel Rota",
+    "short": "barrel-rota"
+   },
+   "b": {
+    "name": "P♥L",
+    "short": "p-l"
+   },
+   "sa": 0,
+   "sb": 0,
+   "status": "live",
+   "event": "",
    "bestOf": 3
   },
   {
